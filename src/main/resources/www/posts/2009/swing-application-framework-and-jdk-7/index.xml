@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>654</ID>
+		<Slug>swing-application-framework-and-jdk-7</Slug>
+		<Title>Swing Application Framework and JDK 7</Title>
+		<Date>2009-12-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>I was just prompted by a reader of this website regarding the state of the Swing Application Framework, which up to now has been delayed and thought to be <a href="http://weblogs.java.net/blog/archive/2009/08/19/saf-and-jdk7">unlikely for inclusion in JDK 7</a>. However, now that JDK 7 has been delayed until September (or so) 2010, perhaps there is time to get SAF, or <a href="http://weblogs.java.net/blog/alexfromsun/archive/2009/11/16/other-swing-frameworks">one of the forks</a>, further implemented and pushed into the actual JDK 7 release.</p>
+
+<p>What do you think? Please leave a comment.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>486</ID>
+		<Slug>java-desktop-links-of-the-week-july-6</Slug>
+		<Title>Java desktop links of the week, July 6</Title>
+		<Date>2009-07-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Well, I'm glad I got around to learning JavaFX as the quantity of news is hugely sliding towards JavaFX these days. This week is no different. Despite this, if you have any Java desktop related news, please feel free to email me. Lots of people do, and it makes my life a little easier :-) You can find my email to the right on every page. Here we go again - enjoy.</p>
+<h4>General</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has been <a href="http://www.pushing-pixels.org/?p=1326">playing with augmented reality more this week</a>. He has a tutorial showing how he achieved what he demoed last week.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Ken Orr</strong> lets everyone know that a co-worker of his, <strong>Jared MacDonald</strong>, spoke at JavaOne on building bullet proof user interfaces using test-driven development. <a href="http://explodingpixels.wordpress.com/2009/06/29/bullet-proof-user-interfaces-slides/">The slides (in pdf form) are available for download</a>.</li>
+	<li><strong>Mariusz Trzaska</strong> emailed me to let me know of a project he has been working on called gcl-dsl, which stands for 'GUI Creating Language Domain Specific Language'. As suggested, <a href="http://code.google.com/p/gcl-dsl/">it is designed to make it easier to build user interfaces in Swing</a>.</li>
+	<li><strong>Alexander Potochkin</strong> (from the Swing Team at Sun) emailed me to let me know of <a href="http://collectionspy.com/">CollectionSpy</a>, which is a commercial application designed to profile Java applications which make use of collections. It is also written in Swing. An observation I'd like to make is that developers who write profiling software are very good at making good looking applications. Look at software such as JProfiler and YourKit.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Steven Herod</strong> lets everyone know that <span style="text-decoration: line-through;">using animated GIFs in JavaFX is not supported yet</span> <a href="http://blogs.herod.net/javafx/2009/06/animated-gifs-in-javafx-a-word-of-warning/">JavaFX provides no way to detect if an image is an animated GIF, or to control said GIF (for instance, to stop the animation)</a>. He also notes that rendering is somewhat inefficient. Hopefully this will be resolved soon.</li>
+	<li><strong>Carl Dea</strong> continues his blog posts on JavaFX, this week he has three posts. Firstly he anwers the question as to <a href="http://carlfx.wordpress.com/2009/06/29/does-javafx-have-multiple-inheritance/">whether JavaFX has multiple inheritance</a>, then discusses the <a href="http://carlfx.wordpress.com/2009/07/01/javafx-strings-vs-java-strings/">difference between Java and JavaFX Strings</a>, and finally starts a two-part series on <a href="http://carlfx.wordpress.com/2009/07/05/javafx-to-javascript-and-back-part-1/">enabling communications between JavaFX and JavaScript</a>.</li>
+	<li><strong>Stephen Chin</strong> announced the <a href="http://steveonjava.com/2009/06/30/widgetfx-1-2-release-announcement/">final release of WidgetFX 1.2</a>. Don't forget to <a href="http://widgetfx.org/portal/contest">enter the WidgetFX contest</a> which has a years worth of ebooks available as the first prize.</li>
+	<li>For everyone wanting to embed JavaFX into a Swing application, your best bet right now is to use the JFXtras library. <strong>Henry Zhang</strong> has a post <a href="http://www.javafxgame.com/javafx-scene-swing-java/">showing you how to achieve this</a>. Note that the way that this is achieved is not guaranteed to always work, and so take caution if you're staking your business on this!</li>
+	<li>Speaking of JFXtras, <strong>Stephen Chin</strong> has developed a <a href="http://jfxstudio.wordpress.com/2009/07/05/jfxtras-shelf-control/">'Shelf control' (i.e. iTunes coverflow), which is now part of JFXtras</a>. You can even <a href="http://blip.tv/file/get/Steveonjava-JFXtrasShelfControl157.flv">watch a video which Stephen created to understand more about how the shelf control looks and feels</a>.</li>
+	<li><strong>David Walend</strong> has a post on <a href="http://weblogs.java.net/blog/dwalend/archive/2009/07/event_based_pro.html">event based programming in JavaFX</a>, and he has a sample mindsweeper-style game to use as a demo. Essentially, he demonstrates a client/server model for creating applications in JavaFX.</li>
+	<li>The <strong>JavaFX blog</strong> has a post showing <a href="http://blogs.sun.com/javafx/entry/quick_and_easy_video_player">how to create a simple media player in JavaFX</a>.</li>
+	<li><strong>Rakesh Menon</strong> has a post on the <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_clipview">ClipView layout container, which makes it possible to have scrollable views over a larger node</a>. For Swing developers, think JScrollPane (at least I do - I might be wrong about this).</li>
+	<li>An article has just been put up on the <strong>Sun Developer Network</strong> site titled '<a href="http://java.sun.com/developer/technicalArticles/javafx/mobilefx-me/">Developing Content with JavaFX Mobile, Java ME, and the Messaging API (JSR 205) - Background</a>'.</li>
+	<li><strong>Piliq.com</strong> posts their <a href="http://piliq.com/javafx/?p=1075">thoughts on developing JavaFX in Eclipse</a>. In summary (and it's my thoughts as well): it's good and shows great promise, but it needs a little more time in the oven. I'm personally very much looking forward to being able to return to Eclipse as it just feels so much more homely to me. Each to their own, and all that.</li>
+	<li><span><strong>Naoto Sato</strong> has a blog post discussing <a href="http://blogs.sun.com/naotoj/entry/javafx_1_2_and_input">text input in JavaFX 1.2</a>.</span></li>
+	<li><span><strong>Raghu Nair</strong> has a post discussing <a href="http://blogs.sun.com/raghunair/entry/whats_new_in_javafx1_2">what's new in JavaFX 1.2 for web services</a>.
+</span></li>
+	<li><strong>Johan Vos</strong> blogs about how he <a href="http://blogs.lodgon.com/johan/JavaFX_12_asynchronous_chat_client">ported an asynchronous chat client developed using JavaFX 1.1 to use JavaFX 1.2</a>.</li>
+	<li><strong>Vaibhav</strong> blogs about how he <a href="http://blogs.sun.com/vaibhav/entry/small_code_for_piechart_but">created his own pie chart component for JavaFX</a> without using the new charting APIs in JavaFX 1.2.</li>
+	<li><strong>TaranFX</strong> posts a <a href="http://www.taranfx.com/blog/?p=1173">long review of JavaFX</a>, with a particular emphasis on performance.</li>
+</ul>
+<h4>Pivot</h4>
+<ul>
+	<li><strong>Greg Brown</strong> has a post discussing <a href="http://java.dzone.com/announcements/what-new-pivot">what is new with Apache Pivot</a>, a GUI framework for Java.</li>
+</ul>
+<p>That's another week down. Have a great week everyone!</p>
+]]></Content>
+	</post>

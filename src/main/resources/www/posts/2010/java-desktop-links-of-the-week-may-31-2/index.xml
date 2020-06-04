@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>823</ID>
+		<Slug>java-desktop-links-of-the-week-may-31-2</Slug>
+		<Title>Java desktop links of the week, May 31</Title>
+		<Date>2010-05-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week, and unsurprisingly I have another bunch of links for you folks. Thanks to everyone for blogging your thoughts and what you're working on - it's great to hear what everyone is thinking of and doing. As always, feel free to ping me with any links you may have that you think are worth including.</p>
+
+<p>Now - on with the news!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has put up a <a href="http://www.pushing-pixels.org/?p=1914">new dev release of Flamingo 5.0</a>. This release is a relatively minor release, but important as it contains a lot of refactoring. Kirill would love it if you could download this and test it against your software to catch any showstoppers.</li>
+	<li>Speaking of Flamingo 5.0, <strong>Kirill</strong> has also created a <a href="http://www.pushing-pixels.org/?p=1910">color selector component</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> posted <a href="http://fxexperience.com/2010/05/how-to-embed-fonts/">how to embed fonts in JavaFX 1.3</a>. <span style="text-decoration: line-through;">Now go wild and use as many fonts as you possibly can in a single scene: the more, the better</span>!</li>
+	<li><strong>Amy Fowler</strong> has posted another of her JavaFX layout blogs, this time covering <a href="http://amyfowlersblog.wordpress.com/2010/05/26/javafx-1-3-growing-shrinking-and-filling/">growing, shrinking and filling</a> - new API added in JavaFX 1.3.</li>
+	<li><strong>Dean Iverson</strong> continues his <a href="http://pleasingsoftware.blogspot.com/2010/05/into-background.html">explorations into the improved CSS support in JavaFX 1.3</a>. As always, I highly recommend giving this post a read if you're building GUI's in JavaFX......and if you're not building GUI's in JavaFX I worry for you :-)</li>
+	<li>Speaking of CSS in JavaFX 1.3, <strong>Rakesh Meno</strong>n has blogged about <a href="http://rakeshmenonp.wordpress.com/2010/05/28/javafx1-3-power-of-css/">how to style ListView/TreeView controls</a>.</li>
+	<li><strong>Osvaldo Doederlein</strong> has been <a href="http://weblogs.java.net/blog/opinali/archive/2010/05/25/javafx-language-investigations">investigating the JavaFX Script language</a> and has some suggestions for improving it.</li>
+	<li><strong>Mikhail Gorshenev</strong> has created a <a href="http://blogs.sun.com/mgorshenev/entry/custom_listview_skin_for_javafx">custom ListView skin for TV</a>. Note that this skin completely replaces the default skin, meaning that it doesn't support cell factories or virtualisation (meaning that it is far more expensive to create huge lists using this skin rather than the one that comes with JavaFX 1.3, which is super performant).</li>
+	<li><strong>Exadel</strong> have updated <a href="http://mkblog.exadel.com/ria/javafx-ria/exadel-javafx-plug-in-for-eclipse-version-1-3-1/">version 1.3.1 of the JavaFX Plug-in for Eclipse</a>. If you're curious, you can read about <a href="http://exadel.org/javafxplugin-releasenotes">what's new in this release</a>.</li>
+	<li><strong>Patrick Champion</strong> has posted about <a href="http://paddyweblog.blogspot.com/2010/05/distortion-effect.html">creating a distortion effect in JavaFX</a>.</li>
+	<li><strong>Thomas Butter</strong> has posted about <a href="http://thomasbutter.wordpress.com/2010/05/27/working-around-javafx-1-3-video-issues/">working around JavaFX 1.3 video issues</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has blogged about <a href="http://www.jroller.com/aalmiray/entry/griffon_threading_management">threading managementin Griffon</a>.</li>
+	<li><strong>Andres</strong> has posted a bunch of new Griffon plugins, including: <a href="http://docs.codehaus.org/display/GRIFFON/Codenarc+Plugin">Codenarc</a>, <a href="http://docs.codehaus.org/display/GRIFFON/Gmetrics+Plugin">Gmetrics</a>, <a href="http://docs.codehaus.org/display/GRIFFON/Effects+Plugin">Effects</a>, <a href="http://docs.codehaus.org/display/GRIFFON/Findbugs+Plugin">Findbugs</a><a href="http://www.dzone.com/links/r/griffon_validation_plugin_v03_released.html"></a> and <a href="http://docs.codehaus.org/display/GRIFFON/EclipseSupport+Plugin">EclipseSupport</a>.</li>
+	<li><strong>Nick Zhu</strong> has updated the <a href="http://www.dzone.com/links/r/griffon_validation_plugin_v03_released.html">Griffon Validation plugin to version 0.3</a>.</li>
+</ul>
+<p>That's all for another week. Keep up the great work everyone - I'll catch you all again next week (or sooner if you're on <a href="http://www.twitter.com/JonathanGiles">twitter</a>) - same bat time, same bat channel.</p>
+]]></Content>
+	</post>

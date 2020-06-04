@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1847</ID>
+		<Slug>java-desktop-links-of-the-week-december-15</Slug>
+		<Title>Java desktop links of the week, December 15</Title>
+		<Date>2014-12-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx</Tags>
+		<Content><![CDATA[<p>10 days until Christmas - that's crazy - where has the time gone?! Seriously! I don't even know if I'll get the Christmas tree up in time this year!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Johan Vos</strong> has posted part one of a series of YouTube videos detailing <a href="https://www.youtube.com/watch?v=SrLtjJCRzHk">JavaFX Android support</a>.</li>
+	<li>Speaking of Android, <strong>?ukasz ?liwi?ski</strong> has&nbsp; posted about <a href="http://plumblog.herokuapp.com/2014/12/10/JavaFX-button-with-ripple-effect/">creating an Android 5 ripple effect in JavaFX</a>. It looks pretty neat.</li>
+	<li><strong>Gerrit Grunwald</strong> has done another Friday Fun Component, this time a <a href="http://harmoniccode.blogspot.co.nz/2014/12/friday-fun-component-xxii_12.html">simple clock</a> (for use on an e-ink screen). Again, it looks neat - nice and simple :-)</li>
+	<li><strong>Rob Terpilowski</strong> has <a href="http://rterp.wordpress.com/2014/12/08/stockchartsfx-is-now-open-source/">open sourced StockChartsFX</a> - a candle stick chart for JavaFX.</li>
+	<li><strong>Matthieu Brouillard</strong> has announced that <a href="http://blog.matthieu.brouillard.fr/2014/12/10/cssfx-branch-merged/">CSSFX has been merged into Scenic View master branch</a>.</li>
+	<li><strong>Dirk Lemmermann</strong> has <a href="http://flexganttfx.com/release_notes.html">released version 1.2.0</a> of his (commercial) FlexGanttFX library. There are a huge number of bug fixes and improvements in this release.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li>Griffon 2.1.0 has <a href="http://new.griffon-framework.org/news/griffon_2.1.0.html">been released</a>, with a bunch of improvements and some binary incompatibilities - so read the announcement! :-)</li>
+</ul>
+<p>Catch you all next week! :-)</p>
+]]></Content>
+	</post>

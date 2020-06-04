@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2207</ID>
+		<Slug>java-desktop-links-of-the-week-november-14-2</Slug>
+		<Title>Java desktop links of the week, November 14</Title>
+		<Date>2016-11-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Christoph Nahr</strong> has blogged about <a href="http://news.kynosarges.org/2016/11/03/javafx-pane-clipping/">JavaFX pane clipping</a>, which is a very useful read for anyone wanting to put content inside a pane and clip it properly - with or without borders. This content was also added to my <a href="https://github.com/FXDocs/docs">FXDocs project</a> (for slowly building up a JavaFX 'book').</li>
+ 	<li><strong>Samir Hadzic</strong> has blogged about the <a href="https://blog.samirhadzic.com/2016/11/08/new-zoom-feature-for-the-spreadsheetview/">new zoom feature</a> he has added to the SpreadsheetView control, as part of ControlsFX.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has created a <a href="http://harmoniccode.blogspot.co.nz/2016/11/medusa-designclock-skin.html">cool clock skin</a> for his Medusa project.</li>
+ 	<li>A <a href="https://github.com/JFormDesigner/markdown-writer-fx">Markdown Writer FX</a> project has been created to write markdown using JavaFX. This is a nice project, and it is nice to see editors exist for both markdown and asciidoc, both written in JavaFX.</li>
+ 	<li>I interviewed two teams of students from Massey University on their use of <a href="http://www.gluonhq.com/products/mobile">Gluon Mobile</a> in their team projects. The <a href="http://gluonhq.com/gluon-school-interview-students-massey-university/">first team interview has now been published</a>.</li>
+ 	<li><strong>Thomas Nield</strong> has <a href="https://github.com/ReactiveX/RxJavaFX/releases/tag/0.3.0">released RxJavaFX 0.3.0</a>, with a number of improvements.</li>
+ 	<li><strong>Manuel Mauky</strong> is working on the <a href="https://github.com/lestard/advanced-bindings">advanced bindings</a> project for JavaFX.</li>
+ 	<li><strong>Markus Falkhausen</strong> is working on creating <a href="http://www.falkhausen.de/JavaFX/index.html">class diagrams for JavaFX</a>.</li>
+</ul>
+]]></Content>
+	</post>

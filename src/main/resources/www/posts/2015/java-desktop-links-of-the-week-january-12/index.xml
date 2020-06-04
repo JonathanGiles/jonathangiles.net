@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1851</ID>
+		<Slug>java-desktop-links-of-the-week-january-12</Slug>
+		<Title>Java desktop links of the week, January 12</Title>
+		<Date>2015-01-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all, it's been a long time since my last post - I was on vacation, and upon returning from vacation was buried under too much work to get around to the links posts. Now that things have settled down, let's get back into the weekly links roundups for another year. I should note that given my vacationing, I may have missed your links. If this is the case, please <a href="mailto:jonathan@jonathangiles.net">email me</a> and I'll be sure to include them next week. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jens Deters</strong> has been very busy since my last post. Here are the things he has blogged about: the <a href="http://www.jensd.de/wordpress/?p=1755">release of MQTT.fx 0.0.12</a>, the release of <a href="http://www.jensd.de/wordpress/?p=1763">ShichimiFX 1.0.3</a> and <a href="http://www.jensd.de/wordpress/?p=1771">ShichimiFX 1.0.4</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> has blogged about the <a href="http://www.guigarage.com/2014/12/desktopembedded-application-api-jsr/">Desktop and Embedded Application JSR</a> that has just been officially kicked off. In a separate post he expands on this by talking about <a href="http://www.guigarage.com/2014/11/new-desktop-application-framework-datafx/">UI toolkit independence</a>. Finally, he has also blogged about the <a href="http://www.guigarage.com/2014/12/javafx-talks-javaone-2014/">recordings of his JavaOne talks</a> being available.</li>
+	<li><strong>Tom Schindl</strong> has blogged about <a href="http://tomsondev.bestsolution.at/2014/12/27/displaying-and-editing-large-styled-texts/">displaying and editing large (styled) texts</a> in JavaFX.</li>
+	<li><strong>Michael Heinrichs</strong> has blogged about <a href="http://blog.netopyr.com/2014/12/19/javafx-in-the-browser-2/">rendering JavaFX content in the browser</a> (without the use of any applet technology - just straight HTML and javascript).</li>
+	<li><strong>José Pereda</strong> has a very interesting post on <a href="http://jperedadnr.blogspot.com.es/2015/01/creating-and-texturing-javafx-3d-shapes.html">creating and texturing JavaFX 3D shapes</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> has an interesting post on <a href="http://harmoniccode.blogspot.co.nz/2015/01/javafx-on-e-paper.html">running JavaFX on an e-ink display</a>.</li>
+	<li><strong>Arnaud Nouard</strong> has two posts to cover. Firstly, he has <a href="https://arnaudnouard.wordpress.com/2014/12/20/undecorator-bis/">continued to develop his Undecorator library</a> to remove the operating system 'chrome' and replace it with something cross-platform and visually pleasing. Secondly, he has created a simply magnifier application called <a href="https://arnaudnouard.wordpress.com/2014/12/23/magnifix/">Magnifix</a>.</li>
+	<li><strong>Johan Vos</strong> has posted another <a href="https://www.youtube.com/watch?v=0fI2g_xWgGQ">JavaFX on Android video</a>.</li>
+	<li><strong>Bertrand Goetzmann </strong>has posted a screencast that demonstrates how to create a <a href="https://www.youtube.com/watch?v=zvjAZBmlmIo&amp;feature=youtu.be&amp;a">new JavaFX afterburner.gfx project</a> using the Lazybones Project Creation Tool.</li>
+	<li><strong>Pedro Duque Vieira</strong> has started working on a <a href="https://pixelduke.wordpress.com/2015/01/11/ribbon-for-java-using-javafx/">ribbon control for JavaFX</a>. So far the progress looks very promising, but as always, the devil is in the details! :-)</li>
+	<li><strong>Florian Brunner</strong> has blogged about <a href="http://puces-blog.blogspot.co.nz/2014/12/using-controlsfx-in-drombler-fx.html">using ControlsFX in a Drombler FX application</a>.</li>
+	<li><strong>John Martens</strong> has created <a href="http://www.javafxtutorials.com/">javafxtutorials.com</a> to contain, well, JavaFX tutorials. Already he has a few posts up, with titles such as '<a href="http://www.javafxtutorials.com/whatisjavafx/">what is JavaFX?</a>', '<a href="http://www.javafxtutorials.com/the-2-ways-to-write-javafx-programs/">The 2 Ways to Write JavaFX Programs</a>', and '<a href="http://www.javafxtutorials.com/javafxsimplecode/">Hello Math – A Tale of 2 Programs</a>'.</li>
+	<li>The <strong>IDR Solutions</strong> blog has two posts. The first one is titled '<a href="https://blog.idrsolutions.com/2015/01/5-reasons-javafx-better-swing-developing-java-pdf-viewer/">5 reasons why JavaFX is better than Swing for developing a Java PDF viewer</a>'. The second one is titled '<a href="https://blog.idrsolutions.com/2014/12/use-netbeans-dialog-api-netbeans-javafx-pdf-viewer-plugin/">The use of NetBeans Dialog API for the NetBeans JavaFX PDF Viewer Plugin</a>'.</li>
+	<li><strong>Niels Würzbach</strong> has posted about <a href="http://www.bredex.de/blog_article_en/research-into-the-use-of-javafx-for-in-car-infotainment.html">research into the use of JavaFX for in-car infotainment</a>.</li>
+	<li><strong>Sebastian Stenzel</strong> has started a project called '<a href="https://github.com/totalvoidness/FXThreads">FXThreads</a>' to make switching between main and background threads in JavaFX easier.</li>
+	<li>The <strong>tesis-dynaware github repo</strong> has recently published a library for <a href="https://github.com/tesis-dynaware/graph-editor">creating and editing graph-like diagrams</a> in JavaFX.</li>
+	<li>If the upcoming dialogs API in JavaFX 8u40, or the dialogs API in ControlsFX is not to your liking, <strong>Ryan Gilera</strong> has created <a href="https://github.com/Daytron/SimpleDialogFX">SimpleDialogFX</a> - another API for JavaFX dialogs.</li>
+</ul>
+<p>That's all folks. Catch you all next week! :-)</p>
+]]></Content>
+	</post>

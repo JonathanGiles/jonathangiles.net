@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2299</ID>
+		<Slug>java-desktop-links-of-the-week-march-27</Slug>
+		<Title>Java desktop links of the week, March 27</Title>
+		<Date>2017-03-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A number of links this week, including:</p>
+<ul>
+ 	<li><strong>Ron Smits</strong> has blogged that '<a href="https://ronsmits.org/2017/03/keepassfxrelease/">keepassFX release coming closer</a>'.</li>
+ 	<li><strong>Mirko Sertic</strong> has been <a href="https://github.com/mirkosertic/FXDesktopSearch">working on his FXDesktopSearch app</a>. As he puts it: "FXDesktopSearch is a Java and JavaFX based Desktop Search Application. It crawls a configured set of directories and allows you to do fulltext search with different languages support on the content." Reminds me of the good old days of Google Desktop! :-)</li>
+ 	<li><strong>Tom Schindl</strong> has a post about <a href="https://tomsondev.bestsolution.at/2017/03/23/efxclipse-runtime-library-working-with-the-javafx-ui-thread/">working with the JavaFX UI thread as part of the e(fx)clipse runtime library</a>.</li>
+ 	<li><strong>Edvin Syse</strong> has posted a youtube video about <a href="https://www.youtube.com/watch?v=DP863ceFT08">writing an application using TornadoFX.</a></li>
+ 	<li><strong>Dirk Lemmermann</strong> has posted about a <a href="http://dlsc.com/2017/03/24/javafx-animation-tool/">JavaFX animation tool</a> that he is working on.</li>
+</ul>
+]]></Content>
+	</post>

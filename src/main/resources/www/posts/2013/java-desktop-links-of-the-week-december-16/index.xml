@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1618</ID>
+		<Slug>java-desktop-links-of-the-week-december-16</Slug>
+		<Title>Java desktop links of the week, December 16</Title>
+		<Date>2013-12-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week, another bunch of links. Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Hendrik Ebbers</strong> has collected together in one blog post links to <a href="http://www.guigarage.com/2013/12/javafx-at-javaone/">all JavaFX-related talks at JavaOne 2013</a>. If you missed a session (or didn't go to JavaOne), then this is an invaluable resource. I'm slowly working my way through the sessions.</li>
+	<li>This week JavaFX on iOS got a boost with the availability of <a href="https://blogs.oracle.com/jfxprg/entry/netbeans_support_for_javafx_for">tooling in NetBeans</a> to help make the <a href="http://wiki.apidesign.org/wiki/IOS">creation and packaging of iOS projects</a> much simpler. This project makes use of RoboVM.</li>
+	<li><strong>Pedro Duque Vieira</strong> has created an <a href="http://pixelduke.wordpress.com/2013/12/08/metro-style-text-box-control-for-java-jmetro/">ErasableTextField control</a> which shows a clear button when text is entered, and he has also styled it to appear as expected in his JMetro project. In a separate post, he has also given a <a href="http://pixelduke.wordpress.com/2013/12/13/dateaxis-and-xybarchart-update/">DateAxis and XYBarChart&nbsp;update</a>.</li>
+	<li><strong>Sven Ruppert</strong> has <a href="http://www.rapidpm.org/2013/12/adam-biens-afterburnerfx-internals.html">posted an overview</a> of <strong>Adam Bien's</strong> afterburner.fx MVP framework.</li>
+	<li>Speaking of MVP frameworks / dependency injection, <strong>Jens Deters</strong> has <a href="http://jfx4ee.org/?p=113">blogged about his own investigations</a> into this area. From his post: "Finally I merged ideas from Adam (convention over configuration) and Alex &amp; Co. (CDI) and modified them for my needs. I tried to&nbsp;keep the API as simple as possible and to reduce overhead to a minimum."</li>
+	<li>Speaking of application frameworks (again!),&nbsp;<strong>Sébastien Bordes</strong> has announced that <a href="http://blog.jrebirth.org/releases/jrebirth-0-7-6-is-released/">JRebirth 0.7.6 has been released this week</a>. It brings some threading improvements and add a default JavaFX preloader with some basic API enhancement.</li>
+	<li>And to round the whole app framework links off, <strong>Sébastien Bordes</strong> has offered <a href="http://blog.jrebirth.org/tutorials/cdi-vs-jrebirth/">his opinion on CDI vs JRebirth</a>.</li>
+	<li>TestFX 3.0.0 has <a href="https://github.com/SmartBear/TestFX/tree/java8">been released</a>. TestFX is an easy-to-use library for testing <a href="http://www.oracle.com/us/technologies/java/fx/overview/index.html">JavaFX</a>. TestFX provides a fluent and clean API for interacting with, and verifying the behavior of, JavaFX applications. This releases includes JavaFX 8 support and removes the need to fork the JVM between tests.</li>
+	<li><strong>Tomas Mikula</strong> has announced <a href="https://github.com/TomasMikula/InhiBeans">InhiBeans</a>. As he puts it, "When there is a network of bound values, it often happens that a single user action on one end of the network results in a succession of changes of a value on the other end of the network. Most of the time redundant invalidation and change events do not cause problems, but they can come with a performance penalty if the attached listeners eagerly perform expensive computations. InhiBeans help inhibit this invalidation madness."</li>
+	<li><strong>Christoph Nahr</strong> has <a href="http://news.kynosarges.org/2013/12/10/mime-browser-1-2-released/">released version 1.2</a> of his MIME Browser offline email reader client.</li>
+	<li>If you're interested in using JavaFX but would rather program in Scala, today is your lucky day as<strong> jpsacha</strong> has <a href="https://github.com/jpsacha/ProScalaFX">ported the Pro JavaFX Platform book examples to ScalaFX</a>.</li>
+	<li><strong>Sai Pradeep Dandem</strong> has released a <a href="http://www.e-zest.net/blog/patternlock-in-javafx/">PatternLock control for JavaFX</a>, for use when unlocking a mobile device by dragging your finger across a 3x3 grid to create a pattern.</li>
+</ul>
+<p>That's all for this week. Catch you again next week :-)</p>
+]]></Content>
+	</post>

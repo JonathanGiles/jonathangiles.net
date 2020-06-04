@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1590</ID>
+		<Slug>java-desktop-links-of-the-week-october</Slug>
+		<Title>Java desktop links of the week, October</Title>
+		<Date>2013-10-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A bunch of links this week. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Stephen Chin</strong> posted his <a href="http://nighthacking.com/nighthacking-with-james-gosling/">nighthacking interview with James Gosling</a> from Hawaii. There is talk of how they use JavaFX in their mapping of their aquatic robots.</li>
+	<li><strong>Tom Schindl</strong> has two posts this week. Firstly, he has posted about <a href="http://tomsondev.bestsolution.at/2013/10/17/efxclipse-nightly-and-jdk8b111/">how e(fx)clipse will be improved in the next release</a> to take advantage of the fact that recent JDK 8 builds now ship with the JavaFX source files in a javafx-src.zip file. Secondly, he has posted about a talk he will be giving at EclipseCon on how e(fx)clipse allows you to <a href="http://tomsondev.bestsolution.at/2013/10/25/javafx-on-ios-with-the-help-of-robovm/">develop applications for embedded and mobile</a>.</li>
+	<li><strong>Jarek</strong> has announced the release of <a href="https://groups.google.com/forum/#!topic/scalafx-users/1qyCT65eULA">ScalaFX 1 Milestone 6 and ScalaFX 8 Milestone 2</a>.</li>
+	<li><strong>Laurent Nicolas</strong> has <a href="http://www.mrlonee.com/?p=453">improved his RadialMenu contro</a>l based on inspiration he found on Dribbble.</li>
+	<li><strong>Tobi</strong> has posted his thoughts on <a href="http://blog.software4java.com/?p=125">what is important for JavaFX on iOS and Android</a>. His conclusion is a good quality JVM.</li>
+	<li><strong>Geertjan Wielenga</strong> has posted about <a href="https://blogs.oracle.com/geertjan/entry/orbitfx_javafx_8_3d_netbeans">OrbitFX</a>, which is a JavaFX 8 3D &amp; NetBeans platform based application related to help facilitate and deploy the 2014 launch of National Aeronautics and Space Agency’s (NASA) Magnetospheric Multiscale mission.</li>
+	<li><strong>Franck</strong> has posted two posts about GraniteDS. Firstly, he has posted the <a href="http://granitedataservices.com/blog/2013/10/15/graniteds-3-0-0-rc1-is-out/">announcement that GraniteDX 3.0.0.RC1 is now out</a>, and secondly he has a post detailing <a href="http://granitedataservices.com/blog/2013/10/15/migrating-from-graniteds-3-0-0-m3-to-3-0-0-rc1-javafx/">how to port a JavaFX application from GraniteDS 3.0.0.M3</a> to this new release.</li>
+	<li><strong>Michael</strong> has posted a video and code related to <a href="http://mihosoft.eu/?p=940">multitouch support in JavaFX</a>.</li>
+	<li><strong>kikutaro777</strong> has posted about <a href="http://kikutaro777.hatenablog.com/entry/2013/10/26/000641">SendGridFX</a>, an application written in JavaFX to enable writing rich emails using the Java SendGrid4J library.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Dave Gilbert</strong> has <a href="http://www.jroller.com/dgilbert/entry/jcommon_1_0_21_jfreesvg">released JFreeSVG 1.4 and JCommon 1.0.21</a> to improve the quality of text rendering when generating charts in SVG format with <a href="http://www.jfree.org/jfreechart/">JFreeChart</a>.</li>
+	<li><strong>JIDE Software</strong> has announced the <a href="http://www.jidesoft.com/history/">release of 3.5.10 of their library of Swing components</a>. There appears to be a few new features and a number of bug fixes.</li>
+</ul>
+<p>Catch you all in a week: same bat time, same bat channel! :-)</p>
+]]></Content>
+	</post>

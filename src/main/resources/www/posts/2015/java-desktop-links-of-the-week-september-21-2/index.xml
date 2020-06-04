@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1970</ID>
+		<Slug>java-desktop-links-of-the-week-september-21-2</Slug>
+		<Title>Java desktop links of the week, September 21</Title>
+		<Date>2015-09-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>More links for everyone to enjoy!</p>
+<ul>
+	<li>If you are going to JavaOne this year and are a member of the Java desktop community, &nbsp;you should sign up for my <a href="https://docs.google.com/a/jonathangiles.net/forms/d/1heFVrBSxKv4XvP25fbzQ2o724hnxchlqQis_jPLn2dU/viewform">sixth annual Java Desktop Lunch</a>! Space is running out and people who are not registered will not be able to attend. Get in quick.</li>
+	<li><strong>Dirk Lemmermann</strong> has another interview this week, this time with&nbsp;<a href="https://dlemmermann.wordpress.com/2015/09/16/javafx-real-world-apps-mint-trms/">Mint Software Systems</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> has being <a href="http://www.guigarage.com/2015/09/layered-images-and-icons-with-javafx/">playing around</a> with <a href="http://www.guigarage.com/2015/09/more-fun-with-layered-icons-in-javafx/">layered images this week</a>, creating some cool 3D effects influenced by the latest Apple TV UI designs. It is very neat, and I love the Star Wars surprise :-)</li>
+	<li><strong>Tom Eugelink</strong> is posting his '<a href="https://tbeernot.wordpress.com/2015/09/20/jfxtras-lessons-learned-developing-in-javafx/">JFXtras: lessons learned developing in JavaFX</a>' slide deck online for all to read. Very useful!</li>
+	<li><strong>Steven Schwenke</strong> has <a href="http://stevenschwenke.de/freeJavaFXCourseMaterial">posted material from a course</a> he gave to his colleagues on JavaFX.</li>
+	<li><strong>Amrullah Syadzili</strong> has posted about how&nbsp;<a href="http://tiwulfx.panemu.com/2015/09/18/detachabletabpane-supports-docking-and-reordering/">DetachableTabPane now supports docking and reordering</a>.</li>
+	<li><strong>Gluon</strong> did a blog post about the release of the <a href="http://gluonhq.com/charmlistview-new-control-in-town/">CharmListView control</a>, which is a part of <a href="http://gluonhq.com/products/charm">Gluon Charm</a>. This control provides a more 'mobile-friendly' ListView API compared to the standard JavaFX ListView.</li>
+</ul>
+<p>That's all for this week - catch you again next week :-)</p>
+]]></Content>
+	</post>

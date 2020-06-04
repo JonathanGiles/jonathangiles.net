@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1795</ID>
+		<Slug>java-desktop-links-of-the-week-september-1</Slug>
+		<Title>Java desktop links of the week, September 1</Title>
+		<Date>2014-08-31</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>It's September folks! That's the same month that JavaOne starts! We're well and truly getting into the final countdown for JavaOne now - I hope people are starting to get prepared. I wish I could say I was more prepared than I am, but I'm sure I'll get there in time. Anyway, a good set of links this week, so enjoy!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>Given we're only a few weeks out from JavaOne, I've started publishing short interviews with some people who will be presenting. So far I have interviews with <strong><a href="http://fxexperience.com/2014/08/javaone-interviews-eugene-ryzhikov/">Eugene Ryzhikov</a></strong>, <strong><a href="http://fxexperience.com/2014/08/javaone-interviews-mikael-grev/">Mikael Grev</a></strong>, and <strong><a href="http://fxexperience.com/2014/08/javaone-interviews-stephen-chin/">Stephen Chin</a></strong>. I'll be publishing more in the lead-up to JavaOne.</li>
+	<li>Speaking of JavaOne, people are starting to post summaries of what they will be presenting at JavaOne. I'll post links to these whenever I find them. This week <strong><a href="http://www.adam-bien.com/roller/abien/entry/my_javaone_2014_sessions_javafx">Adam Bien</a></strong>, <strong><a href="http://www.guigarage.com/2014/08/javaone-2014-sessions/">Hendrik Ebbers</a></strong> and <strong><a href="/posts/2014javaone-sessions/">I</a></strong> have posted our JavaOne talks.</li>
+	<li>I'm arranging the 5th annual Java desktop lunch. If you're going to be at JavaOne and want to come along, please register your interest now so that I can be in touch with the details.</li>
+	<li><strong>Adam Bien</strong> recently presented to the Virtual JUG on the topic of '<a href="http://www.adam-bien.com/roller/abien/entry/opinionated_javafx_8_virtualjug_session">Opinionated JavaFX</a>', where he spoke about how he recommends building JavaFX applications, behind the scenes of <a href="http://afterburner.adam-bien.com" target="_blank">afterburner.fx</a> and finally he gave a walk through of <a href="https://github.com/AdamBien/floyd" target="_blank">floyd</a>.</li>
+	<li><strong>Jens Deters</strong> has announced that <a href="http://www.jensd.de/wordpress/?p=1423">MQTT.fx 0.0.7 has been released</a>. This release includes 'scripting support, setup/re-configuration tool, a reviewed connection profile editor, and a reviewed UI and style'. It's looking very nice.</li>
+	<li><strong>Jens Deters</strong> has also announced the <a href="http://www.jensd.de/wordpress/?p=1457">release of FontAwesomeFX 8.0.9</a>, which includes support for 40 additional icons from FontAwesome 4.2.0.</li>
+	<li><strong>Hendrik Ebbers</strong> has posted <a href="http://www.guigarage.com/javafx-themes/aerofx/">more screenshots of the AeroFX project</a> that is being undertaken by <strong>Matthias Meidinger</strong>. It's looking good!</li>
+	<li>I've got no involvement (or really even any interest) in Bitcoin at present, but I thought it was cool to come across <a href="http://bitsquare.io/">Bitsquare</a> this week, which has a <a href="http://chris.beams.io/posts/bitsquare/">nice looking client written in JavaFX</a> (scroll down to watch the video). The <a href="https://github.com/bitsquare/bitsquare">code appears to be open source</a> too. Good stuff!</li>
+</ul>
+<p>That's all folks. Catch you again next week! :-)</p>
+]]></Content>
+	</post>

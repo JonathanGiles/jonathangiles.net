@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1959</ID>
+		<Slug>java-desktop-links-of-the-week-august-31-2</Slug>
+		<Title>Java desktop links of the week, August 31</Title>
+		<Date>2015-08-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;">More links - enjoy! :-)</span></p>
+<ul>
+	<li><strong>Tom Eugelink</strong> has posted about his <a href="https://tbeernot.wordpress.com/2015/08/28/jfxmobile-first-attempt/">first exploration into JavaFX mobile</a>.</li>
+	<li><strong>Christoph Nahr</strong> has an interesting post about <a href="http://news.kynosarges.org/2015/08/24/javafx-gui-scaling-at-120-144-dpi/">JavaFX UI scaling in JDK 8u60</a>.</li>
+	<li>I posted an <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2015-August/017786.html">update about JEP 253</a> (the JEP related to making more JavaFX UI control API and CSS API public).</li>
+	<li>The&nbsp;<strong>JFormDesigner</strong> folks have started working on a <a href="https://github.com/JFormDesigner/markdown-writer-fx">Markdown editor written in JavaFX</a>. Looks like great progress so far!</li>
+	<li><strong>Pedro Duque Vieira</strong> has <a href="https://pixelduke.wordpress.com/2015/08/27/toggleswitch-control-revisited/">revisited the ToggleSwitch control</a> he has previously written, and has announced he plans to merge this into ControlsFX.</li>
+	<li><strong>Gluon</strong> announced the availability of an <a href="http://gluonhq.com/the-new-gluon-plugin-for-eclipse/">Eclipse plugin for building JavaFX-based mobile applications</a> (to go with the previously announced NetBeans and IntelliJ IDEA plugins).</li>
+	<li><strong>Andres Almiray</strong> has posted about&nbsp;<a href="http://www.jroller.com/aalmiray/entry/griffon_stacking_webfont_icons">stacking web font icons</a> using JavaFX StackPane and FontAwesome.</li>
+	<li>The <strong>PiDome</strong> folks have a long detailed post titled '<a href="https://pidome.wordpress.com/2015/08/27/glued-the-interfaces-together-alpha-version-downloads-available/">Glued the interfaces together, alpha version downloads available</a>'.</li>
+	<li><strong>Herudi</strong> has posted about his <a href="http://rudy-007.com/javafx-cleanwindowfx/">CleanWindowFX framework</a>.</li>
+</ul>
+<p>See you next week.</p>
+]]></Content>
+	</post>

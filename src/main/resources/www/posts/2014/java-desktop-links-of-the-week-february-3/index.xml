@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1671</ID>
+		<Slug>java-desktop-links-of-the-week-february-3</Slug>
+		<Title>Java desktop links of the week, February 3</Title>
+		<Date>2014-02-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>This year is going so fast! It's February already?! Time to slow down and check out the latest Java desktop news I reckon! Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Dirk Lemmermann</strong> has posted about a <a href="http://dlemmermann.wordpress.com/2014/01/28/new-javafx-control-plusminusadjuster/">new control he has developed for JavaFX 8.0</a> and has contributed to the <a href="http://www.controlsfx.org">ControlsFX project</a>. It is called PlusMinusSlider, and for anyone familiar with Google's Picasa software, you may be familiar with the control. In Picasa it allows for scrolling through the images at a speed related to how far the slider thumb is from the center. When the mouse is released the thumb goes back to the middle and scrolling stops. A very specialised control for sure, but I'm certain people will find use cases for it in their own projects!</li>
+	<li><strong>Tomas Mikula</strong> continues to improve his <a href="https://github.com/TomasMikula/CodeAreaFX">CodeAreaFX project</a> for JavaFX. This library is a rich text editor, code highlighter and more - Tomas is doing an excellent job!</li>
+	<li>A video of<strong> Sven Efftinge</strong> and <strong>Tom Schindl</strong> presenting at W-JAX in Munich in 2013 about 'Xtended JavaFX' is <a href="http://jaxenter.com/xtended-javafx-49406.html">now available online</a>. From the summary page: "Xtend is a statically typed programming language which translates to readable Java source code. JavaFX is the new shiny way to develop desktop applications in Java. JavaFX applications written with Xtend are much less cluttered and more readable at the same time, hence it increases developer productivity significantly."</li>
+	<li>Speaking of <strong>Tom</strong>, he has announced the <a href="http://tomsondev.bestsolution.at/2014/02/01/efxclipse-0-9-0-released/">release of e(fx)clipse 0.9.0</a>, which looks to include a heap of new features.</li>
+	<li><strong>Mario Voigt</strong> has posted a new project on Github that he is calling <a href="http://vmario89.github.io/ScreenFX/">ScreenFX</a>. It is a tool that "adds features to resize and arrange stage windows for multiple screens".</li>
+	<li><strong>Jens Deters</strong> has posted <a href="http://www.youtube.com/watch?v=RkgVffjJwXw&amp;feature=youtu.be">two</a> <a href="http://www.youtube.com/watch?v=NrgW3PMa3YA&amp;feature=youtu.be">videos</a> of his SplitPaneSlider project, which I think is a nice feature for many user interfaces to consider using.</li>
+	<li><strong>Tomas Brandalik</strong> has posted a video of his work on <a href="https://www.youtube.com/watch?v=zi8HYRcN130">supporting JavaFX projects on Android</a> from within a NetBeans environment.</li>
+</ul>
+<p>That's that for another week. Catch you all later :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2540</ID>
+		<Slug>java-desktop-links-of-the-week-august-14</Slug>
+		<Title>Java desktop links of the week, August 14</Title>
+		<Date>2017-08-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Tom Schindl</strong> has published a <a href="https://tomsondev.bestsolution.at/2017/08/13/introducing-anotheradditional-javafx-testframework/">new JavaFX UI testing tool</a>.</li>
+ 	<li>The&nbsp;<strong>Oracle Technology Network</strong> has published an article by&nbsp;<strong>Johan Vos</strong> about <a href="https://community.oracle.com/docs/DOC-1017010">building JavaFX-based mobile applications</a> for deployment on iOS and Android.</li>
+ 	<li><strong>Jamie Macaulay&nbsp;</strong>is blogging about a cool-looking JavaFX app called&nbsp;<a href="https://conservationcoding.com/2017/08/13/javafx-and-a-new-display-in-pamguard/">PAMGuard</a>, which is a program which detects whales and dolphins acoustically. Another cool example of JavaFX being used in the wild.</li>
+ 	<li><strong>Peter Rogge</strong> has <a href="https://github.com/Naoghuman/lib-tile/releases/tag/v0.2.0">released Lib-Tile 0.2.0</a>. The main feature of this release is the rework of the api so that it is now possible to create reduced, mixed or your own TileSet.</li>
+</ul>
+]]></Content>
+	</post>

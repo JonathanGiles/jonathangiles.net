@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1531</ID>
+		<Slug>java-desktop-links-of-the-week-august-19</Slug>
+		<Title>Java desktop links of the week, August 19</Title>
+		<Date>2013-08-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week has rolled by, and so have another batch of links. This week is a little quiet, owing mainly to the pre-JavaOne quiet period that seems to happen every year (I've been writing this blog for so long patterns do eventually emerge) :-) Anywho, enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>John Malc</strong> has published part three of his '<a href="http://www.komentovaneudalosti.cz/blog/?p=1206">Developing a Complex Bank Application in JavaFX</a>' series of posts, this time focusing on the <a href="http://www.controlsfx.org">ControlsFX project</a>. I'm pleased to read that he is happy with all the effort the ControlsFX developers (including myself)&nbsp; have put into the <a href="http://docs.controlsfx.org">javadocs</a> - we really busted our gut to get a top-notch example of how javadoc should be written (although I should note that the current documentation online is for our 8.0.2 developer preview 1 release, so it is a little lower quality than we would normally have in a final release).</li>
+	<li><strong>Chris Newland</strong> has posted about his <a href="http://www.chrisnewland.com/raspberry-pi-tft-hack-and-video-glasses-360">Raspberry Pi TFT hack and video glasses</a>, which run JavaFX.</li>
+	<li>The <strong>tomoTaka blog</strong> has an article about writing a <a href="http://d.hatena.ne.jp/tomoTaka/20130814/1376434299">WebSocket echo client</a> using JavaFX.</li>
+	<li><a href="http://modellus.co/index.php/en/">Modellus 0.4 was recently released</a>. Modellus is a freely available software package that enables students and teachers to use mathematics to create or explore models interactively.</li>
+</ul>
+<p>That's all this week. I'll catch you all in a weeks time! :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2173</ID>
+		<Slug>java-desktop-links-of-the-week-september-26-2</Slug>
+		<Title>Java desktop links of the week, September 26</Title>
+		<Date>2016-09-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>JavaOne is over for another year! I hope those of you that attended had a great time, learned a lot, and managed to attend some of the parties in the evening. There are a number of good links this week, so I'll only very quickly cover them, especially as I have a lot of catching up to do after being away for a week!</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> has posted yet another of his 'fun components' - this time an <a href="http://harmoniccode.blogspot.co.nz/2016/09/thursday-fun-xxxix.html">interactive world map</a>. Very nice! :-)</li>
+ 	<li><strong>Edvin Syse</strong> has released updates to <a href="https://github.com/edvin/fxlauncher/releases/tag/v1.0.13">FXLauncher</a> and <a href="https://github.com/edvin/tornadofx/releases/tag/v1.5.6">TornadoFX</a>.</li>
+ 	<li><strong>Nic Raboy</strong> has posted an article about <a href="http://blog.couchbase.com/2016/september/using-couchbase-in-a-javafx-desktop-application">using Couchbase in a JavaFX desktop application</a>.</li>
+ 	<li><strong>Francis Fredrick Valero</strong> has posted an article about the <a href="http://fxperiments.xyz/nature-of-code-in-javafx-canvas/">nature of code in the JavaFX Canvas</a>. He also has a post about <a href="http://fxperiments.xyz/kotlin-javafx-canvas/">using Kotlin to create JavaFX Canvas code</a>.</li>
+ 	<li><strong>Samir Hadzic</strong> has posted about <a href="https://blog.samirhadzic.com/2016/09/12/change-your-application-theme-dynamically/">changing your application theme dynamically</a>.</li>
+ 	<li><strong>Alexander Casall</strong> has open sourced <a href="https://github.com/sialcasa/leakdetectorFX">leakdetectorFX</a>, a small memory leak detector for JavaFX.</li>
+ 	<li><strong>Adam Carroll</strong> has a blog post about <a href="https://techblog.king.com/javafx-used-build-desktop-application/">how JavaFX was used to build a desktop application</a>.</li>
+ 	<li><strong>Dinesh Bajaj</strong> has open sourced his <a href="http://dineshbajajktn.blogspot.co.nz/2016/09/fxbilling-free-and-open-sourced-javafx.html">FXBilling application</a>.</li>
+ 	<li><strong>Hossein Rimaz</strong> is maintaining a list of '<a href="https://github.com/mhrimaz/AwesomeJavaFX">awesome JavaFX libraries, books, frameworks, etc...</a>'.</li>
+ 	<li><strong>Andy Till</strong> has put out new code for his <a href="https://github.com/andytill/erlyberly">erlyberly application</a>, which is used for 'erlang tracing for the masses'.</li>
+</ul>
+]]></Content>
+	</post>

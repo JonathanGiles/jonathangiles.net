@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2038</ID>
+		<Slug>java-desktop-links-of-the-week-february-1-2</Slug>
+		<Title>Java desktop links of the week, February 1</Title>
+		<Date>2016-01-31</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>I know I say this often - but we're already a month down into 2016. Where does time go!?! Well, obviously a lot of it goes into what people are doing in the links below, so we really owe them all a debt of gratitude and a little of our time to read what they're up to. Enjoy :-)</p>
+<ul>
+	<li><strong>Dirk Lemmermann</strong> has another&nbsp;JavaFX 'real-world apps': <a href="https://dlemmermann.wordpress.com/2016/01/25/javafx-real-world-apps-psi-advanced-scheduling-and-monitoring/">PSI Advanced Scheduling and Monitoring</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> continues with his Medusa library, taking it up to <a href="https://github.com/HanSolo/Medusa">version 3.0 I believe</a> (it moves so quickly it is hardly even worth referencing version numbers!) :-) He also has a blog post about <a href="http://harmoniccode.blogspot.de/2016/01/building-fuel-gauge-using-medusa.html">building a fuel gauge using the library</a>.</li>
+	<li><strong>David Gilbert</strong> has&nbsp;<a href="http://www.object-refinery.com/orsoncharts/index.html">released Orson Charts 1.5</a>, a 3D chart library for JavaFX, Swing and server side Java apps. David said the following to me: "notably this release is now Open Source under the GNU GPLv3 (plus the existing commercial license for companies that don’t wish to deal with the GPL)."</li>
+	<li><strong>Edvin Syse</strong> has posted about a new JavaFX app framework he has developed for <a href="https://dzone.com/articles/a-new-javafx-app-framework-for-kotlin-tornadofx">Kotlin called TornadoFX</a>.</li>
+	<li><strong>Andreas Billmann</strong> has posted a <a href="https://www.youtube.com/watch?v=94Nxn7BVUQg&amp;feature=youtu.be">video showing off his SmartCSV.fx</a> application, which is <a href="https://github.com/frosch95/SmartCSV.fx">now at version 0.3</a>.</li>
+</ul>
+]]></Content>
+	</post>

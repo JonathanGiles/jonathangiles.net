@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2548</ID>
+		<Slug>java-desktop-links-of-the-week-august-28</Slug>
+		<Title>Java desktop links of the week, August 28</Title>
+		<Date>2017-08-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Tom Schindl</strong> has blogged about&nbsp;<a href="https://tomsondev.bestsolution.at/2017/08/21/cross-ide-dev-support-for-e4-on-javafx-we-are-almost-there/">cross IDE dev support</a> for “e4 on JavaFX”, stating that "we are almost&nbsp;there".</li>
+ 	<li><strong>Carl Walker</strong> has blogged about&nbsp;<a href="https://bekwam.blogspot.co.nz/2017/08/setting-pivot-point-in-javafx.html">setting the pivot point in a JavaFX ScaleTransition</a>.</li>
+ 	<li><strong>Wim Deblauwe</strong>&nbsp;has posted about&nbsp;<a href="https://wimdeblauwe.wordpress.com/2017/08/26/using-javafx-on-raspberry-pi-3-with-gluon/">using JavaFX on Raspberry Pi 3 with Gluon</a>.</li>
+ 	<li><strong>Rajeev Kumar Singh</strong> has posted about&nbsp;<a href="https://www.callicoder.com/javafx-css-tutorial/">styling JavaFX applications using CSS</a>.</li>
+ 	<li>You can <a href="https://www.youtube.com/watch?v=CsF4pd7fGF0">watch a video on a JavaFX app called Iris</a>, which allows "rigorous experimentation and examination of the Cortical.io Retina API".</li>
+</ul>
+]]></Content>
+	</post>

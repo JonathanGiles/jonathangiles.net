@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>819</ID>
+		<Slug>java-desktop-links-of-the-week-may-24</Slug>
+		<Title>Java desktop links of the week, May 24</Title>
+		<Date>2010-05-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A huge amount of Java news and links this week, certainly something for everyone, I hope. As always, I'm keen to hear from you folks with any news or links you think should be included. You can find my contact details to the right.</p>
+<h4>Swing</h4>
+<ul>
+	<li>Single-handedly saving the Swing section this week is <strong>Kirill Grouchnikov</strong>. He has two posts on his polishing of Onyx, firstly just a <a href="http://www.pushing-pixels.org/?p=1874">teaser of his progress</a>, and subsequently a blog post covering <a href="http://www.pushing-pixels.org/?p=1886">the changes in more detail</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>The JavaFX documentation team have updated both the <a href="http://javafx.com/docs/articles/porting-guide-javafx1-3.jsp">JavaFX 1.3 Migration Guide</a> and the '<a href="http://javafx.com/docs/articles/Flowers/layoutContainers.jsp">Using Layout Containers</a>' documentation.</li>
+	<li><strong>Rakesh Menon</strong> has posted a <a href="http://rakeshmenonp.wordpress.com/2010/05/22/javafx-1-3-%E2%80%93-tableview/">TableView implementation</a> he has created. It makes use of our new Cell architecture for virtualising scrollable areas (e.g. We used it in 1.3 for ListView and TreeView). Whilst his approach is basic, it works in JavaFX 1.3 and may certainly meet your needs.</li>
+	<li><strong>Jan Goyvaerts</strong> posted an <a href="http://jfxworks.wordpress.com/2010/05/19/javafx-a-path-finding/">A* path finding implementation in JavaFX</a> this week, which is very cool. He has included a very good writeup, as well as the source code.</li>
+	<li><strong>Osvaldo Doederlein</strong> has posted a <a href="http://weblogs.java.net/blog/opinali/archive/2010/05/21/javafxs-game-life">JavaFX implementation of Conway's Game of Life</a>. In his usual style he dives deep into performance implications and how he thinks they can be worked around. A great post.</li>
+	<li><strong>Alex Ruiz</strong> has <a href="http://alexruiz.developerblogs.com/?p=1197">announced the release of version 1.0b1</a> of the FEST JavaFX compiler Maven plugin. This plug-in compiles JavaFX source and test files.</li>
+	<li><strong>Stephen Chin</strong> has announced a <a href="http://groups.google.com/group/jfxtras-users/browse_thread/thread/fe324ccabc11de9e">beta 2 release of JFXtras 0.7</a>, which aims to get JFXtras working on JavaFX 1.3. Importantly, this release has controls ported over to JavaFX 1.3. He has also blogged about his <a href="http://steveonjava.com/javafx-talks-accepted/">upcoming JavaFX talks at Jazoon and JavaOne</a>.</li>
+	<li><strong>Antoine Mischler</strong> has blogged about his thoughts on <a href="http://blog.dooapp.com/developing-a-business-application-with-javafx">developing a business application using NetBeans Composer</a>.</li>
+	<li>The <strong>NetBeans team</strong> have put up a good article on <a href="http://netbeans.org/kb/docs/javafx/data-binding.html">data binding in NetBeans 6.9</a>.</li>
+	<li>The <strong>Exadel</strong> blog has a post covering some of the <a href="http://blog.exadel.com/2010/05/17/exadel-javafx-plug-in-for-eclipse-features/">features of the JavaFX plugin for Eclipse</a> that they develop.</li>
+	<li><strong>Nii Osei-Agyemang</strong> has started a new blog covering how he plans to use JavaFX for GIS. Some recent posts cover his <a href="http://www.javafxintro.com/?p=7">planned GIS architecture</a>, how he <a href="http://www.javafxintro.com/?p=12">ported to JavaFX 1.3</a>, and how he is <a href="http://www.javafxintro.com/?p=25">making use of JavaFX web service APIs</a>.</li>
+	<li>Speaking of GIS, I came across the <a href="http://www.dailymotion.com/video/xddi9u_pirimap-javafx-ria-demo_tech">PiriMap JavaFX application</a> which does a similar thing. Unfortunately, I only have a video to show.</li>
+	<li><strong>Daniel Ziltener</strong> has posted an example of how <a href="http://my.opera.com/zilti/blog/2010/05/21/howto-doing-some-storage-in-javafx">he used the JavaFX Storage API</a>, and is seeking your thoughts on how to improve it.</li>
+	<li>I put up the slide deck I used for the two-hour <a href="/posts/2010javafx-presentation-slides/">JavaFX introduction talk</a> I gave recently.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has announced that <a href="http://www.dzone.com/links/r/griffon_031_released.html">Griffon 0.3.1 is now available for download</a>. This release has new features as well as bug fixes.</li>
+</ul>
+<p>That's that for another week. Keep up the great work everyone - it's great fun finding and reading what you're working on. Catch you all next week! :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>739</ID>
+		<Slug>java-desktop-links-of-the-week-february-15</Slug>
+		<Title>Java desktop links of the week, February 15</Title>
+		<Date>2010-02-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>The weeks seem to be speeding by these days, and the amount of interesting news each week is only growing. This week there is a number of good reads, which I've linked to below. As always, thanks to the people who <a href="mailto:jonathan@jonathangiles.net">email me</a> links, and please feel free to <a href="http://twitter.com/jonathangiles">follow me on twitter</a> if you are interested.</p>
+
+<p>Anywho, enough personal links! On with what you came to see. Enjoy :-)</p>
+<h4>General</h4>
+<ul>
+	<li><strong>Kas Thomas</strong> has a post discussing why he thinks <a href="http://asserttrue.blogspot.com/2010/02/modal-dialogs-are-evil.html">modal dialogs are evil</a>. As he says, and what I believe, is that they aren't completely evil if used in appropriate circumstances. But he does have an example of where they really shouldn't be used.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Damien Ielsch</strong> continues with his posts, this week with a post titled <a href="http://free-the-pixel.blogspot.com/2010/02/bean-reader-jtable.html">Bean Reader JTable</a>, discussing how to populate a table of read-only beans.</li>
+	<li>Fellow kiwi <strong>Nigel Charman</strong> has posted about <a href="http://tutansblog.blogspot.com/2009/11/creating-executable-specifications-for.html">creating executable specifications for Swing apps with Concordian and FEST</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Lukas Hasik</strong> has noted that <a href="http://blogs.sun.com/lukas/entry/netbeans_6_8_patch_1">NetBeans 6.8 Patch 1 has been released</a>. This release includes <a href="https://netbeans.org/bugzilla/buglist.cgi?product=javafx&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=68patch1-verified">36 fixes in the JavaFX area</a>.</li>
+	<li>A new article was posted on JavaFX.com that discusses <a href="http://javafx.com/docs/articles/performance/profiling.jsp">how to profile JavaFX applications using NetBeans</a>.</li>
+	<li>In the Sun Developer Network, another article has appeared, titled '<a href="http://java.sun.com/developer/technicalArticles/appletAspIntegration/index.html">Java Applets, ASP.net - Can you play together</a>?'. No prizes for guessing the topic of this post.</li>
+	<li><strong>Jim Conners</strong> has posted a good article titled '<a href="http://java.dzone.com/articles/javafx-sockets-and-threading">JavaFX, Sockets and Threading: Lessons Learnt</a>'.</li>
+	<li><strong>Thomas Butter</strong> emailed me to let me know of his project to <a href="http://code.google.com/p/fxpresenter/">display Open Document Presentation files in JavaFX</a>. It's only an early preview at the moment, but shows real promise.</li>
+	<li><strong>Drew</strong> has a small update to his game project where he <a href="http://piliq.com/javafx/?p=1488">introduces a pause feature</a>, and explains how he integrated it.</li>
+	<li><strong>Pedro Duque Vieira</strong> has a post which shows off his <a href="http://pixelduke.wordpress.com/2010/02/13/modellus-5-brief-demo/">integration of JavaFX and Swing into a single application</a>.</li>
+	<li><strong>Max Katz</strong> has a post showing off his work in using <a href="http://mkblog.exadel.com/jsf/javafx-as-jsf-vdl-view-description-language/">JavaFX as a visual display language for JSF pages</a>.</li>
+	<li><strong>Rakesh Menon</strong> has posted about the <a href="http://rakeshmenonp.wordpress.com/2010/02/08/java-download-service-listener/">download service listener feature that was part of the Java 1.6.0_18 release</a>. As he notes, "it allows you to provide a Custom Progress UI using AWT/Swing/Java2D  APIs. It has callback methods which will provide information related to  download and validation of resources."</li>
+	<li><strong>Jonathan Merritt</strong> posted about his <a href="http://jsmerritt.blogspot.com/2010/02/javafx-blogs-and-links.html">experience in getting to know JavaFX</a>, and his eventual realisation that JavaFX is very good.</li>
+	<li>Following my mention of the need for more Keyboard Cat JavaFX applications, <strong>Simon Morris</strong> (author of the JavaFX in Action book) obliged and posted <a href="http://jfxstudio.wordpress.com/2010/01/25/making-waves/">another demo</a> which will draw ripples over a video when you click the mouse.</li>
+	<li><strong>kdgregory</strong> has a post discussing parts of the <a href="http://blog.kdgregory.com/2010/02/javafx-interesting-language-features.html">JavaFX language that he finds interesting</a>.</li>
+</ul>
+<p>Wow, this weeks news certainly appears a little lop-sided, but that's the way it was this past week. Keep up the good work people, and I'll catch you all again in a weeks time.</p>
+<p><div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">http://blogs.sun.com/lukas/entry/netbeans_6_8_patch_1</div></p>
+]]></Content>
+	</post>

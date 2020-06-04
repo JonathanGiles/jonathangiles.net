@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2237</ID>
+		<Slug>java-desktop-links-of-the-week-february-7-2</Slug>
+		<Title>Java desktop links of the week, February 7</Title>
+		<Date>2017-02-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A day delayed today, as New Zealand celebrated another public holiday yesterday. In any case, better late than never, so enjoy :-)</p>
+<ul>
+ 	<li><strong>Tom Schindl</strong> has posted about <a href="https://tomsondev.bestsolution.at/2017/01/31/efxclipse-runtime-library-dealing-with-listeners-on-javafx-observables/">dealing with listeners</a> on JavaFX Observables in the&nbsp;e(fx)clipse runtime library.</li>
+ 	<li><strong>Nils Blum-Oeste</strong> has a long post about&nbsp;<a href="http://nils-blum-oeste.net/functional-gui-programming-with-clojure-and-javafx-meet-halgarifn-fx/">functional GUI programming with Clojure and JavaFX</a>&nbsp;with halgari/fn-fx.</li>
+ 	<li><strong>Dan Newton</strong> has an article about <a href="https://dzone.com/articles/javafx-charts-look-pretty-good">JavaFX charts</a>.</li>
+ 	<li><strong>Dirk Lemmermann</strong> has <a href="http://dlsc.com/2017/01/31/calendarfx-8-4-0-released/">released&nbsp;CalendarFX 8.4.0</a>.</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1447</ID>
+		<Slug>java-desktop-links-of-the-week-april-15</Slug>
+		<Title>Java desktop links of the week, April 15</Title>
+		<Date>2013-04-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Hi all, here's your links for another week. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Adam Bien</strong> has posted a YouTube video on '<a href="http://www.adam-bien.com/roller/abien/entry/dependency_injection_inversion_of_control">Dependency Injection, Inversion of Control and Convention over Configuration ...with JavaFX 8</a>'.</li>
+	<li><strong>Robin Leo Söderström</strong> has posted a <a href="http://www.loop81.com/2013/04/project-fxcomparer-part-1-defining.html">four</a>-<a href="http://www.loop81.com/2013/04/project-fxcomparer-part-2-building-ui.html">post</a> <a href="http://www.loop81.com/2013/04/project-fxcomparer-part-3-handling.html">series</a> covering the <a href="http://www.loop81.com/2013/04/project-fxcomparer-part-5-packaging.html">development</a> of an app he calls FXComparer, which is an open source application for comparing archives.</li>
+	<li><strong>Robert Ladstätter</strong> has two posts this week, both related to image processing in JavaFX. Firstly, he has posted on '<a href="http://ladstatt.blogspot.co.nz/2013/04/using-isight-camera-with-javafx.html">using your webcam with JavaFX and openCV</a>', and secondly he has a post titled '<a href="http://ladstatt.blogspot.co.nz/2013/04/image-processing-with-opencv-and-javafx.html">image processing with OpenCV and JavaFX</a>'.</li>
+	<li><strong>Jim Kay</strong> has made available his <a href="http://designjk.wordpress.com/2013/04/08/code-for-experiments-in-3d-in-javafx-2-0/">source code for his JavaFX 3D support</a> (in <span style="text-decoration: underline;">JavaFX 2.0</span>, not 8.0 - where there is built in support for 3D).</li>
+	<li>Speaking of JavaFX 3D (and this time the JavaFX 8.0 kind), mihosoft have a blog post showing off <a href="http://mihosoft.eu/?p=507">JavaFX 3D inside their window control</a>.</li>
+	<li><a href="https://github.com/dooApp/FXForm2">FXForm2-0.21</a> has been released. <a href="http://dooapp.github.io/FXForm2/">FXForm2</a> is a form generator for JavaFX that generates forms based on the provided bean.</li>
+	<li><strong>Jens Deters</strong> has a blog detailing how he uses <a href="http://www.jensd.de/wordpress/?p=294">JavaFX on a Raspberry Pi</a> to control LED lights via the CPIO-out pins.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Geertjan Wielenga</strong> has posted a three-part series of posts covering NASA Mission Operations and <a href="https://blogs.oracle.com/geertjan/entry/mission_operations_on_the_netbeans">how</a> <a href="https://blogs.oracle.com/geertjan/entry/mission_operations_on_the_netbeans1">they</a> <a href="https://blogs.oracle.com/geertjan/entry/mission_operations_on_the_netbeans2">use</a> the NetBeans platform.</li>
+</ul>
+<p>Catch you all in a weeks time! :-)</p>
+]]></Content>
+	</post>

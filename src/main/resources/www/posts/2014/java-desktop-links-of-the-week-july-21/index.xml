@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1768</ID>
+		<Slug>java-desktop-links-of-the-week-july-21</Slug>
+		<Title>Java desktop links of the week, July 21</Title>
+		<Date>2014-07-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week, with most people probably heads-down on JavaOne preparations by now. In any case, what we have below are some very interesting links, so enjoy! :-)</p>
+<ul>
+	<li>The JavaFX dialogs discussion continues. This week I posted an <a href="http://fxexperience.com/2014/07/javafx-dialogs-update-1/">updated summary of where the discussions are now</a>, and of course there has been plenty more discussion since then in the Jira issue (<a href="javafx-jira.kenai.com/browse/RT-12643">RT-12643</a>). The final API for dialogs is due in early August, so time is running out - if you want to offer your opinion on what JavaFX needs, and especially if you can relate it back to the proposed APIs in RT-12643, now is the time!</li>
+	<li><strong>Dirk Lemmermann</strong> continues to post JavaFX-related tips, including '<a href="http://dlemmermann.wordpress.com/2014/07/14/javafx-tip-8-beauty-is-skin-deep/">Beauty is Skin Deep</a>', '<a href="http://dlemmermann.wordpress.com/2014/07/17/javafx-tip-9-do-not-mix-swing-javafx/">Do Not Mix Swing / JavaFX</a>', '<a href="http://dlemmermann.wordpress.com/2014/07/18/javafx-tip-10-custom-composite-controls/">Custom Composite Controls</a>', and '<a href="http://dlemmermann.wordpress.com/2014/07/18/javafx-tip-11-updating-read-only-properties/">Updating Read-Only Properties</a>'.</li>
+	<li>One area that I've seen a few people working on recently is support for detaching tabs from a TabPane in JavaFX. This is something I would love to see one day in JavaFX itself. This week <strong>Jens Deters</strong> offers up <a href="http://www.jensd.de/wordpress/?p=1332">his implementation</a>, which looks very nice and polished.</li>
+	<li><strong>Geertjan Wielenga</strong> has posted about <a href="https://blogs.oracle.com/geertjan/entry/monet_tight_javafx_scene_builder">Monet</a>, a project which offers tight JavaFX Scene Builder integration in NetBeans IDE, developed by <strong>Sven Reimers</strong>.</li>
+	<li><strong>Josh Juneau</strong> has an article in the latest Java Magazine about <a href="http://www.oraclejavamagazine-digital.com/javamagazine_open/20140708#pg68">JavaFX with alternative languages</a>.</li>
+	<li><strong>Alexander Casall</strong> has a post about <a href="http://blog.buildpath.de/javafx-decouple-the-view-and-its-behavior-to-create-a-testable-ui/">decoupling the view and its behavior</a> in JavaFX to create a testable UI.</li>
+</ul>
+<p>Catch you all again next week!</p>
+]]></Content>
+	</post>

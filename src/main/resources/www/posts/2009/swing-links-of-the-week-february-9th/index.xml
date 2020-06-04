@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>240</ID>
+		<Slug>swing-links-of-the-week-february-9th</Slug>
+		<Title>Swing links of the week, February 9th</Title>
+		<Date>2009-02-08</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>java|swing|Swing Links</Tags>
+		<Content><![CDATA[<p>A little quiet this week, as the Swing 2.0 discussion carried on, primarily on this blog and fueled by a response by Danny Coward on his blog. In addition, JavaFX is getting geared up for its next release, so I'm guessing following that a lot of news will come out.</p>
+<h3>Swing:</h3>
+<ul>
+ 	<li>As mentioned, <strong>Danny Coward</strong> from Sun<a href="http://blogs.sun.com/theplanetarium/entry/the_future_of_swing"> responded to the Swing 2.0 call</a>, with the basic summary being that Swing 2.0 is not a primary focus. I <a href="/posts/2009/swing-20-where-to-from-here/">responded to his comments in a bit more detail on my own blog</a>. Coincidently, the latest <a href="http://javaposse.com/index.php?post_id=430918">JavaPosse newscast (#229)</a> mentions the Swing 2.0 'movement' and they give it their seal of approval.</li>
+ 	<li>The <a href="https://pointlayout.dev.java.net/">PointLayout project</a> was announced by <strong>Ryan Williams</strong> this week. I haven't had a play with it yet, but in my opinion it doesn't appear to add any value that would make it worth trying out. You can see a <a href="https://pointlayout.dev.java.net/files/documents/9979/125098/first_tutorial.html">code demonstration</a>, so please form your own opinions.</li>
+ 	<li><strong>Jacek Furmankiewicz</strong> has <a href="http://java.dzone.com/announcements/swing-javabuilder-03beta">announced the 0.3 beta release</a> of the <a href="http://code.google.com/p/javabuilders/">Swing JavaBuilder project</a>. Swing JavaBuilder is an engine that tries to maximise developer productivity via declaring Swing UIs in YAML. A <a href="http://www.scribd.com/doc/10246141/Swing-JavaBuilder">free online book is available for more details</a>.</li>
+ 	<li><strong>Ken Orr</strong> posts code to <a href="http://explodingpixels.wordpress.com/2009/02/01/creating-a-hud-style-check-box/">demonstrate how to create a HUD style check box</a>.</li>
+</ul>
+<h3>JavaFX:</h3>
+<ul>
+ 	<li><strong>Dean Iverson</strong> posted a blog <a href="http://learnjavafx.typepad.com/weblog/2009/02/miglayout-comes-to-javafx.html">announcing that MigLayout was available for JavaFX</a>.</li>
+ 	<li><strong>Josh Marinacci</strong> has posted a blog post that <a href="http://weblogs.java.net/blog/joshy/archive/2009/02/there_is_no_jav.html">clarifies that there is no 'JavaFX Mobile' - it's all just JavaFX</a>. He says that he has managed to run a JavaFX program on a mobile phone. Of course, one major caveat exists: the 'Mobile Profile' doesn't support Swing, so any JavaFX app that uses Swing can't go onto a phone. Josh suggests that soon there will be components that are JavaFX-based so Swing won't be necessary. So, whilst there is "One SDK, one set of tools, one language, one set of APIs", there is also a need for consideration if you intend to go cross-platform. So, despite there not being a 'JavaFX Mobile' brand, there clearly is a need to target the common profile, which restricts the APIs that you can use. What profile do other JavaFX developers out there use? I'm thinking common as apparently no one cares about Swing anymore :P</li>
+ 	<li><strong>Carol McDonald</strong> has just posted a <a href="http://blogs.sun.com/carolmcdonald/entry/pet_catalog_javafx_example_application">blog entry that creates a sample JavaFX application for showing a pet catalogue</a>. It is a simple JavaFX application that displays pet photos retrieved from a RESTful Pet Catalog app (implemented using JAX-RS).</li>
+ 	<li>The <a href="http://blogs.sun.com/javafx/entry/cool_javafx_blogs">JavaFX blog links to a number of blogs</a> that are discussing interesting things happening in the JavaFX world. To quote that post directly:
+<ul>
+ 	<li><a href="http://stuartmarks.wordpress.com/category/javafx/">Stuart Marks</a> blogs about interesting language details of JavaFX Script.</li>
+ 	<li><a href="http://piliq.com/javafx/">The JavaFX Journey</a> is one developers experiences building JavaFX games like Tower Defense and Missle Defender.</li>
+ 	<li><a href="http://blogs.citytechinc.com/sanderson/?tag=javafx">Sten Anderson</a> has some interesting visualization experiments with tag clouds.</li>
+ 	<li><a href="http://learnjavafx.typepad.com/weblog/2009/01/spotlight-effects-with-javafx.html">And of course Jim Weaver continues to blog</a>, this time on how to use Effects APIs to do fun things.</li>
+</ul>
+</li>
+</ul>
+<h3>Griffon:</h3>
+<p>Unfortunately, I am not skilled in the way of Griffon yet, but I've got a few people who, like crack dealers, are trying to get me hooked. In summary, Griffon is a Grails like application framework for developing desktop applications in Groovy. To appease them, here are some links they suggested I include:</p>
+<ul>
+ 	<li><a href="http://jameswilliams.be/blog/entry/133">Griffon now supports remote JNLP</a>. This means that Griffon can download JAR files from remote locations, instead of having them packaged with the application itself. This is especially useful when JARs are desktop specific, apparently as <a href="https://jogl.dev.java.net/">JOGL</a> is.</li>
+ 	<li>Speaking of Griffon and JOGL - <strong>James Williams</strong> has a blog post up about <a href="http://jameswilliams.be/blog/entry/134">creating JOGL applications in Griffon</a>.</li>
+</ul>
+<h3>Other:</h3>
+<ul>
+ 	<li><strong><span class="field-item">Jan Blankenhorn</span></strong> has a <a href="http://live.eclipse.org/node/650">webinar introducing the Eclipse RCP</a>. This webinar<span class="field-item"> will teach you how to create your first RCP application and extend it by using the Eclipse specific extension mechanism. They say that this will familiarise you with the basic structure of an RCP application and will give you a head start into RCP application development.</span></li>
+</ul>
+<p>That's all for this week: nice and short. Until next time - have a great week, and please keep in touch if you have news or thoughts on anything Java GUI related.</p>
+]]></Content>
+	</post>

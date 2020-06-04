@@ -1,0 +1,24 @@
+${include header}
+<body class="page">
+<div id="page" class="hfeed site">
+    ${include hero}
+    <div id="content" class="site-content">
+        <div id="primary" class="content-area">
+            <main id="main" class="site-main" role="main">
+                <article class="hentry">
+                    <header class="entry-header">
+                        <div class="entry-header-row">
+                            <div class="entry-header-column">
+                                <h1 class="entry-title">${title}</h1>
+                            </div>
+                        </div>
+                    </header>
+                    <div class="entry-content">
+                        ${content}
+                    </div>
+                </article>
+            </main>
+        </div>
+        ${include sidebar}
+    </div>
+${include footer}

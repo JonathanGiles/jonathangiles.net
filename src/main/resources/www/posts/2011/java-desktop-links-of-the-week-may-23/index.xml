@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1047</ID>
+		<Slug>java-desktop-links-of-the-week-may-23</Slug>
+		<Title>Java desktop links of the week, May 23</Title>
+		<Date>2011-05-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>Here we go with another week of Java desktop related links. Seeing as I was on vacation last week, I most probably missed some things. Feel free to post comments for links that I didn't include here.</p>
+<h4>Miscellaneous</h4>
+<ul>
+	<li>The JavaOne <a href="http://blogs.oracle.com/java/entry/javaone_call_for_papers_now_open">call for papers has nearly closed</a>! Get your submissions in today if you want to present / attend JavaOne 2011.</li>
+	<li>For people living in Brisbane (my current city) or Perth, <a href="http://www.oracle.com/us/dm/h2fy11/70892-apacfm10037745mpp136c003-oem-359658.html">Oracle is running Java Developer Days this week</a>. Brisbane is on Wednesday, and Perth is on Friday. I was asked to present, but due to being too busy actually coding JavaFX 2.0, you fortunately get a talented presenter instead (<strong>Angela Caicedo</strong>). I'll be there though, just in the audience instead :-)</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has put up three posts recently around his SteelSeries project. The first post details a <a href="http://harmoniccode.blogspot.com/2011/05/lineargradientpaint-wrapper.html">wrapper around the java.awt.LinearGradientPaint class</a> that Gerrit created as a helper for the SteelSeries library. The second post announces the <a href="http://harmoniccode.blogspot.com/2011/05/steelseries-392-update.html">release of SteelSeries 3.9.2</a>. The third post discusses <a href="http://harmoniccode.blogspot.com/2011/05/varying-gradients.html">varying gradients</a> in quite some depth.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Michael Heinrichs</strong> has blogged about <a href="http://blog.netopyr.com/2011/05/19/creating-javafx-properties/">creating JavaFX 2.0 properties</a>. This is a good read for anyone wanting to get to know some of the new JavaFX 2.0 APIs.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> announced the <a href="http://groovy.dzone.com/announcements/griffon-093-beta-1-released">release of Griffon 0.9.3-beta 1</a>, which sounds like quite an important release, fixing bugs that were introduced in the 0.9.2 release.</li>
+	<li><strong>Eric Wendelin</strong> presented on <a href="http://www.youtube.com/watch?v=8KTmm4YQJoM&amp;feature=youtu.be">Groovy-er Desktop Applications with Griffon</a>.</li>
+</ul>
+<p>That's all for this week. Catch you again in a weeks time with all the latest Java desktop links. I think next weeks post will be a very big one.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1024</ID>
+		<Slug>java-desktop-links-of-the-week-april-4</Slug>
+		<Title>Java desktop links of the week, April 4</Title>
+		<Date>2011-04-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome back to another week of Java desktop links. Hopefully we have something here that is of interest of you! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The <strong>Silicon Valley JavaFX Users Group</strong> has announced the next presentation will be given by <strong>Richard Bair</strong>, Java Client Architect at Oracle. Richard will be talking about <a href="http://www.svjugfx.org/events/16703135/">all things JavaFX 2.0 related</a>. It's on April 13th at 6:00pm. There is also a live stream for those of us not in the Silicon Valley area (which I will be on).</li>
+	<li><strong>Tom Eugelink</strong> has been developing using JavaFX 2.0 EA and has <a href="http://tbeernot.wordpress.com/2011/04/02/javafx-2-0-ea-binding/">provided his feedback on the current API</a> (which is very much in a state of flux still!).</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Artem Ananiev</strong> posted <a href="http://mail.openjdk.java.net/pipermail/macosx-port-dev/2011-March/000198.html">asking for a review request</a> of the initial check-in for Cocoa-based AWT and lightweight peers in the OpenJDK. You can <a href="http://wikis.sun.com/display/OpenJDK/Mac+OS+X+Port+Project+Status">track the Mac OS X port status</a> also.<strong></strong></li>
+	<li><strong>Christopher Deckers</strong> let me know that the <a href="http://djproject.sourceforge.net/ns/">DJ Native Swing project</a> has had a new release, taking it up to version 1.0.1. This project allows embedding several native components (including web browsers, flash players, HTML editor, VLC player, etc) in a Swing application, and works on Windows, Linux and Mac (a few specific features don't work on Mac though).</li>
+	<li><strong>René Jahn</strong> let me know that <a href="http://www.sibvisions.com/jvx">JVx</a> has had a <a href="http://blog.sibvisions.com/2011/04/01/jvx-0-9/">0.9 release</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has blogged about '<a href="http://www.joshondesign.com/2011/04/02/amino-2-buffering-roadmap-and-a-new-domain/">buffering, roadmap and a new domain</a>' for Amino 2.</li>
+</ul>
+<p>That's us for another week. Thanks to everyone who takes the time to email me links - keep it up! :-) Catch you in a weeks time.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p><div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;"></p>
+
+<pre>Christopher</pre>
+
+<p></div></p>
+]]></Content>
+	</post>

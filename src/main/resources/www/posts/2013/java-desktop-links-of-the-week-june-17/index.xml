@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1479</ID>
+		<Slug>java-desktop-links-of-the-week-june-17</Slug>
+		<Title>Java desktop links of the week, June 17</Title>
+		<Date>2013-06-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week, another bunch of links. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jide Software</strong> released three blog posts giving a good overview of some of the new controls / libraries that are in their new JideFX beta release. This includes <a href="http://www.jidesoft.com/blog/2013/06/10/highlights-of-the-jidefx-beta-release-1-of-3/">formatted TextFields</a>, <a href="http://www.jidesoft.com/blog/2013/06/11/highlights-of-the-jidefx-beta-release-2-of-3/">decoration pane</a>, and <a href="http://www.jidesoft.com/blog/2013/06/11/highlights-of-the-jidefx-beta-release-3-of-3/">validation support</a>. If you're building JavaFX applications you really should check out what the community is starting to make available. For reference, you might want to check out <a href="http://www.jidesoft.com/blog/2013/06/06/jidefx-beta-release/">JideFX</a>, <a href="http://jfxtras.org">JFXtras </a>and <a href="http://controlsfx.org">ControlsFX</a>.</li>
+	<li><strong>José Pereda</strong> has a long and detailed post on <a href="http://jperedadnr.blogspot.co.nz/2013/06/leap-motion-controller-and-javafx-new.html">integrating the Leap Motion Controller with JavaFX</a> (and interacting with 3D models by waving his hand over his desk).</li>
+	<li><strong>Gerrit Grunwald</strong> has posted screenshots and details of his work on <a href="http://harmoniccode.blogspot.de/2013/06/javafx-nixieclock-on-ipad.html">getting his JavaFX code running on iOS</a>.</li>
+	<li><strong>Narayan Maharjan</strong> has a post about <a href="http://blog.ngopal.com.np/2013/06/14/lights-in-javafx-3d/">lights in JavaFX 3D</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> has a post detailing his findings on <a href="http://pixelduke.wordpress.com/2013/06/16/integrating-javafx-and-swing-revised/">integrating JavaFX and Swing code in a single application</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has a post titled "<a href="https://blogs.oracle.com/geertjan/entry/webview_htmleditor_a_tale_of">JavaFX WebView &amp; JavaFX HTMLEditor: A Tale of Two Cities</a>". In short, he has extended the JavaFX HTMLEditor control to "search through all the text prior to rendering and uses the file protocol to locally locate images and CSS". This allows for the HTMLEditor control to show pictures within the editor window, something it does not currently support (but for which <a href="https://javafx-jira.kenai.com/browse/RT-30486">a Jira issue does exist</a>).</li>
+	<li><strong>Carl Dea</strong> has published the <a href="https://github.com/carldea/KeyholeWidget">source code</a> for his JavaFX 8.0 KeyholeWidget control.</li>
+	<li><strong>Cédric Champeau</strong> has <a href="https://github.com/melix/deck2pdf#readme">published code</a> that converts a deck.js slide deck to PDF by using JavaFX WebView to render each slide and then output a PDF containing the render of all slides.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jide Software</strong> has announced the <a href="http://www.jidesoft.com/history/">release of version 3.5.6 of their suite of libraries</a>. This release appears to be mostly a bug fix release, with a large number of bugs fixed.</li>
+	<li><strong>Mario Torre</strong> has posted on <a href="http://www.jroller.com/neugens/entry/font_awesome">how to use Font Awesome in Swing applications</a>. <strong>Mario</strong> describes Font Awesome as follows: "The idea is pretty clever, basically embedding <a title="http://www.w3.org/TR/SVG/fonts.html" href="http://www.w3.org/TR/SVG/fonts.html">SVG</a> descriptions of icons inside a true type font so that they can be referenced by their unicode id. So you basically can add to your web page with just the magic of a little CSS, those fantastic icons anywhere a font could go."</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

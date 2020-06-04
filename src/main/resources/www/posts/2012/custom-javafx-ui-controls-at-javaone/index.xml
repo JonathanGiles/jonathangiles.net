@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1321</ID>
+		<Slug>custom-javafx-ui-controls-at-javaone</Slug>
+		<Title>Custom JavaFX UI controls at JavaOne</Title>
+		<Date>2012-09-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Well, isn't this novel - a blog post that isn't simply the weekly Java desktop links! :-) I really should try to blog more, and I do occasionally over at <a href="http://www.fxexperience.com">FX Experience</a>, but I will try my best to keep this site more up to date!</p>
+
+<p>So, today's post is in conjunction with <strong>Gerrit Grunwald</strong>, who <a href="http://harmoniccode.blogspot.de/2012/09/java-one-2012-information.html">has posted</a> a similar post over at <a href="http://harmoniccode.blogspot.com">his blog</a>. Essentially, I realised early on in the JavaOne review process (I was fortunate enough to be part of the <a href="http://www.oracle.com/javaone/quick-links/program-committee/index.html#javafx">JavaOne review committee</a> again this year) that there were two 'custom JavaFX UI Controls' sessions lined up for JavaOne. After chatting with Gerrit recently it became obvious that his slides covered precisely the same topics that <strong>Paru Somashekar</strong> and I were going to cover in our talk. Gerrit won the lottery and had his talk scheduled prior to the talk Paru and I were giving (by something like four hours on the Wednesday of JavaOne). Because of this, Paru and I have decided to completely change our session to be more BOF-like - we'll accept questions throughout, and whilst we will have a few slides (covering a few worked examples we've developed, and discussing the future of UI controls), we'd really just love to not need them (unless someone has a question that makes them relevant).</p>
+
+<p>Paru and I will both attend Gerrit's session, and he'll be attending ours. Paru and I will happily answer questions posed in Gerrit's session (if he defers to us), and we'd happily have him answer questions in our session. In other words, it would be great if you can attend both sessions, but if you can't you need to decide whether you want to learn about the JavaFX UI controls API and how to build controls (from Gerrit), or whether you have a burning question you need answered (in which case, I hope you'll come to my session with Paru).</p>
+
+<p>Finally, I'm really looking forward to catching up with everyone at JavaOne - if you spot me and want to chat, by all means start chatting to me! :-)</p>
+
+<p>&nbsp;</p>
+]]></Content>
+	</post>

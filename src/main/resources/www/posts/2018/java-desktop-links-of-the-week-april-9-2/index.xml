@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3024</ID>
+		<Slug>java-desktop-links-of-the-week-april-9-2</Slug>
+		<Title>Java desktop links of the week, April 9</Title>
+		<Date>2018-04-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A heap of links - enjoy! :-)</p>
+<ul>
+ 	<li><a href="http://blog.leaningtech.com/2018/03/announcing-cheerpj-1.html">CheerpJ 1.0 has been released</a>,&nbsp;a "Java-to-JavaScript solution to automatically convert any Java application to an HTML5 web app." CheerpJ is a <a href="https://leaningtech.com/cheerpj/index.html">commercial library</a> with free licenses for non-commercial use. I tried the <a href="https://cheerpjdemos.leaningtech.com/SwingDemo.html#demo">Swing Demo page</a> but found it to be quite slow and I ran into errors (e.g the text field demo recorded two key inputs for every key press I actually did, and there were a number of odd visual glitches / lagginess).</li>
+ 	<li>Slightly related, JPro have also announced their <a href="https://www.jpro.one">JavaFX-in-the-browser release</a>. Unlike CheerpJ, I believe JPro works by having the application run on the server, and sends across SVG details to be rendered on the client. This places more burden on the server-side, and also results in some <a href="https://www.jpro.one/?page=docs/current/1.8/JPRO%20CHECKLIST">important restrictions</a> (no FX event thread blocking for dialogs, etc, no statics in your app (because they will be shared among all users and clobbered or read in by different users), no additional stages can be created, etc). JPro <a href="https://www.jpro.one/?page=demos">host an array of demos running on their server</a> if you're interested.</li>
+ 	<li><strong>Johan Vos</strong> has blogged about creating a <a href="https://medium.com/@johanvos_42743/a-shell-for-prototyping-scientific-java-applications-913463b530fb">shell for prototyping scientific Java applications</a>.</li>
+ 	<li><strong>Dirk Lemmermann</strong> has worked with a student team to create <a href="https://github.com/dlemmermann/PreferencesFX">PreferencesFX</a>.&nbsp;PreferencesFX "enables the developer to create preference dialogs with ease and creates well-designed and user-friendly preference dialogs by default."</li>
+ 	<li><strong>Christoph Nahr</strong> has two posts this week. Firstly, a post about <a href="http://news.kynosarges.org/2018/03/26/javafx-decoupled-from-java-se-11/">JavaFX being decoupled from Java SE 11</a>. Secondly, a post on <a href="http://news.kynosarges.org/2018/04/08/3dviewer-better-3d-for-javafx/">3DViewer</a> - viewing 3D objects in JavaFX.</li>
+ 	<li><strong>Mike Hearn</strong> has posted about <a href="https://blog.plan99.net/reacts-tictactoe-tutorial-in-kotlin-javafx-715c75a947d2">building the React TicTacToe tutorial app in Kotlin/JavaFX</a>.</li>
+ 	<li><strong>Jeff Martin</strong> has <a href="https://reportmill.wordpress.com/2018/04/05/snapkit-builder-updates/">updated SnapKit Builder</a> recently.</li>
+ 	<li><strong>GOXR3PLUS STUDIO</strong> have emailed me to say that they have "created a <a href="https://github.com/goxr3plus/XR3Player">Chromium Browser in JavaFX and added it to XR3Player</a>". I was also informed about <a href="https://github.com/goxr3plus/FX-BorderlessScene">FX-BorderlessScene</a>, an "undecorated JavaFX Scene with implemented move, resize, minimise, maximise, close and Windows Aero Snap controls."</li>
+ 	<li>Speaking of undecorated stages,&nbsp;<strong>Oshan Mendis</strong> has also <a href="https://github.com/Oshan96/CustomStage">created a library for doing this</a>.</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2573</ID>
+		<Slug>java-desktop-links-of-the-week-september-25</Slug>
+		<Title>Java desktop links of the week, September 25</Title>
+		<Date>2017-09-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>It's the week before JavaOne, and it will be a very interesting week for attendees and those playing at home. Here's the links from the past week (or two) related to Java client, enjoy :-)</p>
+<ul>
+ 	<li>I just <a href="http://fxexperience.com/controlsfx/">released ControlsFX 8.40.14 and 9.0.0</a>. This brings bug fixes, translation improvements, and of course Java 9 support.</li>
+ 	<li><strong>José Pereda</strong> has released <a href="https://bintray.com/jpereda/FXyz3D/fxyz3d/0.2.0">fxyz3d 0.2.0</a>.</li>
+ 	<li><strong>Dirk Lemmermann</strong> has released a new form generation project called <a href="http://dlsc.com/2017/09/12/new-kid-on-the-blog-formsfx/">FormsFX</a> (not to be mistaken with <a href="https://github.com/dooApp/FXForm2">FXForm</a>!). There is also a <a href="https://www.slideshare.net/DirkLemmermann/introduction-to-formsfx/1">slide deck</a> you can peruse.</li>
+ 	<li><strong>Wim Deblauwe</strong> has blogged about <a href="https://wimdeblauwe.wordpress.com/2017/09/18/using-spring-boot-with-javafx/">using Spring Boot with JavaFX</a>.</li>
+ 	<li><strong>Justin Biard</strong> has blogged about&nbsp;<a href="https://icodealot.com/update-knockout-js-viewmodels-from-nashorn/">updating Knockout.js view models in JavaFX WebViews from Nashorn</a>.</li>
+ 	<li><strong>Jyloo Software</strong> has announced that&nbsp;<a href="http://www.jyloo.com/news/?pubId=1504609215000">SyntheticaFX for Java 9</a> has been released. They have also <a href="http://www.jyloo.com/news/?pubId=1504792044000">updated Synthetica / SyntheticaAddons</a> to version 3 to take into account Java 9 modules, as well as bring in a bunch of new features.</li>
+ 	<li>The <strong>Zapsi</strong> blog has a lot of <a href="http://www.zapsi.eu/en/blog">interesting posts on various projects</a>, many of which make use of JavaFX.</li>
+</ul>
+]]></Content>
+	</post>

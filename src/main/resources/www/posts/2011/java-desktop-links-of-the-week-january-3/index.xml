@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>981</ID>
+		<Slug>java-desktop-links-of-the-week-january-3</Slug>
+		<Title>Java desktop links of the week, January 3</Title>
+		<Date>2011-01-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|swing</Tags>
+		<Content><![CDATA[<p>Welcome to the first post of Java desktop links of the week in 2011. Looking ahead this year is exciting for me as we (at Oracle) work towards the first release JavaFX 2.0, winding our way through early access in Q1 and beta releases in Q2. But this blog isn't just about JavaFX - I'm more than happy to cover any Java desktop related post, and I just want to thank every person that takes the time out to read this blog, or who emails me, whether it be for a link, a question, or a compliment. Keep it up :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Eugene Ryzhikov</strong> has <a href="http://eugene.ryzhikov.com/swing-taskdialog-12-release">released version 1.2 of the Swing TaskDialog component</a> that he has been developing for quite some time. This is a very nice library for anyone wanting the task dialog that was introduced in Windows Vista. The release includes both enhancements and fixes to several reported issues, with the main addition being a Task Dialog Builder to simplify building dialogs.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Rich F</strong> has blogged about '<a href="http://chariotsolutions.blogspot.com/2010/12/painless-java-desktop-application.html">Painless Java Desktop Application Development with Griffon, MigLayout, and IntelliJ</a>'.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci </strong>has put out a remixed release of Leonardo called '<a href="http://leonardosketch.org/2010/12/170/">Ruby Red Remixed</a>'. As he puts it, "the next major release of Leonardo, Glowing Green, is still a work in  progress. However, we didn’t want you to have to wait until 2011 for  some cool new stuff. So for New Years Eve we’ve got a new release called  Ruby Red Remixed with some great new features and tons of bug fixes."</li>
+</ul>
+<p>Short and sweet - that's us for another week! Now, as for me, it's back to packing up before I fly out to Australia for a year, starting on Thursday. Catch you all again next week!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>757</ID>
+		<Slug>java-desktop-links-of-the-week-march-22</Slug>
+		<Title>Java desktop links of the week, March 22</Title>
+		<Date>2010-03-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A quiet week this week, with no major news coming out in either the Swing or JavaFX camps. Still, there are a few interesting links this week, which I've included below. Enjoy :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has announced a number of <a href="http://www.pushing-pixels.org/?p=1659">new release candidates for his projects</a>.</li>
+	<li><strong>Kathryn Huxtable</strong> has published the <a href="http://www.kathrynhuxtable.org/projects/site/seaglasslookandfeel/client-properties.html">client properties for the new Sea Glass look and feel</a>, which looks very nice.</li>
+	<li><strong>Jyloo Software</strong> published another article this week, this time on <a href="http://www.jyloo.com/news/?pubId=1268844895000">non-rectangular window decoration</a> when using their Synthetica look and feel. They also announced that <a href="http://www.jyloo.com/news/?pubId=1268922030000">SyntheticaAddons 1.1.0 have been released</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Geertjan Wielenga</strong> has posted about work the NetBeans platform developers are undertaking to make it possible to <a href="http://netbeans.dzone.com/javafx-in-netbeans-platform">embed JavaFX inside NetBeans applications</a> (i.e. built above the RCP).</li>
+	<li><strong>Sten Anderson</strong> has released the source code for a <a href="http://blogs.citytechinc.com/sanderson/?p=328">JavaFX family tree visualiser</a> and a <a href="http://blogs.citytechinc.com/sanderson/?p=350">tag visualiser</a>.</li>
+	<li><strong>Jim Weaver</strong> has updated the JavaFX RIA challenge by changing the deadline to be <a href="http://learnjavafx.typepad.com/weblog/2010/03/ria-exemplar-challenge-deadline-extended-to-javafx-sdk-13-30-days.html">30 days after the release of JavaFX 1.3</a>.</li>
+	<li><strong>Patrick Champion</strong> has continued his series of posts on <a href="http://paddyweblog.blogspot.com/2010/03/javafx-and-jpa-20-with-my-custom.html">JPA 2.0 and JavaFX</a>. I'm very, very pleased to see more focus is going on JavaFX breaking into the enterprise. The number of JavaOne proposals I reviewed in this area was staggering, which is, again, very, very pleasing.</li>
+	<li><strong>Antoine  Mischler</strong> has a post talking about <a href="http://blog.dooapp.com/unit-testing-your-javafx-application">how to unit test your JavaFX application</a> using JFrog and Maven. Within Oracle we just directly use JUnit for testing purposes, and that tends to work very well.</li>
+</ul>
+<p>That's it for another week. Keep on working and blogging about your successes (and failures too) - catch you all again next week :-)</p>
+]]></Content>
+	</post>

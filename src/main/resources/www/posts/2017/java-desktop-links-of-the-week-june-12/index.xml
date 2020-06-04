@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2514</ID>
+		<Slug>java-desktop-links-of-the-week-june-12</Slug>
+		<Title>Java desktop links of the week, June 12</Title>
+		<Date>2017-06-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A good number of links this week! Everyone is clearly working hard :-)</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> continues to add <a href="https://harmoniccode.blogspot.co.nz/2017/06/another-new-tilesfx-skin.html">skins to TilesFX</a>, his dashboard library for JavaFX.</li>
+ 	<li><strong>Tom Eugelink</strong> has written about '<a href="https://tbeernot.wordpress.com/2017/06/05/the-art-of-waiting/">the art of waiting</a>', where he looks into asynchronous communication with APIs such as CompleteableFuture, RxJava, and JDeferred.</li>
+ 	<li><strong>William Antonio</strong> has written a cool post displaying an app that <a href="http://fxapps.blogspot.co.nz/2017/06/recognizing-handwritten-digits-from.html?spref=tw">recognises&nbsp;handwritten digits</a> using Deeplearning4j and JavaFX.</li>
+ 	<li><strong>Johan Vos</strong> has written about <a href="https://jaxenter.com/taking-closer-look-javafx-134565.html">taking a closer look at JavaFX</a>.</li>
+ 	<li><strong>Alexej Sailer</strong> has open source a <a href="https://github.com/alexejsailer/FXGraphs">simple graphs library</a> for JavaFX.</li>
+ 	<li><strong>Andres Almiray</strong> has posted about how to '<a href="http://andresalmiray.com/boost-your-javafx-applications-with-griffon/">boost your JavaFX applications with Griffon</a>'.</li>
+ 	<li>The Musicott music manager / player <a href="http://octaviospain.github.io/Musicott/">continues to be developed</a>. As an open source project using a number of other open source libraries, it is a good project for others to consider learning from.</li>
+</ul>
+]]></Content>
+	</post>

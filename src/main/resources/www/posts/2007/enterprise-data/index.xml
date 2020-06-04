@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>126</ID>
+		<Slug>enterprise-data</Slug>
+		<Title>Enterprise Data</Title>
+		<Date>2007-11-07</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>Centruflow</Tags>
+		<Content><![CDATA[<p>I like to say to people that <a href="http://www.centruflow.com" target="_blank">Centruflow</a> helps to solve the problem of "too much data, not enough information". It does this by basically being pointed at your sources of data, and (without manipulating your data at all) creating a live visualisation atop of it. This visualisation is based on the concept of nodes and edges (as opposed to the more common use of the term 'graph' to mean bar charts, etc). It allows for you to explore your data as information.</p>
+
+<p>I like to differentiate data and information, with the key differentiator being that information is actionable. Of course, anyone can make data transform into information, it's just a matter of time really. The other problem is that data changes, and so therefore so too does your information. Centruflow does nothing that you couldn't do in Visio or whichever diagramming tool you like, if you were happy to manually maintain these images - Centruflow uses the live data from your database.</p>
+
+<p>If you are having trouble with too much data and not enough information, you should get in touch with <a href="http://www.centruflow.com" target="_blank">Centruflow</a> to see how the software can help you and/or your business.</p>
+]]></Content>
+	</post>

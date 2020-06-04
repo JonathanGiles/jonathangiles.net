@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1220</ID>
+		<Slug>java-desktop-links-of-the-week-march-26</Slug>
+		<Title>Java desktop links of the week, March 26</Title>
+		<Date>2012-03-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Welcome folks to another weekly roundup. Keep up the great work everyone! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+ 	<li><a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">Build 18 of the JavaFX 2.1 Developer Preview</a> release is now available for download. We are getting a long way down the release cycle now.</li>
+ 	<li>The Asia-Pacific <a href="https://oracle.6connex.com/portal/java/login">Virtual Developer Day</a> is coming up tomorrow. Attend to learn about JavaFX and what is new in Java 7. I'll be there providing support.</li>
+ 	<li><strong>Angela Caicedo </strong>has posted a video about how to <a href="http://www.youtube.com/watch?v=V9WvM3w9kiE">get started using the Scene Builder tool</a>. This is your first chance to see it in action.<strong>
+</strong></li>
+ 	<li><strong>Tom Schindl</strong> has <a href="http://tomsondev.bestsolution.at/2012/03/22/efxclipse-0-0-13-released/">released e(fx)clipse 0.0.13</a>, which includes a bunch of new stuff.</li>
+ 	<li>I started a series of interviews with people inside and outside of Oracle who are all members of the JavaFX community. In the past week, I published interviews with <a href="http://fxexperience.com/2012/03/interview-with-carl-dea/">book author Carl Dea</a>, and SteelSeriesFX developer <a href="http://fxexperience.com/2012/03/interview-with-gerrit-grunwald/">Gerrit Grunwald</a>. I have more interviews to publish in the coming months.</li>
+ 	<li>Speaking of <strong>Carl Dea</strong>, he was also <a href="http://www.oracle.com/us/syndication/podcasts/author-podcasts-171736.html">interviewed</a> by <strong>Nicolas Lorain</strong> about his <a href="http://www.apress.com/9781430242574">recently released JavaFX 2 book</a>.</li>
+ 	<li><strong>Eric Bruno</strong> has blogged about <a href="http://drdobbs.com/blogs/jvm/232700121">simple searching in JavaFX</a> (using a TextField to filter a ListView).</li>
+ 	<li><strong>Hugues Johnson</strong> has created a <a href="http://huguesjohnson.com/programming/java/javafx-treeview-browser/">file browser demo application</a>. I would like to add that he says the sample in the <a href="http://docs.oracle.com/javafx/2.0/api/javafx/scene/control/TreeItem.html">TreeItem JavaDoc</a> (which I wrote) builds up the entire directory structure recursively at startup. This is incorrect - the sample actually builds the tree structure on-demand.</li>
+ 	<li><strong>Dan Zwolenski</strong> has published three posts this week. Firstly, about <a href="http://www.zenjava.com/2012/03/19/javafx-and-persistence-adding-database-support/">adding database support to a JavaFX application</a>, secondly about adding <a href="http://www.zenjava.com/2012/03/20/search-like-you-mean-it/">search support</a>, and finally about <a href="http://www.zenjava.com/2012/03/23/captains-log/">software logging</a>.</li>
+ 	<li><strong>introjava</strong> blogged about <a href="http://introjava.wordpress.com/2012/03/22/working-with-javafx-2-layout-managers/">working with JavaFX 2 layouts</a>, and also <a href="http://introjava.wordpress.com/2012/03/23/java-fx-2-linear-gradients/">working with JavaFX 2 linear gradients</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> has put out another of his <a href="http://harmoniccode.blogspot.de/2012/03/friday-fun-component-xvi.html">Friday Fun Component releases</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+ 	<li><strong>Josh Marinacci</strong> has split out his <a href="https://github.com/joshmarinacci/AppBundler">AppBundler project</a> out into its own Github repository. AppBundler is an Ant task for packaging up desktop Java apps as native executables. He mentioned to me that he is on the lookout for contributors who could help with JavaFX, OpenJDK embedding, &nbsp;and Linux support.</li>
+</ul>
+<p>For the next two weeks I'll be in Japan, but these posts will be continuing thanks to a guest poster I'll introduce next week.</p>
+<h1 class="fullname">Hugues Johnson</h1>
+]]></Content>
+	</post>

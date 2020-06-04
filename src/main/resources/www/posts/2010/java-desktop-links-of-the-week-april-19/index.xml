@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>780</ID>
+		<Slug>java-desktop-links-of-the-week-april-19</Slug>
+		<Title>Java desktop links of the week, April 19</Title>
+		<Date>2010-04-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Hey all, thanks for turning up for another round of Java desktop links this week. Fortunately for you, there are a bunch of interesting links this week, particularly if you're a fan of the new 'Kirill Grouchnikov' section which is making a special one-week-only appearance, for easily justifiable reasons.</p>
+
+<p>Just a FYI: for the next two weeks I'm in Silicon Valley so whilst I'll try to post new links I can't guarantee anything. Be prepared for some silence, and perhaps <a href="http://www.twitter.com/JonathanGiles">follow me on twitter</a> - perhaps I'll post interesting links straight to there for a few weeks as well.</p>
+<h4>Kirill Grouchnikov (i.e. Swing pt1)</h4>
+<ul>
+	<li>The <strong>Kirill Grouchnikov</strong> release train has left the station! Because there are a bunch of releases, I'll link to each individually.</li>
+	<li>First, <strong>Kirill</strong> has <a href="http://www.pushing-pixels.org/?p=1746">released version 6.0 of the Substance look and feel</a>, which has a huge number of improvements. If you use Substance, you should consider upgrading as soon as possible.</li>
+	<li>Secondly, <strong>Kirill</strong> has <a href="http://www.pushing-pixels.org/?p=1749">released version 1.2 of the Trident animation engine</a>. Trident is now used within Substance for all animation effects, so you can be certain it is a sturdy library.</li>
+	<li>Thirdly, <strong>Kirill</strong> released a bunch of <a href="http://www.pushing-pixels.org/?p=1753">other miscellaneous updates for his projects</a>, including Laf-Plugin, Laf-Widget, Lightbeam, and Rainbow. In the same post he mentions that he was unable to release Substance Flamingo 5.0 (his Swing Ribbon project) today. He says that Flamingo 5.0 will be released in conjunction with Substance 6.1.</li>
+	<li>But, to not disappoint, <strong>Kirill</strong> has also been pushing pixels on Flamingo 5.0dev, <a href="http://www.pushing-pixels.org/?p=1767">improving the alignment of content</a>. It's the small tweaks like this that count :-)</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Eugene Ryzhikov</strong> continues work on his Swing Task Dialog project, this week nearing the 1.0 release with a release candidate which adds <a href="http://mcoj.wordpress.com/2010/04/18/swinging-task-dialog-part-5/">support for Command Links</a>, which is a part of the Windows Vista / 7 user interface. Frankly he's done a very nice job and I wish this kind of component was around in the past - I could have used it :-)</li>
+	<li><strong>Simon Albers</strong> has a very comprehensive and interesting post about <a href="http://www.centigrade.de/en/blog/article/frosted-glass-on-the-java-desktop/">creating the frosted glass look in Java</a>, that is particularly common on Windows Vista / 7.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Robert Eckstein</strong> has just put out an article on the Sun Developer Network website covering <a href="http://java.sun.com/developer/technicalArticles/javafx/ui_part2/index.html">JavaFX 1.2 UI controls, particularly Buttons</a>.</li>
+	<li><strong>Sten Anderson</strong> has blogged about <a href="http://blogs.citytechinc.com/sanderson/?p=385">flipping nodes with the JavaFX PerspectiveTransform</a>. This is a good read (aside from the Nickelback images), as it gives a few pointers you may not realise otherwise.</li>
+	<li><strong>Rakesh Menon</strong> has posted about creating a generic <a href="http://rakeshmenonp.wordpress.com/2010/04/15/javafx-oauth/">OAuth implementation in JavaFX</a>. This might be a very useful starting point for people who intend to connect to OAuth-based web services in JavaFX.</li>
+	<li>The Exadel JavaFX Plug-In for Eclipse <a href="http://java.dzone.com/articles/exadel-javafx-plug-eclipse">has been featured on Javalobby.com</a>. If you want to develop JavaFX in Eclipse, you should consider this plugin.</li>
+	<li><strong>Cedarsoft</strong> have posted some <a href="http://blog.cedarsoft.com/2010/04/javafx-and-custom-controls/">tips and tricks about building controls in JavaFX</a>. It extends from a <a href="/posts/2010javafx-building-custom-controls/">post I did last year</a>, and I know it has proven useful to some people who have come to me with problems building controls recently.</li>
+	<li><strong>itssmee</strong> has created a JavaFX-based dashboard that shows <a href="http://itssmee.wordpress.com/2010/04/05/the-uk-economy-javafx-and-a-dashboard/">how the UK economy has progressed over the last 10 or so years</a>. It's quite an interesting, if a little limited (and slow).</li>
+	<li><strong>Mark Anro Silva</strong> has posted two code snippets. The first one is a <a href="http://glyphster.blogspot.com/2010/04/javafx-effect-example.html">simple effect example</a>, and the second what he refers to as a '<a href="http://glyphster.blogspot.com/2010/03/javafx-preloader.html">preloader</a>', but from the looks of it is a loading screen.</li>
+</ul>
+<p>That's all I've got. Thanks to the people emailing me interesting links. I'll catch you all again in (roughly) a weeks time (hopefully!).</p>
+]]></Content>
+	</post>

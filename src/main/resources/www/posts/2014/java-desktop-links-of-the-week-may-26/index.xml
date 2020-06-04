@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1733</ID>
+		<Slug>java-desktop-links-of-the-week-may-26</Slug>
+		<Title>Java desktop links of the week, May 26</Title>
+		<Date>2014-05-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>There is a heap of links this week, and I'm already running late, so lets just jump right into them. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has <a href="http://tomsondev.bestsolution.at/2014/05/21/efxclipse-all-in-one-updated-to-luna-rc1/">released an updated e(fx)clipse</a> all-in-one download, with the latest Luna RC1 code.</li>
+	<li><strong>Steven Van Impe</strong> has <a href="http://asipofjava.blogspot.co.nz/2014/05/classic-game-programming-pong.html">released his JavaFX game</a> on the <a href="http://asipofjava.blogspot.co.nz/2014/05/pong-aka-retro-game-i-available-in-app.html">iOS App Store</a>.</li>
+	<li><strong>Carl Dea</strong> has blogged about a new feature coming in JavaFX 8u20: <a href="http://carlfx.wordpress.com/2014/05/19/javafx-8u20-days-of-future-past-always-on-top/">support for always-on-top windows</a>.</li>
+	<li><strong>Florian Brunner</strong> has released <a href="http://puces-blog.blogspot.co.nz/2014/05/drombler-fx-javafx-8-support.html">Drombler FX 4.0</a>, which brings with it a minimum requirement of JavaFX 8.0.</li>
+	<li><strong>Rob Terpilowski</strong> has two posts this week. Firstly, he has <a href="http://rterp.wordpress.com/2014/05/19/gmapsfx-1-1-0/">released GMapsFX 1.1.0</a>, which includes a number of new features and bug fixes. Secondly, he has a post about how to <a href="http://rterp.wordpress.com/2014/05/21/adding-custom-javafx-components-to-scene-builder-2-0/">add custom components to Scene Builder 2.0</a>.</li>
+	<li><strong>Jens Deters</strong> has announced the <a href="http://www.jensd.de/wordpress/?p=1182">release of FontAwesomeFX 8.0.7</a>, which includes support for the recently released FontAwesome 4.1.0.</li>
+	<li><strong>Hendrik Ebbers</strong> has started work on some <a href="http://www.guigarage.com/2014/05/datafx-8-0-tutorials/">DataFX tutorials</a>. His first tutorial is a simple one to give <a href="http://www.guigarage.com/2014/05/datafx-tutorial-1/">you an understanding of DataFX</a>.</li>
+	<li><strong>Sébastien Bordes</strong> has posted a video of his <a href="http://blog.jrebirth.org/javafx/jrebirth-workbench-first-step/">first steps towards a workbench</a> in his JRebirth application framework library.</li>
+	<li><strong>Nathan Howard</strong> has posted a tutorial on <a href="http://blog.idrsolutions.com/2014/05/tutorial-change-color-space-swing-javafx/">how to change color space from Swing to JavaFX (and vice versa)</a>.</li>
+	<li><strong>Bertrand Goetzmann</strong> has started a port of <a href="https://github.com/AdamBien/afterburner.fx">afterburner.fx</a>, called <a href="https://bitbucket.org/bgoetzmann/afterburner.gfx/wiki/Home">afterburner.gfx</a> (not the 'g'). The difference? afterburner.gfx is designed to work with GroovyFX views.</li>
+	<li><strong>Christian Stancalau</strong> has a post on <a href="http://stancalau.ro/javafx-and-spring/">integrating JavaFX and Spring</a>.</li>
+	<li><strong>Dr Malcolm Lidierth</strong> let me know about <a href="http://waterloo.sourceforge.net/waterlooFX/">WaterlooFX</a>, an open source scientific charting library being written for JavaFX. There is an applet you can run on the linked site - very impressive work so far!</li>
+	<li>Speaking of charts, <strong>David Gilbert</strong> (of JFreeChart fame) contacted me about his work on an interesting open source project. I'll quote him "To get Orson Charts and JFreeChart (which are both Graphics2D based) working on JavaFX, I have created a Graphics2D implementation that draws to the JavaFX Canvas. The code is <a href="https://github.com/jfree/fxgraphics2d">posted to GitHub</a>.I included a simple demo that renders a (static) JFreeChart instance to a Canvas, plus a more extensive and interactive demo for Orson Charts." Great stuff</li>
+</ul>
+<p>That was the quickest Java desktop links post ever - sorry about the rush, things are a bit manic at the moment! :-) In any case, keep up the great work folks, you're doing an amazing job.</p>
+]]></Content>
+	</post>

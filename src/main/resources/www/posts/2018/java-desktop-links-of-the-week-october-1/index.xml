@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3161</ID>
+		<Slug>java-desktop-links-of-the-week-october-1</Slug>
+		<Title>Java desktop links of the week, October 1</Title>
+		<Date>2018-09-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>We've hit October already! It is crazy how fast the years are racing by, which is why it is so important to take this moment to recognise the people doing contributions to Java on the client. Here's the links of the week - enjoy :-)</p>
+<ul>
+ 	<li><strong>Florian Brunner</strong> has an update on his&nbsp;Drombler JStore project. There are now <a href="https://puces-blog.blogspot.com/2018/09/drombler-jstore-news-jre-rest-service.html">REST services, and JAP packaging functionality</a>.</li>
+ 	<li><strong>Pedro DV</strong> has blogged about an updated release of his fluent design style project JMetro, which brings <a href="https://pixelduke.com/2018/09/30/fluent-design-style-progress-bar-for-java-javafx/">support for ProgressBar styling</a>.</li>
+ 	<li><strong>Andres Almiray</strong> has released updates to a number of projects to <a href="http://andresalmiray.com/more-javafx-related-announcements/">make them JavaFX 11 compatible</a>.</li>
+ 	<li><strong>goxr3plus</strong> has open sourced <a href="https://github.com/goxr3plus/XR3Converter">XR3Converter</a>, a "powerful JavaFX application for converting any audio to any audio and any video to any video or audio."</li>
+</ul>
+]]></Content>
+	</post>

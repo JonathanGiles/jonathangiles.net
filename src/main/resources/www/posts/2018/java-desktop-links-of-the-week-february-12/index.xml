@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2711</ID>
+		<Slug>java-desktop-links-of-the-week-february-12</Slug>
+		<Title>Java desktop links of the week, February 12</Title>
+		<Date>2018-02-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Apologies for being missing in action last week - I was in Shanghai and trying not to freeze :-)</p>
+<ul>
+ 	<li><strong>Brian Hudson</strong> has a post about <a href="https://medium.com/@hudsonb/introducing-kubed-faeb8a216a1e">Kubed</a>, a visulisation DSL for JavaFX that looks very interesting.</li>
+ 	<li>
+<div id="m_4437503095445031139yui_3_16_0_ym19_1_1518342496840_8135" dir="ltr"><strong>Peter Rogge</strong> has released <a href="https://github.com/Naoghuman/lib-validation">Lib-Validation 0.2.0</a>. Lib-Validation is a library for easy validation in a JavaFX / Maven application. New in this release is the constraint 'NewDuration' and its corresponding validator 'NewDurationValidator'.</div></li>
+ 	<li><strong>Jens Deters</strong> has <a href="http://www.jensd.de/wordpress/?p=2707">released MQTT.fx 1.6.0</a>&nbsp;with support for Google Cloud IoT, as well as a number of bug fixes.</li>
+ 	<li><strong>Altran Group</strong> have open sourced their <a href="https://github.com/Altran-PT-GDC/Robot-Framework-Test-FX-Library">Robot Framework TestFX library</a>.</li>
+</ul>
+]]></Content>
+	</post>

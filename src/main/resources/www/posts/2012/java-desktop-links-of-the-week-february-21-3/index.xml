@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1194</ID>
+		<Slug>java-desktop-links-of-the-week-february-21-3</Slug>
+		<Title>Java desktop links of the week, February 21</Title>
+		<Date>2012-02-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Sorry about being late again! You wouldn't believe how long my todo list is these days. My apologies! Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>This week <a href="http://www.oracle.com/technetwork/java/javafx/downloads/index.html">JavaFX 2.0.3 was released</a>. This is a security fix release only and does not contain any new features.</li>
+	<li>In conjunction with the JavaFX 2.0.3 release there is some <a href="https://blogs.oracle.com/javafx/entry/new_javafx_documentation_concurrency_swt">more documentation</a> that has been authored recently. New documents include concurrency and SWT APIs, and there have also been updates to FXML, JavaFX events and TreeView documents.</li>
+	<li>In <strong>OpenJFX</strong> news, the scenegraph APIs in the <a href="http://fxexperience.com/2012/02/more-of-the-javafx-scenegraph-open-sourced/">javafx-ui-common project were open sourced</a>. <strong>Richard Bair</strong> goes into <a href="http://fxexperience.com/2012/02/a-short-tour-through-javafx-ui-common/">more detail about what this project contains</a>.</li>
+	<li>In further <strong>OpenJFX</strong> news, the <a href="http://fxexperience.com/2012/02/announcing-jemmyfx/">source code for JemmyFX has been released</a>. JemmyFX is the functional test suite used by the JavaFX team.</li>
+	<li>Another developer preview build of JavaFX 2.1 has <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html?msgid=3-5928726588">been released</a> - we're now at build 13.</li>
+	<li><strong>Michael Heinrichs</strong>, a member of the JavaFX team at <strong>Oracle</strong> has put up his <a href="http://www.slideshare.net/michael_heinrichs/javafx-11583106">JavaFX 2.0 slides that he presented at JFokus 2012</a>.</li>
+	<li>The <a href="http://groovyfx.org/">GroovyFX website</a> has been given a makeover. Check it out if you're interested in writing JavaFX applications using Groovy.</li>
+	<li><strong>Dustin Marx</strong> has blogged about "<a href="http://marxsoftware.blogspot.co.nz/2012/02/javafx-2-simultaneous-animated-text.html">simultaneous animated text strings</a>".</li>
+	<li>Chika Okereke has blogged about <a href="http://www.jpedal.org/PDFblog/2012/02/pdf-to-javafxml-conversion-first-impressions-of-fxml/">PDF to JavaFX FXML conversion</a>.</li>
+	<li><strong>Kai Tödter</strong> has put up a screenshot comparing a JavaFX application <a href="http://www.toedter.com/blog/?p=811">before and after LCD text support</a>.</li>
+	<li><strong>Tom Schindl</strong> blogged about creating a phone-like <a href="http://tomsondev.bestsolution.at/2012/02/12/phone-like-scrollable-listview-with-javafx/">scrollable list with velocity and friction</a>. You can find the <a href="https://github.com/tomsontom/e-fx-clipse/blob/master/at.bestsolution.efxclipse.runtime.panels/src/at/bestsolution/efxclipse/runtime/panels/FlingPane.java">code for the FlingPane</a> on GitHub.</li>
+	<li><strong>Dan Zwolenski</strong> has posted a blog about <a href="http://www.zenjava.com/2012/02/17/javafx-and-maven/">JavaFX and Maven</a>.</li>
+	<li><strong>Mark Anro Silva</strong> has shown <a href="http://glyphsoft.wordpress.com/2012/02/19/javafx-2-custom-shapes/">how to create custom shapes</a> in JavaFX.</li>
+	<li>Over at <strong>Java.net</strong>, they have a post about <a href="http://weblogs.java.net/blog/editor/archive/2012/02/20/commencing-javafx-21-development-using-centos-62s-software-development-workstation-configuration">developing JavaFX applications using CentOS 6.2</a>.</li>
+	<li><strong>blue-infinity</strong> consultant <strong>Jan Stenvall</strong> has written a <a href="http://www.slideshare.net/blue-infinity_slides/blueinfinity-white-paper-on-javafx-by-jan-stenvall">mostly accurate white paper on JavaFX</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li>Aurélien Ribon has created what he calls a '<a href="http://www.aurelienribon.com/blog/2012/02/new-library-universal-css-engine/">universal CSS engine</a>' for Swing, mimicking the functionality that is present in JavaFX.</li>
+</ul>
+<p>Catch you next week....hopefully a bit earlier in the week than this.... :-)</p>
+]]></Content>
+	</post>

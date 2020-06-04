@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2554</ID>
+		<Slug>java-desktop-links-of-the-week-september-4</Slug>
+		<Title>Java desktop links of the week, September 4</Title>
+		<Date>2017-09-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>It's JavaOne season, and as always the link count drops down as people divert attention to their JavaOne slides. I can't wait to hear how it goes for everyone - sadly I won't be attending this year so I'll be following through the twittersphere :-)</p>
+<ul>
+ 	<li>I missed a post last week by <strong>Gluon</strong> talking about '<a href="http://gluonhq.com/javafx-hidden-economy/">The JavaFX Hidden Economy</a>'.</li>
+ 	<li><strong>Dirk Lemmermann</strong> has posted about using&nbsp;<a href="http://dlsc.com/2017/08/29/javafx-tip-27-hires-retina-icons/">high res / retina icons in JavaFX applications</a>.</li>
+ 	<li><strong>Carl Walker</strong> has written a '<a href="https://courses.bekwam.net/public_tutorials/bkcourse_greatgrid_fx_and_swing.html">Great Grid Shootout</a>' between JavaFX and Swing.</li>
+</ul>
+]]></Content>
+	</post>

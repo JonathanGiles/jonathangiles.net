@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>921</ID>
+		<Slug>javafx-2-0</Slug>
+		<Title>JavaFX 2.0</Title>
+		<Date>2012-10-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Well, JavaOne is over, and now that the cat is out of the bag regarding our plans for JavaFX 2.0, it's time to have a chat. I hope you've had the chance to read the <a href="http://www.javafx.com/roadmap">JavaFX Roadmap</a>, <a href="http://fxexperience.com/2010/09/javafx-2-0/">Richard Bair's</a> post (and the subsequent post on <a href="http://fxexperience.com/2010/09/swing-integration/">Swing integration</a>), and <a href="http://amyfowlersblog.wordpress.com/2010/09/21/a-heartfelt-ramble-on-swing-javafx/">Amy Fowler's</a> post first. It's fair to say these posts encapsulate far more relevance than what is forthcoming in this blog post. Also of interest might be <a href="/posts/2010/javafx-your-way-building-javafx-applications-with-alternative-languages/">my post containing slides</a> for the talk Stephen Chin and I gave at JavaOne regarding alternative languages. Note that our blog posts have answered a lot of questions, so check out the comment sections too.</p>
+
+<p>Probably a lot of people know that a long time ago I kicked up a fuss that Swing should get a tonne of loving, which would have ideally resulted in a <a href="/posts/2009/swing-20/">Swing 2.0</a>. My blog post was mostly a collection of backwards compatible changes that I would have loved to have seen in Swing. This post resulted in 178 comments, with people suggesting changes ranging from minor tweaks to major incompatible changes. The point is, everyone had a different perspective on what should be done with Swing, and consensus in this area is generally impossible. We've chosen an approach that I think works very well, and now we're talking about it. Anyone suggesting I have indirectly helped take us back to a Swing 2.0 that I once imagined vastly overestimates my influence :-)</p>
+
+<p>This blog post is going to be rambling - I'm far too sleep deprived to be cohesive, but I want to clarify various small points. I'll try to make these points bold in the text below.</p>
+
+<p><strong>For the first time in my recollection, the JavaFX project has a public roadmap</strong> that outlines what we want to achieve, and when. This is so exciting for me - it makes us fully accountable. We've publicly said we'll have an early access release in Q1 2011, a beta in Q2 2011, and a final release in Q3 2011. We've also stated what we plan (and in some cases hope) we'll have in each release. With the availability of early releases, we hope that you can really thrash our APIs, and let us know what you like and what you don't like. It's incredibly nice to know that we'll have the opportunity to engage the community, and improve things based on your feedback. This is mutually beneficial, and puts the community in a better position than you've been in for a long time.</p>
+
+<p>At the same time, I know that there is a lot of pain with our decision to switch to being Java-based for our public APIs. For what it's worth, I'm terribly sorry for this. Not to take anything away from my apology, but I hope at the same time you appreciate the fact that we're being totally open with you. Knowing that we had totally changed our approach left us with only two options: to either tell you immediately, or to leave you uninformed until we released JavaFX 2.0. I really think we took the right option here.</p>
+
+<p><strong>The reports of the death of JavaFX are greatly exaggerated</strong>. JavaFX has not been killed, and the JavaFX team are very much involved in the direction of JavaFX, including the dropping of JavaFX Script. It was a tough call to make, but from a future viability position, I think it makes a lot of sense. <strong>We are now immediately accessible from a variety of alternative JVM languages</strong>, and personally I had a number of people ask me to get access to the early proof of concept DSLs that Stephen and I built for Scala and Groovy, so that they could continue their development.</p>
+
+<p>If you weren't at JavaOne, and really want to hear the JavaFX 2.0 talk that Richard Bair gave twice at JavaOne - you have one more chance. He'll be <strong>presenting at the Silicon Valley JavaFX Users Group on October 5 at 5:00pm PST</strong>. You can <a href="http://www.svjugfx.org/calendar/14224927/">find out more details</a>, and register to attend either in person, or virtually. I'll be there virtually.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1178</ID>
+		<Slug>java-desktop-links-of-the-week-january-24</Slug>
+		<Title>Java desktop links of the week, January 24</Title>
+		<Date>2012-01-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A heap of links this week (partly because I'm a day and a half late with this post!). Hopefully something for everyone :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JavaFX 2.1 developer preview build 09 <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">has been released</a>. For the first time, this release includes support for Windows, Mac OS, <strong>and Linux</strong>. You can <a href="http://blogs.oracle.com/javafx/entry/javafx_2_0_is_cross">read a bit more about this here</a>.
+<strong></strong></li>
+	<li><strong>Amy Fowler's</strong> "<a href="http://www.parleys.com/#st=5&amp;id=2734&amp;sl=0">Interface Layout with JavaFX 2.0</a>" JavaOne talk is now available on Parleys.</li>
+	<li><strong>Tom Schindl</strong> has created a <a href="http://tomsondev.bestsolution.at/2012/01/16/svg-for-fxml-conversion/">SVG to FXML converter</a>, which he plans to include in a future release of his e(fx)clipse project.</li>
+	<li>Yet another JavaFX calendar control has been developed, this time by <strong>Christian Schudt</strong>. The control <a href="http://myjavafx.blogspot.com/2012/01/javafx-calendar-control.html">looks very nice</a> and should be very useful to people needing this kind of functionality in their applications.</li>
+	<li><strong>Chika Okereke</strong> has put up three blogs posts about the JavaFX PDF support. The <a href="http://www.jpedal.org/PDFblog/2012/01/pdf-to-javafx-conversion-how-to-use-netbeans-plugin-part-1/">first</a> <a href="http://www.jpedal.org/PDFblog/2012/01/pdf-to-javafx-conversion-how-to-use-netbeans-plugin-part-2/">two</a> posts are about the NetBeans support, and then news about the latest release <a href="http://www.jpedal.org/PDFblog/2012/01/4-improvements-to-pdf-to-javafx-conversion-in-latest-release/">containing a few improvements</a>.</li>
+	<li><strong>Dustin Marx</strong> has two blog posts this week. Firstly, he <a href="http://marxsoftware.blogspot.com/2012/01/focus-on-javafx-2-fxml-with-netbeans-71.html">demonstrates FXML</a> by porting one of his previous applications to use it, and secondly <a href="http://marxsoftware.blogspot.com/2012/01/book-review-javafx-20-introduction-by.html">he reviews</a> the "JavaFX 2.0: Introduction by Example" 2.0 book by <strong>Carl Dea</strong>.</li>
+	<li><strong>Thierry Janaudy</strong> has put up a blog post showing <a href="http://oogifu.blogspot.com/2012/01/scala-javafx-tablecolumns.html">how to use the JavaFX TableView control in a GUI using Scala</a>.</li>
+	<li><span class="submitted"><strong>Toni Epple</strong> has reviewed the <a href="http://netbeans.dzone.com/articles/netbeans-71-review-javafx">JavaFX support in the latest 7.1 release of NetBeans</a>.</span></li>
+	<li><span class="submitted"><strong>Sai Predeep Dandem</strong> has blogged about <a href="http://saidandem.blogspot.com/2012/01/sliding-in-javafx-its-all-about.html">creating sliding effects</a> (like those seen in the TitledPane control).</span></li>
+	<li><span class="submitted"><strong>Jim Weaver</strong> has put out a <a href="http://www.dzone.com/links/r/zenpongfx_example_from_the_pro_javafx_2_platform.html">sample app</a> that will be getting discussed in the upcoming Pro JavaFX 2.0 book.</span></li>
+	<li><span class="submitted"><strong>William Antônio Siqueira</strong> has blogged about the DataFX project, demonstrating <a href="http://fxapps.blogspot.com/2012/01/show-data-in-javafx-is-made-easy-by.html">how easy it is to get data into a JavaFX TableView control</a>.
+</span></li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>David Qiao</strong> has posted two blog posts related to the Jide libraries. The first post is about <a href="http://www.jidesoft.com/blog/2012/01/17/152/">improvements to the CellStyle feature in JIDE Grids</a>. The second post is about <a href="http://www.jidesoft.com/blog/2012/01/18/analysing-code-size-using-jide-treemap/">analysing code using the Jide TreeMap component</a>.</li>
+	<li><strong>Jyloo Software</strong> has announced that <a href="http://www.jyloo.com/news/?pubId=1326832601000">Synthetica V2.14.2 and SyntheticaAddons V1.6.2 have been released</a>. These releases add <a href="http://www.jyloo.com/news/?pubId=1326965356000">support for NetBeans 7.1</a> and fix various bugs.</li>
+</ul>
+<p>Catch you all in a weeks time.</p>
+
+<p>&nbsp;</p>
+]]></Content>
+	</post>

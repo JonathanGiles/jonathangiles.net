@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1802</ID>
+		<Slug>quick-book-review-mastering-javafx-8-controls</Slug>
+		<Title>Quick Book Review: Mastering JavaFX 8 Controls</Title>
+		<Date>2014-04-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p><strong>Hendrik Ebbers</strong> was generous enough to arrange for a hard copy of his new book, Mastering JavaFX 8 Controls, to be sent to my place, so the least I can do is post a mini review of the book. I have now read the book cover to cover and I think that it is a very good book for people wanting to learn more about the controls that ship in JavaFX 8, and also for people wanting to learn more about how to build custom controls specific to their use cases.</p>
+
+<p>Reviewing a book like this is difficult for me as I have lived and breathed JavaFX UI controls for over five years now, so it is hard for me to gauge whether the book is detailed enough for people newer to the subject. My gut feeling is that the book could do with more text to describe concepts, but in general I think most readers should be able to follow along without a problem. In reading the book I made a few notes that I have also passed on to Hendrik, to help improve future editions of the book (which I hope there are as JavaFX API evolves quite rapidly).</p>
+
+<p>The early chapters of the book give a good introduction to the basics of JavaFX. The middle section gives a good overview of the existing JavaFX UI controls, as well as interesting topics such as Swing and SWT integration, and styling UI controls. Unfortunately, whilst the first two sections feel like they go at a good pace, the final section of the book seems to be over too quickly - there is only one chapter on creating custom controls, which is unfortunate given the subtitle of the book is "Create Custom JavaFX Controls for Cross-Platform Applications". It would be nice to see the final section of the book expanded to fill multiple chapters in future editions - this way it could feel less cramped and the book could easily become the go-to reference for how to create custom controls.</p>
+
+<p>One nice aspect of the book is the interviews with members of the community (including myself). I enjoyed reading the interviews, but I wished for more and for them to be longer! :-) There are a lot of interesting members of the community who can provide a bunch of detailed insight and explanations, so I hope future editions expand on the interviews.</p>
+
+<p>Overall I think that this is a great book for people interested in working with JavaFX UI controls, and shows great promise for future editions if some of the kinks above are worked out. Despite my negative points, I recommend this book to people who are serious about wanting to get to know JavaFX UI controls in greater depth.</p>
+
+<p>&nbsp;</p>
+]]></Content>
+	</post>

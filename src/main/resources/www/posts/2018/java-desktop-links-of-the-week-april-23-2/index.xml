@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3038</ID>
+		<Slug>java-desktop-links-of-the-week-april-23-2</Slug>
+		<Title>Java desktop links of the week, April 23</Title>
+		<Date>2018-04-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A quiet week this week:</p>
+<ul>
+ 	<li><strong>Carl Walker</strong> has written about <a href="https://courses.bekwam.net/public_tutorials/bkcourse_tornadofx_replacewithapp.html">replacing views in a TornadoFX application</a>.</li>
+ 	<li><strong>Jordan Martinez</strong> let me know that RichTextFX 0.9.0 was released recently. A few new notable features include the ability to change multiple portions of the document in one update call and display multiple custom carets and selections. See the projects <a href="https://github.com/FXMisc/RichTextFX/blob/master/CHANGELOG.md#v090-2018-04-12">changelog</a>&nbsp;for more details.</li>
+</ul>
+]]></Content>
+	</post>

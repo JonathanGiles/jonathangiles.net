@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1384</ID>
+		<Slug>java-desktop-links-of-the-week-january-7</Slug>
+		<Title>Java desktop links of the week, January 7</Title>
+		<Date>2013-01-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all. Welcome to the first post of the new year! I hope you all had a chance to wind down for a few days over the holidays. I did, but it's great to be back at work now as I have a lot to get done this year! Today is my sixth wedding anniversary, so please excuse the brevity! Anywho, let's get into the links :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Angela Caicedo</strong> will be presenting '<a href="http://www.svjugfx.org/events/58442332/?fromms=1&amp;a=me2_grp&amp;eventId=58442332&amp;action=detail&amp;rv=me2&amp;rv=me2">some cool JavaFX stuff</a>' this week at the Silicon Valley JavaFX Users Group. If you're in the area you should definitely consider attending. If you are not, they do a live stream that you can join in on (and chat with others who are also on the stream). I'll try to be on there...</li>
+	<li><strong>Tom Schindl</strong> has announced the <a href="http://tomsondev.bestsolution.at/2013/01/06/efxclipse-0-8-0-released/">release of e(fx)clipse 0.8.0</a>.</li>
+	<li><strong>Johan Vos</strong> has announced the <a href="http://java.net/projects/redfx">open source availability of the RedFX library</a>, which is a JavaFX remote asynchronous communication, messaging and synchronization project.</li>
+	<li><strong>Hendrik Ebbers</strong> has blogged about his <a href="http://www.guigarage.com/2012/12/bindabletransition/">BindableTransition class</a> and <a href="http://www.guigarage.com/2013/01/invokeandwait-for-javafx/">invokeAndWait method</a> that he has made available to developers.</li>
+	<li><strong>Gerrit Grunwald</strong> has blogged about his work in creating a <a href="http://harmoniccode.blogspot.de/2013/01/show-me-heat.html">JavaFX-based heatmap visualisation</a>.</li>
+	<li><strong>Ed Thompson</strong> has another 'JavaFX from the trenches' post, this week about <a href="http://ed4becky.net/homepage/javafx-from-the-trenches-singleton-controllers/">singleton controllers</a>.</li>
+	<li>The <strong>Panemu blog</strong> (the developers of <a href="http://tiwulfx.panemu.com/">TiwulFX</a>, which just had a <a href="http://tiwulfx.panemu.com/beta_2_release/">beta 2 release announced</a>), have posted about <a href="http://tiwulfx.panemu.com/creating-custom-menu-separator-in-javafx/">creating a custom menu separator in JavaFX</a>.</li>
+	<li><strong>Steven Schwenke</strong> has blogged about <a href="http://stevenschwenke.de/javaFXSeriesSeparationAndLifeCycle">separation and lifecycles in JavaFX</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> continues to improve JMetro by adding <a href="http://pixelduke.wordpress.com/2013/01/02/metro-style-scroll-bar-for-java-jmetro/">support for ScrollBars</a> and <a href="http://pixelduke.wordpress.com/2013/01/04/metro-style-scroll-pane-for-java-jmetro/">ScrollPanes</a> this week.</li>
+	<li><strong>Alistair Rutherford</strong> has <a href="http://www.netthreads.co.uk/2012/12/19/javafx-pivot-and-javafx/">compared JavaFX and Pivot</a>, and then posted about <a href="http://www.netthreads.co.uk/2012/12/21/javafx-mavenize-fx">building a JavaFX application</a> for a command-line tool he has written in the past.</li>
+	<li><strong>Leon Atherton</strong> has announced that IDR Solutions have included <a href="http://blog.idrsolutions.com/2013/01/pdf-to-fxml-added-to-our-online-pdf-to-javafx-converter/">support for PDF to FXML conversion</a>.</li>
+	<li><strong>Robert Ladstätter</strong> has written about <a href="http://ladstatt.blogspot.co.nz/2013/01/compile-openjfx-rt-on-macosx.html?spref=tw">how to compile OpenJFX on Mac OS X</a>.</li>
+	<li><strong>Jan Köhnlein</strong> has written how <a href="http://koehnlein.blogspot.de/2013/01/javafx-loves-xtend.html">JavaFX loves Xtend</a>.</li>
+</ul>
+<h4>JavaFX and Raspberry Pi</h4>
+<ul>
+	<li><strong>Mark Heckler</strong> has blogged about <a href="https://blogs.oracle.com/javajungle/entry/creating_a_portable_java_javafx">creating a portable Java/JavaFX rig</a> using Raspberry Pi.</li>
+	<li><strong>Erkki Nokso-Koivisto</strong> has a post about a <a href="http://www.vihrearobotti.com/other/javafx_raspberrypi">game he has written</a> to run on a Raspberry Pi.</li>
+	<li><strong>Tim Yates</strong> has a post about getting <a href="http://blog.bloidonia.com/post/39658621928/get-up-and-running-with-groovyfx-on-the-raspberry-pi">GroovyFX to work on his Raspberry Pi</a>.</li>
+</ul>
+<p>&nbsp;</p>
+]]></Content>
+	</post>

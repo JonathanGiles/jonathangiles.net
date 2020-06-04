@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1737</ID>
+		<Slug>java-desktop-links-of-the-week-june-2</Slug>
+		<Title>Java desktop links of the week, June 2</Title>
+		<Date>2014-06-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week, another round of links. Enjoy! :-)</p>
+<ul>
+	<li>I was very, very pleased to announce this week, on behalf of the entire ControlsFX development team, the <a href="http://fxexperience.com/2014/05/announcing-controlsfx-8-0-6/">release of ControlsFX 8.0.6</a>. This release was a big release, with support for translation into 17 languages, new controls, a new validation / decoration framework, and a bunch of bug fixes. If you're unfamiliar with <a href="http://www.controlsfx.org">ControlsFX</a>, be sure to check out the <a href="http://www.controlsfx.org/features">features page</a> to see what we offer in 8.0.6!</li>
+	<li><strong>David Grieve</strong>, one of my colleagues in the JavaFX team at Oracle (and the resident CSS expert), has posted about<a href="http://dgrieve.blogspot.co.nz/2014/05/styling-cells-in-javafx.html"> styling cells (i.e. cells in ListView, etc) in JavaFX</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> continues with his tutorial series on DataFX, this week post tutorial 2 (on <a href="http://www.guigarage.com/2014/05/datafx-tutorial-2/">navigation in a DataFX flow</a>) and tutorial 3 (on <a href="http://www.guigarage.com/2014/05/datafx-tutorial-3/">how a wizard dialog can be created with DataFX</a>).</li>
+	<li><strong>Sébastien Bordes</strong> has posted another JRebirth tip: <a href="http://blog.jrebirth.org/javafx/tip-2-how-to-runandwait-with-jrebirth-thread-engine/">how to runAndWait with the JRebirth thread engine</a>.</li>
+	<li><strong>Nathan Howard</strong> has a post on <a href="http://blog.idrsolutions.com/2014/05/code-javafx-frontend-web-service/">how to code a JavaFX frontend for a web service</a>.</li>
+	<li><strong>Steven Schwenke</strong> has posted about a <a href="http://stevenschwenke.de/tableToTableTransitionInJavaFX">'table-to-table transition' animation</a> he has created, which animates the movement of items from one table to the other.</li>
+	<li>The <strong>ReportMill</strong> blog has a post about creating a <a href="http://reportmill.wordpress.com/2014/05/29/splitpane-animation-with-doubletransition/">SplitPane animation using a DoubleTransition</a>.</li>
+	<li><strong>David Gilbert</strong> emailed me to say that "following on from last week's announcement about <a href="http://www.object-refinery.com/blog/blog-20140526.html">FXGraphics2D</a>, this week we <a href="http://www.object-refinery.com/orsoncharts/">released Orson Charts 1.4</a>, the main feature in the release being the addition of JavaFX support."</li>
+</ul>
+<p>That's all folks. Now I can get outside and enjoy the public holiday here in New Zealand! :-)</p>
+]]></Content>
+	</post>

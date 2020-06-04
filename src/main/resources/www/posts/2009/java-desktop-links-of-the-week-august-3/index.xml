@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>559</ID>
+		<Slug>java-desktop-links-of-the-week-august-3</Slug>
+		<Title>Java desktop links of the week, August 3</Title>
+		<Date>2009-08-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx</Tags>
+		<Content><![CDATA[<p>Plenty of news this week, so lets get right into it.</p>
+<h4>General</h4>
+<ul>
+	<li><strong>Leonid Bogdanov</strong> emailed me with some code he has been working on, as he thought it would be useful for other readers. He wrote a simple class that allows for a Java application (on any platform) to determine if there is already an instance of the program running. I'm sure many of us have had to write similar code before, so perhaps <a href="/posts/2009/java/InstanceGuard.java/">this is useful to some people out there</a>. There is no license specified in the source file, however feel free to use it however you wish - consider it to be public domain code.</li>
+	<li><strong>Alex Ruiz</strong> posts about how he <a href="http://alexruiz.developerblogs.com/?p=366">reorganised long unit test classes</a> to be more readable and quicker to understand.</li>
+	<li>There was a bit of a discussion recently about '<a href="http://projectlombok.org/index.html">Project Lombok</a>', which looks like quite an interesting project to cut down on having to write boilerplate code. I recommend you spend a few minutes to watch the video to understand what it does.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Alexandre Navarro</strong> emailed me with news that a <a href="http://kenai.com/projects/swingjavabuilderext/pages/Home">Jide Java Builder has been released</a> for his <a href="http://code.google.com/p/javabuilders/">Java Builders framework</a>.</li>
+	<li><strong>Ken Orr</strong> posts that his Mac Widgets for Java project <a href="http://explodingpixels.wordpress.com/2009/08/02/iapp-scrollbars-with-separated-button/">now supports iApp scrollbars with separated buttons</a>.</li>
+	<li><strong>Rob</strong> posts a <a href="http://tips4java.wordpress.com/2009/08/02/disabled-panel/">DisabledPanel class that will disable/enable all child components</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Haining Zhang</strong> commented on my blog last week that he has written a blog post discussing <a href="http://www.javafxgame.com/building-menu-in-javafx/">how to use the Swing menubar in JavaFX applications</a>.</li>
+	<li><strong>Tom</strong> (who's last name isn't easily findable) started working on a JavaFX Calendar / date picker control. You can <a href="http://kenai.com/projects/jfxcalendarpicker/pages/Home">find out more about it</a>, and even <a href="http://www.softworks.nl/jfxcalendarpicker/JFXCalendarPicker.jnlp">give it a try</a>.</li>
+	<li><strong>Rakesh Menon</strong> posts on the <a href="http://blogs.sun.com/rakeshmenonp/en_US/entry/javafx_for_windows_mobile_ea">JavaFX for Windows Mobile early access release</a>. He has a number of screenshots and even a video.</li>
+	<li>If you're wanting to make your JavaFX application a bit nicer to look at, using icons is always a good place to start. <strong>Richard Bair</strong> or <strong>Jasper Potts</strong> (it's impossible to tell who!) have posted a <a href="http://fxexperience.com/2009/07/free-icons-for-your-javafx-applications/">few links to good icon sets</a>.</li>
+	<li><strong>Stephen Chin</strong> posts his <a href="http://steveonjava.com/2009/07/29/javafx-mobile-ready-for-primetime/">thoughts on JavaFX Mobile</a>, and also officially announces the <a href="http://steveonjava.com/2009/08/02/jfxtras-test-and-fest-unite/">merging of JFXtras Test and the FEST project</a>. For anyone wanting to test their JavaFX applications, this is a project to watch.</li>
+	<li><span><strong>Chhandomay</strong> has posted two interviews: the <a href="http://blogs.sun.com/chhandomay/entry/interview_with_javafx_developer_fabrizio">first with</a></span><a href="http://blogs.sun.com/chhandomay/entry/interview_with_javafx_developer_fabrizio"> <span>Fabrizio Giudici</span></a>, and the <a href="http://blogs.sun.com/chhandomay/entry/interview_with_javafx_coding_challenge">second with Sten Anderson</a>, the winner of the recently-held JavaFX coding challenge.</li>
+	<li><strong>Carl Dea</strong> has started a <a href="http://carlfx.wordpress.com/2009/07/29/javafx-forms-framework-part-1/">five part series discussing building forms in JavaFX</a>, and the mapping betweeen GUI controls and domain objects.</li>
+	<li>If you want to use JavaFX to write Facebook applications, <a href="http://blog.zembly.com/?p=1454">you should look into this tutorial</a> which uses the Zembly Client Library and JavaFX.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><a href="http://docs.codehaus.org/display/GRIFFON/Griffon+0.1.2">Griffon 0.1.2 was released this week</a>, as was <a href="http://docs.codehaus.org/display/GRIFFON/GParallelizer+Plugin">the GParallelizer plugin</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> posts about the <a href="http://blogs.sun.com/geertjan/entry/griffon_alpha_plugin_for_netbeans">alpha release of a Griffon plugin for NetBeans 6.7</a>.</li>
+	<li>In addition to support in NetBeans, <strong>JetBrains</strong> have announced <a href="http://blogs.jetbrains.com/idea/2009/07/initial-griffon-support/">initial support for Griffon in the next Maia EAP</a>.</li>
+	<li><strong>Andres Almiray</strong> posts about the <a href="http://jroller.com/aalmiray/entry/griffon_new_plugins_available">new plugins that are available for Griffon</a>, in particular FxBuilder 0.1 (a Groovy builder for JavaFX components), GfxBuilder (a Groovy builder for Java2D) and GSQL (which allows you to add database capabilities to your Griffon application).</li>
+	<li><strong>Andres</strong> also has a video <a href="http://www.jroller.com/aalmiray/entry/griffon_making_animations_with_gfx">showing off animation in Griffon using Gfx+Trident</a>.</li>
+	<li>Finally, <strong>Andres</strong> posts about <a href="http://www.jroller.com/aalmiray/entry/griffon_gets_some_clojure">Griffon support for Clojure</a> and <a href="http://www.jroller.com/aalmiray/entry/griffon_clojure_powered_fractal">shows off an example application written to use it</a>.</li>
+</ul>
+<p>Have a great week everyone.</p>
+]]></Content>
+	</post>

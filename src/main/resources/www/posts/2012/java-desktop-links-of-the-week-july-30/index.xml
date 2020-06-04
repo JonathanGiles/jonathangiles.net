@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1277</ID>
+		<Slug>java-desktop-links-of-the-week-july-30</Slug>
+		<Title>Java desktop links of the week, July 30</Title>
+		<Date>2012-07-29</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Hello world! :-) Here are the links for this week - enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Carl Dea</strong> presented at the Montgomery County Java User Group, but unfortunately I can't open the <a href="https://docs.google.com/open?id=0BytdL7OlFnA_ZlI3TllYaHFucFU">Google Docs link here</a> - maybe you'll have better luck.
+<strong></strong></li>
+	<li><strong>Mark Heckler</strong> has posted about <a href="https://blogs.oracle.com/javajungle/entry/how_to_get_started_fast">how to get started (fast) with NetBeans 7.2, Scene Builder and JavaFX 2</a>.</li>
+	<li><strong>José Pereda</strong> has posted <a href="http://jperedadnr.blogspot.com.es/2012/07/matrixpanel-new-javafx-ui-control.html">part two of his series on the new MatrixPanel control</a> that he has now c0ntributed to the <a href="http://jfxtras.org">JFXtras project</a>.</li>
+	<li><strong>Peter Pilgrim</strong> has blogged about <a href="http://www.xenonique.co.uk/blog/?p=675">ScalaFX and some workarounds for SBT issues</a>.</li>
+	<li><strong>Narayan Maharjan</strong> has blogged about how to <a href="http://blog.ngopal.com.np/2012/07/26/animated-preloader-in-javafx-2/">write pre-loaders for JavaFX applications</a>.</li>
+	<li><strong>Thierry Wasyl</strong> has a blog post detailing the <a href="http://thierrywasyl.wordpress.com/2012/07/29/properties-and-bindings-in-javafx/">properties and binding APIs in JavaFX 2</a>.</li>
+	<li><strong>Steve Hannah</strong> has a blog post titled "<a href="http://www.shannah.ca/blog/?p=207">JavaFX has finally arrived</a>", where he explains his first impressions with JavaFX 2. I should note there is one mistake in this post: there is no need for Swing if you want your menubars to appear in the Mac global menubar area - simply call <a href="http://docs.oracle.com/javafx/2/api/javafx/scene/control/MenuBar.html#setUseSystemMenuBar%28boolean%29">menuBar.setUseSystemMenuBar(true)</a> in JavaFX 2.1 and later releases.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Karl Schaefer</strong> has announced that <a href="http://www.java.net/forum/topic/javadesktop/java-desktop-technologies/swinglabs/swingx-164-released">SwingX 1.6.4 has been released</a>. In the post he says that there were "not a lot of changes in this revision. The key thrust was to make sure that we were correctly producing sources and javadoc jars for the swingx-all rollup module."</li>
+	<li><strong>JIDE Software</strong> has <a href="http://www.jidesoft.com/history/">released version 3.4.4</a> of their suite of libraries.</li>
+	<li><strong>Harsh Raval</strong> has four posts up covering <a href="http://harryjoy.com/2012/07/28/chat-bubble-in-java-swing/">creating 'chat bubbles' in Java2D</a>, <a href="http://harryjoy.com/2012/07/14/jtextfield-with-image-inside-it/">putting an image inside a JTextField</a>, <a href="http://harryjoy.com/2012/06/18/some-infinite-progress-bars-in-swing/">creating animated infinite progress bars in Swing</a>, and <a href="http://harryjoy.com/2012/05/20/circular-progress-bar-in-java-swing/">creating circular progress bars in Swing</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li>In other news, NetBeans 7.2 was released this week. You can read an <a href="http://netbeans.dzone.com/news/netbeans-ide-72-smarter-faster">overview of the improvements</a>, or go to the <a href="http://netbeans.org/">NetBeans website</a> to download it.</li>
+</ul>
+<p>Catch you next week!</p>
+]]></Content>
+	</post>

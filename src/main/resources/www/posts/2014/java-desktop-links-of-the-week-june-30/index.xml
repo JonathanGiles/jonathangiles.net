@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1755</ID>
+		<Slug>java-desktop-links-of-the-week-june-30</Slug>
+		<Title>Java desktop links of the week, June 30</Title>
+		<Date>2014-06-29</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx</Tags>
+		<Content><![CDATA[<p>Another quiet week this week. This is a very common pattern in the lead up to JavaOne - people tend to start working on their JavaOne projects and have less time for blogging. Anyway, enjoy the links! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Johan Vos</strong> has created <a href="http://javafxports.org/">javafxports.org</a>, to detail the work that is going on to get OpenJFX working under iOS and Android.</li>
+	<li><strong>Gerrit Grunwald</strong> has a post announcing that he will be providing <a href="http://harmoniccode.blogspot.co.nz/2014/06/openjfx-for-arm-v6-hard-and-soft-float.html">regular builds of OpenJFX for ARMv6 embedded devices</a> (both soft and hard float).</li>
+	<li><strong>Jens Deters</strong> has a post about the <a href="http://www.jensd.de/wordpress/?p=1211">JavaFX Service class</a>.</li>
+	<li><strong>Jason Lee</strong> has posted a <a href="http://blogs.steeplesoft.com/posts/2014/06/25/book-review-javafx-8-introduction-by-example/">review</a> of 'JavaFX 8: Introduction by Example'.</li>
+	<li><strong>William Antônio</strong> has posted a <a href="http://fxapps.blogspot.co.nz/2014/06/another-world-cup-app-using-javafx-fxml.html">Football World Cup application</a> developed using JavaFX.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has posted the <a href="http://docs.codehaus.org/display/GRIFFON/2014/06/20/Griffon+2.0.0.BETA2+Released">release announcement for Griffon 2.0.0.BETA2</a>.</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

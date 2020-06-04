@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>285</ID>
+		<Slug>java-desktop-links-of-the-week-march-9th</Slug>
+		<Title>Java Desktop links of the week, March 9th</Title>
+		<Date>2009-03-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing|swt</Tags>
+		<Content><![CDATA[<p>This week there is a rather large amount of JavaFX news, but very little Swing news. I guess this is a sign of the times :-)</p>
+<h3>Swing</h3>
+<ul>
+ 	<li>Coming into my feed reader after posting this blog, I thought I'd quickly add that <strong>Ken Orr</strong> has a blog post about <a href="http://explodingpixels.wordpress.com/2009/03/08/creating-a-hud-style-comob-box/">creating a custom HUD-style combo box</a>.</li>
+ 	<li><strong>Alexander Potochkin</strong> has blogged that <a href="http://weblogs.java.net/blog/alexfromsun/archive/2009/03/swing_applicati_1.html">the Swing Application Framework is back again</a>. For more background, check out <a href="http://www.artima.com/lejava/articles/swingframework.html">this interview with Hans Muller</a>, back when the project was first approved. SAF has had a turbulent life, most recently with&nbsp;<a href="http://java.dzone.com/articles/swing-application-framework">Karsten Lentzsch disapproving of its current state</a>, and whether or not it actually will make it into Java 7 is yet to be seen.</li>
+ 	<li><strong>InformIT</strong> has a post <a href="http://www.informit.com/articles/article.aspx?p=1326515">discussing playing media in Java using JMC</a>. All code samples are written in Java, not JavaFX Script.</li>
+ 	<li>Regarding Swing 2.0, in the 13/02/09 podcast of <a href="http://blogs.sun.com/javafx/entry/this_ain_t_your_dad">This Ain't Your Dad's Java!</a>, Sun's Java marketing team has briefly discussed the recent discussion around Swing 2.0. You can <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?i=50110125&amp;id=286690384">listen to the podcast here</a> if you have iTunes (skip forward to around the 5:00 mark. It continues until around the 9:15 minute mark). Their general perspective was that people wanting Swing 2.0 are trolling, whiney and fanboys. Also, despite their protests that Swing is strong, they inferred a number of&nbsp; times that Swing&nbsp; is on its way out. I found their means of communication to be somewhat condescending and rude, but perhaps that's just me. For marketing people who are putting out the opinion of Sun, I found this to be disappointing.<a href="http://blogs.sun.com/javafx/entry/this_ain_t_your_dad">
+</a></li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+ 	<li><strong>Michael Heinrichs</strong> continues his <a href="http://blogs.sun.com/michaelheinrichs/entry/best_practices_for_javafx_mobile3">best practices for JavaFX mobile applications with part 4</a>. This post has two tips: use the prescaling functionality and use background loading. I referred to the previous three parts in <a href="/posts/2009/java-desktop-links-of-the-week-march-2nd/">last weeks post</a>, but for quick references, here they are again: parts <a href="http://blogs.sun.com/michaelheinrichs/entry/best_practices_for_javafx_mobile">1</a>, <a href="http://blogs.sun.com/michaelheinrichs/entry/best_practices_for_javafx_mobile1">2</a> and <a href="http://blogs.sun.com/michaelheinrichs/entry/best_practices_for_javafx_mobile2">3</a>.</li>
+ 	<li><strong>Sergey Malenkov</strong> has a <a href="http://weblogs.java.net/blog/malenkov/archive/2009/03/reflect_the_clo.html">small code sample of how to use text reflection</a> to add the overused reflection effect to a digital clock. My advice, use reflection with caution, and the simplicity of adding reflection scares me - JavaFX GUIs presently look like toys without the need for over the top reflection!</li>
+ 	<li><strong>Rakesh Menon</strong> has a post up that covers a number of topics which <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_news_widget">results in a JavaFX RSS viewer.</a> The RSS viewer is primarily HTML, but it is controlled by JavaFX, and therefore demonstrates parsing RSS feeds and interacting with an HTML page via JavaScript.</li>
+ 	<li><strong>Osvaldo Pinali</strong> blogs about <a href="http://weblogs.java.net/blog/opinali/archive/2009/03/javafx_balls_v2_1.html">his improvements to JavaFX Balls</a>, which implements the <a href="http://bubblemark.com/">Bubblemark animation test</a>. He has managed to port it to work on mobile devices, and whilst he has published a webstart demo, the link isn't presently working.</li>
+ 	<li><strong>Simon Brocklehurst</strong> has a blog post titled '<a href="http://jfxstudio.wordpress.com/2009/02/18/javafx-eats-its-own-dogfood/">JavaFX eats its own dogfood</a>' that talks about a simple application that lets you manipulate rectangles, and see the resulting JavaFX code. There is a <a href="http://www.psynixis.com/jfxdemos/abitmeta/A_Bit_Meta.jnlp">webstart link</a> that you can use to run it.</li>
+ 	<li>There is a brief overview of how <a href="http://www.javaworld.com/community/node/2551">JavaFX handles (or ignores) NullPointerExceptions</a>. Despite his requests for a discussion, there doesn't appear to be any comments.</li>
+ 	<li><strong>Jan Erik Paulsen</strong> has an opinion piece on JavaFX, <a href="http://labs.teppefall.com/2009/03/sun_is_pulling_a_netscape_rewr.html">claiming that Sun is pulling a 'Netscape rewrite' with JavaFX</a>.</li>
+ 	<li><strong>Per Bothner</strong> has two posts about <a href="http://blogs.sun.com/javafx/entry/javafx_read_eval_print_loop">writing a read-eval-print loop in JavaFX</a>. A REPL (also called a command shell) allows you to type in expressions, have them be immediately evaluated, and the result displayed. This is very useful for experimenting with or learning a language.</li>
+ 	<li><strong>Johan</strong> has a post about <a href="http://blogs.lodgon.com/johan/JavaFX_asynchronous_chat_client_">creating a JavaFX asynchronous chat client</a>.</li>
+ 	<li>As always, <strong>Josh Marinacci</strong> (<a href="http://twitter.com/joshmarinacci">@joshmarinacci</a>) is keen that you check out <a href="http://jfxstudio.wordpress.com/">JFXStudio for lots of cool JavaFX samples</a>.</li>
+</ul>
+<h3>Eclipse/SWT</h3>
+<ul>
+ 	<li><strong>Chris Aniszczyk </strong>has a post <a href="http://eclipsesource.com/blogs/2009/03/06/new-nebula-swt-widgets/">announcing new Nebula SWT widgets</a>.&nbsp; There are a number of interesting widgets and components that look very nice.</li>
+ 	<li>Somewhat unrelated to this blog, but probably helpful to many, <strong>Marcel</strong> has a <a href="http://codeofdoom.com/wordpress/2009/03/05/favorite-eclipse-shortcuts/">post discussing the most important Eclipse shortcuts</a>. In the comments section people have replied with what they believe to be <a href="http://codeofdoom.com/wordpress/2009/03/05/favorite-eclipse-shortcuts/#comment-100">the most important NetBeans shortcuts</a>.</li>
+</ul>
+]]></Content>
+	</post>

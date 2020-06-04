@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2063</ID>
+		<Slug>java-desktop-links-of-the-week-march-14-2</Slug>
+		<Title>Java desktop links of the week, March 14</Title>
+		<Date>2016-03-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A number of good links this week. Enjoy!</p>
+<ul>
+	<li><strong>Thomas Nield</strong> did a post <a href="http://fxexperience.com/2016/03/introducing-the-controlsfx-tablefilter/">introducing the ControlsFX TableFilter functionality</a>. Since this post, Thomas has made even more improvements, so if you are looking to do filtering in JavaFX TableView, you should definitely check out his work inside <a href="http://www.controlsfx.org">ControlsFX</a>.</li>
+	<li><strong>Tom Eugelink</strong> has a post about <a href="https://tbeernot.wordpress.com/2016/03/12/multiplatform-javafx-for-real-material-design/">building&nbsp;multiplatform JavaFX applications</a> with material design (using Gluon Mobile).</li>
+	<li><strong>Tom Schindl</strong> presented two sessions at eclipsecon, and his slides are now available online. His first talk was titled '<a href="https://www.eclipsecon.org/na2016/session/smart-slim-and-good-looking-building-smart-editors-eclipse-and-javafx">Smart, slim and good looking - Building Smart Editors with Eclipse and JavaFX</a>', and his second talk was titled '<a href="https://www.eclipsecon.org/na2016/session/develop-slick-rich-client-applications-eclipse-4-javafx">Develop Slick Rich Client Applications with Eclipse 4 on JavaFX</a>'.</li>
+	<li><strong>Gerrit Grunwald</strong> has posted another of his famous Friday Fun Component posts. This week he has a <a href="http://harmoniccode.blogspot.co.nz/2016/03/friday-fun-xxv.html">very nice circular slider control</a>.</li>
+	<li><strong>William Antônio Siqueira</strong> has posted a <a href="http://fxapps.blogspot.co.nz/2016/03/simplest-javafx-combobox-autocomplete.html">simple&nbsp;JavaFX ComboBox autocomplete example</a> on his blog.</li>
+	<li><strong>Edvin Syse</strong> has released <a href="https://github.com/edvin/tornadofx/releases/tag/v1.3.2">TornadoFX 1.3.2</a>. TornadoFX is a lightweight JavaFX framework for Kotlin.</li>
+	<li><strong>Emil Forslund</strong> has a post about&nbsp;<a href="http://www.ageofjava.com/2016/01/building-reactive-systems-with-javafx.html">building reactive systems</a> with JavaFX.</li>
+	<li><strong>Almas Baimagambetov</strong> has released&nbsp;<a href="http://almasb.github.io/FXGL/">FXGL 0.2.1</a>, a&nbsp;JavaFX 8 game library written in Java and Kotlin.</li>
+</ul>
+]]></Content>
+	</post>

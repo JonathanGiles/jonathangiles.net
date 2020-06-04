@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2129</ID>
+		<Slug>java-desktop-links-of-the-week-july-4-2</Slug>
+		<Title>Java desktop links of the week, July 4</Title>
+		<Date>2016-07-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li>I got around to releasing <a href="http://www.scenic-view.org/">Scenic View 8.7.0</a> and <a href="http://www.controlsfx.org">ControlsFX 8.40.11</a>. I didn't quite get around to announcing these releases though - so: mystery release! :-) Enjoy!</li>
+ 	<li><strong>Gerrit Grunwald</strong> has another of his Friday fun components - this time one of the <a href="http://harmoniccode.blogspot.co.nz/2016/07/friday-fun-xxxii-old-school-baby.html">old style rotary phones</a>.</li>
+ 	<li><strong>Thomas Nield</strong> has <a href="https://github.com/ReactiveX/RxJavaFX/releases">released RxJavaFX 0.1.0</a>. RxJavaFX is a collection of&nbsp;RxJava bindings for JavaFX.</li>
+ 	<li><strong>Kamil Baczkowicz</strong> has <a href="https://github.com/kamilfb/mqtt-spy/releases/tag/mqtt-spy_v0.5.2">released mqtt-spy 0.5.2</a>.</li>
+ 	<li><strong>Carl Walker</strong> has&nbsp;written a tutorial on <a href="https://courses.bekwam.net/public_tutorials/bkcourse_tornadofx_hw.php">writing a JavaFX application in Kotlin using TornadoFX</a>.</li>
+</ul>
+]]></Content>
+	</post>

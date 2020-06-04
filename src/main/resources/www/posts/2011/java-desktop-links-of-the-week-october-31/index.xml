@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1132</ID>
+		<Slug>java-desktop-links-of-the-week-october-31</Slug>
+		<Title>Java desktop links of the week, October 31</Title>
+		<Date>2011-10-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Here we go for another week! :-) It seems the number of JavaFX links is really starting to pick up after JavaOne. The most notable news this week was that Oracle has started the open source discussion. Find all the details, and plenty of other interesting links, in this weeks Java desktop links roundup!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>This week we made our next move along the road of open sourcing JavaFX, with <strong>Richard Bair</strong> <a href="http://mail.openjdk.java.net/pipermail/discuss/2011-October/002096.html">posting a message</a> to the <a href="http://mail.openjdk.java.net/mailman/listinfo/discuss">OpenJDK discuss mailing list</a>. Additionally, he <a href="http://fxexperience.com/2011/10/openjdk-discussion-about-javafx/">blogged about the plans</a>. As we've mentioned, we really encourage your feedback and participation in this project!
+<strong></strong></li>
+	<li><strong>Zonski</strong> continues his series of blogs on FXML and controller injection (with Guice). This week there are four blog posts from him: "<a href="http://www.zenjava.com/2011/10/24/multiple-controllers-with-shared-resources/">Multiple Controllers with Shared Resources</a>", "<a href="http://www.zenjava.com/2011/10/25/views-within-views-controllers-within-controllers/">Views within Views, Controllers within Controllers</a>", "<a href="http://www.zenjava.com/2011/10/26/generic-controllers/">Generic Controllers</a>", and "<a href="http://www.zenjava.com/2011/10/30/better-controller-injection-with-guice/">Better Controller Injection with Guice</a>".<strong>
+</strong></li>
+	<li><strong>Mario Torre</strong> blogged about work he and two colleagues have been doing to <a href="http://jroller.com/neugens/entry/embed_swing_inside_javafx_2">enable embedding swing inside a JavaFX application</a> (the opposite of what is officially supported in JavaFX 2.0 using the JFXPanel component). <del>Whilst not available currently</del> You can <a href="https://github.com/thingsfx/ThingsFX">see their work over at their GitHub repo</a>, and elsewhere they have announced a <a href="http://mail.openjdk.java.net/pipermail/discuss/2011-October/002126.html">willingness to contribute</a> this back in to the open source JavaFX project.</li>
+	<li><strong>Tom Eugelink</strong> has announced an <a href="http://java.net/projects/miglayoutfx2/downloads">updated release of MigLayoutFX2</a> (also known as MigPane). This release adds support for the final JavaFX 2.0 release.</li>
+	<li><strong>Kai Tödter</strong> has shown off the <a href="http://www.toedter.com/blog/?p=663">power of the JavaFX CSS styling functionality</a> by making a dark style and showing how little CSS is required.</li>
+	<li>The <strong>JavaFX team</strong> has its ears to the ground - we hear your feedback! The most recent example of this is the changes we've made to the need to have an OTN account to download the JavaFX 2.0 SDK. As announced earlier this week, <a href="http://twitter.com/#%21/javafx4you/status/129997616758009856">this is no longer required</a>.</li>
+	<li>Along the same lines, the <strong>JavaFX documentation team</strong> is seeking your feedback on <a href="http://blogs.oracle.com/thejavatutorials/entry/share_your_ideas">what you want them to write about</a>. These guys do an amazing job, and they are always trying to find new documentation topics. If you feel something is under-documented, talk to them and you may just find a whole heap more documentation will start appearing on this topic.</li>
+	<li><strong>Steve Northover</strong> (previously involved with SWT, now working in the JavaFX team) has a <a href="http://www.eclipsecon.org/europe2011/sessions/javafx-past-present-and-future-and-interop-swt-and-swing">talk at EclipseCon Europe 2011</a> on "JavaFX Past, Present and Future and Interop with SWT and Swing". The talk is next week.</li>
+	<li><strong>Stephen Chin</strong> discusses <a href="http://www.youtube.com/watch?v=jjYXdQ8zpXQ">JavaFX and the state of client-side Java</a> in a YouTube video posted by O'Reilly.</li>
+	<li><strong>Gail Anderson</strong> has put up a blog post on building a <a href="http://www.asgteach.com/blog/?p=272">JavaFX 'Sketch Pad' application using custom binding</a>.</li>
+	<li><strong>Wayne Young</strong> has been playing around with JavaFX, most notably creating <a href="http://blogs.oracle.com/wayneyoung/entry/javafx_2_0_and_box2d">a JavaFX application that integrates JBox2D physics</a>, a <a href="http://blogs.oracle.com/wayneyoung/entry/side_scroller_in_javafx_2">side scroller</a>&nbsp; (with <a href="http://blogs.oracle.com/wayneyoung/entry/update_to_side_scroller">update</a>), and a '<a href="http://blogs.oracle.com/wayneyoung/entry/crazy_bookshelf_in_java_fx">crazy bookshelf</a>'. In all cases the code is there for you to explore and experiment with.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has created another 'Friday Fun Component' - this time it is <a href="http://harmoniccode.blogspot.com/2011/10/friday-fun-component-xi.html">a 'StickyNote' component</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has announced the <a href="http://leonardosketch.org/2011/10/246/">release of Leonardo Sketch 1.0</a>. From the website: "Leo is a open source cross platform vector drawing tool built for designers and programmers. With Leo you can draw, diagram, and create presentations; then export your final work to a variety of formats including PNG, SVG, PDF, Java2D code, and JavaScript Canvas code; as well as sharing your work in progress with Twitter and Flickr."</li>
+</ul>
+<p>Hope you all enjoyed the links - catch you all in a weeks time! :-)</p>
+]]></Content>
+	</post>

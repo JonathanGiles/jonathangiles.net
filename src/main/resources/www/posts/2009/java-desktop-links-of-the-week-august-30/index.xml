@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>595</ID>
+		<Slug>java-desktop-links-of-the-week-august-30</Slug>
+		<Title>Java desktop links of the week, August 31</Title>
+		<Date>2009-08-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx</Tags>
+		<Content><![CDATA[<p>Another week, another Java desktop links post. This week there is a fair bit of interesting news, but before I begin, I'd love to ask if people who read this can check if their name is obvious in their blog posts. It is tough having to search for them, and as shown a few times in this post, I've only got your first name, pseudonym, or domain name. I don't know about you, but I'd rather have your name printed than any of these.</p>
+
+<p>Now - Let's get into the news :)</p>
+<h4>General</h4>
+<ul>
+	<li><strong>Joe Darcy</strong> blogs about the progress being made in Project Coin, which is the project for small language changes for Java 7. In his latest blog, he announces the <a href="http://blogs.sun.com/darcy/entry/project_coin_final_five">final five (or so) that have been accepted into the project</a>, and for which a JSR will be created. Of course people have their opinions, but just looking at the list I'm pretty happy and excited about the small language improvements coming in Java 7 (although the <a href="http://mail.openjdk.java.net/pipermail/coin-dev/2009-March/000047.html">Elvis operator</a> and <a href="http://mail.openjdk.java.net/pipermail/coin-dev/2009-February/000003.html">improved exception handling</a> would have been nice too).</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Ken Orr</strong> put out a <a href="http://explodingpixels.wordpress.com/2009/08/23/creating-a-hud-style-slider/">HUD-style slider for his Mac Widgets for Java project</a>. It is a very nice looking, minimalist component that goes well with all the other components he has been blogging about recently.</li>
+	<li><strong>Rob</strong> has a blog post detailing <a href="http://tips4java.wordpress.com/2009/08/30/global-event-listeners/">AWTEventListener</a>, which allows you to listen to all events throughout your entire application using one global listener.</li>
+	<li>If you want to <a href="http://carsten-oland.blogspot.com/2009/08/persisting-jxtables-column-control.html">persist the state of a JXTable between runs of your application</a>, and you are using the Swing App Framework, you might be interested in the code in the blog by <strong>Carsten Oland</strong>. However, I've done this in the last week in an application, and I didn't use SAF, yet the code was still simple and straightforward. Therefore - if you aren't using SAF, don't feel you need to just to persist JXTable state.</li>
+	<li><strong>Itexto.net</strong> blogs about <a href="http://www.itexto.net/devkico/?p=468">finding the position of the character at the position of the carat in a JEditorPane</a>.</li>
+	<li><strong>Jeremy</strong> blogs about a <a href="http://javagraphics.blogspot.com/2009/08/buttons-new-uis.html">new Button API he has been working on</a>. He even has a working demo of his buttons included in the post - give it a go.</li>
+	<li>In another post, <strong>Jeremy</strong> has an <a href="http://javagraphics.blogspot.com/2007/04/slideshows-transitions-swf.html">application demoing transitions he has created in Java</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Stephen Chin</strong> notes that it's the <a href="http://steveonjava.com/2009/08/30/widgetfx-contest-finish-line/">final day for the WidgetFX contest</a>. Time to put any finishing touches on your widgets.</li>
+	<li><strong>Dean Iverson</strong> has a <a href="http://pleasingsoftware.blogspot.com/2009/08/flex-4-vs-javafx-12-dance-battle.html">Dance Battle between Flex 4 and JavaFX 1.2</a>. Dean compares his experiences and thoughts between Flex 4 and JavaFX 1.2. It is an interesting read and well recommended, especially if you'd like a side-by-side comparison of how a simple demo is written in both languages.</li>
+	<li>I've missed a number of phone interviews conducted by <strong>Chhandomay Mandal</strong> at Sun, and I only realised they existed when I was interviewed. Therefore, for those interested, here are some of the interesting interviews: <a href="http://blogs.sun.com/chhandomay/entry/interview_with_javafx_developer_fabrizio">Fabrizio Giudici</a>, <a href="http://blogs.sun.com/chhandomay/entry/interview_with_javafx_coding_challenge">Sten Anderson</a>, <a href="http://blogs.sun.com/chhandomay/entry/interview_with_evgeni_sergeev_javafx">Evgeni Sergeev</a>, <a href="http://blogs.sun.com/chhandomay/entry/interview_with_javafx_expert_stephen">Stephen Chin</a>, and <a href="http://blogs.sun.com/chhandomay/entry/jonathan_giles_on_javafx">Jonathan Giles</a>.</li>
+	<li><strong>Robert Eckstein</strong> blogs about <a href="http://java.sun.com/developer/technicalArticles/javafx/mixin/">Mixins in JavaFX 1.2</a>.</li>
+	<li>Sun have had their <a href="http://www.javafx.com/learn/training.jsp">Tech Test Train application</a> available for people to learn JavaFX with. A <a href="http://steveonjava.com/2009/08/30/auto-completion-on-the-test-test-train/">new release has just been put out</a>, so if you're wanting to learn JavaFX, this is (apparently) a good way to do it. Unfortunately on my machine it just crashes out, so I've never played it.</li>
+	<li><strong>Jim Conners</strong> blogs about <a href="http://ria.dzone.com/articles/registering-multiple-actions">registering multiple actions (or handlers) in JavaFX</a>.</li>
+	<li><strong>Anton Polyakov</strong> blogs about his experience in <a href="http://java.dzone.com/articles/enterprise-javafx-our">building a JavaFX GUI for a Seam booking application</a>. This is built using the Exadel Flamingo application, which "is a tool for easily integrating rich UIs (so far, JavaFX and Flex) into Seam and Spring back ends".</li>
+	<li><strong>Phoenix</strong> has a blog post detailing the '<a href="http://fresherswisdom.com/web-designing/146-web-programming/984-9-best-javafx-photo-gallery-applications-collection.html">9 Best JavaFX Photo Gallery Applicatons</a>'. Most of these apps have source code included, so if you're wanting to learn more about image handling in JavaFX, you should definitely check these out.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> posts to say that the <a href="http://www.jroller.com/aalmiray/entry/griffon_transitions_plugin_released">Transitions plugin for Griffon has been released</a>. This plugin allows for animated transitions to be easily included in your own applications. Just remember that animations work best when they are subtle and relevant (i.e. don't go crazy) :-)</li>
+</ul>
+<p>That's it for another week. Have a great week and I'll catch you again in a week.</p>
+]]></Content>
+	</post>

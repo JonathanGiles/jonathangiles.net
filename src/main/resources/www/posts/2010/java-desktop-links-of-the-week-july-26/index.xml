@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>857</ID>
+		<Slug>java-desktop-links-of-the-week-july-26</Slug>
+		<Title>Java desktop links of the week, July 26</Title>
+		<Date>2010-07-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week, another bunch of good links right across the Java desktop ecosystem. Let's dive right into the links of the week!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has posted <a href="http://www.pushing-pixels.org/?p=2119">release candidates of Trident, Flamingo and Substance</a>. The final releases for all the projects are scheduled for August 9. Only bugs will be fixed until that date.</li>
+	<li><strong>Gerrit Grunwald</strong> has posted about <a href="http://www.jug-muenster.de/java2d-conical-gradient-paint-674/">painting conical gradients in Java2D</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>I posted an example of how to create a <a href="http://fxexperience.com/2010/07/listview-multiple-selection/">ListView in JavaFX that supports multiple selection</a> over at FX Experience.</li>
+	<li><strong>dooApp</strong> posted an <a href="http://blog.dooapp.com/dude-where-is-my-form">introduction</a> to their <a href="http://bitbucket.org/dooapp/fxform/wiki/Home">FXForm project</a>. FXForm is a library providing automatic form generation for JavaFX objects.</li>
+	<li><strong>Carl Dea</strong> has published a <a href="http://carlfx.wordpress.com/2010/07/21/javafx-tabbed-pane-tab-panel/">JavaFX Tabbed Pane and Tab Panel</a> prototype.</li>
+	<li><strong>Sébastien Stormacq</strong> has posted about <a href="http://www.stormacq.com/?p=362">creating an animated chart in JavaFX</a>.</li>
+	<li><strong>Srikanth Shenoy</strong> continues with the third part of his series titled 'Effective JavaFX Architecture'. This week his post looks at '<a href="http://weblogs.java.net/blog/srikanth/archive/2010/07/22/effective-javafx-architecture-part-3-asynchronous-calls-command-pat">Asynchronous calls, Command Pattern and Testability</a>'.</li>
+	<li>As part of his series of posts, <strong>Srikanth</strong> has also been creating a JavaFX project called <a href="https://fxobjects.dev.java.net/">fxobjects</a>. From the website, "FxObjects is a JavaFX Application Framework that enables methodical,  pattern based and test friendly way of developing JavaFX applications  based on ideas and best practices distilled from real life usage".</li>
+	<li>Due to the amount of echoing going on about JavaFX and it's future, most of which consist of references to each other (with very little further information), I've picked out <strong>Max Katz's</strong> post this week as the only one I'm including. His post discusses <a href="http://mkblog.exadel.com/ria/javafx-ria/javafx-does-it-have-a-future/">what he believes the future of JavaFX looks like</a>, both the good and the bad points.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> announced the <a href="http://groovy.dzone.com/announcements/griffon-09-released">release of Griffon 0.9</a>.</li>
+	<li><strong>Andres Almiray</strong> was recently interviewed by DZone about <a href="http://groovy.dzone.com/articles/andres-almiray-griffon-road">Griffon 0.9, the road behind and the road ahead</a>.</li>
+	<li>The <a href="http://dist.codehaus.org/griffon/wip/guide/index.html">Griffon Guide 0.9 Reference Documentation</a> has been posted, which is a work-in-progress.</li>
+</ul>
+<p>So, in general, a week of impressive links, with some new releases, and interesting discussions and demonstrations. Keep it up folks, and I'll catch you all again in a weeks time.</p>
+<p><div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">Sébastien Stormacq</div></p>
+]]></Content>
+	</post>

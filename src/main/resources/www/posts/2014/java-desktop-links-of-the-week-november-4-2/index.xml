@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1826</ID>
+		<Slug>java-desktop-links-of-the-week-november-4-2</Slug>
+		<Title>Java desktop links of the week, November 4</Title>
+		<Date>2014-11-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A slightly delayed links roundup this week - I've been unwell and so I wasn't behind my PC yesterday. Now that I'm recovering, here's the links from the last week:</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Marco Jakob</strong> has posted a <a href="http://code.makery.ch/blog/javafx-dialogs-official/">tutorial for the JavaFX dialogs API</a> that is coming in JavaFX 8u40.</li>
+	<li>Speaking of the new dialogs API, <strong>Jesus Luna Quiroga</strong> has also posted a blog on <a href="http://jlunaquiroga.blogspot.co.nz/2014/10/javafx-dialogs.html">getting started with them</a>.</li>
+	<li><strong>Marco</strong> has also posted an interesting read of his opinions on <a href="http://code.makery.ch/blog/javafx-vs-html5/">JavaFX vs HTML5</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> has posted some thoughts on the 'New Desktop Application Framework' project and <a href="http://www.guigarage.com/2014/11/new-desktop-application-framework-datafx/">how DataFX may possibly integrate into it</a>.</li>
+	<li><strong>Dirk Lemmerman</strong> has two posts this week. Firstly, one titled '<a href="http://dlemmermann.wordpress.com/2014/10/27/2015-the-year-when-javafx-takes-over/">2015: The Year When JavaFX Takes Over</a>', and secondly, another of his JavaFX tips, this time on <a href="http://dlemmermann.wordpress.com/2014/10/31/javafx-tip-15-listview-autoscrolling/">ListView autoscrolling</a>.</li>
+	<li><strong>Amrullah Syadzili</strong> has posted a <a href="http://tiwulfx.panemu.com/2014/11/01/378/">video demonstrating TiwulFX</a>, including how to integrate a TableView with a database and export to Excel.</li>
+	<li><strong>Bruce Johnson</strong> let me know about a project he has been working on. He says that the application, called NvFX, is designed for "processing of NMR (Nuclear Magnetic Resonance Data). The graphical interface is entirely done in JavaFX and makes significant use of ControlsFX." He has <a href="http://www.onemoonscientific.com/nvfx-processor/nvfx-tutorials">posted a video of the application</a> in action for those interested.</li>
+	<li><strong>Jeff Frieson</strong> has posted an article about <a href="http://www.javaworld.com/article/2842240/learn-java/customizing-cell-rendering.html">customising cell rendering</a> in Swing and in JavaFX list controls.</li>
+	<li><strong>Carl</strong> has two posts this week, both to do with cut, copy, and paste support. Firstly, from <a href="http://bekwam.blogspot.co.nz/2014/10/cut-copy-and-paste-from-javafx-menubar.html">MenuBar</a>, and also from <a href="http://bekwam.blogspot.co.nz/2014/11/javafx-cut-copy-and-paste-from-toolbar.html">ToolBar</a>.</li>
+</ul>
+<p>That's all for this week - catch you next week! :-)</p>
+]]></Content>
+	</post>

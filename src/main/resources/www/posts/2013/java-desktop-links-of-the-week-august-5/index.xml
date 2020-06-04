@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1518</ID>
+		<Slug>java-desktop-links-of-the-week-august-5</Slug>
+		<Title>Java desktop links of the week, August 5</Title>
+		<Date>2013-08-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Hi all - a good number of interesting posts this week. Because I'm running a bit late lets just get right into it! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jasper Potts</strong> posted a video of <a href="http://fxexperience.com/2013/08/javafx-hd-menus-on-raspberrypi/">HD menus running in JavaFX on a Raspberry Pi</a>, overlaying an HD video.</li>
+	<li>One of the teams working on JavaFX is located in Prague. This team is responsible for many things, including the base scenegraph API, layout, core libraries, animation, and ports to some mobile devices. They have now started up a team blog to publish details of their work. The first post comes from <strong>Martin Sladecek</strong>, who is currently spending some of his time working on optimising and bug fixing the JavaFX layout APIs. His post is about the <a href="https://blogs.oracle.com/jfxprg/entry/the_peculiarities_of_javafx_layout">peculiarities of JavaFX layout</a>.</li>
+	<li><strong>Jens Deters</strong> continues to work on his <a href="http://www.jensd.de/wordpress/?p=733">Font Awesome library for JavaFX</a>, pushing out a minor release that includes a few new features.</li>
+	<li><strong>Toni Epple</strong> has posted about <a href="http://jayskills.com/blog/2013/07/30/responsive-design-with-javafx/">responsive design with JavaFX</a>. His suggestion is to switch stylesheets based on the system / screen size / etc to alter the styling of UI controls, etc.</li>
+	<li><strong>Dierk Koenig</strong> has posted a video of his explorations of <a href="http://www.youtube.com/watch?v=ilUGpTG1Cig&amp;feature=youtu.be">JavaFX 3D in combination with OpenDolphin</a>.</li>
+	<li><strong>Tom Eugelink</strong> has blogged about <a href="http://tbeernot.wordpress.com/2013/08/04/support-jsr310-jodatime-in-jfxtras/">supporting JSR 310 (Jodatime) in the JFXtras calendar controls</a>.</li>
+	<li><strong>Michael</strong> has posted part five about <a href="http://mihosoft.eu/?p=827">custom node content in his VWorkflows library</a>. He has also posted to note that <a href="http://mihosoft.eu/?p=792">VWorkflows is also available via Maven</a> now too.</li>
+	<li>
+<div id="stcpDiv"><strong>John Malc</strong> has posted part two about <a href="http://www.komentovaneudalosti.cz/blog/?p=1190">developing a complex bank application in JavaFX</a>.</div></li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Dave Gilbert</strong> has continued on with his <a href="http://www.jfree.org/jfreegraphics2d/">JFreeGraphics2D project</a> which generates SVG and PDF charts using Java 2D, as well as an HTML canvas mode as well.</li>
+	<li>Separately, <strong>Dave</strong> has also blogged about the various <a href="http://www.jroller.com/dgilbert/entry/19_free_open_source_chart">Java-based charting libraries that are available</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> has posted about how he manages to keep his <a href="http://harmoniccode.blogspot.co.nz/2013/08/always-up-to-date.html">five Raspberry Pis up to date with the latest JDK 8 developer preview builds</a> - he uses XMPP to send instructions to them to download and install the JDK builds. A very nice solution :-)</li>
+</ul>
+<p>Catch you all next week! Keep up the great work.</p>
+]]></Content>
+	</post>

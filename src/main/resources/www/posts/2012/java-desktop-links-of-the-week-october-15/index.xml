@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1335</ID>
+		<Slug>java-desktop-links-of-the-week-october-15</Slug>
+		<Title>Java desktop links of the week, October 15</Title>
+		<Date>2012-10-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all! Sorry for not posting last week, I was just overloaded with work and was in the US. Now that I am back home in good old New Zealand, let's get going with the links for the last two weeks! I should quickly note that due to all the travel and distractions I may have missed some posts. Feel free to either leave the links in the comments or else email me and I can include them next week.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>Oracle has released a summary of the <a href="http://www.oracle.com/us/corporate/press/1854982">key points raised at JavaOne for JavaFX and Java SE</a>.</li>
+	<li>With JavaOne over, the <a href="https://oracleus.activeevents.com/connect/search.ww?event=javaone">recordings are already online</a> (and as far as I know, freely available). There are way too many links to good sessions you should listen to, so I won't link to any directly - the best thing to do is go to the site and refine the search criteria to find the sessions you're interested in. <strong>Tori Wieldt</strong> has <a href="https://blogs.oracle.com/java/entry/javaone_content_available_for_free">summarised the options a bit more too</a>.</li>
+	<li>The major announcement from JavaOne this year (related to JavaFX anyway) was that it will be <a href="http://jaxenter.com/javafx-to-go-fully-open-source-by-year-s-end-will-we-start-to-use-it-44816.html">fully open source by the end of 2012</a>.</li>
+	<li>If you're interested in embedded hardware, you should definitely check out the <a href="http://jdk7.java.net/fxarmpreview/index.html">JavaFX developer preview release for ARM</a>. You can also <a href="http://jdk7.java.net/fxarmpreview/javafx-arm-developer-preview.html">check out the documentation</a> for more information.</li>
+	<li>During the technical keynote, <strong>Canoo</strong> <a href="http://www.canoo.com/blog/2012/10/01/dolphin-is-opensource/">announced</a> the release and <a href="https://github.com/canoo/open-dolphin">open sourcing</a> of their 'Dolphin' framework for JavaFX. Dolphin is Canoo’s new remoting framework for rich web applications</li>
+	<li><strong>Tom Schindl</strong> has three posts this week. Firstly, he has announced the <a href="http://tomsondev.bestsolution.at/2012/09/27/efxclipse-0-1-1-released/">release of e(fx)clipse 0.1.1</a>, which includes a bunch of new features. Secondly he has put up the <a href="http://tomsondev.bestsolution.at/2012/10/02/j1-talk-on-efxclipse/">slides from his sessions</a> at JavaOne. Finally, he has put up a video demonstrating how he <a href="http://tomsondev.bestsolution.at/2012/10/04/eclipse-techs-on-steroids/">combines Eclipse technology and JavaFX</a> to create, essentially, a JavaFX-based IDE.</li>
+	<li><strong>Dustin Marx</strong>, in his usual style, has a number of in-depth JavaOne-related blog posts. Those of most interest to readers of this blog will likely include his coverage of <strong>Richard Bair's</strong> <a href="http://marxsoftware.blogspot.co.nz/2012/10/javaone-2012-javafx-graphics-tips-tricks.html">JavaFX graphics tips and tricks</a> and <strong>David Hill's</strong> <a href="http://marxsoftware.blogspot.co.nz/2012/10/javaone-2012-javafx-smart-embedded-devices.html">JavaFX on smart embedded devices</a>.</li>
+	<li><strong>DooApp</strong> have announced an <a href="http://blog.dooapp.com/fxml-fxform2-developing-forms-has-never-been">updated release of their FXForm2 project</a> (which can automatically generate forms from Java beans).</li>
+	<li><strong>Laurent Nicolas</strong> has updated his <a href="http://www.mrlonee.com/?p=381">JavaFX radial menu control</a>.</li>
+	<li>I blogged about how I hacked in <a href="http://fxexperience.com/2012/10/cell-spanning-in-tableview/">cell spanning support in TableView</a>. This was on the back of my 'Hacking TableView' talk at JavaOne (which you can listen to at your own leisure by following the links above).</li>
+	<li>NetBeans 7.3 is in development, but you can already <a href="http://wiki.netbeans.org/NetBeans_73_NewAndNoteworthy#JavaFX">check out the list of new features</a> they're working on related to JavaFX.</li>
+	<li><strong>Danno Ferrin</strong> has started <a href="http://speling.shemnon.com//blog/2012/10/09/mirroring-openjfx-on-bitbucket/">mirroring OpenJFX on BitBucket</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> and <strong>Jim Weaver</strong> have started <a href="http://javafxcommunity.com/">JavaFXCommunity.com</a>, which aggregates the blog posts of a number of the members of the community.</li>
+	<li><strong>Tom Eugelink</strong> has started work on an 'Agenda' control (much like Google Calendar or MiGCalendar). At present you can find the source code in the <a href="https://github.com/JFXtras/jfxtras-labs/">JFXtras-Labs github repo</a>, and also see an <a href="http://www.softworks.nl/stuff/agenda.png">early screenshot</a> on his website.</li>
+	<li><strong>Janice J. Heiss</strong> has blogged about what we were <a href="https://blogs.oracle.com/javaone/entry/at_the_java_demogrounds_javafx">showing at JavaOne in the demo grounds</a>.</li>
+	<li>In a separate post, <strong>Janice</strong> blogged about <strong>Simon Ritter's</strong> <a href="https://blogs.oracle.com/javaone/entry/session_report_java_on_the">JavaFX on the Raspberry Pi</a> session, and has included a heap of detail for those interested in JavaFX on this device.</li>
+	<li><strong>Patrick Champion</strong> has blogged about '<a href="http://paddyweblog.blogspot.fr/2012/09/put-it-all-together-javafx-2x-custom.html">Put it all together (JavaFX 2.x Custom component, FXML, JAX-RS 2.0 client API)</a>'.</li>
+	<li><strong>Jim Driscoll</strong> has started a series on his blog about creating a Groovy-based JavaFX Turtle implementation. He steps through his <a href="http://jamesgdriscoll.wordpress.com/2012/10/03/napili-a-turtle-graphics-program-with-javafx-and-groovy/">reasoning</a>, introducing the <a href="http://jamesgdriscoll.wordpress.com/2012/10/06/a-turtle-graphics-dsl/">DSL</a>, and getting started on the <a href="http://jamesgdriscoll.wordpress.com/2012/10/13/turtle-graphics-dsl-implementation-part-1/">implementation</a>.</li>
+</ul>
+<p>&nbsp;</p>
+<h4 class="entry-meta">Janice J. Heiss</h4>
+]]></Content>
+	</post>

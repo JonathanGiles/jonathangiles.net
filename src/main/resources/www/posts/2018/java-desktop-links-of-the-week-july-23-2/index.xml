@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3119</ID>
+		<Slug>java-desktop-links-of-the-week-july-23-2</Slug>
+		<Title>Java desktop links of the week, July 23</Title>
+		<Date>2018-07-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Heaps of good links this week - enjoy!</p>
+<ul>
+ 	<li><strong>Johan Vos</strong> announced that JavaFX 11 early access builds are now available in Maven Central, and the final release is on track for release in September (with JDK 11). This is really cool as we are getting to the point where JavaFX is decoupled from and able to progress at its own pace, separate from the JDK. There is a <a href="http://docs.gluonhq.com/javafx11/#introduction">short how-to document</a> up on the Gluon website.</li>
+ 	<li><strong>Pedro DV</strong> continues to improve JMetro, adding <a href="https://pixelduke.com/2018/07/15/jmetro-tab-treeview-contextmenu-java/">support for TreeView, Tabs / TabPane, and context menu</a>.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has two posts this week. Firstly an <a href="https://harmoniccode.blogspot.com/2018/07/anchor-selector-control.html">anchor selector control</a>, and secondly, on <a href="https://harmoniccode.blogspot.com/2018/07/rolling-gradient.html">rolling gradients</a>.</li>
+ 	<li><strong>Jordan Martinez</strong> has announced he is looking for someone to <a href="https://github.com/FXMisc/RichTextFX/issues/768">take over maintaining the RichTextFX</a> (and related) projects, as he is moving onto other technologies and won't have the time going forward. I hope someone steps up, as there is some really cool technology here and it would be a shame to see it abandoned.</li>
+ 	<li><strong>Andres Almiray</strong> has two blog posts this week. Firstly about creating <a href="http://andresalmiray.com/creating-aggregate-javafx-bindings/">aggregate JavaFX bindings</a>, and secondly about <a href="http://andresalmiray.com/sassy-javafx/">using Sass in JavaFX</a> (something that I know Gluon does also with <a href="http://www.gluonhq.com/products/mobile">Gluon Mobile</a>).</li>
+ 	<li><strong>Dirk Lemmermann</strong> has another JavaFX tip, this time on <a href="https://dlsc.com/2018/06/29/javafx-tip-31-alpha-channel-masking-clipping/">masking / clipping / alpha channels</a>.</li>
+ 	<li><strong>Tristan Deloche</strong> has open sourced <a href="https://github.com/Tristan971/Lyrebird">Lyrebird</a>, a free, open-source, cross-platform twitter client.</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>583</ID>
+		<Slug>java-desktop-links-of-the-week-august-17</Slug>
+		<Title>Java desktop links of the week, August 17</Title>
+		<Date>2009-08-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swt</Tags>
+		<Content><![CDATA[<p>Here we go again - another weeks worth of Java desktop related links. This week was a quiet week, so this post is short and sweet. Regardless, I hope you enjoy.</p>
+<h4>General</h4>
+<ul>
+	<li>Given the interest around the <a href="http://www.java.com/store">Java Store</a>, and it's current requirement of not relying on external JARs, <strong>Robert Eckstein</strong> has an article on the Sun Developer Network discussing <a href="http://java.sun.com/developer/technicalArticles/java_warehouse/single_jar/">how to use NetBeans 6.7 to merge all JARs into a single JAR</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Geertjan Wielenga</strong> posts about the <a href="http://netbeans.dzone.com/news/jazz-improvisor-swing">Impro-Visor project which was written in Swing and built using NetBeans</a>. This project is "a music notation program designed to help jazz musicians compose and hear solos similar to ones that might be improvised. The objective is to improve understanding of solo construction and tune chord changes."</li>
+	<li>I came across <a href="http://jodd.org/doc/swingspy.html">SwingSpy</a> this week, which is a simple resident Swing introspector. It shows the hierarchy of dialog elements under the cursor. It appears to be licensed under the BSD license.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jim Weaver</strong> has a post detailing how he used my MenuBar API to <a href="http://learnjavafx.typepad.com/weblog/2009/08/menus-in-javafx.html">build a JavaFX 'Caspian-looking' menubar</a>.</li>
+	<li><strong>Henry Zhang</strong> has posted about a prototype that he has written for a <a href="http://www.javafxgame.com/javafx-online-game-prototype/">JavaFX-based online game</a>.</li>
+	<li><strong>Vaibhav Choudhary</strong> has a post showing <a href="http://javafx.com/docs/articles/ShouldDrag/index.jsp">how to control the 'draggability' of JavaFX Applets</a>.</li>
+	<li><strong>Mark</strong> posts a <a href="http://www.jumpingbean.co.za/blogs/mark/javafx-charting-api">tutorial on the JavaFX Charting API</a>.</li>
+	<li><strong>Tom </strong><span><span><strong>Eugelink</strong> </span></span>continues his work on the JFXCalendarPicker control, having <a href="http://kenai.com/projects/jfxcalendarpicker/pages/Home">just announced the 1.0 release of it</a>. As always, the <a href="http://www.softworks.nl/jfxcalendarpicker/JFXCalendarPicker.jnlp">webstart link is available</a> for you to play around with it.</li>
+	<li><strong>The Zembly blog</strong> has a post discussing how to <a href="http://blog.zembly.com/?p=1671">build Rich Internet Applications on orkut using zembly and JavaFx</a>.</li>
+</ul>
+<h4>SWT</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> finishes his 'animation blueprints for SWT' series of posts this week, with parts 3, 4, and 5. Part three discusses <a href="http://www.pushing-pixels.org/?p=1373">asynchronous image loading</a>, part four covers <a href="http://www.pushing-pixels.org/?p=1376">scrolling layouts</a>, and part five covers <a href="http://www.pushing-pixels.org/?p=1379">complex transition scenarios</a>. Kirill, ever the gentleman, <a href="http://www.pushing-pixels.org/?p=1384">concludes with a summary and details on how to run his code samples locally</a>.</li>
+</ul>
+<p>Well, that's all folks. Catch you again in a week.</p>
+]]></Content>
+	</post>

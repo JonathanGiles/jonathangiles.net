@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1948</ID>
+		<Slug>java-desktop-links-of-the-week-august-10-2</Slug>
+		<Title>Java desktop links of the week, August 10</Title>
+		<Date>2015-08-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>So many links this week - enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Johan Vos</strong>&nbsp;has an article in Java Magazine about '<a href="https://blogs.oracle.com/java/entry/writing_javafx_applications_for_mobile1">Writing JavaFX Applications for Mobile Devices</a>'.</li>
+	<li>Speaking of <strong>Johan</strong>, this week he will be presenting (virtually) at the Silicon Valley JavaFX Users Group on the topic of '<a href="http://www.meetup.com/svjugfx/events/221806020/">JavaFX on Mobile</a>'.</li>
+	<li><strong>Johan</strong> also posted about how <a href="http://www.lodgon.com/dali/blog/entry/Bundling_our_JavaFX_Activities_into_Gluon">JavaFXPorts has a new home</a> inside Gluon. A <a href="http://gluonhq.com/javafxports-has-a-new-home/">similar announcement</a> was also posted on the Gluon website.</li>
+	<li>Speaking of <strong>Gluon</strong> (and the usual disclaimer: <a href="http://gluonhq.com/jonathan-giles-joins-the-gluon-advisory-board/">I am involved with Gluon</a>), they <a href="http://gluonhq.com/gluon-store-now-open-for-business/">opened their Gluon Store this week</a> to begin selling Gluon Charm licenses and open source support services. Given how much the guys there have put into the community, now is your chance to show your appreciation and help to grow the business into something that can take Java on mobile forward.</li>
+	<li><strong>Jens Deters</strong> has announced that&nbsp;<a href="http://www.jensd.de/wordpress/?p=2085">FontAwesomeFX 8.5 has been released</a>.</li>
+	<li>I was pleased to see that recently my JEP for improving JavaFX UI controls and CSS APIs in JDK 9 <a href="http://mail.openjdk.java.net/pipermail/jdk9-dev/2015-July/002423.html">has been approved and targeted for JDK 9</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> has styled the <a href="https://pixelduke.wordpress.com/2015/08/06/metro-style-spinner-for-java-jmetro-2/">JavaFX Spinner control to have a&nbsp;metro styling</a>, as part of his JMetro project.</li>
+	<li><strong>Michael Hoffer</strong> has released two new releases of his SonoAir project recently: '<a href="http://mihosoft.eu/?p=1139">SonoAir 1.0 (Beta 3.2) With Proper Group Detection</a>', and then '<a href="http://mihosoft.eu/?p=1179">SonoAir v1.0 (Beta 4.0)</a>'.</li>
+	<li><strong>Carl</strong>&nbsp;has two posts this week: '<a href="http://bekwam.blogspot.co.nz/2015/06/clearing-javafx-anchorpane-padding.html">Clearing JavaFX AnchorPane Padding</a>', and '<a href="http://bekwam.blogspot.co.nz/2015/07/dont-just-tell-me-show-me-with-custom.html">Don't Just Tell Me. Show Me with Custom Alerts in JavaFX 8.</a>'</li>
+</ul>
+<p>That'll do! Catch you all next week :-)</p>
+]]></Content>
+	</post>

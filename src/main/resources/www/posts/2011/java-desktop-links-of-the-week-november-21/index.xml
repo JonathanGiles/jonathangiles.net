@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1144</ID>
+		<Slug>java-desktop-links-of-the-week-november-21</Slug>
+		<Title>Java desktop links of the week, November 21</Title>
+		<Date>2011-11-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome to another week! :-) There is a heap of good links this week - it seems the quality of blog posts is certainly increasing these days! Keep it up folks :-) As always, I hope you enjoy some of the links below, and always feel free to email me links to include.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>I mentioned last week that the <a href="http://www.thingsfx.com">ThingsFX</a> Swing-in-JavaFX project didn't support key events, but that it was coming soon. In actual fact, I was wrong - <a href="http://rkennke.wordpress.com/2011/11/09/key-event-support-in-thingsfx-swingjavafx-integration/">it is already supported</a>.</li>
+	<li>Speaking of ThingsFX, one of the members of that team, <strong>Roman Kennke</strong>, blogged elsewhere about the <a href="http://rkennke.wordpress.com/2011/11/16/swing-in-javafx-demo/">Swing in JavaFX integration</a>, and even put up a demo applet that shows the current implementation. As you'll note, it is a little slow, but it shows a lot of promise once faster options are made available.</li>
+	<li><strong>Tom Schindl</strong> has released <a href="http://tomsondev.bestsolution.at/2011/11/13/efxclipse-0-0-8-released/">e(fx)clipse 0.0.8</a>, and now e(fx)clipse also has <a href="http://efxclipse.org/">an official website</a>. This project is very exciting, so if you are an eclipse user and want top-notch JavaFX tooling support, you should check this out and provide feedback.</li>
+	<li><strong>Zonski</strong> continues blogging about his research and development with JavaFX 2.0. This week he talks about <a href="http://www.zenjava.com/2011/11/14/file-downloading-in-javafx-2-0-over-http/">file downloading in JavaFX 2.0 (over HTTP)</a>.</li>
+	<li><strong>Johan Vos</strong> has blogged about <a href="http://blogs.lodgon.com/johan/blog/Visualizing_REST_XML_Data_in_JavaFX_controls">visualizing REST XML data in JavaFX controls</a>, making use of the <a href="http://www.javafxdata.org">DataFX project</a>.</li>
+	<li><strong>Tom Eugelink</strong> follows up his <a href="http://tbeernot.wordpress.com/2011/11/15/javafx-2-0-bubblemark-part-2/">JavaFX 2.0 bubblemark explorations</a> after being told of a runtime switch for JavaFX 2.0 that removes the 60fps limit that JavaFX imposes.</li>
+	<li>The slide deck that <strong>Stephen Chin</strong> and <strong>Peter Pilgrim</strong> used at Devoxx 2011 for their "JavaFX 2.0 - A Developer's Guide" session is <a href="http://www.slideshare.net/steveonjava/java-fx-20-a-developers-guide">available online</a> for those interested.</li>
+	<li><strong>Patrick Champion</strong> blogged about <a href="http://paddyweblog.blogspot.com/2011/11/extend-existing-ui-component-in-javafx.html">extending a JavaFX 2.0 control</a> to add functionality. I should probably add that their are simpler ways to doing this in many cases, which I covered in a JavaOne talk called "<a href="http://fxexperience.com/2011/10/slides-from-javaone/">Custom UI Controls and Charts with JavaFX 2.0</a>".</li>
+	<li><strong>Andre Hogenkamp</strong> has posted a second blog post about <a href="http://andre86blog.blogspot.com/2011/11/running-javafx-on-linux-2.html">running JavaFX 2.0 in Linux</a> (whilst awaiting official support from Oracle).</li>
+	<li><strong>Scott Hommel</strong> has blogged about <a href="http://blogs.oracle.com/thejavatutorials/entry/javafx_use_a_screen_with">using the JavaFX Screen API</a> to determine the dimensions of the users screen.</li>
+	<li><strong>Eric Bruno</strong> blogged about <a href="http://drdobbs.com/blogs/java/231903245">JavaFX 2.0 binding APIs</a>. Whilst it is a good blog to cover the main concepts of binding in JavaFX, it skips over some simpler options that are possible for the specific use case mentioned in the post. For example, rather than bind the TableView width/height to the scene width/height properties (and place them inside a Group layout), if a StackPane is used instead the TableView will grow automatically without needing any bindings. Similarly, some controls have their max width/height set to the pref width/height, so it is simply a matter of calling, say, button.setMaxHeight(Double.MAX_VALUE) to have them grow automatically when placed in a relevant layout.</li>
+	<li>I've come across two JavaFX-related projects on GitHub that people may be interested in, but unfortunately no related websites for further details. Firstly, user 'nahi' has <a href="https://github.com/nahi/jrubyfx">JRubyFX</a>, and user 'skrb' has <a href="https://github.com/skrb/SVGLoader">SVGLoader</a>. Fortunately the project names are fairly self-explanatory :-)</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li>Unfortunately last week I missed out on mentioning <strong>Gerrit Grunwalds</strong> 'Friday Fun Component', which was a <a href="http://harmoniccode.blogspot.com/2011/11/friday-fun-component-xiii.html">traffic light component</a>. This week <strong>Gerrit</strong> released a <a href="http://harmoniccode.blogspot.com/2011/11/friday-fun-component-xiv.html">range slider component</a>.</li>
+	<li><strong>Dierk König</strong> has put up a website that contains <a href="http://people.canoo.com/mittie/talks.html">screencasts of the talks he has given</a>,&nbsp; some of which are related to Swing.</li>
+	<li><strong>Jyloo Software</strong> put up <a href="http://www.jyloo.com/news/?pubId=1321529278000">version 1.6.1 of their SyntheticaAddons</a> project. It is a <a href="http://www.jyloo.com/syntheticaaddons/changelog/">maintenance release</a>.</li>
+</ul>
+<p>Keep up the great work folks. Catch you all in a weeks time.</p>
+]]></Content>
+	</post>

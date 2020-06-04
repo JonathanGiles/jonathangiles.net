@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1284</ID>
+		<Slug>java-desktop-links-of-the-week-august-6</Slug>
+		<Title>Java desktop links of the week, August 6</Title>
+		<Date>2012-08-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Welcome to another weeks worth of Java desktop links! There are a heap of links this week, so I hope you all find something you enjoy and learn from! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">JavaFX 2.2 developer preview build 19</a> was released this week.</li>
+	<li><strong>Igor Nekrestyanov</strong> has posted about <a href="https://blogs.oracle.com/talkingjavadeployment/entry/native_packaging_cookbook_using_drop">drop-in resources</a> when using the native packaging feature in JavaFX 2.2.</li>
+	<li><strong>Tom Schindl</strong> has announced <a href="http://tomsondev.bestsolution.at/2012/07/20/efxclipse-0-1-0-released/">e(fx)clipse 0.1.0 has been released</a>, which includes a huge number of new features for things like native packaging, splash screens, Scene Builder integration, and a lot more.</li>
+	<li>For those of you who want a logarithmic scale in the JavaFX charts API, it's your lucky day: <strong>Kevin Senechal</strong> has posted an <a href="http://blog.dooapp.com/logarithmic-scale-strikes-back-in-javafx-20">implementation you can drop into your own apps</a>!</li>
+	<li><strong>Roger Brinkley</strong> <a href="https://blogs.oracle.com/javaspotlight/entry/java_spotlight_episode_93_jonathan">interviewed me for the Java Spotlight Podcast</a> whilst he was on vacation in New Zealand. Of course the topics covered are all to do with my area of focus: JavaFX UI controls.</li>
+	<li><strong>Ander Ruiz</strong> and I released <a href="http://fxexperience.com/2012/07/announcing-scenic-view-1-1-beta-build-7/">Scenic View 1.1 beta build 7</a>, and based on the feedback we think this may be the last beta release before a final release of 1.1 this week.</li>
+	<li>The <strong>UGate blog</strong> has posted <a href="http://ugate.wordpress.com/2012/07/30/javafx-programmatic-pojo-expression-bindings-part-iii/">part three of the JavaFX programmatic POJO expression bindings</a> posts. You can find part <a href="http://ugate.wordpress.com/2012/06/06/javafx-pojo-bindings/">one</a> and <a href="http://ugate.wordpress.com/2012/06/14/javafx-programmatic-pojo-bindings/">two</a> at their respective links.</li>
+	<li><strong>Chika Okereke</strong> has blogged about PDF to JavaFX conversions, this time covering <a href="http://www.jpedal.org/PDFblog/2012/07/pdf-to-javafx-conversion-applying-fade-in-transitions-in-javafx/">fade-in transitions in JavaFX</a>.</li>
+	<li><strong>Andreas Billmann</strong> has two blog posts this week. Firstly, he shares some code on how to create a <a href="http://www.billmann.de/2012/07/16/javafx-glowing-icon-button-as-an-eye-catcher/">glowing icon button</a> to catch users attention, and building on top of this he then shares code which shows <a href="http://www.billmann.de/2012/08/05/javafx-miniiconanimationbutton/">small (and possibly animated) icons on top of a button</a>, again to catch the users attention. This kind of code should be polished and added to the <a href="http://jfxtras.org">JFXtras project</a>!</li>
+	<li><strong>Sanjay Dasgupta</strong> has <a href="http://weblogs.java.net/blog/sanjaydasgupta/archive/2012/08/03/fxjs-smarter-fxml-alternative">blogged</a> about his <a href="http://fxjs.java.net/">FX.js project</a>, which, according to the <a href="http://fxjs.java.net/FXJSLanguageGuide.html">language guide</a>, is an attempt to allow developers to develop JavaFX applications using the JavaScript language.</li>
+	<li><strong>José Pereda</strong> continues to blog on his work around his MatrixPanel control, this week showing <a href="http://jperedadnr.blogspot.com.es/2012/08/traffic-signs-matrixpanel-samples-for.html">animated traffic signs</a>.</li>
+	<li><strong>WichitSombat</strong> has posted a YouTube video on <a href="http://www.youtube.com/watch?v=_B6ciKMPb2g&amp;feature=youtu.be&amp;a&amp;utm_source=buffer&amp;buffer_share=e8bfb">how to set up a development environment for JavaFX using IntelliJ IDEA Community Edition 11.0.2</a>.</li>
+	<li><strong>Thierry Wasyl</strong> has posted two posts this week. Firstly he talks about <a href="http://thierrywasyl.wordpress.com/2012/08/01/keyboard-shortcuts-and-mnemonic-in-javafx/">keyboard shortcuts and mnemonics in JavaFX 2</a>, and secondly he has posted another <a href="http://thierrywasyl.wordpress.com/2012/08/05/tweetwallfx-screencast-3/">video of his TweetWallFX application</a>.</li>
+</ul>
+<p>That's all folks! Catch you all in a weeks time... :-)</p>
+]]></Content>
+	</post>

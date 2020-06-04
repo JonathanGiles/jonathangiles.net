@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3122</ID>
+		<Slug>java-desktop-links-of-the-week-july-30-2</Slug>
+		<Title>Java desktop links of the week, July 30</Title>
+		<Date>2018-07-29</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A quiet week this week!</p>
+<ul>
+ 	<li><strong>Pedro DV</strong> has another post on JMetro, with a <a href="https://pixelduke.com/2018/07/25/fluent-design-java-radiobutton-checkbox-menu-choicebox/">bunch of improvements</a> for radio buttons, check box, menus, and choice boxes.</li>
+ 	<li><strong>Rob Walker</strong> has a blog post about <a href="https://courses.bekwam.net/~walkerro/bkcourse_tornadofx_style_tableview.html">TornadoFX TableView styling</a>.</li>
+</ul>
+]]></Content>
+	</post>

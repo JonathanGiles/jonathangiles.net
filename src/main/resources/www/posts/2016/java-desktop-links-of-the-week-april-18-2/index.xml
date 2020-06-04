@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2086</ID>
+		<Slug>java-desktop-links-of-the-week-april-18-2</Slug>
+		<Title>Java desktop links of the week, April 18</Title>
+		<Date>2016-04-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A really busy week of links this week - you've all been very busy! :-)</p>
+<ul>
+ 	<li><strong>Dirk Lemmermann</strong> has posted another post about the 'JavaFX missing features' survey he run. This time he talks about <a href="https://dlemmermann.wordpress.com/2016/04/12/javafx-missing-features-survey-performance-quality/">performance and quality responses</a> that he received.</li>
+ 	<li><strong>Jens Deters</strong> has <a href="http://www.jensd.de/wordpress/?p=2360">released FontAwesomeFX 8.10</a> which splits the icon packs out into separate artefacts so that the file size is reduced in most cases.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has posted another of his Friday Fun Components, this week a <a href="http://harmoniccode.blogspot.co.nz/2016/04/friday-fun-xxvii.html">progress bar styled on the 'material design' style</a>. Looks very nice :-)</li>
+ 	<li><strong>Carl</strong> has two blog posts about the JavaFX TableView control. Firstly, he has a reviewed the <a href="http://bekwam.blogspot.co.nz/2016/04/javafx-tableview-load-time-with.html?">performance implications of the TableView cellValueFactory API</a>, when using the reflection and non-reflection approaches that are available. Secondly, he has posted about <a href="http://bekwam.blogspot.co.nz/2016/04/saving-changes-to-big-javafx-tableview.html">saving changes to JavaFX TableViews</a> when the data set is large.</li>
+ 	<li><strong>Jeff Friesen</strong> has an article <a href="http://www.itworld.com/article/3057072/learn-java/exploring-javafxs-application-class.html">exploring JavaFX's Application class</a>.</li>
+ 	<li><strong>Gluon</strong> announced the <a href="http://gluonhq.com/announcing-gluon-maps/">availability of Gluon Maps</a>, a library that allows for a Google Maps user interface using JavaFX (without the need for an embedded WebView, etc).</li>
+ 	<li><strong>Adam Carroll</strong> blogged about&nbsp;<a href="https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/">VocabHunter</a>, a tool for learners of foreign languages, which is written using JavaFX.</li>
+ 	<li><strong>Edvin Syse</strong> has <a href="https://github.com/edvin/tornadofx/releases/tag/v1.4.2">released&nbsp;TornadoFX 1.4.2</a>, which is a lightweight JavaFX framework for Kotlin.</li>
+</ul>
+]]></Content>
+	</post>

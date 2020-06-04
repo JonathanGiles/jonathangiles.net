@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1929</ID>
+		<Slug>java-desktop-links-of-the-week-june-2-2</Slug>
+		<Title>Java desktop links of the week, June 2</Title>
+		<Date>2015-06-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A quiet week this one - and apologies for the day delay in posting this, public holidays (as yesterday was) are distracting!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jeramy Singleton</strong> has blogged about <a href="http://www.beastbytes.com/add-spell-checking-to-a-javafx-app/">spell checking in JavaFX applications</a>. Nicely done! :-)</li>
+	<li><strong>Nicolai Parlog</strong> has announced that&nbsp;<a href="http://blog.codefx.org/libfx/libfx-0-3-0-released/">LibFX 0.3.0 has been released</a>. This release contains a lot of API around collection transformations.</li>
+	<li><strong>Bennet Schulz</strong> has blogged about <a href="http://www.bennet-schulz.com/2015/05/how-to-test-your-javafx-fxml-with-testfx.html">testing JavaFX applications with TestFX</a>.</li>
+	<li>'<strong>Rogach</strong>' has ported Swing's GroupLayout to JavaFX: <a href="http://blog.rogach.org/2015/05/grouplayout-for-javafx-8-grouplayoutpane.html">introducing GroupLayoutPane</a>.</li>
+</ul>
+<p>That's all folks - see you next week.</p>
+]]></Content>
+	</post>

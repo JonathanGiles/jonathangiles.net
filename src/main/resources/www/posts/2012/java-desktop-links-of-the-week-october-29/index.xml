@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1344</ID>
+		<Slug>java-desktop-links-of-the-week-october-29</Slug>
+		<Title>Java desktop links of the week, October 29</Title>
+		<Date>2012-10-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Wow - we're already at the end of October - time flies huh? :-) Here are your links of the last week - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has blogged about his experiences <a href="http://harmoniccode.blogspot.de/2012/10/who-let-dogs-out.html">setting up a beagleboard (and touchscreen) to run JavaFX applications.</a></li>
+	<li><strong>Danno Ferrin</strong> has blogged about <a href="http://speling.shemnon.com/blog/2012/10/23/conventions-and-configurations/">the 'ideal build system' for JavaFX</a>, using Gradle.</li>
+	<li>Over at <strong>FX Experience</strong> I announced the <a href="http://fxexperience.com/2012/10/announcing-the-javafx-ui-controls-sandbox/">availability of the JavaFX 8 UI control sandbox repository</a>, which is already full of new controls and features, including TreeTableView, RangeSlider, cell spanning support in TableView and Dialogs.</li>
+	<li>NetBeans 7.2.1 is now available for download, and it comes with <a href="http://netbeans.org/community/news/show/1568.html">improved support for JavaFX 2.2</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> has started working on a <a href="http://pixelduke.wordpress.com/2012/10/23/jmetro-windows-8-controls-on-java">'Metro' look for JavaFX called JMetro</a>. It would be great to see this added to the <a href="https://github.com/JFXtras/jfxtras-styles">JFXtras-Styles project</a>.</li>
+	<li><strong>René Jahn</strong> has blogged about the various ways he has <a href="http://blog.sibvisions.com/2012/10/22/javafx-tableview-with-database-records">improved the JavaFX TableView control</a>. I would love to see as much of this contributed back into OpenJFX!</li>
+	<li><strong>Andres Almiray</strong> continues to churn out <a href="http://artifacts.griffon-framework.org/tags/plugin/javafx">JavaFX-related plugins for GroovyFX</a>.</li>
+	<li><a href="http://code.google.com/p/jacp/#JavaFX">JacpFX 1.1 has been released</a>. JacpFX is a RCP framework on top of JavaFX and Spring.</li>
+	<li><strong>Geertjan Wielenga</strong> has blogged about how the JavaFX WebView component is being used by developers as a <a href="https://blogs.oracle.com/geertjan/entry/unesco_j_isis_and_the1">web browser inside their Swing applications</a>.</li>
+	<li><strong>Wichit Sombat</strong> has put up a YouTube video showing <a href="http://www.youtube.com/watch?v=ZDuynw-fqSA&amp;feature=youtu.be&amp;a">how to build a JavaFX application with NetBeans</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Danno Ferrin</strong> has <a href="http://insubstantial.posterous.com/insubstantial-72-release">released Insubstantial 7.2</a>. Insubstantial is a maintenance fork of some of <strong>Kirill Grouchnikov's</strong> Wwing based projects. Specifically Substance, Trident, Flamingo, and some supporting projects.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Sharon Zakhour</strong> has blogged about <a href="https://blogs.oracle.com/thejavatutorials/entry/apple_s_java_mac_os">Apple's Java Mac OS X 2012-006 update</a>.</li>
+	<li><strong>Excelsior</strong> have announced the <a href="http://www.excelsior-usa.com/jetcharity.html">Excelsior JET charity bundle</a>, where you can get the standard edition of Excelsior JET for just $10 (without support obviously), and they contribute all of the money to charity.</li>
+</ul>
+<p>That's that for another week. Now I can get back to real work! :-) Catch you again next week.</p>
+]]></Content>
+	</post>

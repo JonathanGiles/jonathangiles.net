@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1252</ID>
+		<Slug>java-desktop-links-of-the-week-may-21</Slug>
+		<Title>Java desktop links of the week, May 21</Title>
+		<Date>2012-05-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Welcome to this weeks links roundup. I've got plenty of good JavaFX links this week, so enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">JavaFX 2.2 build 8, and Scene Builder 1.0 build 38 are now available</a> for download for testing.</li>
+	<li>If you're new to Scene Builder, check out the developer preview of the '<a href="http://docs.oracle.com/javafx/scenebuilder/1/get_started/jsbpub-get_started.htm">getting started with JavaFX Scene Builder</a>'.</li>
+	<li><strong>Eric Bruno</strong> has an article up on <strong>Dr. Dobbs</strong> about <a href="http://www.drdobbs.com/blogs/jvm/240000176?cid=twitter_">the Scene Builder application</a> that was recently made available as a developer preview.</li>
+	<li><strong>Patrick Martin</strong> has been very busy working on a new tool called <a href="http://www.javainc.com/projects/dex/Dex.html">Data Explorer, or Dex for short</a>. This tool allows for data import and visualisation, and looks like it has huge potential. Check out the link, if even just for the screenshots (many of which use external non-JavaFX libraries).</li>
+	<li><strong>Gerrit Grunwald</strong> has blogged about <a href="http://harmoniccode.blogspot.de/2012/05/yeswe-can.html">exporting content from Adobe Fireworks CS6, and using the content in JavaFX</a> (by copying the provided SVG, and slightly modifying the provided CSS).</li>
+	<li>For those that couldn't attend <strong>Stephen Chin's</strong> talks at JustJava Brazil, he has <a href="http://javafx.steveonjava.com/presentations-in-portuguese-for-justjava/">now posted the translated slide decks online</a> for you to check out.</li>
+	<li><strong>Thierry Wasyl</strong> has put up part two and three of his posts on his TweetWallFX application. Part two covers the <a href="http://thierrywasyl.wordpress.com/2012/05/15/tweetwallfx-part-2/">creation of the business objects and use of FXML and controller classes</a>, whilst part three covers <a href="http://thierrywasyl.wordpress.com/2012/05/16/tweetwallfx-part-3/">transitions and animations, as well as tips on using the FXMLLoader class</a>.</li>
+	<li><strong>Anton Epple</strong> continues to refine his JavaFX pinball game, adding features such as <a href="http://88.198.17.44/blog/2012/05/19/javafx-pinball-wheres-the-ball/">ball tracking (that is, zooming in and translating the view to follow the ball around the screen) and custom pinball node renderers</a>. He also demonstrates the <a href="http://88.198.17.44/blog/2012/05/20/scenebuilder-netbeans/">improved NetBeans support for Scene Builder that is coming in NetBeans 7.2</a>.</li>
+	<li><strong>Will Hoover</strong> has posted sample code to create <a href="http://ugate.wordpress.com/2012/05/16/javafx-dialog-service/">dialogs in JavaFX</a>.</li>
+	<li><strong>Thomas Bolz</strong> has posted an <a href="http://www.thomasbolz.de/sudokufx/">applet version of his SudokuFX application</a> which you can play online.</li>
+	<li><strong>Mark Anro Silva</strong> has posted code online to show how easy it is to <a href="http://glyphsoft.wordpress.com/2012/05/20/javafx-2-loading-indicator/">create a loading indicator in JavaFX</a>.</li>
+</ul>
+<p>Catch you again next week :-)</p>
+]]></Content>
+	</post>

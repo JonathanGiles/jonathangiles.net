@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>551</ID>
+		<Slug>java-desktop-links-of-the-week-july-27</Slug>
+		<Title>Java desktop links of the week, July 27</Title>
+		<Date>2009-07-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A fairly quiet week this week in Java desktop land, but nonetheless some interesting news. Perhaps everyone is taking a deep breath prior to an Oracle acquisition. Regardless, let's get straight into this weeks Java desktop links of the week.</p>
+<h4>General</h4>
+<ul>
+	<li>Cutting across both Swing and JavaFX is the need for good UI tests. The <a href="http://code.google.com/p/fest/">FEST project</a> is one of the leaders in this area, and it is growing, with a <a href="http://alexruiz.developerblogs.com/?p=357">number</a> of <a href="http://alexruiz.developerblogs.com/?p=369">new</a> <a href="http://alexruiz.developerblogs.com/?p=379">members</a> this week alone. FEST is now looking to grow support for testing JavaFX user interfaces also.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Željko</strong> emailed me to say that his <a href="http://revolucionlibrary.wordpress.com/2009/07/21/revolucion-is-here/">Revolución Movie Library 0.7 beta has been released</a>. This application has been linked to before from here, as it shows off what is possible with Swing. Note that this is a closed source application that'll eventually not be free, and the current download is a 30-day trial.</li>
+	<li>There is a discussion on whether <a href="http://eppleton.sharedhost.de/blog/?p=806">component creation off of the EDT is really a bug</a>. Frankly I didn't even bother to read the article, as in my humble opinion it's simple: anything relating to the UI <strong>should be</strong> performed on the EDT, and anything not relating to the UI <strong>should not be</strong> performed on the EDT (unless it is a very quick operation). It doesn't get much more black and white than that.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>A new early release of the <a href="http://blogs.sun.com/javafx/entry/want_to_try_javafx_on">JavaFX Mobile runtime has been made available</a>.</li>
+	<li><strong>Dean Iverson</strong> posted about <a href="http://pleasingsoftware.blogspot.com/2009/06/miglayout-for-javafx-reloaded.html">using MigLayout in JavaFX 1.2</a>. I haven't had a chance to use this yet, but for anyone wanting to build form-based applications, this should be your first port of call.</li>
+	<li><strong>Steven Herod</strong> started an investigation into hardware acceleration of effects in JavaFX. After a number of issues were resolved, <a href="http://blogs.herod.net/javafx/2009/07/javafx-and-hardware-acceleration-take-3/">information started flowing</a> (with the help of Dmitri Trembovetski and Chris Campbell from Sun). In short, if your hardware is recent, then effects should be hardware accelerated. For (a lot) more information, read the comments.</li>
+	<li><strong>Jim Weaver</strong> <a href="http://learnjavafx.typepad.com/weblog/2009/07/six-degrees-of-aynsley-dunbar-bandmatesfx-example-app-continued.html">continues his series on BandMatesFX</a>, with a number of improvements.</li>
+	<li><strong>Sang Shin</strong> has announced that a <a href="http://www.javapassion.com/javafx/">second session of the free 15-week JavaFX programming course</a> will start on August 25th.</li>
+	<li><strong>Rakesh Menon</strong> gives an <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_drag_and_drop">example of how to get drag-n-drop support in JavaFX</a>. He does this by wrapping JavaFX Nodes in SwingComponents. In other words, drag-and-drop is not yet supported natively in JavaFX, so this is the next best thing.</li>
+	<li>In another post, <strong>Rakesh</strong> attempts to continue to refine the <a href="http://blogs.sun.com/rakeshmenonp/en_US/entry/javafx_use_layout">node bounds discussion</a> that has been going around recently.</li>
+	<li><strong>Stephen Chin</strong> officially <a href="http://steveonjava.com/2009/07/21/jfxtras-community-site-launched/">announced a new community site</a> for people wanting to learn JavaFX (which I pre-announced last week). I apologise in advance for not yet starting to maintain the links section. Hopefully I may be getting help from <a href="http://carlfx.wordpress.com/">Carl Dea</a>.</li>
+	<li><strong>Stephen Chin</strong> also posts a summary of <a href="http://steveonjava.com/2009/07/26/2009-javaone-rock-stars-announced/">this years Java client JavaOne Rockstars</a>. Congratulations to all of them!</li>
+	<li><strong>Piliq.com</strong> has posted about <a href="http://piliq.com/javafx/?p=1144">how to give feedback/issues/bugs back to JavaFX developers</a> at Sun. It's well worth a read if you find anything bugging you. I have used it quite a bit recently, and they are really responsive (and JavaFX gets better because of it).</li>
+	<li>Speaking of me, I posted a quick <a href="/posts/2009javafx-menubar-control/">'menubar' demo</a> that I have been working on. It's far from complete, but it is at least a good proof of concept that can be refined and improved as time permits.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> let me know that <a href="http://griffon.codehaus.org/FxBuilder">FxBuilder 0.1 has been released</a>. A blog post announcing this should be coming shortly, <a href="http://www.jroller.com/aalmiray/">most probably from Andres' blog</a>.</li>
+</ul>
+<p>That's it for another week - hope you left a little wiser than when you entered. If not, demand your money back. Anywho, tune in next week - same bat-time, same bat-channel.</p>
+]]></Content>
+	</post>

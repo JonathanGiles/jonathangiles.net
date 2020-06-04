@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1014</ID>
+		<Slug>java-desktop-links-of-the-week-march-14</Slug>
+		<Title>Java desktop links of the week, March 14</Title>
+		<Date>2011-03-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>A bunch of interesting (for me anyway!) links this week, spanning a good number of UI toolkits. I hope you all find something interesting to read.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> continues making gauges and other interesting Swing components. This week he has <a href="http://harmoniccode.blogspot.com/2011/03/steelseries-372.html">released SteelSeries 3.7.2</a>, which includes a WindDirection gauge, as well as an improved RadialCounter. He has also added an additional pointer and added a bunch of new API to control painting more finely.</li>
+	<li>In another post, <strong>Gerrit</strong> has created another 'Friday Fun Component', this week recreating <a href="http://www.qlocktwo.com/">QLOCKTWO</a> in Java. You can <a href="http://harmoniccode.blogspot.com/2011/03/friday-fun-component-vii.html">see his implementation on his blog</a>, but unfortunately you won't be able to get your hands on it - the people behind the QLOCKTWO haven't allowed it.</li>
+	<li><strong>Alexander Potochkin</strong>, a Swing team engineer at Oracle, has blogged about '<a href="http://weblogs.java.net/blog/alexfromsun/archive/2011/03/10/swing-better-world">Swing in a better world</a>', which is a series of blog posts he plans to write over the coming weeks. His first post, '<a href="http://weblogs.java.net/blog/alexfromsun/archive/2011/03/11/swing-better-world-java-interfaces">Java interfaces</a>', has already been posted.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Eugelink</strong> has <a href="http://tbeernot.wordpress.com/2011/03/11/javafx-2-0-ea-and-miglayout/">ported the MiGLayout layout manager to JavaFX 2.0 EA</a>. For people who love building user interfaces with MiGLayout, it looks like your prayers have been answered. Interestingly, <a href="http://tbeefx.bzr.sourceforge.net/bzr/tbeefx/annotate/head%3A/java/org/tbee/javafx/scene/layout/FXMigLayout.java">there is very little code to this layout</a>, considering the powerful layout functionality it exposes.</li>
+	<li><strong>Aljoscha Rittner</strong> has created a <a href="http://www.aljoscha-rittner.de/blog/archive/2011/03/09/javafxdev-screen-capture-tool-with-200-lines-and-500ms-startup-time/">screen capture tool written in JavaFX 2.0</a> with only 200 lines of code and a very quick startup time. Once the dependency on the AWT Robot class is removed, it is likely that this will become even quicker.</li>
+</ul>
+<h4>Griffon</h4>
+<p>Unfortunately, a few links I've collected in the last few weeks have fallen off my list - I blame moving to a new computer - but oddly enough they all tend to be Griffon related. I've included them here today, despite being a few weeks old. I promise there is no anti-Griffon conspiracy :-)</p>
+<ul>
+	<li>Firstly, <strong>Andres Almiray</strong> was <a href="http://www.ibm.com/developerworks/java/library/j-gloverpodcast2/index.html#almiray">interviewed on the Java technology zone technical podcast</a>.</li>
+	<li>Secondly, there is a screencast on JetBrains TV about the <a href="http://tv.jetbrains.net/videocontent/griffon-mvc-groups-and-event-system">Griffon MVC groups and event system</a>.</li>
+	<li>Andres Almiray posted about '<a href="http://www.jroller.com/aalmiray/entry/getting_groovy_on_the_web">Getting Groovy on the web and desktop</a>'.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has blogged about <a href="http://www.joshondesign.com/2011/03/05/amino-update-i-believe-the-shaders-are-the-future/">his plans for Amino</a>, the Java-based UI toolkit he has been building recently. It sounds like he has a big project on his hands :-)</li>
+</ul>
+<p>That's all folks. Keep up the great work - I'll see you in a weeks time! :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>809</ID>
+		<Slug>javafx-presentation-slides</Slug>
+		<Title>JavaFX Presentation Slides</Title>
+		<Date>2010-05-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>As I mentioned a few times on <a href="http://www.twitter.com/JonathanGiles">Twitter</a> in the last few weeks, I presented at my old university (<a href="http://www.massey.ac.nz">Massey University</a>) last week. The presentation was 2 hours long, but I still had to keep my slide deck relatively brief. I thought that perhaps the slide deck might be useful to other people, so I have decided to post it up here.</p>
+
+<p>A few notes though:</p>
+<ul>
+	<li>It's in Powerpoint format. I don't 'do' Mac.</li>
+	<li>It's in <a href="http://138.91.251.112/downloads/JavaFX-PPTX-May-2010.zip">Powerpoint <em>2007</em> format</a>.</li>
+	<li>Ok ok! I hear the squeals of pain already, so I have created a <a href="http://138.91.251.112/downloads/JavaFX-PPT-May-2010.zip">Powerpoint 2003 format version</a>, but I'm too scared to see what broke, so use it at your own risk.</li>
+	<li>Don't bother running through the slides in the editor, there's too much clutter - you need to actually run the presentation. I went with the animation-foo approach. Prepare to be wowed.</li>
+	<li>If the media doesn't play around about slide 10, then you're obliged to either manually run the .flv file, or <a href="http://www.youtube.com/watch?v=hkDD03yeLnU">go to YouTube to watch it</a> before proceeding.</li>
+</ul>
+<p>Given the complaints that I received immediately (What?! You Mac folk don't like being ignored?), I have done the following:</p>
+<ul>
+	<li>I have created a <a href="http://138.91.251.112/downloads/JavaFX-PDF-May-2010.pdf">PDF file</a> of the slide deck without the animations and a slightly edited layout to make most of the information visible.</li>
+	<li><a href="http://www.twitter.com/sherod">Steven Herod</a> created a <a href="http://138.91.251.112/downloads/JavaFX-KEY-May-2010.key">Keynote slide deck</a> and a <a href="http://138.91.251.112/downloads/JavaFX-MOV-May-2010.mov">Quicktime video</a>, although the quality of the presentation is less than what is shown when using Powerpoint, so use this only if you need to.</li>
+</ul>
+<p>So, I hope that it helps. Enjoy (or complain verbosely in the comments section).</p>
+
+<p>Standard disclaimer: Oracle hasn't pre-approved this message. I wrote what I think I know. It may be entirely untrue. JavaFX may in fact run on top of rainbow-farting unicorns.</p>
+]]></Content>
+	</post>

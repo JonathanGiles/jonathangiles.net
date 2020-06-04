@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2125</ID>
+		<Slug>java-desktop-links-of-the-week-june-27-2</Slug>
+		<Title>Java desktop links of the week, June 27</Title>
+		<Date>2016-06-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Apologies for missing last week, I was sick and didn't really feel like bringing myself to the computer. I probably missed some news in the past week, so apologies if I missed your news. Let me know and I'll include it next week.</p>
+<ul>
+ 	<li><strong><strong></strong>Ferenc Tóth</strong> has been building <a href="https://github.com/tferi/templateFX">templateFX</a>, a JavaFX UI definition and reconcilation library, written in Scala.</li>
+ 	<li><strong>Hermien Pellissier&nbsp;</strong>has blogged about <a href="http://www.pellissier.co.za/hermien/?p=880">using JavaFX in a NetBeans Platform application</a>.</li>
+ 	<li><strong>Gluon</strong> has created a contest to encourage developers to <a href="http://gluonhq.com/enter-gluon-app-contest/">create cool apps written with Gluon Mobile</a>, and has some pretty cool prizes for the winners. Gluon has also posted a <a href="http://gluonhq.com/gluon-media-page-live/">media page</a> to give easy access to the videos about Gluon software.</li>
+</ul>
+]]></Content>
+	</post>

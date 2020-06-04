@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1275</ID>
+		<Slug>java-desktop-links-of-the-week-july-23</Slug>
+		<Title>Java desktop links of the week, July 23</Title>
+		<Date>2012-07-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hey all - welcome to another weeks worth of links! Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has another post exploring the new <a href="http://harmoniccode.blogspot.de/2012/07/more-fun-with-pixels.html">PixelWriter and WritableImage APIs in JavaFX 2.2</a>.</li>
+	<li><strong>José Pereda</strong> has followed <strong>Gerrit's</strong> lead and created a <a href="http://jperedadnr.blogspot.co.nz/2012/07/hi-this-is-my-first-javafx-post-so-dont.html?spref=tw">dot-matrix visualisation</a> called the MatrixPanel.</li>
+	<li>Java evangelist <strong>Angela Caicedo</strong> has blogged about the <a href="https://blogs.oracle.com/acaicedo/entry/javafx_deployment_news">improved deployment support in JavaFX 2.2</a>.</li>
+	<li>In the same vein, <strong>Neil Ghosh</strong> has blogged about how <a href="http://neilghosh.com/2012/07/16/run-javafx-without-any-prerequisite-runtime-installation/">easy it is to create native bundles with JavaFX 2.2</a>.</li>
+	<li><strong>Angela</strong> has also put up a video of <a href="http://www.youtube.com/watch?v=EGEONliKWDk&amp;feature=youtu.be">using Scene Builder 1.0 with NetBeans 7.2</a>.</li>
+	<li><strong>Sai Dandem</strong> has posted about his <a href="http://www.e-zest.net/blog/gradients-in-javafx-2/">Gradient Builder</a> application, which is designed to make designing JavaFX gradients easier.</li>
+	<li><strong>Tom Schindl</strong> has a tutorial on how to <a href="http://www.efxclipse.org/tut4.html">create an e4 application that uses JavaFX as its rendering technology</a>, rather than SWT.</li>
+	<li><strong>Narayan Maharjan</strong> has blogged about <a href="http://blog.ngopal.com.np/2012/07/16/source-code-draggable-listcell-as-friends-list-demo/">how to create a draggable ListCell</a>, allowing for reordering rows inside a ListView.</li>
+	<li><strong>Jeff Martin</strong> posted <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2012-July/002865.html">to the openjfx-dev mailing list</a> about <a href="http://www.reportmill.com/javi/gallery/">Java Inventor Gallery</a>. As he puts it, "Javi (for short) is an app builder and framework that lets anyone build and deploy rich internet database apps in minutes without having to spend years learning dozens of software, server and internet technologies."</li>
+	<li><strong>Ander Ruiz</strong> and I put up a <a href="http://fxexperience.com/2012/07/announcing-scenic-view-1-1-beta-6/">beta version of Scenic View 1.1</a> to get feedback on how it was working on users machines.</li>
+</ul>
+<p>Catch you again in a weeks time :-)</p>
+]]></Content>
+	</post>

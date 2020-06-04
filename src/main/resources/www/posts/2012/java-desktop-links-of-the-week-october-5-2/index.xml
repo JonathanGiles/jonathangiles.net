@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1346</ID>
+		<Slug>java-desktop-links-of-the-week-october-5-2</Slug>
+		<Title>Java desktop links of the week, November 5</Title>
+		<Date>2012-11-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all, and welcome to another weeks worth of Java desktop links. Once again I'm needing to put the call out for anyone interested in being a guest editor to <a href="mailto:jonathan@jonathangiles.net">email me</a> - next week I will be at Devoxx and unable to write the entire post myself. Anywho - back to the links - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Canoo</strong> have created the <a href="http://open-dolphin.org/">open-dolphin.org website</a> for the Dolphin project. From the website, "Dolphin is an open-source software library that presents Java Enterprise applications through Java Desktop applications".</li>
+	<li>Rob Terp has blogged about his <a href="http://rterp.wordpress.com/2012/10/30/extreme-ui-makeover-javafx-edition/">extreme GUI makeover</a>.</li>
+	<li>The dialogs component I <a href="http://fxexperience.com/2012/10/announcing-the-javafx-ui-controls-sandbox/">released last week</a> has already been <a href="http://edu.makery.ch/blog/2012/10/30/javafx-2-dialogs/">ported back to work with JavaFX 2.2</a> by <strong>Marco Jakob</strong>. Great work! :-)</li>
+	<li>If European time zones aren't too convenient for you, but you are interested in <strong>Stephen Chin's</strong> Night Hacking tour, you can <a href="http://www.youtube.com/user/java">watch all his interviews</a> at your convenience on YouTube.</li>
+	<li><strong>mihosoft</strong> has contributed his <a href="http://mihosoft.eu/?p=392">VFXWindows code to the JFXtras project</a>. VFXWindows is essentially internal panes for your JavaFX application.</li>
+	<li><strong>Tom Schindl</strong> has two posts out this week. Firstly, he posted three videos on the following topics: <a href="http://tomsondev.bestsolution.at/2012/10/29/eclipsecon-javafx-demo-app-videos/">e4 on JavaFX, creating a JavaFX IDE, and creating a JavaFX desktop</a>. Secondly, he posted about <a href="http://tomsondev.bestsolution.at/2012/10/31/fxpackager-for-javafx-osgi-apps/">fxpackager for JavaFX OSGi applications</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> has also posted two posts this week. Firstly he has a post about <a href="http://www.guigarage.com/2012/10/building-javafx-applications-with-maven/">building JavaFX applications with Maven</a>, and secondly about <a href="http://www.guigarage.com/2012/10/adding-javafx-to-your-eclipse-project/">adding JavaFX to your Eclipse project</a>.</li>
+	<li>Speaking of Maven, <strong>Daniel Zwolenski</strong> has posted his <a href="https://github.com/zonski/javafx-maven-plugin">Maven tooling for JavaFX to GitHub</a>. As he said to me, "this basically wraps the packaging tools so they are accessible via maven cutting out a lot of the confusing and complicated hacks people are currently having to use to build JavaFX with maven".</li>
+	<li><strong>Leon Atherton</strong> has a blog detailing how to <a href="http://blog.idrsolutions.com/2012/11/convert-bufferedimage-to-javafx-image">convert from BufferedImage to a JavaFX 2.2 Image</a>.</li>
+	<li><strong>René Jahn</strong> has posted a few links to various <a href="http://blog.sibvisions.com/2012/10/27/start-with-javafx-embedded/">JavaFX embedded articles</a> to help people get started.</li>
+	<li><strong>Graham Smith</strong> has blogged about <a href="http://www.wobblycogs.co.uk/index.php/computing/javafx/145-editing-null-data-values-in-a-cell-with-javafx-2">editing null values in a JavaFX TableView cell</a>.</li>
+	<li><strong>Peter Pilgrim</strong> has posted about <a href="http://www.xenonique.co.uk/blog/?p=905">building OpenJFX 2.2</a>.</li>
+	<li><strong>Lyndon Armitage</strong> has created a JavaFX application to <a href="http://lyndonarmitage.com/writing-a-program-to-retrieve-peoples-minecraft-skins-in-javafx/">download Minecraft player skins</a>.</li>
+	<li><strong>Michael Williams</strong> has a post about <a href="http://blueskyworkshop.com/topics/Java-Pages/javafx-win-installer/">creating native installers for Windows using JavaFX 2.2 and NetBeans 7.2</a>.</li>
+</ul>
+<p>That's it for another week. Hopefully there will be another post next week, but that depends on someone stepping up and offering to guest post for me. <a href="mailto:jonathan@jonathangiles.net">Email me</a> for the details! :-)</p>
+
+<p>&nbsp;</p>
+]]></Content>
+	</post>

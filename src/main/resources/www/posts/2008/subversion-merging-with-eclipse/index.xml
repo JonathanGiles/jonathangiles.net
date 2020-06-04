@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>133</ID>
+		<Slug>subversion-merging-with-eclipse</Slug>
+		<Title>Subversion Merging with Eclipse</Title>
+		<Date>2008-01-30</Date>
+		<Status>publish</Status>
+		<Categories>Programming|Technology</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Branching and merging is supposed to be the benefit of Subversion, but every time I try to use it I get burnt. I finally spent a few hours reading up on it all, and found <a href="http://svn.collab.net/subclipse/help/index.jsp?topic=/org.tigris.subversion.subclipse.doc/html/reference/merge.html">this rather useful site</a> that explains it quite well. Well worth reading if you're using Subversion.</p>
+]]></Content>
+	</post>

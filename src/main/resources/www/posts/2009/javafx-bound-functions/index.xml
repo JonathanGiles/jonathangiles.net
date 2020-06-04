@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>460</ID>
+		<Slug>javafx-bound-functions</Slug>
+		<Title>JavaFX: Bound functions</Title>
+		<Date>2009-06-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Binding in JavaFX is of course very cool, and in most circumstances it makes sense. I thought I would make a quick post to explain what a <code>bound function</code> is, and how you should go about interpreting code that uses this language feature. I want to make this post as simple as possible, so as to not overcomplicate things. Before I begin I must thank the <a href="/posts/2009mini-pro-javafx-platform-book-review/">Pro JavaFX Platform</a> book guys - I base this explanation on code from their (highly recommended) book.</p>
+
+<p>A bound function looks like this:</p>
+
+
+<pre class="code_block"><code class="java">var x = 3;
+bound function f(y:Number, z:Number):Number {
+  var u = y;
+  var v = z;
+  x + u
+}
+</code></pre>
+
+
+<p>The interesting thing about this function declaration is the <code>bound</code> keyword. Looking at the body of the function, we note that the function makes use of variables y and z from the function, and assigns these to variables u and v respectively. In actual fact, the z argument is never used, but an x value is used. This x value is declared outside the function, and is therefore available to be used by it.</p>
+
+<p>This function can be used as per usual in our code simply by calling <code>f(1,2)</code>, for example. The feature that is offered by the bound modifier is that we can bind to the function, <strong>and when the <code>x</code> or <code>y</code> variables values change, the function will re-evaluate itself</strong>. An example is shown in the code below:</p>
+
+
+<pre class="code_block"><code class="java">var a = 4;
+var b = 5;
+var c = bind f(a, b);
+x=5;
+a=5;
+b=7;
+</code></pre>
+
+
+<p>On line 3, <code>c</code> is bound to equal the result of calling the function <code>f(a, b)</code>, which will result in <code>c</code> being set to equal 7.0 (as a=4,b=5, and x=3, and f is the sum of a and x).</p>
+
+<p>Line four changes the value of x from 3 to 5. Because the f function is a bound function, and the c variable is bound to the f function, we re-evaluate <code>f(a, b)</code>, and assign the new value of a+x to c, which means that c is now equal to 9.0.</p>
+
+<p>Similarly, when the <code>a</code> variable is changed on line 5, the function is re-evaluated, as it has determined that the value of <code>a</code> is relevant to the value stored in <code>c</code>.</p>
+
+<p>As noted previously, the value of <code>b</code> is not used in the function, and therefore when it changes it does not impact on the value of the variable stored in <code>c</code>. Because of this, when the value of <code>b</code> is changed on line 6, c is <strong>not</strong> re-evaluated, as JavaFX is smart enough to know that this does not matter.</p>
+
+<p>If the c variable was declared as f(a, b) (i.e. it is <strong>not</strong> <code>bind f(a, b)</code>), then when x is updated, c will not be recalculated. Similarly, if the function declaration for f is not declared to be bound, c will not be updated either. However, both of these permutations are legal syntax - it just results in different outcomes. To have f re-evaluate itself and the value be assigned to c, it is necessary the both the function be declared bound, and the assignment to variable c be bound (using the bind keyword).</p>
+
+<p>I hope that makes sense, and clarifies the purpose of the bound keyword.</p>
+]]></Content>
+	</post>

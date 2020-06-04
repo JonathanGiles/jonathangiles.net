@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1932</ID>
+		<Slug>java-desktop-links-of-the-week-june-8</Slug>
+		<Title>Java desktop links of the week, June 8</Title>
+		<Date>2015-06-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;">A quiet week this week, but some good releases and posts nonetheless. Enjoy!</span></p>
+<ul>
+	<li>ControlsFX 8.40.9 and 8.20.9 were <a href="http://fxexperience.com/2015/06/announcing-controlsfx-8-40-9-and-8-20-9/">released this week</a>. This was a major bug fix release primarily, so it is encouraged that everyone that is using JavaFX 8u20 or later upgrade to these releases.</li>
+	<li><strong>René Jahn</strong> has a&nbsp;post on&nbsp;<a href="http://blog.sibvisions.com/2015/06/05/custom-comboboxes/">custom comboboxes with JavaFX</a>.</li>
+	<li>Griffon 2.3.0 <a href="http://new.griffon-framework.org/releasenotes/griffon_2.3.0.html">has been released</a>, with a number of JavaFX related improvements.</li>
+	<li><strong>Dirk Lemmermann</strong> has posted another JavaFX tip, titled '<a href="https://dlemmermann.wordpress.com/2015/06/05/javafx-tip-19-watch-your-skin/">Watch Your Skin</a>'.</li>
+</ul>
+<p>Catch you all next week.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>751</ID>
+		<Slug>java-desktop-links-of-the-week-march-8</Slug>
+		<Title>Java desktop links of the week, March 8</Title>
+		<Date>2010-03-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop</Tags>
+		<Content><![CDATA[<p>It's time for another spin on the Java desktop links of the week merry-go-round. This week we have news for Swing, JavaFX and Griffon. Enjoy! :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Damien Ielsch</strong> has posted about creating <a href="http://free-the-pixel.blogspot.com/2010/03/customs-toggle-buttons.html">custom toggle buttons in Java2D and Swing</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has blogged about how <strong>Tim Boudreau</strong> has <a href="http://netbeans.dzone.com/rewritten-netbeans-paint-app">rewritten the NetBeans Platform Paint Application</a> (which is a NetBeans Platform  sample distributed with NetBeans IDE).</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Nandini Ramani</strong> was <a href="https://channelsun.sun.com/media/show/15059">interviewed this week on the Oracle Technology Network</a> to discuss the future of JavaFX.</li>
+	<li><strong>Stephen Chin</strong> did a good blog post discussing the options to <a href="http://steveonjava.com/2010/03/04/launching-hyperlinks-from-javafx-including-mobile/">open urls in JavaFX in the users web browser</a>.</li>
+	<li>Don't forget that the next <strong>Silicon Valley JavaFX Users Group</strong> is right on our doorstep - it's on March 10, and as per usual can be attended virtually as well as in Real Life. This months talk is shared with the Silicon Valley Web JUG, which will be talking about the <a href="http://www.svjugfx.org/calendar/12559455/?a=_rt&amp;eventId=12559455&amp;action=detail&amp;rv=ce1p&amp;rv=ce1p">Java Store as well as JFrog Artifactory</a>.</li>
+	<li>JavaFX.com has put up two new/updated posts titled '<a href="http://javafx.com/docs/articles/led-clock/">Creating a Digital Clock</a>' and '<a href="http://javafx.com/docs/articles/ShapeSubtractIntersect/">Shape Intersection, Subtraction and Union</a>'.</li>
+	<li><strong>Exadel</strong> have released a new version of their open source <a href="http://mkblog.exadel.com/ria/javafx-ria/javafx-plug-in-for-eclipse-version-1-2-2-is-now-available/">JavaFX Plugin for Eclipse, taking the version to 1.2.2</a>.</li>
+	<li>The Java Persistency API has had some attention this week, firstly with<strong> Patrick Champion</strong> blogging about '<a href="http://paddyweblog.blogspot.com/2010/03/title-javafx-and-databases-with-jpa-20.html">JavaFX and the Databases with JPA 2.0</a>', and secondly with <strong>Matt Warman</strong> stating that <a href="http://blog.starbaseinc.com/blog/the-java-rocker/0/0/javafx-jpa-awesome">JavaFX + JPA = Awesome</a>.</li>
+	<li><strong>Rakesh Menon</strong> did two posts this week. Firstly he discusses <a href="http://rakeshmenonp.wordpress.com/2010/03/04/javafx-deployment/">deployment in JavaFX</a> , and secondly he has written a new <a href="http://rakeshmenonp.wordpress.com/2010/03/05/javafx-flat-carousel/">'Carousel' container</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> has posted another video of his JavaFX/Swing mashup application that <a href="http://pixelduke.wordpress.com/2010/03/02/pan-and-zoom-modellus-5/">shows off pan and zoom functionality</a>.</li>
+	<li><strong>Enrique Oriol</strong> wrote a <a href="http://jfxstudio.wordpress.com/2010/03/03/jfxcube-try-to-solve-it/">Rubik's cube game in JavaFX</a> that looks fairly impressive.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has announced that <a href="http://groovy.dzone.com/announcements/griffon-03-released">Griffon 0.3</a> was released this week. He has also blogged about some of the <a href="http://www.jroller.com/aalmiray/entry/griffon_rises_once_more">more interesting new features</a> in Griffon 0.3.</li>
+</ul>
+<p>That's us for another week - see you all same bat time, same bat channel one week from now.</p>
+]]></Content>
+	</post>

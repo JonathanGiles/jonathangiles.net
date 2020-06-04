@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2917</ID>
+		<Slug>azure-for-java-developers</Slug>
+		<Title>Azure for Java developers</Title>
+		<Date>2018-02-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Microsoft]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>When I did the <a href="/posts/2018/building-a-cloud-backup-app-in-java-with-azure-part-one/">last blog post</a> about building a cloud backup app in Java with Azure, I kept it very high level, to just introduce the project and get a discussion rolling. Then an interesting thing happened that I've never, ever seen before - people on the internet had opinions that were wrong.</p>
+
+<p><img class="aligncenter" src="/content/comics/duty_calls.png"></p>
+
+<p>The comments I got were all over the web, but the fun was mainly on the&nbsp;<a href="https://www.reddit.com/r/java/comments/809d56/building_a_cloud_backup_app_in_java_with_azure/">Reddit post</a>.&nbsp;There were some almost incoherent responses, so the one I'll point out was the comment that writing a Java app on Azure was "<strong>Like doing c# on linode. No thanks.</strong>"&nbsp;It's an interesting, and really quite weird, response :-) The basic failing here is simply the assumption that C# is the only first-class citizen for Azure, which is <strong>just plain wrong</strong>. Certainly C# is a first class citizen, but <strong>there is also support for Python, Java, JavaScript, etc</strong>. In many cases each Azure service offers a SDK for a large number of programming languages, which enables developers to write really quite simple code to connect to and use Azure services.</p>
+
+<p>Just in the last few weeks I've recently opened two GitHub repos. The first one was a <a href="https://github.com/JonathanGiles/azure-functions-java-shortcode">short-code URL generator</a> using the <a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-maven">Azure Functions</a> service for serverless programming, and the second was a <a href="https://github.com/JonathanGiles/cloud-sync">cloud sync backup</a> app using <a href="https://docs.microsoft.com/en-us/azure/storage/blobs/storage-java-how-to-use-blob-storage">Azure Storage</a>. <strong>The key point is that in writing this code in Java I never dropped down to writing HTTP code to connect to the REST endpoint</strong>. From my opinion, if that is ever the solution to a web service problem, then the job isn't yet complete!</p>
+
+<p>If you are building a Java application that needs any kind of cloud functionality - <a href="https://azure.microsoft.com/en-us/product-categories/storage/">storage</a>, <a href="https://azure.microsoft.com/en-us/product-categories/compute/">compute</a>, <a href="https://azure.microsoft.com/en-us/services/functions/">serverless</a>, you should consider Microsoft Azure. If you are doing cool stuff with <a href="https://azure.microsoft.com/en-us/product-categories/iot/">IoT</a>, <a href="https://azure.microsoft.com/en-us/overview/ai-platform/">artificial intelligence, or machine learning</a>, you should consider Microsoft Azure. At Microsoft we now have huge number of people who are working solely on ensuring that the Java developer experience is first class - through APIs, through services, through documentation, and through developer advocacy. On a daily basis we are discussing how to fill gaps, improve experiences, and make what Java developers see and consume is the best it can be. If you want to play with Azure, there are even <a href="https://azure.microsoft.com/en-us/free/">free offerings</a> with substantial amounts of credit and free resources available (my personal favourite is the free 1,000,000 Azure Function calls a month - forever!).</p>
+
+<p>So, I've been link heavy, but to wrap up, here are some important links to become familiar with as you dive into Java on Azure:</p>
+<ul>
+ 	<li><a href="https://docs.microsoft.com/en-us/java/azure/">Azure for Java developers documentation</a> home page</li>
+ 	<li><a href="https://docs.microsoft.com/en-us/java/api/overview/azure/">API references for Java SDKs</a></li>
+ 	<li>The <a href="https://azure.microsoft.com/en-us/free/">free tier for Azure</a> - lots of free stuff for 12 months, and even free stuff forever.</li>
+</ul>
+<p>With that clarified, time to get back to working on The Cloud</p>
+
+<p><img class="aligncenter" src="/content/comics/the_cloud.png"></p>
+]]></Content>
+	</post>

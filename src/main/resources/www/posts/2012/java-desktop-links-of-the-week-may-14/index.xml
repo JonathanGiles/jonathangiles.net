@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1246</ID>
+		<Slug>java-desktop-links-of-the-week-may-14</Slug>
+		<Title>Java desktop links of the week, May 14</Title>
+		<Date>2012-05-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Hi all. Sorry about the lack of a post last week - I just got back from JavaOne India and was overloaded with work which I had to catch up on. However, I was collecting links all last week as well, and there are now a heap of good links to read through this week! :-) Enjoy!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JavaFX 2.1 has barely been released and already we've got <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">builds of JavaFX 2.2 available</a>. In fact, we're already up to build 08 of JavaFX 2.2, and build 37 of Scene Builder 1.0.</li>
+	<li>I released a tool (built initially by <strong>Amy Fowler</strong>) that we use inside Oracle called <a href="http://fxexperience.com/2012/05/introducing-scenic-view/">Scenic View</a>. I am now working with <strong>Ander Ruiz</strong> on an updated release which includes a number of new features. You can see a screenshot at the end of this post of the new version (which is still in active development (both the UI and the functionality)).</li>
+	<li><strong>Michael Heinrichs</strong>, a fellow team members in the JavaFX team at Oracle, was interviewed at JFokus, and the <a href="http://blog.globalcode.com.br/2012/05/conversando-com-especialista-javafx.html">video is now online</a>.</li>
+	<li>There was quite a bit of noise regarding people <a href="https://blogs.oracle.com/speakjava/entry/javafx_on_the_raspberry_pi">getting JavaFX up</a> and <a href="http://www.i-programmer.info/news/91-hardware/4167-javafx-runs-on-raspberry-pi.html">running on the Raspberry Pi device</a>.</li>
+	<li><strong>Weiqi Gao</strong> has got a very in-depth article up online about his <a href="http://sett.ociweb.com/sett/settMay2012.html">experiments with JavaFX 3D scenes</a>.</li>
+	<li><strong>Tom Schindl</strong> has noted that he is seeing <a href="http://tomsondev.bestsolution.at/2012/05/11/netbeans-nightly-catching-up-with-e-fx-clipse-with-improved-javafx-support/">improvements in Netbeans JavaFX support</a> that already exist in his e(fx)clipse project (but that it is great that his 'competition' is improving functionality).</li>
+	<li><strong>Java_Buddy</strong> has blogged about <a href="http://java-buddy.blogspot.co.nz/2012/05/javadoc-not-found-in-netbeans-for.html">how to get javadoc documentation to appear in NetBeans</a> when working with JavaFX API.</li>
+	<li><strong>Thierry Wasyl</strong> has started work on building an application called TweetWallFX. He already has a blog post detailing <a href="http://thierrywasyl.wordpress.com/2012/05/02/tweetwallfx-part-1/">the construction of the UI</a>, as well as a <a href="http://thierrywasyl.wordpress.com/2012/05/13/tweetwallfx-screencast-1/">YouTube video of the application</a>.</li>
+	<li><strong>Narayan Maharjan</strong> has blogged about <a href="http://blog.ngopal.com.np/2012/05/06/javafx-drag-and-drop-cell-in-listview/">JavaFX Drag and Drop support in ListView</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has blogged about <a href="https://blogs.oracle.com/geertjan/entry/javafx_charts_for_kirk_s">using JavaFX charts in place of the usual charts in VisualVM</a>.</li>
+	<li><strong>Geertjan</strong> has also recently presented on <a href="http://vimeo.com/41131627">using JavaFX in pluggable corporate applications</a>.</li>
+	<li><strong>Stephen Chin</strong> was at JavaOne Hyderabad as well, where he presented on <a href="http://javafx.steveonjava.com/javafx-and-html5-at-javaone-india/">JavaFX and HTML 5</a>.</li>
+	<li><strong>Mohammed Sanaulla</strong> has blogged about how he uses <a href="http://www.javabeat.net/2012/05/using-javafx-chart-api-to-add-charts-to-swing-applications/">JavaFX charts in Swing applications</a>. In a separate post, he also posts part one about <a href="http://www.javabeat.net/2012/05/developing-a-simple-todo-application-using-javafx-java-and-mongodb-part-1/">developing a simple Todo application using JavaFX, Java and MongoDB</a>.</li>
+	<li><strong>Dustin Marx</strong> has written a <a href="http://marxsoftware.blogspot.co.nz/2012/05/javafx-based-simpledateformat.html">JavaFX-Based SimpleDateFormat demonstrator</a>.</li>
+	<li><strong>Nitin Gupta</strong> at <strong>e-zest</strong> has an article up on <a href="http://www.e-zest.net/blog/ahead-of-time-compilation-for-javafx-2-0-applications/">ahead of time compilation for JavaFX 2.0 applications</a>.</li>
+	<li><strong>Anton Epple</strong> has added <a href="http://88.198.17.44/blog/2012/05/13/javafx-motionblur/">motion blur to his physics-based pinball game</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jyloo Software</strong> announced the <a href="http://www.jyloo.com/news/?pubId=1335782564000">release of Synthetica 2.15 and SyntheticaAddons 1.7</a>.</li>
+	<li><strong>JIDE Software</strong> announced the <a href="http://www.jidesoft.com/history/">release of version 3.4.0</a> of their suite of libraries.</li>
+</ul>
+<h4>Scenic View Sneak-peak</h4>
+<p>Finally, here is the current, in-development version of Scenic View that I am working on with <strong>Ander Ruiz</strong>. I will release an updated version of Scenic View as soon as all the features are in place.</p>
+
+<p><img class="aligncenter size-full wp-image-1247" title="sv3" src="/content/2012/05/sv3.png" alt="" width="685" height="745"></p>
+
+<p>That's that for another week. Catch you all next week :-)</p>
+]]></Content>
+	</post>

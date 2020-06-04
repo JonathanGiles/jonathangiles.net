@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1244</ID>
+		<Slug>java-desktop-links-of-the-week-april-29</Slug>
+		<Title>Java desktop links of the week, April 29</Title>
+		<Date>2012-04-29</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all. The links for this week are up a day early because I have an early flight to catch tomorrow on my way to <a href="http://www.oracle.com/javaone/in-en/index.html">JavaOne Hyderabad</a>. Conversely, next weeks links will be a day or three late as I will be traveling back home. Therefore, I think everything balances out :-) Let's get on with the links.</p>
+
+<p>Oh - by the way - if you're at JavaOne Hyderabad next week and you spot me, come up and say hello. I really love chatting to people, but I can't pick the JavaFX fans from the Java EE people....and I have nothing to say to Java EE people :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JavaFX 2.1 was <a href="http://fxexperience.com/2012/04/announcing-javafx-2-1/">released this week</a>. Along with the release, the JavaFX team included <a href="http://docs.oracle.com/javafx/2/release_notes_2-1/jfxpub-release_notes_2-1.htm">release notes</a>, and a huge number of new articles on the <a href="https://blogs.oracle.com/thejavatutorials/entry/new_docs_and_updates_with1">JavaFX documentation site</a>.</li>
+	<li>I interviewed <strong>Peter Zhelezniakov</strong> regarding his work in the JavaFX team on the <a href="http://fxexperience.com/2012/04/interview-with-peter-zhelezniakov">WebView component</a>.</li>
+	<li><strong>Angela&nbsp;<strong>Caicedo</strong></strong> has released <a href="http://www.youtube.com/watch?v=FTOGWvX44qU&amp;list=UUmRtPmgnQ04CMUpSUqPfhxQ&amp;index=1&amp;feature=plcp">part three of her video series</a> on building your first JavaFX application.</li>
+	<li><strong>Kai Wähner</strong> asked (and then attempted to answer) '<a href="http://www.dzone.com/links/r/when_to_use_javafx_2_instead_of_html5_for_a_rich.html">When to use JavaFX 2 instead of HTML5 for a Rich Internet Application (RIA)</a>?'</li>
+	<li><strong>Andy Moncsek</strong> has blogged about <a href="http://blog.ahcp.de/?p=41">how to use JavaFX 2.1 from a local maven repository</a> (on OS X).</li>
+	<li><strong>Jeff Friesen</strong> has got an article up on JavaWorld about '<a href="http://www.javaworld.com/community/node/8373">pixel graphics and JavaFX</a>'.</li>
+	<li><strong>Roberto Marquez</strong> has <a href="http://onebeartoe.org/programming-languages/java/javafx/animations/api/alien-abduction.jsp">explored the animation features in JavaFX</a>, and has a post up discussing the early stages of using these to create a game.</li>
+</ul>
+<p>Catch you all next week!&nbsp; :-)</p>
+]]></Content>
+	</post>

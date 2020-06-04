@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>86</ID>
+		<Slug>decomposing-relevance</Slug>
+		<Title>Decomposing Relevance</Title>
+		<Date>2007-03-26</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>plugins-research|semantic-web-research</Tags>
+		<Content><![CDATA[<p>Recently my research has taken a bit of a deviation from the norm. I'm quite a practical programmer, not much liking to get down into mathematical theory or philosophical questions. However, that is taking a back seat at the moment, as my research is really trying to answer the question "given an object (anything!), what is it <span style="text-decoration: underline">implicitly</span> related to?". My approach to this answer, given the way in which my application works, is to use the very core of web-2.0: tags! :-)</p>
+
+<p>Now, my program explicitly knows a lot of relationships, but it doesn't always know the <span style="text-decoration: underline">best</span> relationships, afterall, it only has data from databases - us humans have the smarts to know that things are related <span style="font-style: italic">just because</span> - try explaining that to a machine. Of course, <span style="font-style: italic">just because</span> I know a relationship exists, doesn't mean it does: I can claim all I want that pigs should be tagged with the terms 'fluorescent green', 'fly', 'canFly', 'oink', 'yum' and so on, but hopefully you all don't agree with me all of the time.</p>
+
+<p>So, given now the assumption that any user can tag any object with any word (creating what us geeks call a folksonomy), how do we trust that user x isn't a jerk (as my <a href="http://www-ist.massey.ac.nz/jbdietrich">research supervisor</a> so nicely puts it)? Is it possible to trust other people whom you have never met? Well, now we're getting philosophical...perhaps we can trust them <em>just enough</em> to let their thoughts on a mattter impact what information we get provided?</p>
+
+<p>So, given my tags about my friend the pig - you could agree with me, disagree with me, or really be indifferent. We could then form a trust network based on people who agree and disagree with you on particular tags. I won't go into the details, but basically everybody ends up with a trust rating between 0 and 1.</p>
+
+<p>Righty, that's cool - my program knows who to trust and who not to trust (not that the user should know this). Now skipping some important details again, we can calculate which other objects are relevant to a particular object based on the tags applied throughout the application.</p>
+
+<p>Of course there are a lot of details missing from this post, but believe me, they have been considered. I have the math to prove it :-).</p>
+
+<p>So, for now, I'm writing up on all this theory. Eventually this should all be published in a paper later this year (but this takes a long time - a paper I was involved with for my research last year into software plugin contracts is only about to be published in July at the <a href="http://https://www.cs.auckland.ac.nz/iceccs07/index.php/ICECCS07">Twelfth IEEE International Conference on Engineering of Complex Computer Systems</a>.....*whew*).</p>
+
+<p>Interestings times.....I wonder where next week will take me.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1471</ID>
+		<Slug>java-desktop-links-of-the-week-june-3</Slug>
+		<Title>Java desktop links of the week, June 3</Title>
+		<Date>2013-06-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swt</Tags>
+		<Content><![CDATA[<p>June already?! The months are racing by these days! That's the problem with always having your head down coding - the seasons change and you barely notice.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Daniel Zwolenski</strong> released an <a href="http://www.zenjava.com/2013/05/26/javafx-maven-plugin-2-0-alpha-feedback-needed/">alpha release of the JavaFX Maven Plugin 2.0</a>, and he is seeking feedback. If you're interested in JavaFX and Maven, it would be great for you to go to the blog, test out the software and give the feedback <strong>Daniel</strong> is seeking!</li>
+	<li><strong>Gerrit Grunwald</strong> has posted on '<a href="http://harmoniccode.blogspot.ch/2013/05/taming-nashorn-first-impressions.html">taming the Nashorn</a>'. For those unfamiliar with Nashorn (pronounced nas-horn, not nash-horn), it is a brand new JavaScript engine included in Java 8.0. <strong>Gerrit's</strong> blog post shows how to write JavaFX applications in JavaScript, and have them appear as desktop applications. It's very cool to see JavaFX being programmed in all kinds of interesting JVM-based languages (including Groovy, Scala and Ruby as well).</li>
+	<li><strong>Steven Van Impe</strong> has a blog post about <a href="http://asipofjava.blogspot.be/2013/05/javafx-properties-in-jpa-entity-classes.html">JavaFX properties in JPA entity classes</a>. As Steven puts it, "This past week, the following question came to mind: can I use JavaFX properties in domain classes that have to be persisted using JPA? That is: can I build domain classes that&nbsp;use JavaFX properties instead of regular properties, yet&nbsp;are persistable like regular JPA entity classes? After a bit of trial and error, I came up with the following answer: it's actually pretty easy, if you understand JPA's property access."</li>
+	<li>Speaking of JPA,<strong> Graham Smith</strong> has started a series of posts on 'JavaFX 2 with JPA 2 and Drag and Drop'. So far he has posted <a href="http://www.wobblycogs.co.uk/index.php/computing/javafx/190-javafx-2-with-jpa-2-and-drag-and-drop-part-1">part one</a> and <a href="http://www.wobblycogs.co.uk/index.php/computing/javafx/191-javafx-2-with-jpa-2-and-drag-and-drop-part-2">part two</a>.</li>
+	<li><strong>Sean Phillips</strong> has posted on creating a JavaFX <a href="http://netbeans.dzone.com/javafx-accordion-toolbar">Accordion Toolbar for the NetBeans Platform</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li>Andres Almiray has posted a '<a title="Permanent Link: Gr8conf EU 2013 at a glance" href="http://www.jroller.com/aalmiray/entry/gr8conf_eu_2013_at_a" rel="bookmark">Gr8conf EU 2013 at a glance</a>' post covering the latest Groovy and Griffon news.</li>
+</ul>
+<h4>SWT</h4>
+<ul>
+	<li>NatTable 1.0.0 <a href="http://eclipse.org/nattable/nandn/nandn_100.php">has been released</a>.</li>
+</ul>
+<p>Catch you all next week :-)</p>
+]]></Content>
+	</post>

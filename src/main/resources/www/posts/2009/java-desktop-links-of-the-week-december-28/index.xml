@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>676</ID>
+		<Slug>java-desktop-links-of-the-week-december-28</Slug>
+		<Title>Java desktop links of the week, December 28</Title>
+		<Date>2009-12-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|Swing Links</Tags>
+		<Content><![CDATA[<p>With Christmas behind us and new years to look forward to, I'm surprised by the amount of news coming out this week. In the interests of brevity (I'm sure most of us have holidays to enjoy), let's get straight into it.</p>
+<h4>Swing</h4>
+<ul>
+	<li>If you ever find yourself wanting to <a href="http://javagraphics.blogspot.com/2009/12/text-prompts-and-search-fields.html">show a text prompt in a JTextField, or a 'search' graphic</a>, then you may want to check out a blog post by Jeremy that provides code specifically for this use case.</li>
+	<li>I came across a layout manager for Swing this week called the <a href="http://www.softwaremonkey.org/Code/MatrixLayout">Matrix Layout Manager</a>. Without looking too indepth at it it appears to be along the same lines as the <a href="http://www.jgoodies.com/">JGoodies FormLayout</a> or <a href="http://www.miglayout.com/">MigLayout</a>.</li>
+	<li>In a talk given to the Münster Java Users Group, <strong>Gerrit Grunwald</strong> presented on the topic of '<a href="http://www.jug-muenster.de/custom-swing-component-227/">pimping your Swing user interface</a>'. On that blog you'll find mention of some custom components he has created (including the code), as well as a <a href="http://wiki.jug-muenster.de/download/attachments/3080734/SwingAndYouAreWinning.pdf?version=1&amp;modificationDate=1257511530000">link to the presentation slides</a> which are quite interesting.</li>
+	<li>Can't do without a Swing-based browser any longer? Check out <a href="http://java.dzone.com/announcements/jxbrowser-20-now-integrates">JxBrowser</a>, which has just had its 2.0 release. The only caveat - it's a sweet €899 per developer license.</li>
+	<li>Speaking of Swing-based browsers, there is some mention of NetBeans 6.9 including the mythical JWebPane component. For example, it is detailed on the '<a href="http://wiki.netbeans.org/PlatformPoolOfRcpTopics">potentially in 6.9</a>' wiki page, and <a href="http://wiki.netbeans.org/EmbeddedBrowserPrototypingJWebPane">just last month it was tested by the NetBeans team</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>Video from <strong>Richard Bair's</strong> talk to the Silicon Valley JavaFX users group was recently posted, which <a href="http://fxexperience.com/2009/12/video-from-silicon-valley-javafx-users-group/">you can watch here</a> if you're interested.</li>
+	<li><strong>Lukas Hasik</strong> has posted a <a href="http://blogs.sun.com/lukas/entry/screencast_netbeans_6_8_javafx">screencast of how to use the JavaFX 'Composer' plugin in NetBeans</a>.</li>
+	<li><strong>Jim Weaver</strong> has <a href="http://learnjavafx.typepad.com/weblog/2009/12/speedreaderfx-13d-proto-ria-exemplar-challenge-extension.html">extended and slightly modified the rules</a> for the JavaFX RIA exemplar competition. The competition deadline is now April 10, 2010, and it is no longer necessary to consist of a team of a programmer and a designer. Get into it as the prize is $2000, and your work will be looked over by a number of big names in the JavaFX world.</li>
+	<li>The <strong>Exadel</strong> blog shows off a currently internal project whereby <a href="http://mkblog.exadel.com/jsf/javafx-as-jsf-components/">JavaFX nodes are wrapped up as JSF components</a>, allowing for them to be embedded simply within a JSF site.</li>
+	<li><strong>Drew</strong> has created a <a href="http://piliq.com/javafx/?p=1362">simple calendar control in JavaFX</a>. At present it is just a proof of concept and certainly not a fully fledged control, but it shows the ease in which creating new controls is possible. All I can really add is that JavaFX 1.3 will make customising the appearance much easier, as our ListView control can be skinned far more easily - meaning anything list-like can build upon all the smarts we have put into ListView (and other virtualised controls like Tree and Table).</li>
+	<li><strong>Jeff Frieson</strong> has posted about <a href="http://today.java.net/article/2009/12/23/reading-newsfeeds-javafx-feedread">reading newsfeeds in JavaFX</a> in his normal code-heavy approach. Another good read if you're keen to see exactly how to interact with RSS/Atom feeds in JavaFX.</li>
+	<li><strong>Rakesh Menon</strong> shows <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_custom_window">how to create a 'custom window' in JavaFX</a>, and also <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_database_table">how to use JavaFX to represent data coming out of a JDBC database</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has blogged about how Griffon is <a href="http://www.jroller.com/aalmiray/entry/griffon_beyond_swing">moving beyond supporting just Swing</a> to also supporting SWT, JavaFX and now Apache Pivot also.</li>
+</ul>
+<p>Catch you in the new year. Have a great new years party and try to step away from the computer for a bit :-)</p>
+]]></Content>
+	</post>

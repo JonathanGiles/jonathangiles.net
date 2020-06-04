@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>830</ID>
+		<Slug>java-desktop-links-of-the-week-june-7</Slug>
+		<Title>Java desktop links of the week, June 7</Title>
+		<Date>2010-06-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>There's a bunch of links this week, which is very pleasing to see - seems like you lot have been very busy! :-) Let's get straight into the links of the week.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Alex Ruiz</strong> has announced the <a href="http://alexruiz.developerblogs.com/?p=1225">release of FEST-Swing 1.2</a>. <a onclick="javascript:pageTracker._trackPageview('/outbound/article/fest.easytesting.org');" href="http://fest.easytesting.org/swing/" target="_blank">FEST-Swing</a> is a Java library that provides a <a onclick="javascript:pageTracker._trackPageview('/outbound/article/www.infoq.com');" href="http://www.infoq.com/articles/internal-dsls-java" target="_blank">fluent interface</a> for functional Swing GUI testing.  This library provides an easy-to-use API that makes creation and  maintenance of GUI tests easy.</li>
+	<li>Recently <strong>Jeff Frieson</strong> has been exploring new features of JDK7. In a recent post he covered the <a href="http://www.informit.com/articles/article.aspx?p=1592964">JLayer support for Swing coming up in JDK7</a>.</li>
+	<li><strong>Damien Ielsch</strong> has blogged about <a href="http://free-the-pixel.blogspot.com/2010/06/scrolling-text.html">animated scrolling text in Java2D/Swing</a>. It appears that this project makes use of the Trident animation / timing library.</li>
+	<li><strong>Geertjan Wielenga</strong> has posted '<a href="http://netbeans.dzone.com/10-tips-4-porting-2-netbeans">10 Tips for Porting to the NetBeans Platform</a>'. Personally I'm a little frustrated by the tone of the post and the comments, but ah well, I don't think we'll ever (as a community) settle this discussion, and I'm pleased that NetBeans is still advancing their technology to give people options.</li>
+	<li><strong>Jyloo Software</strong> continue their series of posts discussing features of their Synthetica look and feel. This time around they talk about <a href="http://www.jyloo.com/news/?pubId=1275549952000">TitlePane variations that are possible in Synthetica 2.10</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>The <strong>FX Experience</strong> website introduced two new preview controls in JavaFX 1.3: <a href="http://fxexperience.com/2010/06/new-to-javafx-1-3-menubutton-splitmenubutton/">MenuButton and SplitMenuButton</a>. It also <a href="http://fxexperience.com/2010/05/javafx-1-3-layout/">implored you to read Amy Fowler's recent blog posts on layout in JavaFX 1.3</a>.</li>
+	<li>The <strong>JavaFX docs team</strong> have put together a huge article on '<a href="http://javafx.com/docs/articles/design_guidelines/index.jsp">Tips for developing on the JavaFX TV platform</a>'.</li>
+	<li><strong>Jim Weaver</strong> has posted a <a href="http://learnjavafx.typepad.com/weblog/2010/05/a-javafx-13-custom-layout-example.html">BorderLayout</a> container that he built as an example of how it is possible to build custom layouts in JavaFX.</li>
+	<li><strong>Rastislav Komara</strong> has posted about a new feature in NetBeans Composer in the 6.9 RC1 release: <a href="http://blogs.sun.com/javafxcomposer/entry/grid_container_support">grid container support</a>. Note that <a href="http://netbeans.org/community/releases/69/">NetBeans 6.9 RC2 was also released this week</a>.</li>
+	<li>Speaking of NetBeans Composer, <strong>Antoine Mischler</strong> has blogged <a href="http://blog.dooapp.com/javafx-composer-dynamic-layout-and-xscene">his thoughts about it</a>, as has <a href="http://nick-software.blogspot.com/2010/06/javafx-app-development-part-1.html">Nick Apperbly</a>.</li>
+	<li><strong>Stephen Chin</strong> has posted his Jazoon slide deck for his recent talk which was titled '<a href="http://steveonjava.com/building-data-rich-interfaces-with-javafx/">Building Data Rich Interfaces with JavaFX</a>'.</li>
+	<li>Also related to <strong>Stephen</strong> is the announcement that the <a href="http://theagileexecutive.com/2010/06/01/apropos-has-been-open-sourced/">Apropos project has been open sourced</a>. This is an 'Agile Project Portfolio Scheduler' written in JavaFX.</li>
+	<li><strong>Mikhail Gorshenev</strong> has been posting a bunch of JavaFX TV posts recently. They are titled '<a href="http://blogs.sun.com/mgorshenev/entry/3d_scene_support_in_javafx">3D Scene Support in JavaFX TV</a>', '<a href="http://blogs.sun.com/mgorshenev/entry/tv_friendly_focus_traversal">TV-Friendly Focus Traversal</a>', '<a href="http://blogs.sun.com/mgorshenev/entry/simple_css_styling">Simple CSS Styling</a>' and '<a href="http://blogs.sun.com/mgorshenev/entry/3d_carousel">3D Carousel</a>'.</li>
+	<li>Speaking of <strong>Mikhail</strong>, he is presenting at the Silicon Valley JavaFX Users Group this week. His presentation is called '<a href="http://www.svjugfx.org/calendar/13260637/?eventId=13260637&amp;action=detail">Top Secret JavaFX TV Preview</a>'. The presentation is on June 9 at 6:00pm PST, at the <a href="http://www.meetup.com/svjugfx/venue/724518/?eventId=13260637&amp;popup=true">Oracle Conference Center</a>.</li>
+	<li><strong>Osvaldo Doederlein</strong> continued his research into the JavaFX scenegraph by continuing the development of his <a href="http://weblogs.java.net/blog/opinali/archive/2010/06/04/javafx-life-script-production">JavaFX Game of Life implementation</a>. Fortunately this week he has more positive things to say about the scenegraph :-)</li>
+	<li><strong>Rakesh Menon</strong>, who recently left Oracle to join Cisco, has posted his <a href="http://rakeshmenonp.wordpress.com/2010/05/31/javafx-my-wish-list/">JavaFX Wish List</a>. All I can say with regard to his wish list is that I know we're working on improvements to many of his comments!</li>
+	<li><strong>Antoine Mischler</strong> has blogged about using <a href="http://blog.dooapp.com/ioc-in-javafx">inversion of control in a JavaFX application</a>.</li>
+</ul>
+<p>As always thanks to everyone for the hard work you do, and an extra round of thanks for blogging about it so that we can all learn from your experiences. As always you can <a href="mailto:jonathan@jonathangiles.net">email me</a> or <a href="http://www.twitter.com/JonathanGiles">find me on twitter</a> if you want to chat. Until next week - keep up the good work folks! :-)</p>
+]]></Content>
+	</post>

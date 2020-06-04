@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1302</ID>
+		<Slug>java-desktop-links-of-the-week-august-27</Slug>
+		<Title>Java desktop links of the week, August 27</Title>
+		<Date>2012-08-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all, welcome to another weeks worth of links! This week there are plenty of them, so please enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The <strong>Java Tutorials</strong> blog has a short post up about a new feature in JavaFX 2.2: the ability to <a href="https://blogs.oracle.com/thejavatutorials/entry/take_a_snaphot_with_javafx">take a snapshot of a scene</a> and turn it into an image.
+<strong></strong></li>
+	<li><strong>Stephen Chin</strong> has posted two posts about JavaFX in Spring. Firstly, he posts about <a href="http://javafx.steveonjava.com/javafx-and-spring-day-1/">application initialisation</a>, and secondly about <a href="http://javafx.steveonjava.com/javafx-in-spring-day-2/">configuration and FXML.</a></li>
+	<li>Separately, <strong>Stephen</strong> has put up the slides from another of his talks, this time titled '<a href="http://www.slideshare.net/steveonjava/hacking-java-fx-with-groovy-clojure-scala-and-visage-oscon">Hacking JavaFX with Groovy, Clojure, Scala, and Visage</a>'.</li>
+	<li><strong>Johan Vos</strong> was interviewed on the <strong>Java Spotlight Podcast</strong> about <a href="https://blogs.oracle.com/javaspotlight/entry/java_spotlight_episode_96_johan">Glassfish and JavaFX</a>.</li>
+	<li><strong>Carl Dea</strong> has published <a href="http://carlfx.wordpress.com/2012/08/26/javafx-2-gametutorial-part-5/">part five of his JavaFX game dev tutorial</a>. This time he focuses on sound.</li>
+	<li><strong>Andy Till</strong> has started investigating <a href="http://andrewtill.blogspot.co.uk/2012/08/javafx-css-styling.html">writing a new CSS style for JavaFX</a>. To support this, the JFXtras team has set up a new sub-project called <a href="https://github.com/JFXtras/jfxtras-styles">jfxtras-styles</a>, which will be a home for custom JavaFX CSS style files. This is already the home of <strong>Andy's</strong> work.</li>
+	<li><strong>Thomas Bolz</strong> has written about <a href="http://java.dzone.com/articles/obfuscate-your-javafx">obfuscating your JavaFX code</a> at compile time to ensure it is harder to decompile. This is well worth reading for anyone putting out commercial products using JavaFX.</li>
+	<li><strong>Pedro Duque Vieira</strong> has written about <a href="http://pixelduke.wordpress.com/2012/08/25/integrating-javafx-and-swing/">integrating JavaFX and Swing</a> inside a single application.</li>
+	<li>In a similar post, <strong>Eric Bruno</strong> has a post over at <strong>Dr Dobbs</strong> about <a href="http://www.drdobbs.com/jvm/integrating-javafx-2x-and-swing-its-simp/240005970?cid=twitter_">integrating JavaFX and Swing</a>.</li>
+	<li><strong>Andreas Billmann</strong> has made further progress on his JavaFX 'MiniIcon' animated button, and he has a blog talking about how he turned it into a <a href="http://www.billmann.de/2012/08/22/javafx-miniiconanimationbutton-refactored/">'proper' JavaFX UI control.</a></li>
+	<li><strong>Tom Schindl</strong> has made available a <a href="http://tomsondev.bestsolution.at/2012/08/22/svg-to-fxml-converter-as-commandline-util/">SVG to FXML command-line converter tool</a>.</li>
+	<li><strong>William Markito Oliveira</strong> has an article up on OTN about '<a href="http://www.oracle.com/technetwork/articles/soa/oliveira-wls-rest-javafx-1723982.html">Oracle WebLogic RESTful Management Services: From Command Line to JavaFX</a>'.</li>
+	<li><strong>Gerrit Grunwald</strong> has returned from vacation and has created an <a href="http://harmoniccode.blogspot.de/2012/08/beach-coding.html">elliptical gradient API</a> that is now available in JFXtras.</li>
+	<li><strong>Christian Schudt</strong> has blogged about using <a href="http://myjavafx.blogspot.co.nz/2012/08/building-signing-and-deploying-your.html">Maven to build, sign and deploy JavaFX applications</a>.</li>
+	<li><strong>Jeff Smith</strong> has blogged about his early work in developing a JavaFX map viewer, which he calls <a href="http://flighttestdude.wordpress.com/2012/08/24/hello-world/">JFXMapPane</a>. With a bit more work, this will likely be integrated into JFXtras.</li>
+	<li><strong>UGate</strong> have announced their open source '<a href="http://ugate.org/default.php">Arduino-Java-XBee security system</a>'.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Geertjan Wielenga</strong> has <a href="https://blogs.oracle.com/geertjan/entry/tips_for_arabic_java_desktop">five tips for Arabic Java desktop developers</a>.</li>
+	<li>For those interested in NetBeans, there is a <a href="http://netbeans.org/community/articles/javaone/2012/netbeans-day-2012.html">NetBeans Community Day</a> on the Sunday before JavaOne (actually, the JavaOne keynotes are also on Sunday). There are talks here on JavaFX also.</li>
+</ul>
+<p>I warned you about the number of links! Keep up the great work everyone, and I'll catch you again next week :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2099</ID>
+		<Slug>java-desktop-links-of-the-week-may-9-2</Slug>
+		<Title>Java desktop links of the week, May 9</Title>
+		<Date>2016-05-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Carl Dea</strong> has posted about&nbsp;<a href="https://carlfx.wordpress.com/2016/04/26/a-javafx-helloworld-using-java-9s-project-jigsaw-in-60-seconds/">writing a&nbsp;JavaFX HelloWorld using Java 9’s Project Jigsaw in 60 seconds</a>.</li>
+ 	<li><strong>David Gilbert</strong> has released a&nbsp;new version of <a href="http://www.jfree.org/jfreesvg/">JFreeSVG</a> (a free Graphics2D-based SVG generator). Version 3.1 fixes a problem with transparency in gradient paints, improves output when drawing ellipses, and improves font measurements.</li>
+ 	<li><strong>Michael Hoffer</strong> has released <a href="http://mihosoft.eu/?p=1231">VWorkflows v0.2.2</a>.</li>
+ 	<li><strong>Peter Rogge</strong> has released a <a href="https://github.com/Naoghuman/SokubanFX/releases/tag/v0.2.0">second prototype</a> of his SokubanFX game. He has also started writing a series of articles on <a href="https://github.com/Naoghuman/articles/blob/master/SokubanFX/01_Setup-the-project.md">porting his old Swing 2D game to JavaFX</a>.</li>
+ 	<li><strong>Gluon</strong> has announced that&nbsp;<a href="http://gluonhq.com/javafx-embedded-now-supports-webview/">JavaFX Embedded now supports WebView</a>.</li>
+ 	<li>If you're around&nbsp;Zürich, Switzerland on May 17th, you might be interested in attending the <a href="http://www.meetup.com/Zurich-JavaFX-Meetup/events/230843232/?eventId=230843232">Custom JavaFX UI controls talk</a> being given by <strong>Gerrit Grunwald</strong> at the&nbsp;<strong>Zürich JavaFX Meetup</strong>.</li>
+ 	<li><strong>Carl</strong> has posted about&nbsp;<a href="http://bekwam.blogspot.co.nz/2016/05/creating-javafx-derived-fields-with.html">creating JavaFX derived fields</a> with Bindings.concat().</li>
+</ul>
+]]></Content>
+	</post>

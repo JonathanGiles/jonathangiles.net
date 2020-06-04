@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1261</ID>
+		<Slug>java-desktop-links-of-the-week-june-18</Slug>
+		<Title>Java desktop links of the week, June 18</Title>
+		<Date>2012-06-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all - just a quick post this week as I am overflowing with real work! Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Michael Heinrichs</strong> has blogged about <a href="http://blog.netopyr.com/2012/06/14/using-the-javafx-animationtimer/">using the JavaFX AnimationTimer API</a> (which is far more relevant to you than the name implies!).</li>
+	<li><strong>Adam Bien</strong> has blogged about <a href="http://www.oracle.com/technetwork/articles/java/enterprisefx-1651840.html">the enterprise side of JavaFX</a>.</li>
+	<li><strong>Eric Bruno</strong> has an article up explaining <a href="http://www.drdobbs.com/blogs/jvm/240001874?pgno=1">how to use the TableView control in JavaFX 2</a>.</li>
+	<li>One of the big developments this week was the announcement of <a href="https://blogs.oracle.com/talkingjavadeployment/entry/native_packaging_for_javafx">support for native packaging</a> in the upcoming JavaFX 2.2. Following on from this, <strong>Richard Bair</strong> blogged about the plans for <a href="http://fxexperience.com/2012/06/application-deployment-with-javafx/">application deployment in JavaFX</a>, including plans for <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2012-June/002433.html">application update support</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> has blogged about the <a href="http://harmoniccode.blogspot.co.nz/2012/06/jfxtras-series-radial-gauge.html?m=0">radial gauges in JFXtras Labs</a>.</li>
+	<li><strong>Carl Dea</strong> has released <a href="https://carlfx.wordpress.com/2012/06/12/javafx-2-gametutorial-part-4/">part four of his JavaFX 2 game tutorial</a>.</li>
+	<li>The <strong>UGate blog</strong> has now got part two of the series on <a href="http://ugate.wordpress.com/2012/06/14/javafx-programmatic-pojo-bindings/">JavaFX programmatic POJO expression bindings</a>.</li>
+	<li><strong>Sai Pradeep Dandem</strong> has blogged about the <a href="http://saidandem.blogspot.in/2012/06/scroller-control-in-javafx-2.html">Scroller control</a> he has developed.</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2944</ID>
+		<Slug>java-desktop-links-of-the-week-march-5-2</Slug>
+		<Title>Java desktop links of the week, March 5</Title>
+		<Date>2018-03-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Some good links this week - enjoy! :-)</p>
+<ul>
+ 	<li><strong>Michael Hoffer</strong> has a youtube video up about <a href="https://www.youtube.com/watch?v=2fWyhJ2nhjw&amp;feature=youtu.be">creating native JDK 9 application bundles with small runtimes</a>.</li>
+ 	<li><strong>Hallvard Traetteberg</strong> has a forum post about <a href="https://www.eclipse.org/forums/index.php/t/1091755/">integrating Scene Builder into Eclipse</a>.</li>
+ 	<li><strong>Samir Hadzic</strong> has two posts this week. Firstly, a tip for <a href="https://blog.samirhadzic.com/2018/03/01/get-the-user-download-folder-path/">getting the user download folder path</a>. Secondly, he has a post on '<a href="https://blog.samirhadzic.com/2018/03/01/when-the-listener-is-listening-too-much/">when the listener is listening too much</a>'.</li>
+ 	<li>The&nbsp;<strong>conservation coding</strong> blog has a post titled '2018: Tech and Coding for Marine Mammal Science', where they cover <a href="https://conservationcoding.com/2018/03/01/hello-2018-and-some-nerdy-java-colour-sliders/">building a colour slider in JavaFX</a>.</li>
+ 	<li><strong>Josh Wickham</strong> has a post titled '<a href="https://medium.com/@joshwickham/creating-an-integer-spinner-in-javafx-f8fda8d12ae5">creating an Integer Spinner in&nbsp;JavaFX</a>'.</li>
+</ul>
+]]></Content>
+	</post>

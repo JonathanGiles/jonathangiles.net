@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>636</ID>
+		<Slug>java-desktop-links-of-the-week-november-9</Slug>
+		<Title>Java desktop links of the week, November 9</Title>
+		<Date>2009-11-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A heap of news this week, with a resurgence of Swing links being particularly pleasing to see. Righty - on to the news!</p>
+<h4>Swing</h4>
+<ul>
+	<li><a href="http://weblogs.java.net/blog/rah003/archive/2009/11/02/swingx-16-released">SwingX 1.6 was released this week</a>, which is quite an exciting release as it does away with Java 5 backwards compatibility, which allows for the codebase to be cleaned up considerably.</li>
+	<li><strong>Kirill Grouchnikov</strong> is starting to need his own section these days, but for now I'll just link to his four posts in the last week. Firstly, he announced the <a href="http://www.pushing-pixels.org/?p=1502">official release of Flamingo 4.2</a>, which is a stabilisation release that adds a few minor features and fixes all known bugs. Secondly, he did <a href="http://www.pushing-pixels.org/?p=1504">two</a> <a href="http://www.pushing-pixels.org/?p=1507">posts</a> on control alignment in Substance, which is the nice attention to detail that most look and feels neglect to pay attention to. Finally, Kirill wrote a <a href="http://www.pushing-pixels.org/?p=1534">Sea Glass skin for Substance</a>, based on the details <a href="http://explodingpixels.wordpress.com/2009/10/01/sea-glass-look-and-feel/">outlined by Ken Orr</a> and Kathryn Huxtable.</li>
+	<li><strong>Marina Kamahele</strong> has written an article on java.net about <a href="http://today.java.net/article/2009/11/02/transparent-panel-mixing-heavyweight-and-lightweight-components">using 'transparent' panels to mix heavyweight and lightweight components</a>.</li>
+	<li><strong>David Qiao</strong>, from JIDE, has announced that <a href="http://java.dzone.com/announcements/jide-280-and-jide-charts">JIDE 2.8.0 and JIDE Charts have been released</a>.</li>
+	<li><strong>Jean-Francois Poilpret</strong> let me know about the <a href="http://code.google.com/p/painless-gridbag/">Painless-Gridbag project</a>, which attempts to simplify the use of the Gridbag layout in Swing.</li>
+	<li>I came across the <a href="http://code.google.com/p/gtkjfilechooser/">gtkJFileChooser project</a> this week, which aims to create a JFileChooser that looks consistent with the new file chooser offered in recent Gnome releases (i.e. 2.4+).</li>
+	<li>I was recently informed of the <a href="http://code.google.com/p/altioportletdock/">PortletDock swing component</a>, which allows you to add a bunch of non-overlapping components to it that can then be rearranged by the user by dragging with the mouse or by minimizing them.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>A new article has been published at javafx.com titled '<a href="http://javafx.com/docs/articles/image_slideshow/">Creating an image slideshow</a>', written by <strong>Scott Hommel</strong>, a technical writer at Sun.</li>
+	<li><strong>Stephen Chin</strong> has created a <a href="http://twitter.com/steveonjava/javafx">Twitter list</a> that <a href="http://steveonjava.com/2009/11/07/announcing-the-javafx-twitter-group/">follows a good number of people in the JavaFX world</a>.</li>
+	<li>In another separate post, <strong>Stephen</strong> has posted an <a href="http://steveonjava.com/2009/11/04/meet-the-new-java-store/">overview of the new Java App Store</a>.</li>
+	<li><strong>Excelsior</strong> have a blog advertising their product which allows for the <a href="http://www.excelsior-usa.com/blog/excelsior-jet/deploying-standalone-javafx-applications-without-runtime-dependencies/">deployment of standalone JavaFX applications without any runtime dependencies</a>.</li>
+	<li><strong>Sergey Malenkov</strong> has blogged about his entry to the JFXStudio Coding Challenge for the theme of 'five'. He wrote a <a href="http://weblogs.java.net/blog/malenkov/archive/2009/10/27/dodecahedron">rotating dodecahedron</a>, and includes in his blog the details of the maths behind it, for you to try at home.</li>
+	<li><strong>Rakesh Menon</strong> has blogged about <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_resolution_independent_ui">resolution independent UI's in JavaFX</a>.</li>
+	<li><strong>Lucas Jordan</strong> has blogged about <a href="http://lucasjordan.blogspot.com/2009/11/javafx-production-suite-more.html">his experiences with the JavaFX Production Suite</a>.</li>
+	<li><strong>Drew</strong> from Piliq.com has written an applet that shows off the various <a href="http://piliq.com/javafx/?p=1321">blend modes available in JavaFX</a>.</li>
+	<li>The <strong>Exadel</strong> blog has links to <a href="http://mkblog.exadel.com/ria/two-webinars-javafx-and-enterprise-javafx/">two enterprise JavaFX webinars</a>.</li>
+</ul>
+<p>That's us for another week. Keep up the hard work, and I'll catch you all again next week.</p>
+<p><div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">http://www.pushing-pixels.org/?p=1504</div></p>
+]]></Content>
+	</post>

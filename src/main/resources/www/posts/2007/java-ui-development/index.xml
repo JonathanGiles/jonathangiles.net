@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>127</ID>
+		<Slug>java-ui-development</Slug>
+		<Title>Java (UI) Development</Title>
+		<Date>2007-11-13</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Java doesn't have the best name out there when it comes to UI development, but I would really like to set that record straight. Java is a great language, and as part of my criteria for being a great language, has a really great user interface library known as Swing.</p>
+
+<p>Swing really is excellent, once you get to know it. For people thinking Swing is complex, fear not - one guy who come to work with us for a short while picked up Swing in less than a week, and he had only a basic understanding of Java previously. I admit that even though I have developed in it for a long time, I still find myself Googling for things frequenty. This is because Swing has a lot of functionality, some of which you may only need occasionally.</p>
+
+<p>With Swing, you make your buttons, panels, etc as you would normally, building layer upon layer until you get your user interface. You can override the painting of these components to make them look however you want, and there exists a <a href="http://www.filthyrichclients.org/">number</a> of <a href="https://fuse.dev.java.net/">good</a> resources to help with this.</p>
+
+<p>In my time with Java, I have written two decently complex applications, both of which made use of custom components. One was a project I developed for a lecturer whilst at university that would teach students programming by drawing pictures, and the other is of course <a href="http://www.centruflow.com">Centruflow</a>.</p>
+
+<p>The most awesome thing about developing in Java and Swing - almost seamless portability between operating systems. So far, Centruflow has loaded on every operating system we have tried it on, and it works well.</p>
+
+<p>For all the people who tell me Java is dead and/or overly fractured, I would suggest you pick up a good Java IDE and try to make an application in Java. The language is beautiful, and you can do some pretty cool stuff pretty easily.</p>
+]]></Content>
+	</post>

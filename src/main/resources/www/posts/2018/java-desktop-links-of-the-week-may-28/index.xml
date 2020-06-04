@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3044</ID>
+		<Slug>java-desktop-links-of-the-week-may-28</Slug>
+		<Title>Java desktop links of the week, May 28</Title>
+		<Date>2018-05-28</Date>
+		<Status>publish</Status>
+		<Categories>Uncategorized</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A quiet week this week, which is fine for me as I get over a lingering flu. Enjoy! :-)</p>
+<ul>
+ 	<li><strong>Abhinay Argarwal</strong> has written about <a href="http://abhinay.xyz/javafx/2018/05/09/FXML-friendly-custom-controls.html">how to create FXML-friendly JavaFX UI controls</a>.</li>
+ 	<li><strong>Pedro Duque Vieira</strong> has blogged about <a href="https://pixelduke.com/2018/05/20/parallaxfx-parallax-in-java-version-2/">his Parallax Pane control</a>.</li>
+ 	<li><a href="https://github.com/Oshan96/CustomStage">CustomStage v1.3.1</a> is out and has additional features for JavaFX application development, including <a href="https://github.com/Oshan96/CustomStage/wiki#fileloader">FileLoader</a> and <a href="https://github.com/Oshan96/CustomStage/wiki#scenemanager">SceneManager</a>.</li>
+</ul>
+]]></Content>
+	</post>

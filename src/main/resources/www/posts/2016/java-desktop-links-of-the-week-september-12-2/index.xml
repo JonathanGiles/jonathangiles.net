@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2169</ID>
+		<Slug>java-desktop-links-of-the-week-september-12-2</Slug>
+		<Title>Java desktop links of the week, September 12</Title>
+		<Date>2016-09-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>JavaOne is now officially on our doorstep! This time in a week the conference will be kicking off and it'll be yet another gathering of like-minded Java developers. I'm looking forward to seeing everyone over there for another week of&nbsp;catching up and learning about the latest developments. If you spot me around the place, be sure to come up and say hi :-)</p>
+
+<p>Speaking of JavaOne, because of it don't expect a post next week - it is always quite hectic, and whilst I'll judge it on the day, there is a high probability that there won't be a links post next week.</p>
+<ul>
+ 	<li>I released <a href="http://fxexperience.com/controlsfx/">ControlsFX 8.40.12</a>, which includes a number of new features&nbsp;and many bug fixes. Kudos goes to the whole ControlsFX team who keep this well-oiled operation ticking over, and as always, welcome to the new contributors who bring new ideas to the project. This year&nbsp;<strong>Eugene</strong> and I decided not to present on ControlsFX (like we have the past two or so years), but I didn't want everyone&nbsp;to go without a new release just because JavaOne wasn't forcing a release :-)</li>
+ 	<li><strong>Adam Carroll</strong> has announced that&nbsp;<a href="http://vocabhunter.github.io/2016/09/08/VocabHunter-v1.0.17-Released.html">VocabHunter v1.0.17 has been released</a>.</li>
+ 	<li><strong>Thomas Nield</strong> has announced <a href="https://github.com/ReactiveX/RxJavaFX/releases">RxJavaFX 0.2.0 has been released</a>, which includes&nbsp;CompositeObservable with Transformer functionality.</li>
+</ul>
+]]></Content>
+	</post>

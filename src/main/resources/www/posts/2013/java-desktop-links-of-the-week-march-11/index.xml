@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1425</ID>
+		<Slug>java-desktop-links-of-the-week-march-11</Slug>
+		<Title>Java desktop links of the week, March 11</Title>
+		<Date>2013-03-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Hi all - welcome to yet more Java desktop links! Hopefully there is something for all of you to learn from and enjoy. Have a great week and I'll catch you again in a weeks time with yet more of your links! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The <strong>Canoo blog</strong> has published <a href="http://www.canoo.com/blog/2013/03/03/javafx-abacus-tutorial-part-vii-proper-structure-with-opendolphin/">part seven of their abacus tutorial</a>, this time focusing on integrating OpenDolphin.</li>
+	<li><strong>Michael Heinrichs</strong> has updated his <a href="http://blog.netopyr.com/2013/03/06/javafx-library-for-inverse-kinematics-2-0/">inverse kinematics library</a> to work with JavaFX 2.x. You can find the sources of the library including the code of the two samples on <a href="https://github.com/netopyr/javafx-ik">GitHub</a>.</li>
+	<li><strong>Björn</strong> from CaptainCasa has posted another JavaFX client update detailing some of the <a href="http://captaincasa.blogspot.co.nz/2013/03/captaincasa-fx-client-beta-phase-started.html">updates to the CaptainCasa software</a>.</li>
+	<li><strong>Tom Eugelink</strong> has posted a ListView extension class (also called ListView) to JFXtras which allows for <a href="https://github.com/JFXtras/jfxtras-labs/blob/master/src/main/java/jfxtras/labs/scene/control/ListView.java">two-way binding of the selected item property</a>. Whilst I haven't had a chance to test this myself I know that this is an often-requested feature from some users of the ListView control (and the same concept can be applied to the other selection model based controls such as TreeView, TableView, TreeTableView, etc).</li>
+	<li><strong>James Sheets</strong> has started up a new project to provide <a href="https://code.google.com/p/javafx-filterable-table-columns/">enhanced TableView functionality around filtering</a>, or, as he puts it, "a set of drop-in replacements for JavaFX's TableColumn class, which provides a visual editor for users to create filtering." It would be great to see these ported to JavaFX 8.0 and using the built-in filtered list functionality.</li>
+	<li><strong>Yennick Trevels</strong> has posted on <a href="http://jedicoder.blogspot.be/2013/03/javafx-structuring-your-application.html">structuring JavaFX applications</a>.</li>
+	<li><strong>Narayan Maharjan</strong> has posted about <a href="http://blog.ngopal.com.np/2013/03/04/pagination-and-style-in-javafx-tableview/">pagination and style in the JavaFX TableView</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jyloo Software</strong> have announced that <a href="http://www.jyloo.com/news/?pubId=1362667871000">Synthetica 2.17 and SyntheticaAddons 1.8 have been released</a>. These releases include a number of new features and bug fixes.</li>
+	<li><strong>JIDE Software</strong> have announced the release of <a href="http://jidesoft.com/history/">version 3.5.3 of all of their libraries</a>. This release includes enhancements and a number of bug fixes.</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>35</ID>
+		<Slug>xpath</Slug>
+		<Title>XPath</Title>
+		<Date>2006-01-10</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Started work on XPath integration into the <a href="http://www.mandarax.org/">mandarax</a> project today. This is one of the three current projects I am working on, and to say the least, is interesting. Before a few days ago I didn't even know what XPath was, let alone how to extend it to be able to retrieve data stored within an uncommon document model (i.e. the Mandarax KnowledgeBase class).</p>
+
+<p>Results have started appearing. I can now request all facts (think declarative programming, knowledge bases, and in general, a Java version of Prolog) simply by giving the following XPath query:</p>
+<p><blockquote dir="ltr">/fact</blockquote></p>
+<p><p dir="ltr">Isn't that cool? Ok, maybe not to you, but to the people at Massey who created the rest of Mandarax, this will be incredibly useful. Maybe another example would be in order. If I want a list (an Iterator to be specific) of all predicates in the head of a rule, I can give the XPath query:</p>
+
+<p><blockquote dir="ltr"></p>
+<p><p dir="ltr">/rule/head/predicate</p>
+<p></blockquote></p>
+<p><p dir="ltr">I'm still working on a lot of things, so whilst this looks like good progress, I know I have a fair bit more work to do (considering this is a 3-4 week job).</p>
+]]></Content>
+	</post>

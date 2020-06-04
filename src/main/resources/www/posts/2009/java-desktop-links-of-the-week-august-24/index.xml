@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>588</ID>
+		<Slug>java-desktop-links-of-the-week-august-24</Slug>
+		<Title>Java desktop links of the week, August 24</Title>
+		<Date>2009-08-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A somewhat quiet, but interesting week of news this week. Interestingly, Oracle is one step closer to being the new owner of Sun with the <a href="http://ow.ly/kLDS">US Department of Justice approving the acquisition</a>. That just leaves the European counterpart to consider the acquisition, and they are planning on making a statement on September 3. It may be all over in the next 1.5 weeks.</p>
+<h4>General</h4>
+<ul>
+	<li><strong>Don DeCoteau</strong> emailed me to let me know that a <a href="http://sagetop.blogspot.com/2009/08/version-0.html">new release</a> of the <a href="http://www.sparseware.com/sage/">Sage Runtime</a> has been made available. Sage is an application rendering engine that renders applications in real-time. Sage applications are described using a markup language, accessed via URLs, and                   controlled via a scripting language. It appears to work with both Swing and JavaFX (through a FX-&gt;Swing wrapper). Licensing is a little unclear - perhaps Don might be so kind to leave a comment regarding this.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li>In perhaps the most controversial blog this week, <strong>Alexander Potochkin</strong> blogged to say that the Swing Application Framework (SAF) has <a href="http://www.java.net/blog/alexfromsun/archive/2009/08/saf_and_jdk7.html">missed the JDK milestone released it was planned for</a> (note that Java.net is down for maintenance right now, so this link doesn't work right now). This leaves everyone wondering what will become of SAF?</li>
+	<li><strong>Jean-Francois Poilpret</strong> has been busily working away on his <a href="http://kenai.com/projects/guts">GUTS (Guice Utilities &amp; Tools Set) project</a>. His most recent work has been on <span><span>GUTS-GUI, which is a Guice-based Swing app framework. You can find the source code in the Kenai SVN repository.</span></span></li>
+	<li><span><span><strong>Ken Orr</strong> has a post up detailing some <a href="http://explodingpixels.wordpress.com/2009/08/22/new-java-client-properties-on-mac/">new Java client properties available on Mac platforms</a>. These properties mean that components can get ever-closer to looking like proper Mac apps.
+</span></span></li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Sten Anderson</strong> has put out a blog detailing what he did to get animated charts (in this case pie charts). Because he was not able to get this working with the JavaFX charting API, he instead <a href="http://blogs.citytechinc.com/sanderson/?p=134">built his own pie chart implementation</a>.</li>
+	<li>In another post, <strong>Sten</strong> has done some work on <a href="http://blogs.citytechinc.com/sanderson/?p=136">borders and layouts</a>. As noted in the comments, there is some overlap with the borders used in <a href="http://jfxtras.org/">JFXtras</a>, so be sure to look there as well for more borders and layouts.</li>
+	<li><strong>Paul Bakker</strong> has a blog post detailing his <a href="http://blogs.infosupport.com/blogs/paul_bakker/archive/2009/08/17/javafx-folder-visualizer.aspx">Folder Visualizer project</a>, which enables a person to identify folders on their filesystem that are using&nbsp; a lot of disk space.</li>
+	<li><strong>Jim Weaver</strong> posts about building <a href="http://learnjavafx.typepad.com/weblog/2009/08/resizable-applets.html">applets that are resizable</a> so that they fill the available space inside a browser window.</li>
+	<li><strong>Stephen Chin</strong> has blogged that <a href="http://steveonjava.com/2009/08/18/widgetfx-contest-heating-up/">the WidgetFX context is heating up</a>. If you are wanting to enter, you better hurry as the <a href="http://widgetfx.org/portal/contest">competition is closing soon</a>. First prize is a years worth of e-books.</li>
+	<li><strong>Carl Dea</strong> has posted <a href="http://carlfx.wordpress.com/2009/08/20/javafx-forms-framework-part-3/">part three of his JavaFX Forms Framework series</a>.</li>
+</ul>
+<p>Well, that's that for another week. Keep churning out the good work, and I'll see you all again in a week :-)</p>
+]]></Content>
+	</post>

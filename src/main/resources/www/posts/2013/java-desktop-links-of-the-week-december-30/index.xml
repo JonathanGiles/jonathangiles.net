@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1627</ID>
+		<Slug>java-desktop-links-of-the-week-december-30</Slug>
+		<Title>Java desktop links of the week, December 30</Title>
+		<Date>2013-12-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Understandably it is a quiet week of links this week, but that doesn't mean things have ground to a complete halt - there have been a few open source releases that you should definitely explore.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Johan Vos</strong> has announced the <a href="http://www.lodgon.com/dali/blog/entry/DataFX_20_is_released">release of DataFX 2.0</a>. As mentioned in the blog post, "DataFX 2.0 runs on top of both JavaFX 2.2 as well as JavaFX 8. We are now starting the work on DataFX 8, which will only run on JavaFX 8. We might release a DataFX 2.0.1 version containing bugfixes, but only if there is a real need for."</li>
+	<li>ControlsFX 8.0.4 was <a href="http://fxexperience.com/2013/12/controlsfx-8-0-4-available-now/">released this week</a>. It was a minor release mainly resolving an issue in the 8.0.3 around loading images from within the ControlsFX jar file (for things like dialogs). This is now fixed in 8.0.4.</li>
+	<li>TestFX 3.0.0 <a href="https://github.com/SmartBear/TestFX">has been released</a>. This is an excellent library for writing unit tests for testing your JavaFX user interfaces. I recommend you check it out.</li>
+	<li><strong>Hendrik Ebbers</strong> has blogged a <a href="http://www.guigarage.com/2013/12/datafx-controller-framework-preview/http://www.guigarage.com/2013/12/datafx-controller-framework-preview/">preview of the DataFX controller framework</a>. This framework helps to create the views of applications, define actions on them and create flows that contain a subset of views.</li>
+	<li>Whilst I don't make a practice out of job advertisements, given it is a quiet week I thought I'd mention that a company called <strong>Anahata</strong>, based in Australia, is <a href="http://www.anahata-it.com.au/java-fx-2-developer---worldwide.html">looking to hire a JavaFX developer</a> (from anywhere in the world) to help them with their projects.</li>
+	<li>GraniteDS 3.0.0.GA <a href="http://www.granitedataservices.com/2013/12/24/graniteds-3-0-0-ga-is-out/">has been released</a>. GraniteDS is an event-driven, cross-framework, application client container.</li>
+</ul>
+<p>That's all folks. Catch you again next week.</p>
+]]></Content>
+	</post>

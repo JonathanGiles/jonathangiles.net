@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1602</ID>
+		<Slug>javafx-links-of-the-week-november-18</Slug>
+		<Title>JavaFX links of the week, November 18</Title>
+		<Date>2013-11-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A number of great posts this week! Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The <strong>JavaFX Prague team based</strong> have two interesting posts this week. Firstly, they have posted on <a href="https://blogs.oracle.com/jfxprg/entry/how_to_build_open_javafx">how to build Open JavaFX for Android</a>, and secondly they have a post on <a href="https://blogs.oracle.com/jfxprg/entry/ipack_the_ios_application_packager">iPack -The iOS Application Packager</a>. For those of&nbsp; you waiting to see JavaFX on mobile devices I am sure you'll be very interested in these two posts!</li>
+	<li>Speaking of JavaFX on mobile devices, <strong>Johan Vos</strong> has <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2013-November/011523.html">started a community project</a> to try to <a href="https://bitbucket.org/johanvos/jfx78">pull together all the separate projects</a> being worked on by the community so that peoples time is not wasted duplicating effort.</li>
+	<li><strong>Michael</strong> has posted a tutorial explaining how he was able to successfully <a href="http://mihosoft.eu/?p=963">deploy OpenJFX 8 apps to the Mac App Store</a>.</li>
+	<li>In another post, <strong>Michael</strong> has posted <a href="http://mihosoft.eu/?p=961">his Devoxx 2013 materials</a> regarding VPlot &amp; VRL-Studio, which is the software he got into the Mac App Store.</li>
+	<li><strong>Gerrit Grunwald</strong> recently <a href="http://vimeo.com/79181637">presented at Oredev on custom JavaFX controls</a>, and now the video recording of the presentation is available online for your watching pleasure.</li>
+	<li><strong>Jens Deters</strong> has a post introducing <a href="http://www.jensd.de/wordpress/?p=912">his new project ‘adm4EE’</a>, which is an open source JavaFX application designed to manage Java EE application servers.</li>
+	<li>The <strong>Scene Builder team</strong> at Oracle has posted a <a href="http://vimeo.com/78809051">PaintPicker prototype video</a> that may appear in a future release of Scene Builder.</li>
+	<li><strong>Sean Phillips</strong> has posted on '<a href="https://weblogs.java.net/blog/seanmiphillips/archive/2013/11/13/dealing-data-javafx-visuals-and-netbeans-platform">Dealing with Data with JavaFX Visuals and the NetBeans Platform</a>'.</li>
+	<li><strong>Adam Bien</strong> has posted a short video tutorial on <a href="http://www.adam-bien.com/roller/abien/entry/data_binding_injection_and_fxml">data binding, injection and FXML</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> continues with JMetro, this week adding a <a href="http://pixelduke.wordpress.com/2013/11/17/663/">Metro style for Tooltip</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Dave Gilbert</strong> has announced the <a href="http://www.jroller.com/dgilbert/entry/orson_charts_3d">release of Orson Charts</a>, a (commercial) 3D chart library for the Java platform that only depends on Java2D.</li>
+</ul>
+<p>I hope that was useful to everyone! :-) Catch you all again next week!</p>
+]]></Content>
+	</post>

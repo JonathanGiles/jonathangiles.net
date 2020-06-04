@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1952</ID>
+		<Slug>java-desktop-links-of-the-week-august-17-2</Slug>
+		<Title>Java desktop links of the week, August 17</Title>
+		<Date>2015-08-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Good links this week - enjoy!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>This week <strong>Johan Vos</strong> went on a bit of a media blitz. Firstly, he presented about <a href="https://www.youtube.com/watch?v=qukopcMA-9M">JavaFX on Mobile</a> to the Silicon Valley JavaFX Users Group. Secondly, he was interviewed by Voxxed, with the interview titled '<a href="https://www.voxxed.com/blog/2015/08/gluon-bids-to-pick-up-commercial-slack-on-javafx/">Gluon Bids to Pick Up Commercial Slack on JavaFX</a>'.</li>
+	<li><strong>Robert Colton</strong> has created a <a href="https://github.com/RobertBColton/DockFX">docking control for JavaFX</a> called DockFX.</li>
+	<li><strong>Christoph Keimel</strong> has posted about <a href="http://www.kware.net/?p=233">extending the JavaFX ComboBox and ChoiceBox</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> has styled the <a href="https://pixelduke.wordpress.com/2015/08/13/metro-style-datepicker-for-java-jmetro/">JavaFX DatePicker control with a Windows Metro style</a> for his JMetro project.</li>
+	<li><strong>Almas Baimagambetov</strong> has created <a href="https://github.com/AlmasB/FXGL">FXGL</a>, a "simple and easy to use Java 2D gaming library based on JavaFX 8"</li>
+	<li>I came across these <a href="http://www.i2brain.com/i2brain/javafx_chartfx3d.jsp">3D JavaFX Charts</a> recently by <strong>i2brain</strong>.</li>
+</ul>
+<p>Catch you again next week.</p>
+]]></Content>
+	</post>

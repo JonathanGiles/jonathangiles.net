@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>614</ID>
+		<Slug>java-desktop-links-of-the-week-september-28</Slug>
+		<Title>Java desktop links of the week, September 28</Title>
+		<Date>2009-09-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A heap of news this week, so I have kept my commentary to a minimum. Let's get right into it.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has blogged about <a href="http://www.pushing-pixels.org/?p=1414">using FEST-Swing to test Flamingo components</a>. <a onclick="javascript:pageTracker._trackPageview('/outbound/article/fest.easytesting.org');" href="http://fest.easytesting.org/swing/" target="_blank">FEST-Swing</a> is a Java library that provides a <a onclick="javascript:pageTracker._trackPageview('/outbound/article/www.infoq.com');" href="http://www.infoq.com/articles/internal-dsls-java" target="_blank">fluent interface</a> for functional Swing GUI testing.</li>
+	<li><strong>Kim Harrison</strong> wanted to point out that the last GPL release of Synthetica has been forked as the <a href="http://code.google.com/p/lafaello/">lafaello project</a>, although from the look of the code repo, it has seen much attention.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> posted about <a href="http://fxexperience.com/2009/09/ui-virtualization/">UI virtualization in JavaFX</a>. This relates to improving JavaFX controls performance by only creating enough nodes in scrollable areas to show the visible nodes. When the user scrolls, these nodes will be reused. This means that regardless of the actual number of items in the scrollable region, the number of nodes being created is constrained to the items in the visible area only.</li>
+	<li>At the JVM language summit, <strong>Robert Field</strong> and <strong>Brian Goetz</strong> presented on the subject of '<a href="http://wiki.jvmlangsummit.com/images/e/ee/Field_JFX_Bind.pdf">A Performance Tale: The evolution of binding in JavaFX</a>'. Well worth the read if you want to know the internal implementation details of binding in a little more depth.</li>
+	<li>As I mentioned last week, there was a Sun webinar on building JavaFX applications by Jacob Lehrbaum. Well, now that the webinar has happened, you can <a href="https://slx.sun.com/1179275603">listen to it at your own convenience</a>.</li>
+	<li><strong>Stephen Chin</strong> has announced <a href="http://steveonjava.com/2009/09/27/widgetfx-contest-winners/">the winners of the WidgetFX contest</a>, with the three winning projects showing an impressive amount of quality.</li>
+	<li>The deadline for submitting your entry for this months JFXStudio Challenge is midnight Wednesday night. The challenge is to create something cool in only 30 lines of JavaFX Script code, using the theme of 'Time'. To give you some ideas JFXStudio editor, <strong>Josh Marinacci</strong>, has posted his own&nbsp;entry. <a href="http://jfxstudio.wordpress.com/2009/09/27/challengetime-is-almost-over/">Take a look for some inspiration</a>.</li>
+	<li>Sun has <a href="http://channelsun.sun.com/video/open-source/java/1631259654/java+warehouse+-+part+1+of+3/30631799001?intcmp=2225&amp;feed=RSS">published</a> <a href="http://channelsun.sun.com/video/java+warehouse+-+part+2+of+3/30628782001">three</a> <a href="http://channelsun.sun.com/video/java+warehouse+-+part+3+of+3/30631801001">videos</a> discussing how to get your JavaFX applications into the <a href="http://java.sun.com/warehouse/">Java Warehouse</a>, which is the backend for the <a href="http://store.java.com">Java Store</a>.</li>
+	<li><strong>Simon Morris</strong> has posted a beta version of his '<a href="http://www.jfxia.com/JFXDemos/CrazyCaption/">crazy caption</a>' application, which is a JavaFX applet that allows for you to add captions to images. The images are stored on flickr, the captions on twitter, and it shortens URL's using bit.ly.</li>
+	<li><strong>Carsten Oland</strong> has blogged about <a href="http://carsten-oland.blogspot.com/2009/09/using-javafx-from-java.html">how he used JavaFX classes directly from Java</a>. I would recommend to most people to just stick to using JavaFX Script to interact with JavaFX classes, given the readability of his example.</li>
+	<li><strong>Johan Vos</strong> has blogged about <a href="http://blogs.lodgon.com/johan/JavaFX_location_example_with_GPS">using the GPS data coming from his cellphone in a JavaFX mobile application</a>.</li>
+	<li><strong>Jim Weaver</strong> has updated his <a href="http://learnjavafx.typepad.com/weblog/2009/09/pickin-and-grinnin-with-the-jfxtras-picker-control.html">SpeedReaderFX application to use a 'picker' control</a> developed within the JFXtras project.</li>
+	<li><strong>Alexandr Scherbatiy</strong> has posted a small code snippet showing how to bind Slider and TextBox controls together so that they can be used as a <a href="http://blogs.sun.com/alexsch/entry/numberbox_control">NumberBox control</a>.</li>
+	<li><strong>Burk Hufnagel</strong> has posted a <a href="http://java.dzone.com/reviews/essential-javafx">review of Essential JavaFX</a>, which was released at JavaOne.</li>
+</ul>
+<h4>Apache Pivot</h4>
+<ul>
+	<li><strong>Greg Brown</strong> has posted a blog discussing the <a href="http://java.dzone.com/announcements/announcing-apache-pivot-13">new and noteworthy features of Apache Pivot 1.3</a>. I very much like the simple and clean design of the controls in this project.</li>
+</ul>
+<p>That's us for another week - keep out of trouble everyone and I'll see you again next week :-)</p>
+]]></Content>
+	</post>

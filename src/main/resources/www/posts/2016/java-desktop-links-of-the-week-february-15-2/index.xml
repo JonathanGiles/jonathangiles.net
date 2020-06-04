@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2048</ID>
+		<Slug>java-desktop-links-of-the-week-february-15-2</Slug>
+		<Title>Java desktop links of the week, February 15</Title>
+		<Date>2016-02-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;">A lighter week this week, with only a few links that I could find. Nonetheless - enjoy :-)</span></p>
+<ul>
+	<li><strong>Alexander Casall</strong> has a post on jaxenter detailing&nbsp;<a href="https://jaxenter.com/20-javafx-real-world-applications-123653.html">20 JavaFX real-world applications</a>.</li>
+	<li><strong>Johan Vos</strong> will be giving a free&nbsp;<a href="https://blogs.oracle.com/java/entry/java_on_mobile">Oracle Virtual Technology Summit talk about Java on Mobile</a> in April and May. Sign up now!</li>
+	<li><strong>Hendrik Ebbers</strong> has this week posted about&nbsp;<a href="http://www.guigarage.com/2016/02/javafx-and-css-pseudo-classes/">JavaFX and CSS Pseudo Classes</a>. Knowing how to work with pseudo classes in JavaFX CSS is a very useful skill to have!</li>
+	<li><strong>Gerrit Grunwald</strong> has also been iterating on his <a href="https://github.com/HanSolo/Medusa">Medusa gauge library</a>. I won't even bother to mention a version number this week, because it is probably already wrong :-)</li>
+	<li><strong>Thomas Nield</strong> has released an <a href="https://github.com/ReactiveX/RxJavaFX">updated version of RxJavaFX</a> to improve interop between RxJava and JavaFX.</li>
+</ul>
+]]></Content>
+	</post>

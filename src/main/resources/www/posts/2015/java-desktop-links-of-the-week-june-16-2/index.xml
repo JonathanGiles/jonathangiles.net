@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1937</ID>
+		<Slug>java-desktop-links-of-the-week-june-16-2</Slug>
+		<Title>Java desktop links of the week, June 16</Title>
+		<Date>2015-06-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all. This is my last post until mid July, as I am away on vacation until then and won't be able to keep current with all that is happening in the Java desktop world. Apologies, but I hope to see you all again in a months time! :-) Now, on with the links.</p>
+<ul>
+	<li><strong>David Gilbert</strong> has announced the <a href="http://www.object-refinery.com/blog/blog-20150608.html">release of JFreeSVG 3.0</a>.&nbsp;JFreeSVG is a 'fast and lightweight API for creating SVG content in Java', and this release features a number of improvements.</li>
+	<li><strong>Gluon</strong> have announced a <a href="http://gluonhq.com/gluon-charm-developer-preview-1-now-available/">developer preview of the Gluon Charm library</a> (and corresponding Gluon Cloud service). This library is intended to provide APIs for creating cross-platform mobile applications in Java with a 'material design' look, whilst also being able to access the hardware of various devices in a platform-neutral way.&nbsp;Disclosure: as of recently, <a href="http://gluonhq.com/jonathan-giles-joins-the-gluon-advisory-board/">I am on the advisory board for Gluon</a>.</li>
+	<li><strong>Rob Terpilowski</strong> has posted a&nbsp;<a href="https://rterp.wordpress.com/2015/06/12/mvc-tutorial-with-the-netbeans-rich-client-platform-rcp-and-javafx/">MVC tutorial</a> that uses the NetBeans Rich Client Platform (RCP) and JavaFX.</li>
+	<li><strong>Tai Hu</strong> from Vero Analytics has blogged about <a href="https://www.veroanalytics.com/blog/why-did-we-pick-javafx-for-vero-designer">why they chose to use JavaFX</a> in their products.</li>
+	<li><strong>Tobias Jonas</strong> has created <a href="https://github.com/Jonato/KeyboardFX">KeyboardFX</a>, a 'minimalistic keyboard event framework for all JavaFX keyboard events'.</li>
+	<li><strong>Sylwia Dorota Kedzia</strong> has a post on&nbsp;how to <a href="https://blog.idrsolutions.com/2015/06/how-to-enable-text-to-speech-in-javafx-and-swing-applications/">enable Text to Speech in JavaFX and Swing Applications</a>.</li>
+	<li><strong>Carl</strong> has a post on how to <a href="http://bekwam.blogspot.co.nz/2015/06/configuring-google-guice.html">configure Guice to work with JavaFX</a>.</li>
+	<li><strong>Tyler Coles</strong> has a post on '<a href="http://javadocmd.com/blog/reactive-javafx/">building reactive apps on JavaFX</a>'.</li>
+</ul>
+<p>That's all for this&nbsp;<strong>month</strong>. See you all sometime mid-to-late July when I get back home again! :-)</p>
+]]></Content>
+	</post>

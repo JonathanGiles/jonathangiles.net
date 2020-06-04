@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>145</ID>
+		<Slug>software-architecture</Slug>
+		<Title>Software Architecture</Title>
+		<Date>2008-04-15</Date>
+		<Status>publish</Status>
+		<Categories>Technology</Categories>
+		<Tags>software</Tags>
+		<Content><![CDATA[<p>I came across a PDF today written by Martin Fowler that discusses what exactly a software architect is, and what software architecture means. It's only three pages long, so if you have a few spare minutes, it is an interesting read.</p>
+
+<p>You can <a href="http://www.martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf">read it here</a>.</p>
+]]></Content>
+	</post>

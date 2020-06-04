@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>152</ID>
+		<Slug>how-to-win-1000</Slug>
+		<Title>How to win $1000</Title>
+		<Date>2008-05-18</Date>
+		<Status>publish</Status>
+		<Categories>Miscellaneous|Programming</Categories>
+		<Tags>Programming|Random</Tags>
+		<Content><![CDATA[<p>I’ve mentioned in the past that I listen to The Rock when working, as it's possible to pick up their Auckland broadcast online <a href="http://therock.net.nz/Portals/0/playerControl07.htm?tash=new">here</a>. I can’t pick them up locally as there is no reception. I always found it curious how they have a ticker on their page that shows the currently playing song. Also curious is that it would quite frequently be out of sync with the song I was listening to. Clearly the music was being streamed and cached on my computer.</p>
+
+<p>The Rock has a ‘no repeat workday’ where they’ll give $1000 to the first person who rings up to tell them of a repeated song. This week they are doing a guaranteed repeat each day.</p>
+
+<p>I wondered if the website was exposing any additional data that could either tell me the schedule of songs (highly unlikely) or at least give me the currently playing song, to get me on a level playing field with the rest of the radio-listening population.</p>
+
+<p>What I ended up doing was writing a very short Java program (yes, it could probably be written in one line of Ruby or Perl but I’m a Java programmer). It isn’t supposed to actually be used, but it does work as expected - it tells me the currently playing song, and warns me when a song is repeated. I don’t recommend you actually use it (I certainly won’t be), but it’s there for your personal education.</p>
+
+<p>The code is as follows (I recommend you click the 'view plain' link if you see the formatted Java code):</p>
+
+<pre class="code_block"><code class="java">package nz.co.jogiles.misc.therock.noRepeatWorkday;
+
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URL;
+import java.net.URLConnection;
+import java.util.HashSet;
+import java.util.Set;
+
+/**
+ * @created 19/05/2008
+ * @author Jonathan Giles
+ */
+public class Main {
+	// refresh rate in seconds
+	private final static byte REFRESH_RATE = 5;
+
+	// a list containing all song __titles__
+	private final Set&lt;String&gt; songList;
+
+	// we record the song that is currently playing so as not have false alarms
+	private String currentSong;
+
+	public static void main(final String[] args) {
+		new Main();
+	}
+
+	public Main() {
+		songList = new HashSet&lt;String&gt;();
+
+		while (true) {
+			try {
+				// sleep - we don't want to overload the server
+				Thread.sleep(REFRESH_RATE * 1000);
+
+				// url of file which contains the current song that is playing
+				final URL url = new URL("http://www.therock.net.nz/portals/0/nowplaying/content.txt?rnd=0");
+
+				// open a connection to the url
+				final URLConnection connection = url.openConnection();
+				final BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+
+				// read the single line that is in the file
+				final String line = reader.readLine();
+
+				// read the title of the song playing
+				final String title = line.substring(line.indexOf("title=") + 6, line.indexOf("&amp;artist"));
+				final String artist = line.substring(line.indexOf("&amp;artist=") + 8);
+
+				// if the song is 'listen on line now', then ads are playing/the DJ is
+				// talking
+				if (title.equals("-  Listen On Line Now")) {
+					// System.out.println("Advertising or DJ is talking");
+					continue;
+				}
+
+				// if the last song we downloaded is the same as the current song, then we
+				// are still listening to the same song.
+				if (title.equals(currentSong)) {
+					// System.out.println("Still playing '" + title + "'");
+					continue;
+				}
+				currentSong = title;
+
+				// add the song title to the set of song titles. If it is already in the
+				// set, then we are repeating a song!
+				final boolean isRepeated = !songList.add(title);
+				if (isRepeated) {
+					System.out.println("ALERT - SONG REPEATED: '" + title + "' by: '" + artist + "'");
+				}
+				System.out.println("Currently playing '" + title + "' by: '" + artist + "'");
+			} catch (final FileNotFoundException e) {
+				e.printStackTrace();
+			} catch (final IOException e) {
+				e.printStackTrace();
+			} catch (final InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+}
+</code></pre>
+
+]]></Content>
+	</post>

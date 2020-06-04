@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1817</ID>
+		<Slug>java-desktop-links-of-the-week-october-20</Slug>
+		<Title>Java desktop links of the week, October 20</Title>
+		<Date>2014-10-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A heap of links this week, enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Sébastien Bordes</strong> has announced that<a href="http://blog.jrebirth.org/releases/jrebirth-application-framework-7-7-5-is-released/"> JRebirth Application Framework 7.7.5</a> has been released.</li>
+	<li><strong>Dirk Lemmermann</strong> has contributed another control to ControlsFX (which will be part of <a href="http://www.controlsfx.org">ControlsFX</a> 8.20.8 that will likely be released later today). It is called <a href="http://dlemmermann.wordpress.com/2014/10/13/new-custom-control-taskprogressview/">TaskProgressView</a>, and does exactly that - show the progress of JavaFX tasks.</li>
+	<li><strong>Jens Deters</strong> has made two releases this week. Firstly, he has <a href="http://www.jensd.de/wordpress/?p=1617">released MQTT.fx 0.0.10</a>, which adds a very useful mqtt message clipboard. Secondly, he has <a href="http://www.jensd.de/wordpress/?p=1605">released ShichimiFX</a>, a JavaFX utils lib with some very useful utilities.</li>
+	<li><strong>Johan Vos</strong> and <strong>Lodgon</strong> have announced that they <a href="http://www.lodgon.com/dali/page/JavaFX_Consulting_2">now offer JavaFX consulting and training</a>.</li>
+	<li><strong>Andrea Almiray</strong> has posted a Q&amp;A about his push for a <a href="http://www.jroller.com/aalmiray/entry/new_desktop_application_framework_jsr">new Java desktop application framework JSR</a>.</li>
+	<li><strong> Carlos Martins</strong> has blogged about his '<a href="http://makeitmartins.blogspot.co.nz/2014/10/javafx-message-broker-client-from-me-to.html?spref=tw">JavaFX Message Broker Client For The Rest Of Us</a>' project.</li>
+	<li>If you are interested in mapping controls, the ArcGIS Runtime provides a JavaFX map component for developers to <a href="https://developers.arcgis.com/java/guide/get-started-with-javafx-beta-.htm">integrate ArcGIS mapping capabilities into their JavaFX apps</a>.</li>
+	<li><strong>?ukasz ?liwi?ski</strong> has posted about how he <a href="http://plumblog.herokuapp.com/2014/10/03/My-fork-of-jidefx-oss/">forked and updated JideFX to build against JavaFX 8u20</a>.</li>
+	<li><strong> Alexander Casall</strong> has posted his slide deck for his talk "<a href="http://de.slideshare.net/alexandercasall/javafx-10-things-i-love-about-you">JavaFX - 10 things I love about you</a>".</li>
+	<li><strong>Jesus Luna Quiroga</strong> has posted a hack that allows for the <a href="http://jlunaquiroga.blogspot.co.nz/2014/10/javafx-workaround-for-rotate-text-on.html">text to be rotated in Tabs when they are positioned to the left / right</a> of the TabPane.</li>
+	<li><strong>Carl</strong> (last name missing) has posted about <a href="http://bekwam.blogspot.co.nz/2014/10/java-fx-notification-overlays.html">building a custom JavaFX notification overlay</a>.</li>
+	<li><strong>Markus Karg</strong> has a post titled '<a href="http://headcrashing.wordpress.com/2014/10/18/good-bye-swing-welcome-javafx-8/">Good bye, Swing. Welcome, JavaFX 8</a>', with some nice words said about JavaFX.</li>
+</ul>
+<p>That's all folks - back to work for me! Catch you next week :-)</p>
+]]></Content>
+	</post>

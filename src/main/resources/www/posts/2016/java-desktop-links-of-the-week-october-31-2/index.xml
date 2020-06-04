@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2200</ID>
+		<Slug>java-desktop-links-of-the-week-october-31-2</Slug>
+		<Title>Java desktop links of the week, October 31</Title>
+		<Date>2016-10-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A number of great links this week - great work everyone! :-)</p>
+<ul>
+ 	<li><strong>Andreas Billmann</strong> has a post about <a href="http://www.billmann.de/2016/10/19/kotlin-and-tornadofx-2/">Kotlin and TornadoFX</a>. The guys working on TornadoFX are doing huge amounts of work!</li>
+ 	<li><strong>Adrian Romero</strong> has been working on a pretty cool <a href="https://github.com/adrianromero/hellocalc">programmable calculator</a> for mobile devices, making use of <a href="http://gluonhq.com/labs/javafxports/">JavaFXPorts</a>.</li>
+ 	<li>Speaking of JavaFX on mobile devices and JavaFXPorts, Gluon has released <a href="http://gluonhq.com/gluon-mobile-4-0-0-now-available/">Gluon Mobile 4.0.0</a>, which includes a frankly insane number of improvements.</li>
+ 	<li><strong>Florian Brunner</strong> has released <a href="http://puces-blog.blogspot.co.nz/2016/10/drombler-fx-version-08-released.html">Drombler FX 0.8</a>. Drombler FX is a modular JavaFX application framework. This release comes with support for 'single instance' applications, and an initial version of a data framework.</li>
+ 	<li><strong>Christoph Nahr</strong> has a post about the <a href="http://news.kynosarges.org/2016/10/28/javafx-spinner-for-numbers/">JavaFX Spinner control</a>, and using it to spin through numbers.</li>
+</ul>
+]]></Content>
+	</post>

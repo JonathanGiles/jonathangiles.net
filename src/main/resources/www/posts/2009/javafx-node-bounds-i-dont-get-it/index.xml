@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>473</ID>
+		<Slug>javafx-node-bounds-i-dont-get-it</Slug>
+		<Title><![CDATA[JavaFX Node Bounds: I don't get it]]></Title>
+		<Date>2009-07-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>I'm happy to admit it when I don't get something. The situation with boundsInLocal, layoutBounds, and boundsInParent in JavaFX is one of these situations. I have read a number of articles discussing this topic, and whilst I understand the differences between the three values technically, I don't think I've seen an article that tells me why I need all three values, and when I should choose one over the other.</p>
+
+<p>So, please, can someone out there write a blog post and/or add a comment to this post to explain to me, and to others, why I need to care about these three different values. If you do write a separate blog post, please leave a comment here so that anyone who stumbles upon this blog post in 6 months time can follow through to any other discussions elsewhere.</p>
+
+<p>Most importantly, keep it simple. I know, that's more difficult than being complex and detailed, but for the sake of JavaFX clarity the world over, please keep it simple. We want to know, simply, why and when do I care about the three different values?</p>
+
+<p>Thanks in advance!</p>
+]]></Content>
+	</post>

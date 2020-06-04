@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>478</ID>
+		<Slug>javafx-building-custom-controls</Slug>
+		<Title>JavaFX: Building custom controls</Title>
+		<Date>2009-07-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>One of the big criticisms leveled at JavaFX presently is its lack of controls (or components if you come from the Swing world). This was addressed to some degree in JavaFX 1.2, but there are still many controls missing, and some of the controls in the latest release have relatively basic API's at this point. Certainly this will improve in future releases, but I thought I'd try to <span style="text-decoration: underline;">simply</span> explain the process you need to go through to build your own controls. Who knows, you might be able to sell them if you get them good enough.</p>
+
+<p>In JavaFX, there are three classes that you should become familiar with: <a href="http://java.sun.com/javafx/1.2/docs/api/javafx.scene.control/javafx.scene.control.Control.html">Control</a>, <a href="http://java.sun.com/javafx/1.2/docs/api/javafx.scene.control/javafx.scene.control.Skin.html">Skin</a> and <a href="http://java.sun.com/javafx/1.2/docs/api/javafx.scene.control/javafx.scene.control.Behavior.html">Behavior</a>. Simply put, the Control class should be used to maintain state. It can have it's look (but not feel) modified by assigning a different Skin instance to the <code>skin</code> variable. To separate the look of the control from how a user interacts with it, you should put all user interaction code into a Behavior instance, and assign it to the <code>behavior</code> variable within Skin.</p>
+
+<p>I'll jump right into a demo now. The demo is of a button (this term is used very, very loosely as I wanted to keep the code simple), and is split between three classes, as well as a test script to use the new button control. I have neglected to include any package and import statements, just to keep the code concise.</p>
+
+<p>Firstly, the control itself simply has a <code>text</code> variable to store the buttons text. It also creates and sets an instance of the new skin, which handles the painting.</p>
+
+
+<pre class="code_block"><code class="java">public class JGButton extends Control {
+    public var text: String;
+
+    override function create(): Node {
+        skin = JGButtonSkin{};
+        super.create();
+    }
+}
+</code></pre>
+
+
+<p>Secondly, we have the skin class shown below. It is necessary to implement the <code>contains</code> and <code>intersects</code> methods, but you can normally just reuse the code I have below for that. Note that I can access the <code>control</code> variable directly, but I cast it to be an instance of JGButton so I can access the <code>text</code> variable. Note also that I override the <code>behavior</code> variable to use my own implementation. Finally, you should note that I create a <a href="http://java.sun.com/javafx/1.2/docs/api/javafx.scene/javafx.scene.Group.html">Group</a> of nodes to represent my button, and I assign this to the <code>node</code> variable. I attach a few mouse listener functions to this node, allowing me to palm off the functionality to the behavior class. This allows me to change the skin without worrying about the behavior code needing to be needlessly duplicated to all skins.</p>
+
+
+<pre class="code_block"><code class="java">public class JGButtonSkin extends Skin {
+    public var buttonControl = bind control as JGButton;
+    override var behavior = JGButtonBehavior{};
+
+    init {
+        node = Group {
+            content: [
+                Stack {
+                    content: [
+                        Rectangle {
+                            width: 140
+                            height: 90
+                            fill: Color.RED
+                        },
+
+                        Label {
+                            text: bind buttonControl.text;
+                            textFill: Color.BLACK;
+                        }
+                    ]
+                }
+            ]
+
+            onMouseClicked: function(me: MouseEvent) {
+                (behavior as JGButtonBehavior).buttonPressed();
+            }
+
+            onMouseEntered: function(me: MouseEvent) {
+                (behavior as JGButtonBehavior).buttonEntered();
+            }
+
+            onMouseExited: function(me: MouseEvent) {
+                (behavior as JGButtonBehavior).buttonExited();
+            }
+        }
+    }
+
+    override function contains(localX: Number, localY: Number): Boolean {
+        node.contains(localX, localY);
+    }
+
+    override function intersects(localX: Number, localY: Number, localWidth: Number, localHeight: Number): Boolean {
+            node.intersects(localX, localY, localWidth, localHeight);
+        }
+}
+</code></pre>
+
+
+<p>Thirdly, we have the simple behavior class, which is where I have put in functions related to the buttons behavior. Oddly, the <a href="http://java.sun.com/javafx/1.2/docs/api/javafx.scene.control/javafx.scene.control.Behavior.html">Behavior</a> class offered by JavaFX only currently supports keyboard input, so it is necessary to write mouse input events from scratch. I'm not sure why this is, but perhaps Richard might leave a comment related to this. The only thing to note in this class is that I can access the skin and control through the <code>skin</code> and <code>skin.control</code> variables respectively.</p>
+
+
+<pre class="code_block"><code class="java">public class JGButtonBehavior extends Behavior {
+
+    public function buttonPressed(): Void {
+        println("Button pressed");
+    }
+
+    public function buttonEntered(): Void {
+        (skin.control as JGButton).text = "Button entered";
+    }
+
+    public function buttonExited(): Void {
+        (skin.control as JGButton).text = "Button exited";
+    }
+}
+</code></pre>
+
+
+<p>Finally, we have a very simple test script, with nothing really worth noting. When the application starts, we have a red 'button' with the text "Button Text" printed atop it. When the mouse clicks on it, "Button pressed" is printed to the console. When the mouse moves over it, the text of the button changes to "Button entered", and when it moves away from the button, the text changes to "Button exited". Yes, it's a very useful button.</p>
+
+
+<pre class="code_block"><code class="java">Stage {
+    width: 250
+    height: 200
+    scene: Scene {
+        content: [
+            JGButton {
+                text: "Button Text"
+            }
+        ]
+    }
+}
+</code></pre>
+
+
+<p>I hope this quick and simple tutorial on creating custom controls in JavaFX has been useful. I tried to keep everything as simple as possible, but if you have any more detailed questions, please leave a comment or email me. Cheers!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2112</ID>
+		<Slug>java-desktop-links-of-the-week-may-30-2</Slug>
+		<Title>Java desktop links of the week, May 30</Title>
+		<Date>2016-05-29</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>May 30th, how time flies!</p>
+<ul>
+ 	<li>Last week <strong>Gluon</strong> announced <a href="http://gluonhq.com/javafx-3d-now-available-android-ios/">JavaFX 3D support for iOS and Android</a>, and this week the <a href="http://gluonhq.com/javafx-3d-rubiks-cube-source-now-available/">source code for the 3D Rubik's cube was released</a>.</li>
+ 	<li><strong>Gerrit Grunwald</strong> is having another of his Java(FX) barbecues on Saturday, July 2nd. If you are in his general location, <a href="http://harmoniccode.blogspot.co.nz/2016/05/javafx-bbq.html">you're welcome to attend</a>.</li>
+ 	<li><strong>Edvin Syse</strong> has <a href="https://github.com/edvin/tornadofx/releases/tag/v1.4.9">released TornadoFX 1.4.9</a>, which includes improved support for clipboard, context menus, TreeTableView, and preferences. TornadoFX is a lightweight JavaFX Framework for Kotlin.</li>
+ 	<li><strong>Thomas Nield</strong> has <a href="https://github.com/ReactiveX/RxJavaFX/releases/tag/0.0.7">released RxJavaFX 0.0.7</a>.</li>
+</ul>
+]]></Content>
+	</post>

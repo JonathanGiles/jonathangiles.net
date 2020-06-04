@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1126</ID>
+		<Slug>java-7-cisco-anyconnect-and-socketexceptions</Slug>
+		<Title>Java 7, Cisco AnyConnect, and SocketExceptions</Title>
+		<Date>2011-10-25</Date>
+		<Status>publish</Status>
+		<Categories>Miscellaneous</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>This post is probably irrelevant to most readers, but I'm putting it online in the hope it saves someone hours of hair-pulling...</p>
+
+<p>I've been holding off upgrading to Java 7 as every time I tried, I'd run into annoying issues preventing me from working. In particular, I was running into the issues <a href="http://www.java.net/node/703177">discussed here</a>. I thought I'd try again today with Java 7u1, but unfortunately immediately had the same issue. As in the previous link, my situation is that I need to use Cisco AnyConnect VPN client to connect to VPNs, and when I was attempting to pull down a remote file, I was getting the following exception:</p>
+
+<pre class="code_block"><code class="plaintext">ERROR:java.net.SocketException: Permission denied: connect
+java.net.SocketException: Permission denied: connect
+at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69)
+at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:316)
+at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:177)
+at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:164)
+at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:154)
+at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:390)
+at java.net.Socket.connect(Socket.java:578)
+at java.net.Socket.connect(Socket.java:527)
+at java.net.Socket.(Socket.java:424)
+at java.net.Socket.(Socket.java:279)</code></pre>
+
+<p>After spending many hours working through suggestions made on Google, I finally discovered the fix. It turns out that by disabling IPv6 in the VPN properties in Windows, the issue goes away. Here is the screenshot of how my properties dialog looks in Windows after making the change:</p>
+
+<p><a href="/content/2011/10/disableIPv6.png"><img class="aligncenter size-full wp-image-1129" title="disableIPv6" src="/content/2011/10/disableIPv6.png" alt="" width="396" height="494"></a>I hope this helps!</p>
+]]></Content>
+	</post>

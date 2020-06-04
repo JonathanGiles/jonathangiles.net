@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1287</ID>
+		<Slug>java-desktop-links-of-the-week-august-13</Slug>
+		<Title>Java desktop links of the week, August 13</Title>
+		<Date>2012-08-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all, here's another weeks worth of links. Enjoy and keep up the hard work!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>There are a couple of JavaFX enterprise posts this week. Firstly, over at <strong>OTN</strong> there is an article about Oracle WebLogic RESTful Management Services '<a href="http://www.oracle.com/technetwork/articles/soa/oliveira-wls-rest-javafx-1723982.html">from command line to JavaFX</a>'.</li>
+	<li>The other enterprise post this week is by <strong>Matthieu Brouillard</strong> in a post titled '<a href="http://blog.matthieu.brouillard.fr/2012/08/fxml-javafx-powered-by-cdi-jboss-weld_6.html">FXML &amp; JavaFX powered by CDI &amp; JBoss Weld</a>'.</li>
+	<li><strong>Thierry Wasyl</strong> has started work on a new BreadcrumbBar control that might wind its way into <a href="http://www.jfxtras.org">JFXtras Labs</a> soon. You can see a <a href="http://thierrywasyl.wordpress.com/2012/08/09/breadcrumpbarfx-screencast-1/">video of it in its early stages</a>.</li>
+	<li><strong>Chika Okereke</strong> has posted about <a href="http://www.jpedal.org/PDFblog/2012/08/pdf-to-javafx-conversion-applying-slide-transitions-in-javafx/">applying slide transitions in JavaFX</a>. If you're going to JavaOne in San Francisco you can also go and see a talk on <a href="http://www.jpedal.org/PDFblog/2012/08/find-out-about-javafx-and-netbeans-at-our-javaone-2012-talk-bof3332">PDF to JavaFX conversion</a>.</li>
+	<li>If you can understand German, <strong>Tom Schindl</strong> has given a <a href="http://vimeo.com/47109493">talk about his e(fx)clipse project</a>.</li>
+	<li><strong>Per Lundholm</strong> has blogged about how to go about <a href="http://blog.crisp.se/2012/08/09/perlundholm/an-analog-clock-in-javafx">creating an analog clock</a> in JavaFX.</li>
+	<li>I <a href="http://fxexperience.com/2012/08/interview-with-daniel-zwolenski/">interviewed</a> <strong>Daniel Zwolenski</strong> about his involvement with JavaFX.</li>
+</ul>
+<p>Catch you all next week :-)</p>
+]]></Content>
+	</post>

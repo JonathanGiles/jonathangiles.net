@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1213</ID>
+		<Slug>java-desktop-links-of-the-week-march-12</Slug>
+		<Title>Java desktop links of the week, March 12</Title>
+		<Date>2012-03-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>&lt;warm-welcome /&gt;</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>Build 16 of <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">JavaFX 2.1 Developer Preview is now out</a>. Go get it and give it a good test!</li>
+	<li><strong>Jasper Potts</strong> converted the <a href="http://fxexperience.com/2012/03/canned-animations/">animate.css project to JavaFX</a>, providing 52 ready to use animations for you to use in your applications.</li>
+	<li><strong>Michael Heinrichs</strong> has blogged about how to <a href="http://blog.netopyr.com/2012/03/09/creating-a-sprite-animation-with-javafx/">create a sprite animation with JavaFX</a>. The way in which he does it is quite interesting, and well worth reading to understand this area of the JavaFX API.</li>
+	<li><strong>Steve Northover</strong> has updated the instructions for <a href="https://wikis.oracle.com/display/OpenJDK/Building+OpenJFX">building OpenJFX</a>.</li>
+	<li><strong>Angela Caicedo</strong> has put up part two of her '<a href="http://www.youtube.com/watch?v=L0huXvTeVvU&amp;list=UUmRtPmgnQ04CMUpSUqPfhxQ&amp;index=1&amp;feature=plcp">building your first JavaFX application using NetBeans 7.1</a>' YouTube video.</li>
+	<li>The <a href="http://www.dzone.com/links/r/pro_javafx_2_book_now_available_as_bits_and_atoms.html">Pro JavaFX 2 book</a> was released this week. I read the first edition and it covered everything I needed to know before joining the JavaFX team, so it is well recommended.</li>
+	<li><strong>Johan Vos</strong> has blogged about the<a href="http://blogs.lodgon.com/johan/blog/entry/JavaFX_2_Chat_application_with_RedFX_2"> availability of RedFX for JavaFX 2</a>, and has a sample application showing how to use it.</li>
+	<li><strong>Tom Schindl</strong> has announced that the next release of e(fx)clipse will contain <a href="http://tomsondev.bestsolution.at/2012/03/11/javafx2-and-osgi-deployment-model/">improved OSGi support</a>. This makes it easier to use JavaFX within Eclipse views.</li>
+	<li><strong>Jeff Friesen</strong> has written a three-part series about '<a href="http://www.javaworld.com/javaworld/jw-03-2012/120306-practical-javafx2-1.html">Practical JavaFX 2</a>', where he goes about porting a Swing application to JavaFX.</li>
+	<li><strong>Narayan Maharjan</strong>, after being prompted in a <a href="https://forums.oracle.com/forums/thread.jspa?threadID=2355454&amp;tstart=0">forum thread</a>, has blogged about how to go about <a href="http://blog.ngopal.com.np/2012/03/07/css-tooltip-skinning/">skinning the JavaFX Tooltip control</a>.</li>
+	<li><strong>Andy Moncsek</strong> has blogged about <a href="http://java.dzone.com/articles/building-rich-clients-jacpfx">how to use his open source JacpFX framework</a>.</li>
+	<li><strong>Christian Schudt</strong> has blogged about his <a href="http://myjavafx.blogspot.co.nz/2012/03/treeview-with-data-source.html">improvements to the JavaFX TreeView control </a>to allow for populating it using just a List of items, rather than having to create TreeItem instances. This is something I'll likely add to the DataFX project in the coming weeks as it seems like a useful thing to have.</li>
+	<li><strong>Brian Schlining</strong> has created a <a href="http://hohonuuli.blogspot.co.nz/2012/03/scalafx-version-of-groovyfx-demo.html">ScalaFX version</a> of the GroovyFX demo application.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has released an <a href="http://harmoniccode.blogspot.co.nz/2012/03/steelseries-3920.html">updated version of his SteelSeries Swing library</a>, taking the version number up to 3.9.23. This release includes improvements to the LCD component.</li>
+	<li><strong>Christoph Aschwanden</strong> let me know about his Java-based game '<a href="http://www.operationstormfront.com/">Operation Stormfront</a>'. He said the following: "Tropical Stormfront is a real-time strategy game for PC, Mac &amp; Linux. The game is played on tropical archipelagos. Tropical Stormfront is written in Java (JRE 6) and runs in a JFrame. The interface/graphics are rendered in OpenGL, so I am not sure if it qualifies for your desktop links as it doesn't really contain any Swing/JavaFX components besides the JFrame it is running :-) " It's Java, and it is on the desktop - so that is good enough for me Christoph! :-)</li>
+</ul>
+<p>&lt;best-wishes /&gt;</p>
+]]></Content>
+	</post>

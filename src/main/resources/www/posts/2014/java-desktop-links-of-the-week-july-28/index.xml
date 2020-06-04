@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1771</ID>
+		<Slug>java-desktop-links-of-the-week-july-28</Slug>
+		<Title>Java desktop links of the week, July 28</Title>
+		<Date>2014-07-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi folks - another quiet week on account of the looming JavaOne conference. In my (way too many) years doing this weekly series, things always go quiet around this time as people start to work on their projects for JavaOne. For me that means I need to get head down on <a href="http://www.controlsfx.org">ControlsFX</a> and <a href="http://www.scenic-view.org">Scenic View</a>. If you're working on a project for JavaOne (or just in general), good luck! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Dirk Lemmermann</strong> has another JavaFX tip: <a href="http://dlemmermann.wordpress.com/2014/07/22/javafx-tip-12-define-icons-in-css/">Define Icons in CSS</a>.</li>
+	<li><strong>Alexander Casall</strong> has a post on <a href="http://blog.buildpath.de/how-to-test-javafx-services/">how to test JavaFX Services</a>.</li>
+	<li><strong>Andres Almiray</strong> followed up Alexander's post by showing how to test JavaFX Services, <a href="http://www.jroller.com/aalmiray/entry/how_to_test_javafx_services1">the Griffon way</a>.</li>
+	<li>With JavaOne nearing, I've put up a form for those attending who are interested in getting together for a lunch. More details will follow, but for now <a href="https://docs.google.com/a/jonathangiles.net/forms/d/1kE5PLpy6rlbE-kmZQhT5oPVdozO--Mi0m5p_uRqV8Go/viewform">register your interest</a>.</li>
+	<li><strong>Jens Deters</strong> has announced that <a href="http://www.jensd.de/wordpress/?p=1344">MQTT.fx 0.0.5 has been released</a>. This release is primarily focused on improving the UI.</li>
+	<li><strong>Carl Dea</strong> has blogged a teaser about his new <a href="http://carlfx.wordpress.com/2014/07/21/fx-playground/">FX Playground</a> project that he is working on, which allows for rapid prototyping of user interfaces.</li>
+	<li><strong>Ludovic Hochet</strong> has posted a tutorial on getting <a href="http://lhochet.blogspot.fr/2014/07/building-openjfx-on-windows.html">OpenJFX to build on Windows</a>.</li>
+</ul>
+<p>That's all for this week - catch you again next week (August already?!!!).</p>
+]]></Content>
+	</post>

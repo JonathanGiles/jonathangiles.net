@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1209</ID>
+		<Slug>java-desktop-links-of-the-week-march-5</Slug>
+		<Title>Java desktop links of the week, March 5</Title>
+		<Date>2012-03-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>Hey everyone, I hope you're all doing fine. Here's another bunch of links. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JavaFX 2.1 developer preview <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">build 15 is now out</a> for your development testing pleasure.
+<strong></strong></li>
+	<li><strong>Jasper Potts</strong> did two interesting posts over at <strong>FX Experience</strong>. The first post announces the <a href="http://fxexperience.com/2012/03/announcing-fx-experience-tools/">availability of a FX Experience Tools</a> application which should be downloaded and used by everyone interesting in styling their JavaFX applications. The second post discusses how he <a href="http://fxexperience.com/2012/03/packaging-javafx-applications-as-native/">packaged this application into native Windows and Mac installers</a>.</li>
+	<li><strong>Dean Iverson</strong> has announced the availability of the <a href="http://pleasingsoftware.blogspot.co.nz/2012/03/groovyfx-first-official-release.html">0.1 release of GroovyFX</a>. GroovyFX is a library for people wanting to write JavaFX applications in Groovy.</li>
+	<li><strong>Jim Weaver</strong> has a post up on the Oracle Technical Network website about <a href="http://www.oracle.com/technetwork/articles/java/layoutfx-1536156.html">laying out a user interface with JavaFX</a>. This should be a must-read for anyone who wants to build JavaFX applications.</li>
+	<li>The JavaFX 1.x series of releases have been given their marching orders - these releases will <a href="https://blogs.oracle.com/javafx/entry/javafx_1_2_and_javafx">stop being available</a> on December 20, 2012. This is not to be confused with the current JavaFX 2.x series of releases, which are plowing on full steam ahead!</li>
+	<li><strong>Tom Schindl</strong> has been <a href="http://tomsondev.bestsolution.at/2012/03/02/having-fun-with-svg-and-javafx-2-0/">having fun with SVG and JavaFX 2.0</a>. He takes an SVG file, converts it to FXML, and then proceeds to look up elements of the scenegraph and animate them. This shows how easy it is for designers and developers to interact.</li>
+	<li><strong>Angela Caicedo</strong>, an <a href="http://www.oracle.com/technetwork/java/community/javaevangelists-325324.html">evangelist at Oracle</a> (a list that I even find myself on), has started a video series on YouTube demonstrating <a href="http://www.youtube.com/java#p/u/8/EyqnraGaINI">how to build a JavaFX application</a>.</li>
+	<li><strong>Dustin Marx</strong> has a post detailing the <a href="http://marxsoftware.blogspot.co.nz/2012/02/viewing-javafx-2-standard-colors.html">JavaFX Color class</a>.</li>
+	<li><a href="http://www.javafxdata.org">DataFX</a> had ComboBox cell factory support added in to the <a href="http://java.net/projects/datafx">source code repository this week</a>.</li>
+	<li><strong>Johan Vos</strong> has announced that <a href="http://redfx.org/">RedFX has been ported to JavaFX 2.x</a>. RedFX provides functionality that allows JavaFX applications to share data with each other and with server applications without the need of writing lots of specific boiler plate code.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Danno Ferrin</strong> has announced the <a href="http://insubstantial.posterous.com/insubstantial-71-release">release of Insubstantial 7.1</a>, his fork of the abandoned Substance (and related) releases once developed by <strong>Kirill Grouchnikov</strong>. The major user facing change in this release is the support of rounded corners in the window frames.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li>Griffon 0.9.5-rc1 <a href="http://groovy.dzone.com/announcements/griffon-095-rc1-released">has been released</a>. This release improves the build and plugin systems, adds support for SWT applications, and includes a number of breaking changes, among other changes.</li>
+</ul>
+<p>That's that. Catch you next week!</p>
+]]></Content>
+	</post>

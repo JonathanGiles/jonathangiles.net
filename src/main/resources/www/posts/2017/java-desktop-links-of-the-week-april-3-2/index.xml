@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2420</ID>
+		<Slug>java-desktop-links-of-the-week-april-3-2</Slug>
+		<Title>Java desktop links of the week, April 3</Title>
+		<Date>2017-04-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>April already!?! Where does time go. Anyway, I hope everyone survived April Fools Day for another year.</p>
+<ul>
+ 	<li>I missed a post by <strong>Gerrit Grunwald</strong> last week, so this week there are two links you should check out - both of them are 'Friday Fun' components. Firstly, he has a <a href="https://harmoniccode.blogspot.co.nz/2017/03/friday-fun-xliv-matrix.html">dot matrix display</a>, and secondly, he has used this dot matrix display to create a <a href="https://harmoniccode.blogspot.co.nz/2017/03/friday-fun-xlv-stockticker.html">stock ticker component</a>.</li>
+ 	<li><strong>Jeff Martin</strong> has two posts this week - '<a href="http://www.cuchazinteractive.com/blog/custom-javafx-controls-and-scene-builder">Custom JavaFX controls and Scene Builder</a>', and '<a href="http://www.cuchazinteractive.com/blog/better-guis-for-java-games">Better GUIs for Java games</a>'.</li>
+ 	<li><strong>Roger Lacroix</strong> is looking for beta testers of his <a href="http://www.capitalware.com/rl_blog/?p=4244">Swing-based&nbsp;MQTT Message Viewer app</a>.</li>
+ 	<li><strong>Carl Walker</strong> has posted about <a href="http://bekwam.blogspot.co.nz/2017/03/lambda-style-in-torandofx-type-safe.html">Kotlin elements in TornadoFX type-safe builders</a>.</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2227</ID>
+		<Slug>java-desktop-links-of-the-week-january-9-2</Slug>
+		<Title>Java desktop links of the week, January 9</Title>
+		<Date>2017-01-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another year already! I hope everyone had a good break over the holiday period. I know I did, although I have to say I wish it were longer! In any case, I've been away on holiday and not keeping a close eye on the latest Java desktop news, so apologies to people who worked hard and who I have missed. Please email me and I'll be sure to include you next week.</p>
+<ul>
+ 	<li><strong>Thomas Nield</strong> has written a free online book on '<a href="https://www.gitbook.com/book/thomasnield/rxjavafx-guide/details">Learning RxJava with JavaFX</a>'. This covers <a href="https://github.com/ReactiveX/RxJavaFX">RxJavaFX</a>, which is&nbsp;RxJava bindings for JavaFX.</li>
+ 	<li>Kotlin is becoming a more popular language, and there are a team of people working on a project called TornadoFX, which makes working with JavaFX a lot nicer.&nbsp;<strong>Edvin Syse</strong> has written much of the code, and recently has posted (at least) three posts on this subject. They are titled '<a href="https://edvin.town/leveraging-tornadofx-to-the-fullest/">Leveraging TornadoFX to the fullest</a>', '<a href="https://edvin.town/tornadofx-runasync-with-taskstatus/">TornadoFX runAsync with TaskStatus</a>', and '<a href="https://edvin.town/live-hacking-with-tornadofx/">Live hacking with TornadoFX</a>'.&nbsp;<strong>Ron Smits</strong> has a post also, titled '<a href="https://ronsmits.org/2017/01/tornadofxcdi/">TornadoFX it's also a CDI framework</a>'.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has been very busy, releasing updates to a number of his open source projects: <a href="https://github.com/HanSolo/Medusa">Medusa</a>, <a href="https://github.com/HanSolo/tilesfx">TilesFX</a>, and&nbsp;<a href="https://github.com/HanSolo/regulators">Regulators</a>.</li>
+ 	<li><strong>Mohammad Hossein Rimaz</strong> has posted his '<a href="http://www.slideshare.net/MohammadHosseinRimaz/javafx-in-action-part-i">JavaFX in Action</a>' slides online for others to learn from.</li>
+ 	<li><strong>Thierry Wasylczenko</strong> has released <a href="https://github.com/twasyl/jstackfx/releases/tag/v1.3">JStackFX 1.3</a>.&nbsp;JStackFX is a tool for analyzing thread dumps.</li>
+ 	<li><strong>Almas Baimagambetov</strong> has worked on upates to his <a href="https://github.com/AlmasB/FXGL">FXGL library</a> - a JavaFX game engine.</li>
+</ul>
+]]></Content>
+	</post>

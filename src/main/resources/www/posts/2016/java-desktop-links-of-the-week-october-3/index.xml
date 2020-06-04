@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2186</ID>
+		<Slug>java-desktop-links-of-the-week-october-3</Slug>
+		<Title>Java desktop links of the week, October 3</Title>
+		<Date>2016-10-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A very quiet week this past week. I guess everyone is getting over their JavaOne overload :-)</p>
+<ul>
+ 	<li><strong>Rahman Usta</strong> has released on GitHub <a href="https://github.com/rahmanusta/TerminalFX">TerminalFX</a>, a JavaFX-based terminal emulator.</li>
+ 	<li>I was pinged by <strong>Garry Taylor</strong> from The Escapers about their new JavaFX-based (commercial) application for <a href="http://theescapers.com/product.php?product=lucid3">building CSS animations for the web</a>.</li>
+</ul>
+<p>That's it! I said it was a quiet week! :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>386</ID>
+		<Slug>the-saf-is-dead-long-live-the-af</Slug>
+		<Title>The SAF is dead, long live the AF?</Title>
+		<Date>2009-06-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags>java|javafx|swing</Tags>
+		<Content><![CDATA[<p>After attending the sessions at JavaOne, and in the time leading up to it, it has become clear that poor old <a href="http://weblogs.java.net/blog/alexfromsun/">Alexander Potochkin</a> is overworked. In all, he leads the technical side of the Swing team, developed the JXLayer library (which is integrated in Java 7 as JLayer), is one of the people involved with SwingLabs, and also is the leader of the Swing Application Framework (SAF). There is more that I probably don't know about.</p>
+
+<p>I don't mean to be rude to Alex, he is a cool guy who is doing a great job with a great team (I met a number of them at JavaOne, and they all assure me they are coming to New Zealand for a sunny holiday :-) ). I just can't imagine he can properly do all of these jobs without a project falling by the wayside. It is my opinion that, given current circumstances, it is the SAF that is missing out on Alex's attention. Or, if he is giving it the necessary attention and time, he is failing to get the necessary community feedback to see it through to completion.</p>
+
+<p>The other issue is that it is impossible to create a SAF that'll please everyone. There is simply too much Swing history and convention to get past. There was no pleasing the people at the SAF BOF at JavaOne, and the questions Alex was asking were trivial (e.g. do you want @Action or to simply write ActionListeners manually?). In addition, a number of people were unclear of the scope of the SAF. People were wanting docking frameworks, validation, beans binding, etc. The response was always that SAF does not currently intend to support any of these requests.</p>
+
+<p>The SAF is going around in circles. How can it get out of its funk? As one person suggested in the BOF, it needs an expert group to drive it forward. Personally, I would be very careful in suggesting this. It is important that the expert group be tasked with just the <strong>pragmatic</strong> development of a SAF API. It should try to do this rapidly and clearly document the API and the reasoning. After public discussion, this should be the API that is implemented.</p>
+
+<p>Right now, if the SAF project doesn't pull finger, sort itself out and take ownership of the public discussion, it is heading towards the junk heap. If that happens, I imagine there will be a jointly developed JavaFX and Swing application framework to be developed in it's place. This framework will fill the gap that is in the JavaFX niche, and will as a by-product also support Swing. It will be developed by people who can get past the politics of developing an application framework, which may entail reduced public consultation, and instead the development may be sprung on a somewhat unsuspecting public.</p>
+
+<p>Of course, this may not be bad - look at how old Swing is compared with JavaFX. JavaFX is still at the stage of its life where standard approches are still being defined.</p>
+
+<p>So, what's it going to be - we get behind Alex and help progress a Swing-centric application framework, or we wait for that to fail and a JavaFX/Swing application framework to rise up behind it? As always, comments are welcome.</p>
+]]></Content>
+	</post>

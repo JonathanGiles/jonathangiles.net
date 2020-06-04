@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1159</ID>
+		<Slug>java-desktop-links-of-the-week-december-19</Slug>
+		<Title>Java desktop links of the week, December 19</Title>
+		<Date>2011-12-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Here we go again.....enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JavaFX 2.0.2 was <a href="http://fxexperience.com/2011/12/javafx-2-0-2-released/">released this week</a>, bringing with it a heap of bug fixes, as well as a number of new features including SWT interoperability, and improved mouse scroll APIs. Additionally, the license was updated to allow for redistribution.</li>
+	<li>A new <a href="http://www.oracle.com/technetwork/java/javafx/downloads/javafx2-macosx-487281.html">JavaFX 2.0 Developer Preview release</a> has been made available for Mac OS X.</li>
+	<li>Coinciding with the release of JavaFX 2.0.2, the <strong>JavaFX Documentation team</strong> put out a <a href="http://blogs.oracle.com/thejavatutorials/entry/new_docs_with_javafx_2">number of new articles</a>, covering topics such as JavaFX menus, styling charts with CSS, handling events, and others.</li>
+	<li>The <a href="http://javafx.com/roadmap/">JavaFX roadmap has been updated</a> to give more detail about future releases.</li>
+	<li><strong>Tom Schindl</strong> has announced the <a href="http://tomsondev.bestsolution.at/2011/12/12/efxclipse-0-0-9-released/">release of e(fx)clipse 0.0.9</a>, as usual it comes with bug fixes and a few new features, including improved wizards, improvements to his fxgraph DSL, and early FXML support.</li>
+	<li><strong>Sven Reimers</strong> and <strong>Geertjan Wielenga</strong> have announced the <a href="http://java.net/projects/efx">eFX project</a>, which is a JavaFX RCP based on the NetBeans RCP.</li>
+	<li><strong>John Smith</strong> has blogged about having a <a href="http://jewelsea.wordpress.com/2011/12/11/codemirror-based-code-editor-for-javafx/">code editor in JavaFX</a> by embedding the JavaScript CodeMirror editor inside a JavaFX WebView.</li>
+	<li><strong>Pedro Duque Vieira</strong> has blogged about <a href="http://pixelduke.wordpress.com/2011/12/11/popupmenu-in-javafx/">using ContextMenu</a> in both JavaFX, and when embedded within a JFXPanel inside Swing.</li>
+	<li><strong>Dustin Marx</strong> has blogged "<a href="http://marxsoftware.blogspot.com/2011/12/hello-javafx-20-introduction-by-command.html">Hello JavaFX 2.0: Introduction by Command Line</a>".</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Emmanuel Bourg</strong> has announced the availability of his '<a href="http://ebourg.github.com/flamingo-svg-transcoder/">Flamingo SVG Transcoder</a>' which converts SVG into Java2D code with no external dependencies. It is a continuation of the SVG Transcoder first started by <strong>Kirill Grouchnikov</strong>, and as <strong>Emmanuel</strong> notes: "Compared to the original transcoder it now supports text elements and it's able to cope with complex icons that generate too big classes to be compiled. The generated classes have also been optimized and are now about 50% smaller."</li>
+	<li><strong>Dan Cervelli</strong> let me know about <a href="https://github.com/palantir/Cinch">Cinch</a>, whose website states "When developing Swing applications it's very easy to fall into the trap of not separating out Models and Controllers. It's all too easy to just store the state of that boolean in the checkbox itself, or that String in the JTextField. The design goal behind Cinch was to make it easier to apply MVC than to not by reducing much of the typical Swing friction and boilerplate. Cinch uses Java annotations to reflectively wire up Models, Views, and Controllers."</li>
+</ul>
+]]></Content>
+	</post>

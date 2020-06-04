@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3205</ID>
+		<Slug>java-desktop-links-of-the-week-december-17-3</Slug>
+		<Title>Java desktop links of the week, December 17</Title>
+		<Date>2018-12-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><!-- wp:list --></p>
+<ul><li><strong>James Macaulay</strong>&nbsp;has posted about&nbsp;<a href="https://conservationcoding.com/2018/11/11/finding-illegal-fish-bomb-blasts-in-tanzania-using-machine-learning-and-javafx/">finding illegal fish bomb blasts in Tanzania using machine learning and&nbsp;JavaFX</a>.</li><li><strong>Adam Carroll</strong> has an a <a href="https://medium.com/techking/open-source-secret-santa-with-santulator-9101972359fc">post about his Santulator app</a>,&nbsp;giving some useful tech details.&nbsp; Amongst other things, he shows how JavaFX CSS can be used to give an application a festive colour scheme.&nbsp;</li><li><strong>Peter Rogge</strong> has <a href="https://github.com/Naoghuman/lib-i18n">released&nbsp;&nbsp;Lib-I18N v0.6.1</a>.</li><li><strong>Marcel Schlegel</strong>&nbsp;has released <a href="https://github.com/schlegel11/JFXAnimation">JFXAnimation 2.0</a>, supporting CSS keyframe animation for JavaFX.</li><li><strong>Gerrit Grunwald</strong> has posted about another of his great 'Friday Fun' controls - this time a <a href="https://harmoniccode.blogspot.com/2018/11/friday-fun-lx.html">nice looking odometer spinner</a>.</li><li><strong>Eirini-Eleni Papadopoulou</strong> has written about <a href="https://jaxenter.com/everest-rest-api-testing-client-javafx-152796.html">Everest</a>, a JavaFX-based REST API testing client.</li><li><strong>Pedro DV</strong> has <a href="https://pixelduke.com/2018/12/04/jmetro-version-5-released/">released JMetro 5</a>.</li></ul>
+<p><!-- /wp:list --></p>
+]]></Content>
+	</post>

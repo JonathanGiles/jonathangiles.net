@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1086</ID>
+		<Slug>java-desktop-links-of-the-week-july-25</Slug>
+		<Title>Java desktop links of the week, July 25</Title>
+		<Date>2011-07-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Here we go again - yet another intro to a blog post series that hasn't changed much at all in the years it has been running! For that reason, let's just jump into the links (which, lets admit it, is the real reason you're here). Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><a href="http://fxexperience.com/2011/07/javafx-2-0-beta-build-36-available-now/">JavaFX 2.0 beta build 36 was released</a> this week, including some new features like worker threading, rich text editing (via the HTMLEditor control), and a file chooser dialog, among many bug fixes and optimisations.
+<strong></strong></li>
+	<li><strong>Michael Heinrichs</strong>, an engineer in the JavaFX team at Oracle, has blogged about <a href="http://blog.netopyr.com/2011/07/24/upcoming-property-changes/">upcoming changes to the properties API</a>.</li>
+	<li><strong>Parleys.com</strong> has put up the video from Devoxx 2010 titled '<a href="http://www.parleys.com/#st=5&amp;id=2152">Physically Attractive</a>', which consists of <strong>Richard Bair</strong> and <strong>Jasper Potts</strong> talking about physics in the JavaFX scenegraph, 2D/3D graphics, and "bullets, bombs, explosions and inflicting damage".</li>
+	<li><strong>James Weaver</strong> published an article on <a href="http://www.oracle.com/technetwork/articles/java/default-411762.html">using transitions for animation</a> in JavaFX.</li>
+	<li><strong>Patrick Champion</strong> blogged about <a href="http://paddyweblog.blogspot.com/2011/07/duke-anim-in-javafx-20-b34.html">how he created a Duke animation</a> in JavaFX using the latest beta build.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Geertjan Wielenga</strong> has blogged with a sample of <a href="http://blogs.oracle.com/geertjan/entry/sample_of_embedded_database_in">embedding a database in a Swing application</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li>The JavaOne <a href="https://oracleus.wingateweb.com/scheduler/eventcatalog/eventCatalogJavaOne.do?ts=1311544435093">conference sessions are now published online</a>. For those mostly interested in Java desktop, you might want to refine the search criteria to the Java SE track.</li>
+	<li>A tutorial has <a href="http://www.java-tutorial.ch/framework/miglayout-tutorial">appeared online recently that details MigLayout</a>. Despite being most commonly used in the Swing world, it has been adapted to numerous other UI toolkits, including SWT and JavaFX.</li>
+</ul>
+<p>Keep up all the hard work folks. Catch you all next week.</p>
+]]></Content>
+	</post>

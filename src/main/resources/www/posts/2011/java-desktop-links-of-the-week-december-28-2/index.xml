@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1162</ID>
+		<Slug>java-desktop-links-of-the-week-december-28-2</Slug>
+		<Title>Java desktop links of the week, December 28</Title>
+		<Date>2011-12-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Sorry for the delay in this post - with Christmas I managed to relatively disconnect from the web for a few days. Now that things are getting back to normal, I have a heap of links to share. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The big JavaFX news this week was the release of <a href="http://fxexperience.com/2011/12/javafx-2-1-early-access-for-windows-build-06-now-available/">early access builds of JavaFX 2.1</a> for Windows and Mac OS.</li>
+	<li>Over at the <strong>FX Experience</strong> blog, <strong>Jasper Potts</strong> blogged about <a href="http://fxexperience.com/2011/12/styling-fx-buttons-with-css/">styling JavaFX Buttons with CSS</a>, where he demonstrated the power of CSS in JavaFX.</li>
+	<li>In a separate post, <strong>Jasper</strong> posted a tool he developed prior to JavaOne 2011 that <a href="http://fxexperience.com/2011/12/fxg-to-fxml-in-javafx/">converts FXG into FXML</a>.</li>
+	<li>As mentioned a few weeks ago, one of the new features in JavaFX 2.0.2 is support for SWT interoperability. <strong>Richard Bair</strong> put up a sample application that <a href="http://fxexperience.com/2011/12/swt-interop/">integrates JavaFX Charts into an SWT application</a>.</li>
+	<li>The <a href="http://openjdk.java.net/projects/openjfx/">OpenJFX website</a> was updated this week to include a '<a href="http://openjdk.java.net/projects/openjfx/getting-started.html">Getting Started</a>' document, as well as the first two <a href="http://openjdk.java.net/projects/openjfx/ux/index.html">user experience specifications</a> for Spinner and 'DatePicker'. These two were posted first as they are being discussed in the <a href="http://mail.openjdk.java.net/mailman/listinfo/openjfx-dev">openjfx-dev mailing list</a>.</li>
+	<li><strong>Jim Weaver</strong> was <a href="http://blogs.oracle.com/javaspotlight/entry/java_spotlight_episode_61_jim">interviewed in episode 61</a> of the Java Spotlight Podcast.</li>
+	<li><strong>Toni Epple</strong> has blogged about <a href="http://netbeans.dzone.com/articles/creating-datepicker-control">creating a custom DateChooser control</a>. There is a bit of broken generic code at the top of the top of the DateChooserSkin class, but other than that it is a complete example. This is a control that is planned for a future release of JavaFX, but until then there exists both this DateChooser, and the one shipped as part of <a href="http://code.google.com/p/jfxtras/">JFXtras</a>. Hopefully one of these implementations may even be incubated and adopted into a future JavaFX release, now that JavaFX UI Controls are open source.</li>
+	<li><strong>Adam Bien</strong> has blogged about how to <a href="http://www.adam-bien.com/roller/abien/entry/how_to_compile_java_fx">compile JavaFX 2.0 applications using Maven 3</a>.</li>
+	<li>In a separate post, <strong>Adam</strong> gave a very simple example of <a href="http://www.adam-bien.com/roller/abien/entry/java_fx_2_data_binding">how binding works in JavaFX</a> (in the form of a unit test).</li>
+	<li><strong>Dustin Marx</strong> has four JavaFX-related blog posts up this week: "<a href="http://marxsoftware.blogspot.com/2011/12/simple-javafx-20-text-example.html">Simple JavaFX 2.0 Text Example</a>", "<a href="http://marxsoftware.blogspot.com/2011/12/pure-java-javafx-20-menus.html">(Pure Java) JavaFX 2.0 Menus</a>", "<a href="http://marxsoftware.blogspot.com/2011/12/javafx-20-christmas-tree-javafx-20.html">JavaFX 2.0 Christmas Tree (JavaFX 2.0 Shapes)</a>", and "<a href="http://marxsoftware.blogspot.com/2011/12/javafx-20-path-alternatives.html">JavaFX 2.0 Path Alternatives</a>".</li>
+	<li><strong>Carl Dea</strong>, who recently published the '<a href="http://www.apress.com/9781430242574">JavaFX 2.0 Introduction by Example</a>' book, has published a <a href="http://carlfx.wordpress.com/2011/12/19/javafx-2-0-introduction-by-example-book/">sample on his blog</a>.</li>
+	<li>For those attending JFokus, you may be interested in the <a href="http://www.dzone.com/links/r/conferencebrowserfx_view_the_jfokus_2012_schedule.html">ConferenceBrowserFX</a> application <strong>Jim Weaver</strong> has created.</li>
+	<li>For those in the St. Louis area, <strong>Weiqi Gao</strong> is <a href="http://java.ociweb.com/javasig/">presenting at the St. Louis Java User Group</a> on the topic of JavaFX on January 12th.</li>
+	<li>I try to not post videos as links, but every now and then break the rules. This week I have two interesting videos to share. Firstly, <strong>Gerrit Grunwald</strong> has put up a comparison video of his SteelSeries gauges, that demonstrates the difference (or similarity) <a href="http://www.youtube.com/watch?v=ZRTOkkq3l1I">between the Swing/Java2D and JavaFX versions</a>. The second video is from <strong>Bertrand Goetzmann</strong>, where he shows off the <a href="http://www.screenr.com/IwJs">latest features in Grezi</a>.</li>
+</ul>
+<p>I hope you found something useful :-) Catch you in a weeks time!</p>
+]]></Content>
+	</post>

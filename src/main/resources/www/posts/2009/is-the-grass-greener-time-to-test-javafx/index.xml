@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>238</ID>
+		<Slug>is-the-grass-greener-time-to-test-javafx</Slug>
+		<Title>Is the Grass Greener? Time to test JavaFX...</Title>
+		<Date>2009-02-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags>java|javafx</Tags>
+		<Content><![CDATA[<p>Righty, for various reasons that may or may not become obvious in the coming weeks and months, I have decided to dive into JavaFX. Of course, this will help with my weekly Swing links post, but that isn't the main reason. I want a crash course. I will set aside this weekend, and I will learn what it takes. I want to focus on performant, correct, JavaFX. I don't intend to cut a great deal of code right now - I'd rather learn what the building blocks of JavaFX are, and how they all fit together. Regardless, when it does come to cutting code, I'd prefer to use Eclipse as it is my environment of choice, but I think that it is likely I'll be needing to get an appreciatin for NetBeans.</p>
+
+<p>I'll try to put up my own 'mini-review' of JavaFX next week sometime. You never know, I might be a convert :P</p>
+
+<p>If you have any recommended resources, please, let me know.</p>
+]]></Content>
+	</post>

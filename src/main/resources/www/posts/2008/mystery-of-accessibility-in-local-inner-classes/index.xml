@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>146</ID>
+		<Slug>mystery-of-accessibility-in-local-inner-classes</Slug>
+		<Title>Mystery of Accessibility in Local Inner Classes</Title>
+		<Date>2008-04-16</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>java|software</Tags>
+		<Content><![CDATA[<p>In Java, I'd always known that whenever I wanted to pass a local variable into a (possibly anonymous) inner class without any getter/setter code I had to declare the variable as final, or alternatively it had to be an instance variable of the parent class.</p>
+
+<p>If you just read that sentence and had no idea what I said, please feel free to skip the rest of this post.</p>
+
+<p>What I didn't know was why this was necessary. Clearly the assumption is that Java does some trickery, but needs the variable to be a constant value. Then I read <a href="http://techtracer.com/2008/04/14/mystery-of-accessibility-in-local-inner-classes/">this blog</a> post and learnt that essentially that is what happens. Perhaps more interesting is that inner classes are only handled at the compiler level, in other words the JVM is completely oblivious to their existence.</p>
+
+<p>If you are a Java dev and have a few minutes spare, this blog post is very interesting. I'm always interested in learning new aspects of the Java language/runtime, and I have a feeling I'm going to need to find a book on Java bytecode sooner or later.</p>
+]]></Content>
+	</post>

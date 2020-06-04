@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2075</ID>
+		<Slug>java-desktop-links-of-the-week-march-29-2</Slug>
+		<Title>Java desktop links of the week, March 29</Title>
+		<Date>2016-03-29</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>I'm a bit late with the links this week - apologies. It was a quiet week this past week, but in any case, I hope you enjoy the following links.</p>
+<ul>
+	<li><strong>Tom Eugelink</strong> continues to explore <a href="https://tbeernot.wordpress.com/2016/03/20/multiplatform-javafx-for-real-polish/">building mobile JavaFX applications</a> using Gluon technologies.</li>
+	<li>The&nbsp;<strong>bitsquare</strong> project released a <a href="https://github.com/bitsquare/bitsquare/releases/tag/v0.3.6">new version of their client</a>.&nbsp;Bitsquare is a "cross-platform desktop application that allows users to trade national currency (dollars, euros, etc) for bitcoin without relying on centralized exchanges such as Coinbase, Bitstamp or (the former) Mt. Gox."</li>
+	<li><strong>Michael Hoffer</strong> has a <a href="https://www.youtube.com/watch?v=13lv_rbbvCI&amp;feature=youtu.be">presentation from a recent Devoxx conference</a> about 'algorithmic 3-D modeling, language modeling and visual programming', where a lot of the technology he uses is JavaFX-based.</li>
+</ul>
+]]></Content>
+	</post>

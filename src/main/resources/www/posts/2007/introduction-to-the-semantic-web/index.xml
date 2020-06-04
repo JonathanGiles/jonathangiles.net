@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>78</ID>
+		<Slug>introduction-to-the-semantic-web</Slug>
+		<Title>Introduction to the Semantic Web</Title>
+		<Date>2007-02-20</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>semantic-web-research</Tags>
+		<Content><![CDATA[<p>My brain is presently in overload as I try to wrap my head around all the concepts of the semantic web. I thought I might as well try to get my thoughts out here, to help other people, and to selfishly help myself out (by either just clarifying my thoughts, or by being beaten by a stick from those in the know).</p>
+
+<p>So, why should one care about the semantic web - isn't web 2.0 doing just fine by being oblivious to this semantic web thing? I guess so, but then, the web 2.0 is a bandwagon anyone can jump on (and as an aside, my blog is now largely web 2.0 :p). Web 2.0 is all about, in my opinion, making the web a more user-focused place. Semantic web is all about (once again, in my opinion) all about making the web a more usable place.</p>
+
+<p><strong>Web 2.0 == User-focused?</strong></p>
+<p>All web 2.0 sites are about making the web do things it has never done before, using technologies like ajax. We all marvel at <a href="http://maps.google.com">google maps</a>, <a href="http://del.icio.us/">del.icio.us</a>, etc, etc. It's amazing - the web makes my life easier, or at least, more convenient. It also makes me more social in a geeky kind of way. I can now see what other people bookmark when I tag my bookmarks with a particular keyword. The opportunities explode really.</p>
+
+<p>But Google maps, del.icio.us, etc, etc all have a common theme (if you don't dig too deep) - they use meta-data to make the experience more valuable. What would Google maps be without the additional information about where places are. What about the whole basis of del.icio.us - tags? Without them, and what they can do when computed and commonalities found, del.icio.us would be nothing more than a static html page where I post my favourite links.</p>
+
+<p><strong>Semantic Web....Usable for who? </strong></p>
+<p>So.....meta data huh? That's pretty web 2.0 I hear you all saying. The other thing that can use metadata is of course the computer you are sitting in front of right now (don't worry - I'm not watching you). Imagine if there was a way for me to explain to the computer my details, and my friends. Imagine if my friends could do the same. Essentially, we'd be building up a big web of friends, and in a way, making a dynamic address book (insofar that I don't need to update my friends details, as I will simply be linking to his profile remotely). Well, it exists - the <a href="http://foaf-project.org">FOAF project</a> is all about this. It builds on top of technologies such as RDF to allow people to make their own 'foaf files'. <del>I have one here</del>. My one is in a pretty pitiful state at the moment - but that doesn't matter - I can update it as time progresses. Imagine if <a href="http://www.oldfriends.co.nz">OldFriends</a> gave each user account a FOAF file (or alternatively let them link in their own foaf file). I would love the opportunity to add all these old friends of mine into my foaf file.</p>
+
+<p>You're probably all wondering, why bother doing this? Well, for me, two reasons:</p>
+<p><ol></p>
+ 	<li>I can visualise these people in a program like <a href="http://www.centruflow.com">Centruflow</a>. Imagine being able to see all your friends in what is essentially an constantly updated, and fully distributed address book. I could discover lost friends by navigating to the friends of my friends, and further out ('To Infinity....and Beyond!').</li>
+ 	<li>I never maintain address books, as they are always my responsibility to update. FOAF is all about making each individual only have to worry about keeping their address book up to date</li>
+<p></ol></p>
+<p><strong>So....FOAF is the semantic web....seems kinda sucky?</p>
+<p></strong>No, FOAF is just an application built on top of the semantic web. It offers a small glimpse into what is possible when we give our computers a little structure to the information. You've probably noticed my site lists my contact details on the side - this is of no use to a computer really. My FOAF profile gives the computer everything it needs <span style="text-decoration: underline;">to help you</span>.</p>
+
+<p><strong>So what are you doing again?</p>
+<p></strong>My work right now is on making it easier to get data from all over the semantic web (or just straight from the web in terms of databases), and making it possible for a computer to make far more sense from it. Want to say "I'm interested in things related to this <em>widget</em> here"? How would you do that now - go to Google and search through the results? My research will automatically give you suggestions on this kind of thing, but not based on computer-decided result, but on how people tag and inform the system using metadata. My work won't be on the internet, as it will initially focus more on individual business intranets.</p>
+
+<p>This explains why my head is exploding - I'm needing to learn a lot of technologies to allow for this work to be done.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2144</ID>
+		<Slug>java-desktop-links-of-the-week-august-1-2</Slug>
+		<Title>Java desktop links of the week, August 1</Title>
+		<Date>2016-07-31</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Yikes, it's August already - that means that JavaOne is now 'next month'....that seems way too soon! :-)</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> has released a <a href="https://github.com/HanSolo/Medusa">new version</a> of his Medusa gauge library, as well as another of his <a href="http://harmoniccode.blogspot.co.nz/2016/07/friday-fun-xxxv.html">Friday Fun Components</a> (yet another gauge!)</li>
+ 	<li>I did a guest post over at the Java Source blog about <a href="https://blogs.oracle.com/java/java-clients">Java clients at JavaOne</a>.</li>
+ 	<li><strong>Adam Carroll</strong> has posted about <a href="http://vocabhunter.github.io/2016/07/27/TestFX.html">user interface testing with TestFX</a>. A highly recommended read.</li>
+ 	<li><strong>Andreas Billmann</strong> has <a href="http://www.billmann.de/2016/07/30/smartcsv-fx-version-0-4/">released SmartCSV.fx 0.4</a>. The app is looking very nice and polished!</li>
+ 	<li><strong>Edvin Syse</strong> and <strong>Thomas Nield</strong> have been working on videos / code samples of TornadoFX / RxKotlinFX functionality. Firstly, <strong>Edvin</strong> has a <a href="https://www.youtube.com/watch?v=Mmp_5o1H_7I">short teaser video on TornadoFX</a>. Secondly,&nbsp;<strong>Thomas</strong> has a short video as well as sample code showing <a href="https://github.com/thomasnield/rxkotlinfx-tornadofx-demo">integration of TornadoFX with RxKotlinFX.</a></li>
+</ul>
+]]></Content>
+	</post>

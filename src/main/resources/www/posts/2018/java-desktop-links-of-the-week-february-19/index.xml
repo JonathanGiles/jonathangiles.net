@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2894</ID>
+		<Slug>java-desktop-links-of-the-week-february-19</Slug>
+		<Title>Java desktop links of the week, February 19</Title>
+		<Date>2018-02-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>An extremely quiet week this week - only a few links which will make for very quick reading :-) Enjoy!</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> has another cool 'Friday Fun Component', this time a <a href="https://harmoniccode.blogspot.co.nz/2018/02/friday-fun-lix-parallel-coordinates.html">parallel coordinates chart</a>.</li>
+ 	<li><strong>Florian Brunner</strong> has released <a href="https://puces-blog.blogspot.co.nz/2018/02/drombler-fx-v011-modular-statusbar-and.html">Drombler FX v0.11</a>. Drombler FX is a modular application framework for JavaFX, and this release comes with two new JavaFX controls: a StatusBar and a ProgressMonitor.</li>
+ 	<li><strong>Pedro Duque Vieira</strong> has blogged about <a href="http://www.pixelduke.com/2018/02/18/update-to-jmetro-implementation-and-documentation/">updates to JMetro</a>.</li>
+ 	<li><strong>Jyloo Software</strong> have announced that <a href="http://www.jyloo.com/news/?pubId=1517999635000">Synthetica V3.1.0 has been released</a>,&nbsp;and blogged about&nbsp;<a href="http://www.jyloo.com/news/?pubId=1517564201000">Synthetica UI scaling in detail</a>.</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1513</ID>
+		<Slug>java-desktop-links-of-the-week-july-29</Slug>
+		<Title>Java desktop links of the week, July 29</Title>
+		<Date>2013-07-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A very quiet week this week! I guess people are now starting to prepare for JavaOne. I've noticed a similar phenomena in past years where things go quiet in the weeks leading up to JavaOne as everyone starts to work on their projects that they will announce and show off in sessions. In any case, enjoy the links below! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>Just a reminder that if you haven't responded to the <a href="http://fxexperience.com/2013/07/javafx-2013-survey/">JavaFX 2013 survey</a> you should definitely take the two minutes required to fill it in.</li>
+	<li><strong>Arnaud Nouard</strong> has posted an update to his <a href="http://arnaudnouard.wordpress.com/2013/07/23/undecorator-update/">Undecorator</a> project, which is a custom styling for stages.</li>
+	<li><strong>Jens Deters</strong> has posted an update to his <a href="http://www.jensd.de/wordpress/?p=692">Font Awesome JavaFX support</a>.</li>
+	<li><strong>Jörn Hameister</strong> has posted about how to create a JavaFX-based <a href="http://www.hameister.org/JavaFX_LotteryWheel.html">lottery wheel</a>. As he says in the post, "This article shows how to use <code>TranslateTransition</code>s, <code>FadeTransition</code>s, <code>Timeline</code>s and <em>Timeline chaining</em> to implement a simple lottery wheel where names rotate around a point."</li>
+	<li>I respun the ControlsFX 8.0.1 release to fix a bug in the PropertySheet control that prevented it working in some cases. You can <a href="http://www.controlsfx.org">redownload it from the usual place</a>, or also from Maven Central.</li>
+</ul>
+<p>I told you it was a quiet week! :-) Catch you all again in a weeks time.</p>
+]]></Content>
+	</post>

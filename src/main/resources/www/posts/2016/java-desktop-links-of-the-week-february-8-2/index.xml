@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2042</ID>
+		<Slug>java-desktop-links-of-the-week-february-8-2</Slug>
+		<Title>Java desktop links of the week, February 8</Title>
+		<Date>2016-02-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another public holiday, so another slightly delayed links post. Lets get the links posted so I can get back to a day off :-)</p>
+<ul>
+	<li><strong>Bernhard Lutzmann</strong> has posted a tip about <a href="http://www.lutzmann.info/2016/02/javafx-tableview-performance-asobject.html">ensuring performance in a JavaFX TableView</a> control.</li>
+	<li><strong>Hendrik Ebbers</strong> has posted an <a href="http://www.guigarage.com/2016/02/javafx-and-css/">overview of JavaFX CSS</a>.</li>
+	<li><strong>Jens Deter</strong> has released <a href="http://www.jensd.de/wordpress/?p=2264">FontAwesomeFX 8.9</a>.</li>
+	<li><strong>Emil Forslund</strong> has posted an article about '<a href="https://www.voxxed.com/blog/2016/02/building-reactive-systems-javafx/">building reactive systems in JavaFX</a>'.</li>
+	<li><strong>Gerrit Grunwald</strong> has two posts about his Medusa gauge library (which has, naturally, progressed through several versions in the last week). Firstly, '<a href="http://harmoniccode.blogspot.de/2016/02/taking-control-by-using-medusa-clock.html">taking control by using the Medusa Clock</a>', and secondly, '<a href="http://harmoniccode.blogspot.de/2016/02/fun-with-medusa-clocks.html">fun with Medusa clocks</a>'.</li>
+	<li><strong>Tom Eugelink</strong> has posted about <a href="https://tbeernot.wordpress.com/2016/02/01/multiplatform-javafx-for-real-hessian/">building a multiplatform JavaFX application</a>&nbsp;using Hessian.</li>
+	<li><strong>Gluon</strong> has had two releases this week. Firstly, <a href="http://gluonhq.com/charm-2-0-now-available/">Gluon Charm 2.0 has been released</a> (for creating JavaFX applications on iOS and Android devices), and secondly, <a href="http://gluonhq.com/scene-builder-8-1-1-hot-fix-now/">Scene Builder 8.1.1</a>, a hotfix release to fix an issue with 8.1.0, was made available.</li>
+	<li><strong>Dirk Lemmermann</strong> has three posts this week. Firstly, a post wondering if there is a&nbsp;<a href="https://dlemmermann.wordpress.com/2016/01/29/javafx-scrollgesture-memory-leak/">TouchGesture memory leak</a> in JavaFX. Secondly, a post beginning the&nbsp;JavaFX 'Missing Features Survey', starting with <a href="https://dlemmermann.wordpress.com/2016/02/03/javafx-missing-features-survey-table-view/">TableView</a>. Finally, an announcement that <a href="https://dlemmermann.wordpress.com/2016/02/03/flexganttfx-1-4-0-released/">FlexGanttFX 1.4.0 has been released</a>.</li>
+</ul>
+]]></Content>
+	</post>

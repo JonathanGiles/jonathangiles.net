@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>115</ID>
+		<Slug>looking-for-a-fight</Slug>
+		<Title>Looking for a fight...</Title>
+		<Date>2007-09-29</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Had a teeny bit of a discussion on <a href="http://blog.projectxtech.com/2007/09/28/nilblank/">another blog last night</a>, and I think I should provide a bit more of a discussion on it here. Basically, the premise of the post was that Ruby is great because it does things in a more natural way than Java, with the case of testing whether a string is empty or not, and the potential ramifications for a <a href="http://java.sun.com/j2se/1.5.0/docs/api/java/lang/NullPointerException.html">NullPointerException</a> in Java.</p>
+
+<p>I posed two suggestions to improve from what was suggested in the post, one of which is the better way, and one of which I deemed to be the 'Ruby-esque' way (even though I wrote it in Java). What do I deem this to mean? My impression of reading Ruby code, especially that which is posted by people gleefully backing up Ruby's awesomeness, is that it can be quite hard to read for new programmers, or those new to a project. In addition, I get the feeling some power functions are simply used because they are fun, which leads to developers feeling lost and unsure of the code they are working on.</p>
+<p><blockquote>When developing code you should always choose readability over convenience. Code will be read many, many more times than it is written…</p>
+
+<p>–<strong>Practices of an Agile Developer</strong> by Venkat Subramaniam Andy Hunt</blockquote></p>
+<p>My main point is that code should be readable first and foremost. When I develop in Eclipse, I have it set to completely restructure all my code such that it follows good programming practices. I share these automatic code formatters with the rest of the developers I work with. This automatically ensures a consistent and easily readable source base. I also have (<a href="/posts/2007/obfuscating-java-code-and-continuous-integration/">as mentioned previously</a>) continuous integration builds that tell me when I have missed documentation, or if I have coded in an unsafe or 'smelly' way.</p>
+
+<p>As I said on the blog that derived this post, any code can be bad, and most languages can do most things (they are all turing complete). What makes one language better than another shouldn't be based on how many operations you can cram into one line of code, but on how easily understood the code is picked up by a junior developer that has just joined your team.&nbsp; At the end of the day, compilers/interpreters are smart - leave them to condense down your code. For that junior developer, you should be concerned only with good variable names, documentation where documentation is necessary, and most importantly, not caring about succinctness.</p>
+
+<p>And don't we all have a little junior developer in all of us? :-)</p>
+]]></Content>
+	</post>

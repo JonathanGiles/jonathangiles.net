@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>833</ID>
+		<Slug>java-desktop-links-of-the-week-june-14</Slug>
+		<Title>Java desktop links of the week, June 14</Title>
+		<Date>2010-06-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A quieter week this week for some reason, but nonetheless some interesting links are to be had. Keep up the good work folks - it's great to read what's going on in the community.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has <a href="http://www.pushing-pixels.org/?p=1960">improved repainting in Trident 1.3</a>. If you're using Trident, you should definitely look at this new API.</li>
+	<li>In a separate post, <strong>Kirill</strong> talks about his <a href="http://www.pushing-pixels.org/?p=1973">impression of the Swing project</a>.</li>
+	<li><strong>Lars Vogel</strong> has posted a tutorial about <a href="http://www.vogella.de/articles/EclipseJFreeChart/article.html">using JFreeChat inside an Eclipse RCP application</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Johan Vos</strong> has <a href="http://blogs.lodgon.com/johan/RedFX_connecting_JavaFX_to_the_Enterprise">announced a new project called RedFX</a>, which is a framework that enables easy connection between JavaFX client-based code and Java Enterprise based backend code. You can read more about <a href="http://redfx.org/">RedFX on the project website</a>, but it has also been announced that RedFX will be merged into <a href="http://jfxtras.org/">JFXtras</a>.</li>
+	<li><strong>Rakesh Menon</strong> has blogged about how to <a href="http://rakeshmenonp.wordpress.com/2010/06/12/javafx-rotate-chart-axis-label/">rotate the text on a Chart axis</a> to make it more readable.</li>
+	<li><strong>Exadel</strong> have put out a <a href="http://mkblog.exadel.com/ria/javafx-ria/exadel-javafx-plug-in-for-eclipse-version-1-3-2-is-now-available/">new release of the JavaFX Plugin for Eclipse</a>, taking it up to 1.3.2.</li>
+	<li><strong>itssmee</strong> has posted two posts this week, titled '<a href="http://itssmee.wordpress.com/2010/06/07/tutorial-on-how-to-use-javafx-1-3-with-the-twitter-api/">Tutorial on how to use JavaFX 1.3 with the Twitter API</a>' and '<a href="http://itssmee.wordpress.com/2010/06/11/javafx-how-to-sort-a-sequence-of-objects/">how to sort a sequence of objects</a>'.</li>
+	<li><strong>Jo Voordeckers</strong> has blogged about one way to possibly <a href="http://javatrack.blogspot.com/2010/06/make-javafx-applets-smooth-on-firefox.html">improve performance of Java applets in Firefox on the Mac</a>.</li>
+	<li>Now I'm not a Spring person, so I can't offer any editorial insight into this post titled '<a href="http://weblogs.java.net/blog/srikanth/archive/2010/06/12/wiring-javafx-objects-spring-tread-caution">wiring JavaFX objects with Spring</a>'.</li>
+</ul>
+<p>That's all folks! Catch you all again in a weeks time, and as always feel free to flick me an <a href="mailto:jonathan@jonathangiles.net">email</a>, a <a href="http://www.twitter.com/JonathanGiles">tweet</a>, or whatever else floats your boat.</p>
+]]></Content>
+	</post>

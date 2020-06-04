@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1306</ID>
+		<Slug>java-desktop-links-of-the-week-september-3</Slug>
+		<Title>Java desktop links of the week, September 3</Title>
+		<Date>2012-09-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi everyone! Welcome to another Java desktop links roundup. I really hope you find a few links that teach you something new! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Danno Ferrin</strong> has blogged about '<a href="http://shemnon.posterous.com/the-life-and-times-of-a-javafx-skin">the life and times of a JavaFX Skin</a>', which is well-worth reading if you are interested in creating custom controls.</li>
+	<li><strong>Stephen Chin</strong> has posted part three of his JavaFX and Spring talk, this time focusing on <a href="http://javafx.steveonjava.com/javafx-in-spring-day-3/">authentication and authorisation</a>.</li>
+	<li>Speaking of <strong>Stephen</strong>, he also recently presented at the <strong>Portland JUG</strong> - and now you can <a href="http://vimeo.com/48351099">watch the video of that talk</a>.</li>
+	<li>And finally, <strong>Stephen</strong> will be speaking at the <strong>SFBay ACM</strong> on "<a href="http://www.linkedin.com/osview/canvas?_ch_page_id=1&amp;_ch_panel_id=1&amp;_ch_app_id=2000&amp;_applicationId=2000&amp;_ownerId=0&amp;appParams={%22event%22%3A%221092528%22%2C%22page%22%3A%22event%22}&amp;trk=link-events-detail-detail">JavaFX 2 - A Java Developer's Guide</a>" on September 19th. If you're in the area you might want to check it out.</li>
+	<li><strong>Tom Schindl</strong> has blogged about <a href="http://tomsondev.bestsolution.at/2012/08/27/css-attribute-description-and-validation-for-javafx/">CSS attribute description and validation</a>, and what he has done to improve CSS assistance in his e(fx)clipse tooling for JavaFX in Eclipse.</li>
+	<li><strong>Mark Heckler</strong> has blogged about <a href="https://blogs.oracle.com/javajungle/entry/javafx_dialogs_anyone">creating dialogs in JavaFX</a>, which is something JavaFX doesn't yet ship included in the runtime (although I've had a bunch of them built in my local repo for a year or so now - I'm trying to get them into a release as soon as possible!).</li>
+	<li><strong>Gerrit Grunwald</strong> continues to make great looking gauges, this week <a href="http://harmoniccode.blogspot.de/2012/08/fun-dashboard-gauge.html">mimicking the look of an Oracle ADF gauge</a>. You can also watch a <a href="http://www.youtube.com/watch?v=y4bxmCPDOC0">video of it in action</a>.</li>
+	<li><strong>Patrick Martin</strong> has updated the website for his <a href="http://dexvis.com/">Dex project</a> (which is a visualisation application). He has also blogged that <a href="http://dexvis.wordpress.com/2012/08/22/upcoming-dex-0-5-release/">Dex 0.5 is coming out soon</a>.</li>
+	<li><strong>Peter Moskovits</strong> has blogged about the '<a href="http://blog.kaazing.com/2012/08/27/three-steps-to-build-a-killer-websocket-app-with-javafx/">three steps to build a killer WebSocket app with JavaFX</a>'.</li>
+	<li><strong>Per Lundholm</strong> has blogged about <a href="http://blog.crisp.se/2012/08/29/perlundholm/window-scene-and-node-coordinates-in-javafx">Window, Scene and Node coordinates in JavaFX</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> has two shorts posts this week. Firstly, he has posted about <a href="http://pixelduke.wordpress.com/2012/09/01/circle-buttons-in-css/">creating circular buttons in JavaFX using CSS</a>, and <a href="http://pixelduke.wordpress.com/2012/09/02/target-text-on-javafx-ui-controls-through-css/">modifying the styling of text within UI controls</a> (once again simply by using CSS).</li>
+	<li><strong>Sanjay Dasgupta</strong> continues to blog about his <a href="http://weblogs.java.net/blog/sanjaydasgupta/archive/2012/08/03/fxjs-smarter-fxml-alternative">FX.js project</a>, announcing that <a href="http://weblogs.java.net/blog/sanjaydasgupta/archive/2012/08/25/application-architectures-document-available-now?force=743">the FX.js application architecture documentation is now available</a> (which <a href="http://fxjs.java.net/ApplicationArchitectures.html">you can see here</a>).</li>
+	<li>Most importantly of all, <strong>Nagai Masato</strong> has created <a href="http://nagaimasato.blogspot.co.nz/2012/09/smileyfx-smiley-for-javafx.html?spref=tw">SmileyFX</a>, which allows for you to easily insert smiley's into your user interface.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Marco Dinacci</strong> has blogged about <a href="http://www.intransitione.com/blog/take-java-to-app-store/">taking your Java desktop application to the Mac App Store</a>.</li>
+</ul>
+<p>That's all for us this week - hopefully you found a few of the links above useful! :-) Catch you all in a weeks time!</p>
+]]></Content>
+	</post>

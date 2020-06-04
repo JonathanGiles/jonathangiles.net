@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1990</ID>
+		<Slug>java-desktop-links-of-the-week-october-18-2</Slug>
+		<Title>Java desktop links of the week, October 18</Title>
+		<Date>2015-10-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>'Twas the week before JavaOne and not a developer was stirring :-) Well, almost - there are still some interesting links this week.&nbsp;For everyone going to JavaOne I wish you safe travels and I look forward to seeing you all in a weeks time. For those of you unable to attend - keep an eye out on the usual places for all the latest news. I'll not be doing my post next week, but I will try my best to recap when I return to New Zealand after JavaOne.</p>
+<ul>
+	<li>Better late than never,&nbsp;<strong>Jeff Friesen</strong> has just posted about&nbsp;<a href="http://www.javaworld.com/article/2991463/core-java/javafx-improvements-in-java-se-8u40.html#tk.rss_corejava">JavaFX improvements in Java SE 8u40</a> (such as accessibility, dialogs, spinner, and formatted text input).</li>
+	<li><strong>Michael Heinrichs</strong> has open sourced his&nbsp;<a href="https://github.com/netopyr/caj">?aj testing framework</a>. ?aj "enables you to write expectations for your tests in a straightforward and simple way."</li>
+	<li><strong>Hendrik Ebbers</strong> has posted a tutorial on <a href="http://www.guigarage.com/2015/10/dolphin-platform-how-to-create-an-application/">how to build a JavaFX application using the Dolphin Platform project</a>.</li>
+	<li><strong>Andres Almiray</strong> has announced that&nbsp;<a href="http://www.jroller.com/aalmiray/entry/basilisk_0_0_0_released">Basilisk 0.0.0 has been released</a>. Basilisk is a fork of Griffon that also includes mobile support.</li>
+	<li>I came across FXMaps on GitHub this week. It is a&nbsp;<a href="https://github.com/fxpresso/FXMaps">JavaFX Client API for Google Maps Services</a>.</li>
+</ul>
+<p>That's all folks - see you on the other side of JavaOne.</p>
+]]></Content>
+	</post>

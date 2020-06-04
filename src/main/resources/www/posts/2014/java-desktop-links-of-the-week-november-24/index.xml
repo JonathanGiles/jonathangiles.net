@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1837</ID>
+		<Slug>java-desktop-links-of-the-week-november-24</Slug>
+		<Title>Java desktop links of the week, November 24</Title>
+		<Date>2014-11-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A lot of links this week, enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Adam Bien</strong> has an article on '<a href="https://www.voxxed.com/blog/2014/11/structuring-complex-javafx-8-applications-for-productivity/">Structuring Complex JavaFX 8 Applications for Productivity</a>'.</li>
+	<li><strong>José Pereda</strong> has written an article for this months Java Magazine called '<a href="http://www.oraclejavamagazine-digital.com/javamagazine_open/20141112open#pg56">Building castles in the sky</a>', which is all about JavaFX and its 3D capabilities.</li>
+	<li>Speaking of <strong>José</strong>, he has also posted a YouTube video of a JavaFX-based "<a href="https://www.youtube.com/watch?v=CMGQrcm8RV0&amp;feature=youtu.be">icosphere</a>, a 3D custom mesh of an sphere created with a triangle mesh (40k points, 80k faces, 65k colors). A variable density function is mapped to the texture to achieve this moving effect, without using images."</li>
+	<li><strong>David Gilbert</strong> has also published an article in Java Magazine, titled “<a href="http://www.oraclejavamagazine-digital.com/javamagazine_open/20141112open#pg63">A Bridge from Java 2D to JavaFX</a>”. This article describes the FXGraphics2D project that allows Java 2D code to target the JavaFX Canvas node.</li>
+	<li><strong>Matthieu Brouillard</strong> has announced that he is working to <a href="http://blog.matthieu.brouillard.fr/2014/11/16/cssfx-demo-integration-in-scenicview">integrate his CSSFX project into Scenic View</a>.</li>
+	<li><strong>Jens Deters</strong> has announced the <a href="http://www.jensd.de/wordpress/?p=1718">release of ShichimiFX 1.0.1</a>, which includes a few new nice features.</li>
+	<li><strong>Andres Almiray</strong> has been <a href="https://www.voxxed.com/blog/interview/andres-almiray-confessions-of-a-former-swing-aholic/">interviewed as a 'former Swing-aholic'</a>, talking about his thoughts on JavaFX. Note that when he mentions accessibility support coming up in a future release, that is the 8u40 release.</li>
+	<li><strong>Dirk Lemmermann</strong> posted two videos this week. Firstly, of his work on an <a href="https://www.youtube.com/watch?v=sFs6HsJ3B-I&amp;feature=youtu.be&amp;a">animated menu</a> (which looks pretty neat), and secondly on a <a href="https://www.youtube.com/watch?v=SW6AkQMQHAM&amp;feature=youtu.be">JavaFX browser debugger</a>.</li>
+	<li><strong>Rahman Usta</strong> has posted a video detailing <a href="http://kodcu.com/2014/10/writing-books-with-asciidoc-fx/">how to use the Asciidoc FX project</a> to write books.</li>
+	<li><strong>Yakov Fain</strong> has written a <a href="http://yakovfain.com/2014/11/20/tic-tac-toe-in-javafx/">JavaFX-based Tic-Tac-Toe game</a> in about 200 lines of code (spread over FXML, CSS, and Java files).</li>
+	<li><strong>Martin Andersson</strong> has written a JavaFX client for his '<a href="https://github.com/MartinanderssonDotcom/secure-login-file-transfer/">secure login and authenticated file transfers</a>' project.</li>
+	<li><strong>Mik</strong> has <a href="http://miksblog.capcaval.org/2014/11/javafx-jfxframe/">created a JfxFrame API</a> that (somewhat) mimics the Swing JFrame syntax, and allows users to not have to extend the JavaFX Application class.</li>
+</ul>
+<h4>SWT</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has written a <a href="http://tomsondev.bestsolution.at/2014/11/19/flexible-calendar-control-in-swt/">flexible calendar control in SWT</a>.</li>
+</ul>
+<p>That's all folks. Catch you next week! :-)</p>
+]]></Content>
+	</post>

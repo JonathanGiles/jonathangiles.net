@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2249</ID>
+		<Slug>java-desktop-links-of-the-week-march-13</Slug>
+		<Title>Java desktop links of the week, March 13</Title>
+		<Date>2017-03-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Sorry for the irregular posts recently - whilst on paternity leave my time was limited and it wasn't always easy to get posts out. Now that I'm back at work I can more easily get things written. Apologies to anyone I may have missed - keeping an eye out on latest developments was also a little difficult. Anyway, there's a lot to cover this week:</p>
+<ul>
+ 	<li><strong>Jens Deters</strong> has release <a href="http://www.jensd.de/wordpress/?p=2588">FontAwesomeFX 8.15</a>, with support for EmojiOne font icons and a number of bug fixes. He has also put the code out for his <a href="http://www.jensd.de/wordpress/?p=2606">TimeboxFX 2 project.</a></li>
+ 	<li><strong>Cuchaz</strong> has posted the source for his <a href="https://bitbucket.org/cuchaz/time-tracker">Time Tracker project</a>, a 'colorful calendar-like interface for tracking how you spend your time.'</li>
+ 	<li><strong>Tom Schindl</strong> has two posts to cover. Firstly, a post on <a href="https://tomsondev.bestsolution.at/2017/03/04/friday-fun-stuff-javafx-based-java-ide/">building a JavaFX-based Java IDE.</a>&nbsp;Secondly, he has posted about <a href="https://tomsondev.bestsolution.at/2017/03/05/efxclipse-and-the-future-of-e4-on-javafx/">e(fx)clipse and the future of e4 on JavaFX</a>.</li>
+ 	<li><strong>Gerrit Grunwald</strong> continues to refine his great-looking <a href="https://github.com/HanSolo/tilesfx">TilesFX project</a>.</li>
+ 	<li><a href="http://bluej.org/">BlueJ 4.0.0</a>, a free Java IDE designed for beginners, has been released with support for JavaFX.</li>
+ 	<li><strong>Edvin Syse</strong> has announced the <a href="https://github.com/edvin/tornadofx/releases/tag/v1.7.0">release of TornadoFX 1.7.0.</a></li>
+ 	<li>Speaking of TornadoFX, <strong>Ron Smits</strong> has blogged about <a href="https://ronsmits.org/2017/03/tornadofxform/">forms in TornadoFX</a>.</li>
+ 	<li><strong>Michael Heinrichs</strong> has <a href="https://netopyr.com/2017/02/27/new-features-reduxfx-0-2/">released ReduxFX 0.2</a><strong>.</strong></li>
+ 	<li><strong>Manuel Mauky</strong> has announced the release of <a href="http://lestard.eu/2017/new_mvvmfx_version/">mvvmFX 1.6.0</a>.</li>
+ 	<li><strong>Dirk Lemmermann</strong> has <a href="http://dlsc.com/2017/03/02/fxsampler/">blogged about FXSampler</a>, a simple app I wrote in the <a href="http://www.controlsfx.org">ControlsFX</a> project to demonstrate components. Because it is open source and designed for anyone to use, it has found a lot of use in other JavaFX projects.</li>
+</ul>
+]]></Content>
+	</post>

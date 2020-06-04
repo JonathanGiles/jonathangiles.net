@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>317</ID>
+		<Slug>using-google-collections-with-proguard</Slug>
+		<Title>Using Google Collections with ProGuard</Title>
+		<Date>2009-04-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags>java|Programming</Tags>
+		<Content><![CDATA[<p>Just a short post to anyone who uses <a href="http://code.google.com/p/google-collections/">Google Collections</a> in their applications and <a href="http://proguard.sourceforge.net">ProGuard</a> to obfuscate their code: it won't work because of the way Google Collections has been architected since around the 1.0-rc release.</p>
+
+<p>To get around this, simply include the following in your ProGuard config script:</p>
+<p>-dontskipnonpubliclibraryclasses</p>
+
+<p>To quote the <a href="http://proguard.sourceforge.net/manual/usage.html">Proguard manual</a> , this instruction:</p>
+<p><blockquote>Specifies not to ignore non-public library classes. By default, non-public     library classes are skipped while parsing library jars. The classes are     typically not relevant during processing, since they don't affect the     actual program code in the input jars. Ignoring them reduces memory usage     and processing time. Occasionally, a badly designed library may contain a     non-public library class that is extended/implemented by a public library     class. If the latter library class in turn is extended/implemented by a     program class, ProGuard will complain that it can't find the non-public     library class, which it had ignored during parsing. This option will     overcome that problem, at the cost of greater memory usage and longer     processing time.</blockquote></p>
+<p>Once this is done, the build should proceed as normal. In some circumstances (such as mine), your build may run out of memory. In this case, up the memory to the build script by adding the following VM arguments:</p>
+<p>-Xms512m -Xmx1024m</p>
+
+<p>Of course, you can vary that based on the memory requirements your build needs.</p>
+
+<p>Hope that helps!</p>
+]]></Content>
+	</post>

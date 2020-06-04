@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2639</ID>
+		<Slug>java-desktop-links-of-the-week-november-27</Slug>
+		<Title>Java desktop links of the week, November 27</Title>
+		<Date>2017-11-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A relatively quiet week in desktop Java land, but definitely no less interesting! :-)</p>
+<ul>
+ 	<li><strong>William Antônio&nbsp;Siqueira</strong> has written about <a href="http://fxapps.blogspot.co.nz/2017/11/visualize-neural-network-activation.html">visualising a neural network activation</a> using JavaFX. This is very cool!</li>
+ 	<li><strong>Tom Schindl</strong> has written about <a href="https://jaxenter.com/e4-javafx-138913.html">e4 on JavaFX</a>.</li>
+ 	<li><strong>Edvin Syse</strong>,&nbsp;<strong>Thomas Nield</strong>, and others&nbsp;have extended their TornadoFX project to create a kotlin-friendly <a href="https://github.com/edvin/tornadofx-controlsfx">wrapper around the ControlsFX project</a>.</li>
+ 	<li><strong>Almas Baimagambetov</strong> continues to improve his JavaFX Game Library (FXGL) project with <a href="https://github.com/AlmasB/FXGL">new features and bug fixes</a>.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has another Friday Fun Component: <a href="https://harmoniccode.blogspot.co.nz/2017/11/friday-fun-lii-circular-plots.html">circular plots</a>!</li>
+</ul>
+]]></Content>
+	</post>

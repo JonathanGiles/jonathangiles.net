@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1920</ID>
+		<Slug>java-desktop-links-of-the-week-may-18-2</Slug>
+		<Title>Java desktop links of the week, May 18</Title>
+		<Date>2015-05-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another round of weekly links - enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>To blow my own trumpet, this week I finally got my JEP published as a candidate for JDK 9.&nbsp;JEP 253 is titled '<a href="http://openjdk.java.net/jeps/253">Prepare JavaFX UI Controls &amp; CSS APIs for Modularization</a>', and that is exactly what it is about :-)</li>
+	<li><strong>Alexander Casall</strong> has posted about&nbsp;<a href="http://jaxenter.com/mvvmfx-model-view-viewmodel-javafx-114907.html">mvvmFX</a>, a library for Model-View-ViewModel with JavaFX.</li>
+	<li><strong>Jens Deters</strong> has released <a href="http://www.jensd.de/wordpress/?p=2026">FontAwesomeFX 8.4</a>, which fixes a few bugs and adds a few new features.</li>
+	<li>The <strong>Gluon</strong> guys have posted a quick teaser trailer of the <a href="http://gluonhq.com/introducing-gluon-glisten/">Gluon Glisten library</a> that will be coming out soon. Pretty epic music :-)</li>
+	<li><strong>René Jahn</strong> has posted to announce the first release of the&nbsp;<a href="http://blog.sibvisions.com/2015/05/16/jvx-javafx-ui-first-release/">JVx JavaFX UI library</a>.</li>
+	<li><strong>Christoph Keimel</strong> has posted about <a href="http://www.kware.net/?p=204">filtering a JavaFX TreeView</a>.</li>
+	<li><strong>Wolfgang Weigend</strong> has posted about <a href="http://jaxenter.com/automated-testing-javafx-gui-components-113720.html">automated testing of JavaFX UI components</a> - and one of the screenshots of the test tool looks strangely a lot like the <a href="http://fxexperience.com/2014/09/announcing-scenic-view-8-0-0/">3D viewer in Scenic View</a>....</li>
+</ul>
+<p>That's all - catch you next week. Bye! :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,44 @@
+${include header}
+<body class="page">
+<div id="page" class="hfeed site">
+    ${include hero}
+    <div class="page-title-container">
+        <header class="page-header">
+            <h2 class="page-title">Blog</h2>
+        </header>
+    </div>
+    <div id="content" class="site-content">
+        <div id="primary" class="content-area">
+            <main id="main" class="site-main" role="main">
+                <article id="post-3222" class="post-3222 post type-post status-publish format-standard hentry category-java-client tag-javafx">
+                    <header class="entry-header">
+                        <div class="entry-header-row">
+                            <div class="entry-header-column">
+                                <h1 class="entry-title">${title}</h1>
+                            </div>
+                        </div>
+                    </header>
+                    <div class="entry-meta">
+                        <span class="posted-date">Posted on ${date}</span>
+                    </div>
+                    <div class="entry-content">
+                        ${content}
+                    </div>
+                </article>
+
+                <div id="comments" class="comments-area">
+                    <h2 class="comments-title">Thoughts on <span>&ldquo;${title}&rdquo;</span> </h2>
+
+                    <script src="https://utteranc.es/client.js"
+                            repo="jonathangiles/jonathangiles.net-comments"
+                            issue-term="pathname"
+                            theme="github-light"
+                            crossorigin="anonymous"
+                            async>
+                    </script>
+                </div>
+
+            </main>
+        </div>
+    </div>
+${include footer}

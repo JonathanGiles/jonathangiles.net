@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1095</ID>
+		<Slug>java-desktop-links-of-the-week-august-15</Slug>
+		<Title>Java desktop links of the week, August 15</Title>
+		<Date>2011-08-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>I know I sound like a broken record...but where does time go?! It's mid-August already! This past week was a relatively quiet one in the Java desktop world, but despite being quiet there are some very interesting links this week. Let's get into it :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Dean Iverson</strong> has finally blogged about the work he and <strong>Jim Clarke</strong> are <a href="http://pleasingsoftware.blogspot.com/2011/08/introducing-groovyfx-it-about-time.html">doing on GroovyFX</a>. This is a good read for anyone interested in building JavaFX 2.0 user interfaces without all the verbosity of Java.</li>
+	<li><strong>Tom Eugelink</strong> put out a <a href="http://java.net/projects/miglayoutfx2/pages/Home">new release of MigLayoutFX2</a> to fix some bugs, and also <a href="http://twitter.com/#%21/tbeernot/status/102828986819809280">announced a name change to MigPane</a> to be more consistent with the naming pattern used within JavaFX.</li>
+	<li><strong>Narayan</strong> has released the <a href="http://blog.ngopal.com.np/2011/08/13/source-code-of-autofill-textbox-released/">source code for his AutoFill TextBox</a>. He has <a href="http://blog.ngopal.com.np/2011/07/04/autofill-textbox-with-filtermode-in-javafx-2-0-custom-control/">blogged about this previously</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>JIDE Software</strong> has announced the <a href="http://www.jidesoft.com/company/news.htm">release of JIDE 3.2.0</a>, which includes a number of new features and components.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><a href="http://www.miglayout.com/mavensite/changes-report.html">MiGLayout 4.0 has been released</a>, which includes a number of bug fixes, and also now requires at least Java 5.</li>
+</ul>
+<p>That's all for this week - I hope you found a few links useful! Catch you next week with more Java desktop links!</p>
+]]></Content>
+	</post>

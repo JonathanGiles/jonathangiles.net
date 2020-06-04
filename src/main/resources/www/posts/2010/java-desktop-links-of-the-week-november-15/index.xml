@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>961</ID>
+		<Slug>java-desktop-links-of-the-week-november-15</Slug>
+		<Title>Java desktop links of the week, November 15</Title>
+		<Date>2010-11-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome to another weeks worth of Java desktop links. Devoxx is due to begin this week, which sees my colleagues Richard Bair and Jasper Potts presenting about JavaFX 2.0. There may be <a href="http://www.fxexperience.com">more information posted over at fxexperience.com</a> sometime after they are done speaking.</p>
+
+<p>The other notable happening this week was the news that Apple has announced it is joining the OpenJDK, and contributing some of their work over the past few years to the OpenJDK. I've got a few links below related specifically to this.</p>
+
+<p>This week is a really good week (in my opinion), so let's get in to those links! :)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Henrik Ståhl</strong>, from Oracle, has blogged about the <a href="http://blogs.oracle.com/henrik/2010/11/nimbus_look-and-feel_in_jdk_7.html">Nimbus look and feel in JDK 7</a> moving "from an Oracle-proprietary extension (com.sun.java.swing) to&nbsp;a  standard API&nbsp;(javax.swing) so that it becomes a true first class Swing  citizen." It will <strong>not</strong> be the default (platform-independent) look and feel.</li>
+	<li><strong>Jean-Francois Poilpret</strong> has put out<a href="https://designgridlayout.dev.java.net/"> another release of his DesignGridLayout layout manager</a> for Swing. This release takes the highly-regarded <a href="https://designgridlayout.dev.java.net/servlets/NewsItemView?newsItemID=9116">library to version 1.5</a>.</li>
+	<li><strong>Matt Turkel</strong> has blogged about <a href="http://matt-turkel.blogspot.com/2010/11/one-way-to-embed-windows-7-video-in.html">embedding Windows 7 video in Swing</a>. He does this by using JNA (Java Native Access) to call functionality in the underlying operating system using C/C++.</li>
+	<li><strong>Gerrit Grunwald</strong> has managed to post two more of his 'Friday fun components'. This week he has a nice <a href="http://harmoniccode.blogspot.com/2010/11/friday-fun-component-iii.html">'switch' component</a> and a <a href="http://harmoniccode.blogspot.com/2010/11/friday-fun-component-iv.html">rolling counter</a> component.</li>
+	<li><strong>Jan Kotek</strong> has blogged about <a href="http://kotek.net/blog/swingutilities.invokeandwait_with_return_value">SwingUtilities.invokeAndWait with return values</a>.</li>
+	<li><strong>Max Pidkova</strong> emailed me to let me know about his (commercial) <a href="http://powersayings.com/index.html">Power Sayings 2010</a> application which is built in Swing. It looks to be a clean, simple and well-polished application which may provide some inspiration (sadly, this pun was intended) for fellow Swing developers.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Johan Vos</strong> has blogged about <a href="http://blogs.lodgon.com/johan/j/blog/RedFX_and_JavaFX_20">JavaFX 2.0 and his RedFX project</a>. Having chatted with him at JavaOne, I am looking forward to seeing what he does with this project - it would be great to have this library available to people writing JavaFX 2.0 applications when JavaFX 2.0 is released later next year.</li>
+</ul>
+<h4>Apple / OpenJDK</h4>
+<ul>
+	<li><strong>Apple</strong> have put out a press release <a href="http://www.apple.com/pr/library/2010/11/12openjdk.html">announcing the details</a>.</li>
+	<li><strong>Mike Swingler</strong>, from the Java Engineering team at Apple, has provided a <a href="http://lists.apple.com/archives/Java-dev/2010/Nov/msg00104.html">few more details</a>.</li>
+	<li><strong>Henrik Ståhl</strong>, from Oracle, has provided a <a href="http://blogs.oracle.com/henrik/2010/11/oracle_and_apple_announce_openjdk_project_for_osx.html">few extra details about timeframes</a>.</li>
+	<li><strong>Richard Bair</strong> over at FXExperience <a href="http://fxexperience.com/2010/11/apple-contributes-to-openjdk/">noted the news</a>, and provided links to <a href="http://arstechnica.com/apple/news/2010/11/apples-openjdk-project-to-bring-java-se-7-to-the-mac.ars">ArsTechnica</a> and <a href="http://www.informationweek.com/news/software/open_source/showArticle.jhtml?articleID=228200849&amp;subSection=News">Information Week</a> news articles.</li>
+	<li><strong>James Sugrue</strong> has posted "<a href="http://java.dzone.com/articles/java-developers-dont-throw-out">Java Developers, Don't Throw Out Your Mac Yet: Apple Will Contribute To OpenJDK</a>".</li>
+	<li>In relation to this news, <strong>Mark Fortner</strong> has blogged on the topic of "<a href="http://www.jroller.com/phidias/entry/swing_not_quite_dead_yet">Swing: Not Quite Dead Yet</a>".</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Geertjan Wielenga</strong> has blogged about the new <a href="http://www.dzone.com/links/r/jdk_7_support_in_netbeans_ide_70.html">JDK 7 support coming up in NetBeans 7.0</a>. Reading this blog post reminds me why I'm looking forward to JDK 7 - there are a bunch of nice little tweaks to the language that I hit every single day. These tweaks will make my code cleaner and more readable. I can't wait.</li>
+</ul>
+<p>Phew - what a week! I hope you all found something interesting in this weeks post. Thanks to everyone who took the time to email me a link. Have a great week everyone, and I'll catch you all again next week.</p>
+]]></Content>
+	</post>

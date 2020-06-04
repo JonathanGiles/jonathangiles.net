@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1376</ID>
+		<Slug>java-desktop-links-of-the-week-december-24</Slug>
+		<Title>Java desktop links of the week, December 24</Title>
+		<Date>2012-12-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>It's Christmas eve here and there is a huge number of links, so please excuse the brevity - I want to get back to family and food! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Pavel Safrata</strong> announced that a bunch more <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2012-December/005007.html">JavaFX code was open sourced this week</a>, including animations, timelines, the scenegraph interface and prism implementation, etc.</li>
+	<li>The developer preview of <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">Scene Builder 1.1 b15 is now out, with support for Linux</a>. You can read the release notes to learn <a href="http://docs.oracle.com/javafx/scenebuilder/1/release_notes_1-1/jsbpub-release_notes_1-1.htm">what is new in the 1.1 release cycle</a>.</li>
+	<li><a href="http://open-dolphin.org/dolphin_website/Home.html">Dolphin</a> 0.4 has been released. Check out <a href="http://open-dolphin.org/download/guide/guide/introduction.html#changes">the changes</a>.</li>
+	<li>The December issue of <strong>JAX Magazine</strong> <a href="http://jaxenter.com/jax-magazine-december-featuring-datafx-tomee-and-some-scala-goodness-45863.html">has an article</a> written by <strong>Johan Vos</strong> on <a href="http://www.javafxdata.org">DataFX</a>.</li>
+	<li><strong>Danno Ferrin</strong> has updated his <a href="http://speling.shemnon.com//blog/2012/12/20/mirroring-openjfx-on-bitbucket-an-update/">approach to mirroring the OpenJFX project on bitbucket</a>.</li>
+	<li><strong>Jim Weaver</strong> has posted a <a href="http://learnjavafx.typepad.com/weblog/2012/12/a-brief-look-at-the-javafx-jfxtras-project.html">video showcasing a number of features</a> contained within the JFXtras project.</li>
+	<li><strong>Bruno Borges</strong> has posted a <a href="https://blogs.oracle.com/brunoborges/entry/webfx_running_javafx_as_web">video of his WebFX project</a>, which is essentially a JavaFX-based web browser that can browse both HTML and FXML 'websites'.</li>
+	<li><strong>Marco Jakob</strong> has posted part six in his series of tutorial blogs for JavaFX, this time focusing on <a href="http://edu.makery.ch/blog/2012/12/18/javafx-tutorial-addressapp-7/">JavaFX deployment with e(fx)clipse</a>.</li>
+	<li>Additionally, <strong>Marco</strong> has three further posts this week, with the following titles: "<a href="http://edu.makery.ch/blog/2012/12/19/javafx-event-handlers-and-change-listeners/">JavaFX Event Handlers and Change Listeners</a>", "<a href="http://edu.makery.ch/blog/2012/12/19/javafx-tableview-cell-renderer/">JavaFX TableView Cell Renderer</a>" and "<a href="http://edu.makery.ch/blog/2012/12/18/javafx-tableview-filter/">JavaFX TableView Filter</a>".</li>
+	<li><strong>Patrick Moule</strong> has posted about "<a href="http://patrickmoule.net/2012/12/16/building-and-packaging-of-javafx-applications-with-gradle/">Building and packaging of JavaFX applications with Gradle</a>".</li>
+	<li><strong>Ed</strong> has posted "<a href="http://ed4becky.net/homepage/javafx-from-the-trenches-part-1-native-packaging/">JavaFX from the Trenches – Part 1 – Native Packaging</a>". Note that the article is split over five pages.</li>
+	<li><strong>Canoo</strong> have announced that they are offering <a href="http://www.canoo.com/consultants/javafx/">JavaFX consulting and training</a>.</li>
+	<li><strong>TiwulFX</strong> has put up a website and video of their <a href="http://tiwulfx.panemu.com/">improvements to the JavaFX TableView control</a>.</li>
+	<li><strong>Leon Atherton</strong> has posted about "<a href="http://blog.idrsolutions.com/2012/12/integrating-javafx-with-swing-the-jfxpanel/">Integrating JavaFX with Swing: The JFXPanel</a>".</li>
+	<li><strong>Toru Takahashi</strong> has a page detailing building a <a href="http://www.02.246.ne.jp/~torutk/javafx2/deploy/standalonejarwithdepedency.html">standalone JavaFX JAR consisting of multiple jar files</a>.</li>
+	<li><strong>Thierry Wasyl</strong> has posted <a href="http://thierrywasyl.wordpress.com/2012/12/17/drawfx-early-task-board-screencast/">two</a> <a href="http://thierrywasyl.wordpress.com/2012/12/22/drawfx-what-you-draw-is-what-you-attach/">videos</a> of his DrawFX prototype.</li>
+	<li>There are a few posts this week related to JavaFX being used in alternative languages. Sanshiro Yoshida has a post about <a href="http://basking-cat.blogspot.jp/2012/12/javafx-web-start-with-clojure.html">tic-tac-toe written in Clojure</a>, <strong>cocoatomo</strong> has a post about <a href="http://blog.elliptium.net/2012/12/use-JavaFX-from-Jython">using JavaFX from Jython</a>, and <strong>Asko K</strong> has posted about "<a href="http://openduck.blogspot.fi/2012/12/adding-condapply-to-scala-for-natural.html">adding 'condapply' to Scala, for natural JavaFX bindings</a>".</li>
+	<li><strong>Terada Yoshio</strong> has posted about building a <a href="http://yoshio3.com/2012/12/22/javaee7-websocket-client-sample-with-javafx/">Java EE 7 WebSocket client sample application with JavaFX</a>.</li>
+</ul>
+<h4>JavaFX and Raspberry Pi</h4>
+<ul>
+	<li>JavaFX on ARM CPUs (like the Raspberry Pi) got a big boost this week, with the <a href="http://jdk8.java.net/fxarmpreview/index.html">release of a hard float JDK 8 (with JavaFX) for ARM early access build</a>. You can <a href="http://jdk8.java.net/fxarmpreview/javafx-arm-developer-preview.html">read the release notes for more information</a>.</li>
+	<li><strong>Richard Bair</strong> posted some <a href="http://fxexperience.com/2012/12/javafx-on-raspberry-pi/">performance numbers for Java on the Raspberry Pi</a>, showing that it is possible to get really good performance out of such a cheap and low-powered device. He also has a few useful tips for how to get JavaFX applications working on it.</li>
+	<li><strong>Stephen Chin</strong> has posted a useful guide to <a href="http://javafx.steveonjava.com/javafx-on-raspberry-pi-3-easy-steps/">getting started with Java 8 (including JavaFX 8.0) on a Raspberry Pi</a>. I followed them and everything went smoothly.</li>
+	<li><strong>Robert Savage</strong> has posted another tutorial on <a href="http://www.savagehomeautomation.com/projects/raspberry-pi-installing-oracle-java-se-8-with-javafx-develop.html">setting up the Raspberry Pi to use JDK 8</a>, with greater detail on how to SSH into it (which is useful for those of you not wanting to hook up another keyboard, mouse and screen).</li>
+	<li><strong>Jim Connors</strong> has put up an interesting YouTube video where he hooks a <a href="https://blogs.oracle.com/jtc/entry/a_raspberry_pi_javafx_electronic">Raspberry Pi up to a tv and communicates with it wirelessly</a> as it displays a scoreboard application. I'd love to see the code for that :-).</li>
+	<li><strong>José Pereda</strong> has put up part two of his series of posts on "<a href="http://jperedadnr.blogspot.co.nz/2012/12/arduinofx-javafx-gui-for-home_17.html">ArduinoFX: A JavaFX GUI for Home Automation with Raspberry Pi and Arduino</a>".</li>
+	<li><strong>René Jahn</strong> continues to explore embedded technologies, this week posting "<a href="http://blog.sibvisions.com/2012/12/19/welcome-raspberrypi/">Welcome Raspbery Pi</a>" where he talks through his initial issues setting the device up.</li>
+</ul>
+<p>Wow, that took a long time to write! Catch you all again next week - and I wish you all a great festive season.</p>
+]]></Content>
+	</post>

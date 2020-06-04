@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>99</ID>
+		<Slug>what-is-the-semantic-web-in-34-words</Slug>
+		<Title>What is the Semantic Web in 34 words</Title>
+		<Date>2007-07-10</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>semantic-web-research</Tags>
+		<Content><![CDATA[<p>On a cold and rainy Tuesday night at 10:47pm I was reading an enthralling short paper titled 'An Ontology-Based Similarity between Sets of Concepts'. As of right now I'm yet to pass the first paragraph, so I can't really say if it was any good, but it did give a nice and concise explanation of what the semantic web is all about. It is:</p>
+<p><blockquote>The Semantic Web is a project that intends to create a universal medium for information exchange by giving meaning (semantics), in a manner understandable by machines, to the content of documents on the web.</blockquote></p>
+<p>To be fair, this paper simply lifted this quote from wikipedia, but I was unable to find it, so sorry for not citing the original source.</p>
+
+<p>If I could, let me explain to you why this excites me (and yes, I am a geek): why should all applications have to translate data to work with it? Why should that be an issue for me - it sucks, is painful, and is incredibly easy for someone to break. A web of such weak data conduits frankly frightens me. Conversely, if we can start to standardise, like we are on things like RDF, and to a lesser degree, OWL, then application writers (and that includes those of us on the web 2.0 bandwagon) can very quickly start sharing data willy-nilly.</p>
+
+<p>It's almost like free semantically-rich information for our computers to chew down on. Actually, it is, and imagine the benefits once things start to take off in the next 5 years.</p>
+
+<p>Don't get left behind - start planning for your software to work with this technology now. Trust me, it won't hurt - I've converted a rather large application just recently as part of my research to support the semantic web - the possibilities exploded!</p>
+]]></Content>
+	</post>

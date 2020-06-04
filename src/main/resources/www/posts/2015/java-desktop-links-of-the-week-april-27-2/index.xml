@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1907</ID>
+		<Slug>java-desktop-links-of-the-week-april-27-2</Slug>
+		<Title>Java desktop links of the week, April 27</Title>
+		<Date>2015-04-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A few interesting posts this week. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has posted about his work on <a href="http://tomsondev.bestsolution.at/2015/04/23/lightweight-dialogs-in-e4-javafx/">lightweight dialogs in e4 and JavaFX</a>.</li>
+	<li>Speaking of <strong>Tom</strong>, he was interviewed on the topic of <a href="http://www.infoq.com/interviews/eclipse-tom-schindl-javafx">JavaFX within Eclipse</a>.</li>
+	<li><strong>Adam Bien</strong> was interviewed at jax.de on the topic of '<a href="http://www.adam-bien.com/roller/abien/entry/java_fx_more_future_proof">Java FX or HTML 5</a>'. He makes some very interesting points.</li>
+	<li><strong>Manuel Mauky</strong> has blogged that he has <a href="http://lestard.eu/2015/mvvmfx_1_1/">released mvvmFX 1.1.0</a>, and there sound like there are a number of interesting improvements in this release.</li>
+	<li><strong>René Jahn</strong> has a post about a number of <a href="http://blog.sibvisions.com/2015/04/24/javafx-custom-controls/">custom UI controls that he has developed</a>.</li>
+</ul>
+<p>That's all folks - catch you again next week!</p>
+]]></Content>
+	</post>

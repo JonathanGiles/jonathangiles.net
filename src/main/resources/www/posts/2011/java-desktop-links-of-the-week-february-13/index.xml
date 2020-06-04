@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>988</ID>
+		<Slug>java-desktop-links-of-the-week-february-13</Slug>
+		<Title>Java desktop links of the week, February 13</Title>
+		<Date>2011-02-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Can it be....another Java desktop links of the week?! Sure - and sorry about the delay! I have no real excuse for the delay, except that the past month has been hectic for me and I'm only just starting to get a few moments of breathing time to get a new post out. Between relocating to Australia, spending a week in California, and working flat-out on JavaFX 2.0, I've just struggled to find the time to pull this post together. Going forward I do however plan to continue these weekly post, providing you all are doing your bit and sending me links and producing good content :-)</p>
+
+<p>This weeks post brings together the links I've accumulated in the last few weeks. With the JavaFX 2.0 early access release coming out right on schedule, there have been people playing with this and giving their early thoughts. In addition to this, there has been plenty of work in the Swing and Griffon areas, and there is also some miscellaneous links I think many of you will like.</p>
+<h4>JavaFX 2.0</h4>
+<ul>
+	<li><strong>Richard Bair</strong>, Java Client Architect and blogger over at <a href="http://www.fxexperience.com">FX Experience</a>, was interviewed by <strong>Java Spotlight</strong>. He provides a lot of <a href="http://blogs.sun.com/javaspotlight/entry/java_spotlight_episode_16_richar">insight into JavaFX 2.0</a>, both where it is now and where we are taking it in the coming months before the final release.</li>
+	<li><strong>Dean Iverson</strong> has blogged about<a href="http://pleasingsoftware.blogspot.com/2011/02/sweet-combination-javafx-20-ea-griffon.html"> using the JavaFX 2.0 early access release with Groovy/Griffon</a>. He has even uploaded a YouTube video showing a brief glimpse of what he created. It isn't much, but it's exciting to hear of people using JavaFX productively in various JVM-based languages.</li>
+	<li><strong>Adam Bien</strong> blogged about JavaFX 2.0, in particular a smoke test around the <a href="http://www.adam-bien.com/roller/abien/entry/java_fx_2_0_the">installation, docs and launch experience</a>. His thoughts are all very positive, which is great considering the early stage that JavaFX 2.0 is in.</li>
+	<li>Finally, <strong>Eric Bruno</strong> has also announced that he has JavaFX 2.0 EA, and <a href="http://www.drdobbs.com/blog/archives/2011/02/javafx_20_1.html">is very impressed by it</a>. There isn't much more content to this post, but he promises to continue blogging about his thoughts and findings as the weeks go on.</li>
+</ul>
+<h4>JavaFX 1.x</h4>
+<ul>
+	<li><strong>Kyle Thayer</strong> let me know about IFCSoft. It is a data visualization program that uses Self-Organizing Maps to view multi-dimensional data. You can run the program at <a href="http://www.ifcsoft.org/">http://www.ifcsoft.org</a> and get the code at <a href="https://code.google.com/p/ifcsoft/">https://code.google.com/p/ifcsoft/</a>.</li>
+	<li><strong>Andre Hogenkamp</strong> has blogged about <a href="http://andre86blog.blogspot.com/2011/02/javafx-zoomable-linechart.html">creating a JavaFX zoomable linechart</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><a href="http://www.miglayout.com/mavensite/changes-report.html">MiGLayout 3.7.4 was recently released</a>, and it appears to be primarily a bug fix / polishing release.</li>
+	<li><strong>Centigrade GmbH</strong> have released a <a href="http://www.centigrade.de/en/products/bizlaf-stock-look-and-feel">new (commercial) Swing look and feel called BizLaf</a>. It is intended for use in business apps where a professional look and feel is required.</li>
+	<li><strong>Gerrit Grunwald</strong> has <a href="http://harmoniccode.blogspot.com/2011/02/steelseries-37-reunion-release.html">released SteelSeries 3.7.1</a>, which he calls the 'Reunion Release', given that "from this release on you will also find the components from the SteelExtras lib back in the SteelSeries lib."</li>
+	<li>In another post, <strong>Gerrit</strong> continues with his Friday Fun components, this week <a href="http://harmoniccode.blogspot.com/2011/02/friday-fun-component-v.html">creating a LED panel</a> that allows to recreate images using what resembles a panel of LEDs.</li>
+	<li><strong>Eugene Ryzhikov</strong> has <a href="http://eugene.ryzhikov.com/swing-bits-new-ui-library-from-oxbow-project">continued with his oxbow project</a>, adding in a Table Filter UI, a Check List, and several utility classes.</li>
+	<li><strong>Kaesar Alnijres</strong> has provided a <a href="http://www.java-javafx.com/2011/01/windowbuilder-pro-hello-world-java.html">graphical introduction to the WindowBuilder Pro GUI designer tool</a> recently open sourced by Google.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Eric Wendelin</strong> blogged about <a href="http://eriwen.com/python/griffon-jython-plugin/">integrating Jython with Griffon</a>. He introduces a new Jython plugin for Griffon to enable this.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Mark Reinhold</strong> presented at Devoxx late last year about <a href="http://www.parleys.com/#id=2116&amp;sl=1&amp;st=5">Java SE: The Road Ahead</a>. This was a repeat of his talk at JavaOne, so you may have already seen it, but nonetheless it is an interesting watch to learn about what is coming up in Java 7, Java 8 and beyond.</li>
+	<li><strong>Apache Software Foundation</strong> announced that <a href="https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces10">Pivot 2.0 has been released</a>.</li>
+	<li><strong>Andres Almiray</strong> announced the <a href="http://www.dzone.com/links/r/griffon_092rc1_released.html">release of Griffon 0.9.2-rc1 this week</a>. This release fixes a few packaging issues and includes a number of new features. There is also one breaking change to take note of.</li>
+	<li><strong>Mario Torre</strong> announced a <a href="http://www.jroller.com/neugens/entry/introducing_icedrobot">new project called IcedRobot</a>, which is an attempt by a small team of people to 1) separate Dalvik from Android and 2) put the Android stack on top of the OpenJDK, running on HotSpot. This might be a very interesting project for some people to keep an eye on.</li>
+</ul>
+<p>That's us for another week - and once again apologies since the last post - I'll try not to do that again any time soon! Keep up all the hard work folks, and I'll catch you all in a weeks time. :-)</p>
+]]></Content>
+	</post>

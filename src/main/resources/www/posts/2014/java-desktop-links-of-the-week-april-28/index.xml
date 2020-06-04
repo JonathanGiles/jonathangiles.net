@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1718</ID>
+		<Slug>java-desktop-links-of-the-week-april-28</Slug>
+		<Title>Java desktop links of the week, April 28</Title>
+		<Date>2014-04-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Heaps of links - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has posted that an update-site is available for the <a href="http://tomsondev.bestsolution.at/2014/04/22/swt-on-javafx-update-site-available/">SWT on JavaFX project</a>.</li>
+	<li><strong>Uwe Sander</strong> has posted about how he managed to get <a href="http://ustesis.wordpress.com/2014/04/23/headless-ui-testing-with-testfx-and-javafx-8/">headless UI testing</a> functioning in JavaFX 8u20 using <a href="https://wiki.openjdk.java.net/display/OpenJFX/Monocle">Monocle</a>.</li>
+	<li>Speaking of <strong>Uwe</strong>, he also has a post about his <a href="https://github.com/tesis-dynaware/fancy-chart">fancy-chart library</a> that combines JavaFX charts and TableView - it <a href="http://ustesis.wordpress.com/2014/04/24/zooming-in-the-fancy-chart-control/">now supports zooming</a>.</li>
+	<li><strong>Tomas Mikula</strong> has a post about <a href="http://tomasmikula.github.io/blog/2014/04/25/combining-reactfx-and-asynchronous-processing.html">combining ReactFX and asynchronous processing</a>.</li>
+	<li><strong>Tom Eugelink</strong> has a post on <a href="http://tbeernot.wordpress.com/2014/04/25/java-8-method-references/">Java 8 method references</a>, in relation to his JavaFX CircularPane layout component.</li>
+	<li><strong>Felix Bembrick</strong> has a post on why he thinks <a href="http://justmy2bits.com/2014/04/21/javafx-why-it-matters-even-more-with-java-8/">JavaFX matters even more now that it is part of Java 8</a>.</li>
+	<li><strong>Doug Schaefer</strong> has a tutorial outlining a simple approach to <a href="http://cdtdoug.ca/?p=547">writing JavaFX Eclipse RCP applications</a>.</li>
+	<li><strong>Thierry Wasyl</strong> has a post on <a href="http://thierrywasyl.wordpress.com/2014/04/24/build-a-javafx-leapmotion-application-with-gradle/">building a JavaFX application with gradle</a>.</li>
+	<li><strong>Jens Deters</strong> has posted about a feature in NetBeans 8: built-in <a href="http://www.jensd.de/wordpress/?p=1095">support for Remote Java Standard Edition platform</a>. He has included a number of videos to demonstrate the functionality.</li>
+	<li><strong>Sébastien Bordes</strong> has two posts this week. Firstly, he talks about <a href="http://blog.jrebirth.org/javafx/builders-revisited/">revisiting the JavaFX builders API</a> (which is deprecated in JavaFX 8.0). I need to take issue with his summary that builders are deprecated due to "size restriction to reach the mobility goal" - this is not correct at all. The <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2013-March/006725.html">openjfx-dev post he links to</a> clearly says that they are being deprecated because we (unknowingly) relied on bugs in Java 6 and 7 that were fixed in Java 8, and there is no easy way to retain API compatibility. Secondly, he has announced that <a href="http://blog.jrebirth.org/releases/jrebirth-application-framework-7-7-1-is-released/">JRebirth Application Framework 7.7.1 has been released</a> to fix a regression in 7.7.0.</li>
+	<li><strong>Mark Stephens</strong> has posted an update on his (commercial) <a href="http://blog.idrsolutions.com/2014/04/javafx-pdf-viewer-updates/">PDF viewer library</a>.</li>
+	<li><strong>Jeff Martin</strong> has blogged about the <a href="http://reportmill.wordpress.com/2014/04/27/snapcode-update-april-25-added-snapimage/">latest updates to SnapCode</a>, his IDE and RAD tool for education, entertainment and the enterprise.</li>
+</ul>
+<h4>Java2D</h4>
+<ul>
+	<li><strong>David Gilbert</strong> has posted a speed comparison between his <a href="http://object-refinery.com/blog/blog-20140423.html">JFreeSVG project and Apache Batik</a>.</li>
+</ul>
+<p>Keep up the great work - catch you all next week!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>141</ID>
+		<Slug>vista-sp1-breaking-your-hibernation</Slug>
+		<Title>Vista SP1 breaking your hibernation?</Title>
+		<Date>2008-03-26</Date>
+		<Status>publish</Status>
+		<Categories>Technology</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Vista SP1 broke my hibernation, so I searched and came across this. It worked for me, so in the interest of helping someone else, here you go:</p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'">1. Run CMD.EXE as administrator</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'">2. Run the following command: <strong>bcdedit -enum all</strong></span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'"><span>   </span>Look for "Resume from Hibernate" in the output from the command above(example below):</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'"><span>   </span>Resume from Hibernate</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'"><span>   </span>---------------------</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'"><span>   </span></span><span style="font-size: 10pt; color: red; font-family: 'Courier New'">identifier {3d8d3081-33ac-11dc-9a41-806e6f6e6963}</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'"><span>   </span>device partition=C:</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'"><span>   </span>path \Windows\system32\winresume.exe</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'"><span>   </span>description Windows Vista (TM) Enterprise (recovered)</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'"><span>   </span></span><span style="font-size: 10pt; color: red; font-family: 'Courier New'">inherit {resumeloadersettings}</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'"><span>   </span>filedevice partition=C:</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'"><span>   </span>filepath \hiberfil.sys</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'"><span>   </span>pae Yes</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'"><span>   </span>debugoptionenabled No</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'">3. Once you have found it, copy the value for identifier (in this example - {3d8d3081-33ac-11dc-9a41-806e6f6e6963})</span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'">4. Run the following command: <strong>bcdedit /deletevalue {3d8d3081-33ac-11dc-9a41-806e6f6e6963} inherit</strong></span></p>
+<p><p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 10pt; color: #1f497d; font-family: 'Courier New'">5. Test hibernation.</span></p>
+]]></Content>
+	</post>

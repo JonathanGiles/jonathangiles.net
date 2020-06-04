@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1594</ID>
+		<Slug>java-desktop-links-of-the-week-november-4</Slug>
+		<Title>Java desktop links of the week, November 4</Title>
+		<Date>2013-11-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Welcome all to another weeks worth of links. Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JavaFX Scene Builder 2.0 Early Access is <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">now available for download</a>! Refer to the <a href="http://docs.oracle.com/javafx/scenebuilder/2/release_notes_2-0/jsbpub-release_notes_2-0.htm">release notes</a> to learn what has changed.</li>
+	<li>This week the <a href="http://www.oracle.com/javaone/sessions/index.html">first batch of JavaOne session recordings</a> have been put online. There are a number of JavaFX-related talks available already, so be sure to check them out!</li>
+	<li><strong>Danno Ferrin</strong> has released <a href="http://speling.shemnon.com//blog/2013/10/29/javafx-gradle-plugin-0-dot-4-0-released/">version 0.4.0 of the JavaFX Gradle Plugin</a>. New in this release is the ability to specify a particular source set from which to package your runtime classes from. There were also a large number of bug fixes.</li>
+	<li><strong>Pedro Duque Vieira</strong> continues to revise his JMetro JavaFX stylesheet. This week he has <a href="http://pixelduke.wordpress.com/2013/10/27/metro-style-context-menu-for-java-jmetro-revisited/">improved the styling of the JavaFX ContextMenu control</a> to make it look more appropriate in JMetro, and also <a href="http://pixelduke.wordpress.com/2013/10/30/metro-style-push-button-for-java-jmetro-revisited/">improved the styling of JavaFX push button controls</a>.</li>
+	<li><strong>Arnaud Nouard</strong> has <a href="http://arnaudnouard.wordpress.com/2013/11/01/undecorator-automn-enhancements/">updated his Undecorator project</a>. In the latest release, there is improved support for showing title text, a cool docking indicator and a bunch of bug fixes.</li>
+	<li><strong>Robert Ladstätter</strong> has posted a <a href="http://ladstatt.blogspot.co.nz/2013/10/devfest-vienna-2013.html">video recording of his presentation at DevFest Vienna 2013</a>. His summary of the talk is that he talks about how to "build a JavaFX application, show how easy it is to create user interfaces with Scene Builder, how to connect a native library (OpenCV) with the Java ecosystem, and above all how to use Scala to glue it all together."</li>
+	<li><strong>Jan Köhnlein</strong> has posted a video of his <a href="http://koehnlein.blogspot.co.nz/2013/11/where-no-diagram-editor-has-ever-gone.html">Star Trek LCARS terminal, written in JavaFX</a>.</li>
+</ul>
+<p>Catch you all in a weeks time! :-)</p>
+]]></Content>
+	</post>

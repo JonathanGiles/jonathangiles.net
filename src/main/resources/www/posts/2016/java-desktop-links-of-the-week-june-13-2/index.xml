@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2119</ID>
+		<Slug>java-desktop-links-of-the-week-june-13-2</Slug>
+		<Title>Java desktop links of the week, June 13</Title>
+		<Date>2016-06-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Lots of great links this week from the community. Enjoy! :-)</p>
+<ul>
+ 	<li><strong>Tom Schindl</strong> announced the <a href="https://tomsondev.bestsolution.at/2016/06/06/efxclipse-2-4-0-released/">release of e(fx)clipse 2.4.0</a>, which is a release primarily focused on the code editor framework.</li>
+ 	<li><strong>Michael Hoffer</strong> was <a href="http://mihosoft.eu/?p=1257">interviewed about his visual programming research</a> and other activities in the Java community.</li>
+ 	<li><strong>Robert Smith</strong> and <strong>Tony McCrary</strong> have a video online about their '<a href="https://www.infoq.com/presentations/3d-eclipse-ice-javafx">adventures in 3D with Eclipse ICE and JavaFX</a>'. This includes "how the JavaFX 3D API works and lessons learned during the migration of an existing 3D tool to JavaFX 8's 3D API."</li>
+ 	<li><strong>Peter Rogge</strong> has published part three of his series on building SokubanFX, this time focusing on '<a href="https://github.com/Naoghuman/articles/blob/master/SokubanFX/03_Stabilization-from-the-prototype.md">stabilization from the prototype</a>'.</li>
+ 	<li>Somehow I missed the news that <strong>Gluon</strong> <a href="http://gluonhq.com/gluon-mobile-3-0-0-released/">released Gluon Mobile 3.0.0 on May 30th</a>.</li>
+ 	<li><strong>Gluon</strong> <a href="http://gluonhq.com/introducing-gluon-vm/">announced this week </a>the <a href="http://gluonhq.com/labs/vm/">Gluon VM project</a>, a Java VM designed to support Java 9 on mobile devices, along with AOT, JIT, and runtime interpretation modes. This was expanded on in an <a href="https://www.infoq.com/news/2016/06/Gluon-VM-Full-Mobile-Java-9">InfoQ article / interview</a> by&nbsp;<strong>Victor Grazi</strong>.</li>
+ 	<li><strong>Jyloo Software</strong> has announced the <a href="http://www.jyloo.com/news/?pubId=1465196918000">first beta release of SyntheticaFX</a>, a pure JavaFX library port of Synthetica for Swing.</li>
+</ul>
+]]></Content>
+	</post>

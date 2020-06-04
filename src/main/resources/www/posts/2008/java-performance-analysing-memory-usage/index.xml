@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>153</ID>
+		<Slug>java-performance-analysing-memory-usage</Slug>
+		<Title>Java Performance: Analysing Memory Usage</Title>
+		<Date>2008-05-21</Date>
+		<Status>publish</Status>
+		<Categories>Programming|Technology</Categories>
+		<Tags>Programming|software</Tags>
+		<Content><![CDATA[<p>I just come across <a href="http://kohlerm.blogspot.com/2008/05/analyzing-memory-consumption-of-eclipse.html">this very useful blog post</a> that discusses an <a href="http://www.eclipse.org/mat/">Eclipse-based tool</a> that helps to analyse memory usage/wastage in Java applications. Having never heard of this tool before, I will definitely be looking into it in the next few days.</p>
+
+<p>Obviously, to me and most people, performance is very important, as <a href="http://www.centruflow.com">Centruflow</a> is a graphically-rich application for which users demand a fluid experience, both in getting the application started (where Java traditionally struggles), and then once using the application. There are a number of traps in Java given that the main user interface library Swing is single threaded, and all interactions with the user interface should be done in this thread by calling the event dispatch thread. Not knowing this can lead to all sorts of unresponsive user interfaces and thread safety issues.</p>
+
+<p>If anyone out there has other tools they recommend for analysing performance, I would love to hear about them.</p>
+]]></Content>
+	</post>

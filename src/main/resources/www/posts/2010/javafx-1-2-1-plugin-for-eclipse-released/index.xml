@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>688</ID>
+		<Slug>javafx-1-2-1-plugin-for-eclipse-released</Slug>
+		<Title>JavaFX 1.2.1 Plugin for Eclipse Released!</Title>
+		<Date>2010-01-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>The marketing folks at Sun email me when things are being announced. They just let me know that a new JavaFX plugin for Eclipse has been released. As per the announcement that'll sooner or later turn up on the official JavaFX blog:</p>
+<p><blockquote>A new version of the JavaFX Plugin for Eclipse IDE has just been  released! This latest version is based on the JavaFX 1.2.1 SDK and  supports Eclipse 3.5.x IDE.&nbsp; Read the <a href="http://javafx.com/docs/gettingstarted/eclipse-plugin/release-notes.jsp">Release Notes</a> to learn more about the changes made since the June 2009 release.  Download this latest version using the instructions in the <a href="http://javafx.com/docs/gettingstarted/eclipse-plugin/index.jsp">Getting  Started</a> document.</p>
+
+<p>Let us know what you think of this new release by providing feedback on  the <a href="http://kenai.com/projects/eplugin2/forums/feedback-forum-121">Feedback Forum for JavaFX 1.2.1 Plugin Release</a> page.</blockquote></p>
+<p>So, please, give it a whirl and leave feedback on this post if you like it, wish it were better/different, etc.</p>
+]]></Content>
+	</post>

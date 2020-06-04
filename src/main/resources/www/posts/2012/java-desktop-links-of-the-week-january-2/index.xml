@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1166</ID>
+		<Slug>java-desktop-links-of-the-week-january-2</Slug>
+		<Title>Java desktop links of the week, January 2</Title>
+		<Date>2012-01-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>It's another year already! I hope everyone had a great start to 2012. Because I published last weeks links roundup a few days late, there aren't too many links this week, but the links I do have below are all of a very high quality. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Dustin Marx</strong> has written five blog posts related to JavaFX this week. The titles are "<a href="http://marxsoftware.blogspot.com/2011/12/sneaking-peek-at-javafx-21-beta.html">Sneaking a Peek at JavaFX 2.1 Beta</a>", "<a href="http://marxsoftware.blogspot.com/2011/12/javafx-20-bar-and-scatter-charts-and.html">JavaFX 2.0 Bar and Scatter Charts (and JavaFX 2.1 StackedBarCharts)</a>", "<a href="http://marxsoftware.blogspot.com/2011/12/integrating-javafx-20-with-swing-and.html">Integrating JavaFX 2.0 with Swing and SWT</a>", "<a href="http://marxsoftware.blogspot.com/2011/12/rendering-html-within-javafx.html">Rendering HTML Within JavaFX</a>", and "<a href="http://marxsoftware.blogspot.com/2011/12/challenges-of-javafx-reboot.html">The Challenges of a JavaFX Reboot</a>".</li>
+	<li><strong>Ben Evans</strong> and/or <strong>Martijn Verburg</strong> posted about "<a href="http://www.javaworld.com/community/?q=node/8269">What I learnt about JavaFX today</a>".</li>
+	<li><strong>Robert Felker</strong> has let me know he has written a tool called <a href="http://aquilae.tumblr.com/post/15061289885/cloudexplorer">CloudExplorer for visualisation of data using JavaFX</a> (and he has built it in Scala).</li>
+	<li>It seems the current community effort is around building calendar controls in JavaFX. Today I came across the third implementation (I mentioned the other two last week). <strong>Sai Pradeep Dandem </strong>has written <a href="http://calendarcontrolinjavafx.blogspot.com/2012/01/calendar-control-in-javafx-20.html">this weeks implementation</a>.</li>
+	<li>Over at <strong>FX Experience</strong>, I posted a retrospective post looking at <a href="http://fxexperience.com/2011/12/an-fx-experience-retrospective/">what has happened to JavaFX in the last 15 or so months</a>.</li>
+</ul>
+<p>Catch you in a weeks time, when I'll be back in New Zealand! :-)</p>
+]]></Content>
+	</post>

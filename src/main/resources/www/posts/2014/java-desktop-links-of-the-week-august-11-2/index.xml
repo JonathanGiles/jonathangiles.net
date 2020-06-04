@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1780</ID>
+		<Slug>java-desktop-links-of-the-week-august-11-2</Slug>
+		<Title>Java desktop links of the week, August 11</Title>
+		<Date>2014-08-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>August 11?! It's getting close to JavaOne now - I hope everyone is well underway with their preparations. Sadly I'm not yet started, but I'm sure I'll get organised in time! :-) A bunch of great links awaits you this week. Keep up the great work folks, and keep on making the Java desktop community proud - we're all in this together.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> continues to blog about new features in the upcoming release of e(fx)clipse 1.0. This week he has posted about e(fx)clipse support for <a href="http://tomsondev.bestsolution.at/2014/08/05/efxclipse-1-0-new-features-generate-javafx-properties-accessors/">generating JavaFX Properties accessors</a>, support for <a href="http://tomsondev.bestsolution.at/2014/08/06/efxclipse-1-0-new-features-layoutpanes-can-be-controlled-by-css/">LayoutPanes control via CSS</a>, a <a href="http://tomsondev.bestsolution.at/2014/08/07/efxclipse-1-0-new-features-css-gradient-editor/">CSS gradient editor</a>, and <a href="http://tomsondev.bestsolution.at/2014/08/09/efxclipse-1-0-new-features-drag-and-drop-for-e4javafx-applications/">drag and drop for e4/JavaFX applications</a>. <strong>Tom</strong> is doing excellent work here, and continues to contribute back to the JavaFX community via OpenJFX. All I can say is that if anyone is looking for JavaFX support, he is an <a href="http://www.bestsolution.at/en/index.html">excellent person to reach out to</a>.</li>
+	<li>I am so pleased to see that <strong>Johan Vos</strong> and his fellow authors have announced that their book, <a href="http://www.lodgon.com/dali/blog/entry/Pro_JavaFX_8">Pro JavaFX 8</a>, has finally been released. Whilst I haven't yet read the 8.0 iteration, I have read earlier editions of this book and it is an excellent way for people both new and already familiar with JavaFX to increase their skills and to learn new tricks.</li>
+	<li>Speaking of <strong>Johan</strong>, he has also just posted documentation on <a href="http://javafxports.org/page/NFC">how to use the NFC functionality on most Android devices</a> from within JavaFX applications that are deployed onto Android devices.</li>
+	<li><strong>Adam Bien</strong> has <a href="http://www.adam-bien.com/roller/abien/entry/afterburner_fx_1_6_0">released afterburner.fx 1.6.0</a>, a 2.5 class MVC framework. The main feature of this release is asynchronous loading of views and presenters.</li>
+	<li>The <strong>ReportMill blog</strong> has a post detailing their recent <a href="http://reportmill.wordpress.com/2014/08/09/snapcode-debugger-improvements/">improvements to the SnapCode IDE debugger</a>.</li>
+	<li><strong>Niels Gundermann</strong> has been working on a JavaFX-based 3D editor, and it looks pretty cool! <a href="http://javafxstuff.blogspot.de/2014/08/javafx-3d-editor-update-8.html">Check it out on his blog</a>.</li>
+	<li>The developers behind TiwulFX 2 have posted a <a href="http://tiwulfx.panemu.com/2014/08/08/tiwulfx-2-developer-guide/">developer guide</a>. TiwulFX is a library of components like <a href="http://www.jfxtras.org">JFXtras</a> and <a href="http://www.controlsfx.org">ControlsFX</a>. You should definitely check it out.</li>
+	<li><strong>Pedro Duque Vieira</strong> has been working on an <a href="http://pixelduke.wordpress.com/2014/07/26/validation-in-java-javafx/">FXML-friendly validation framework</a>.</li>
+	<li><strong>William Antônio</strong> has posted part two of his series on '<a href="http://fxapps.blogspot.com.br/2014/08/javaee-javafx-and-rfid-part-2-reading.html">JavaEE, JavaFX and RFID</a>'.</li>
+	<li>I was contacted by an organisation wanting to hire a JavaFX contractor in a full-time, year-long position. If you are interested, please contact me and I will pass along your details.</li>
+</ul>
+<p>That's all for this week. Catch you all again next week! :-)</p>
+]]></Content>
+	</post>

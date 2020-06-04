@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1370</ID>
+		<Slug>java-desktop-links-of-the-week-december-10</Slug>
+		<Title>Java desktop links of the week, December 10</Title>
+		<Date>2012-12-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Here we go all over again! Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The most important thing for everyone this week is to go over to <strong>FX Experience</strong> and fill in the <a href="http://fxexperience.com/2012/12/javafx-for-tablets-mobile/">JavaFX for tablet / mobile / embedded survey</a>. We need your feedback, so please fill it in if you haven't already, even if you don't care about JavaFX on these platforms. Thanks! :-)</li>
+	<li><strong>Richard Bair</strong> kicked off a <a href="https://bitbucket.org/rbair/fx-games/overview">fx-games project over on bitbucket</a> for the OpenJFX community to work together on a game to test out the graphical power of JavaFX. The first game being worked on is a JavaFX version of the classic tower defense. <a href="https://bitbucket.org/rbair/fx-games/issues?status=new&amp;status=open">Join in on the discussions</a> and offer to start coding or providing graphics resources!</li>
+	<li><strong>Florian Brunner</strong> has stepped into the JavaFX rich client platform arena with his own submission called <a href="http://puces-blog.blogspot.ch/2012/12/drombler-fx-building-modular-javafx.html">Drombler FX</a>, which at first glance looks like it strikes a really nice balance (and does some things the way I would do them if I could, e.g. annotations for actions) :-)</li>
+	<li><strong>Gerrit Grunwald</strong> updated his post from last week to mention he has updated his library to support <a href="http://harmoniccode.blogspot.de/2012/11/shapes-shapes-shapes.html">converting text into SVG paths</a>.</li>
+	<li><strong>Daniel Zwolenski</strong> has a post titled '<a href="http://www.zenjava.com/2012/12/04/javafx-with-a-springmvc-rest-server-in-5-minutes/">JavaFX with a SpringMVC REST server in 5 minutes</a>', which talks about his <a href="https://github.com/zonski/javafx-rest-archetype">new Maven archetype for quickly creating REST+JavaFX projects</a>.</li>
+	<li><strong>jaxenter</strong> did a nice post on the <a href="http://jaxenter.com/datafx-1-0-arrives-to-solve-javafx-s-data-headache-45705.html">recently released DataFX 1.0</a>.</li>
+	<li><strong>Arnaud Nouard</strong> did a teaser post about his work on a SwingNode API to allow for <a href="http://arnaudnouard.wordpress.com/2012/10/19/wake-up/">integrating Swing inside JavaFX</a>.</li>
+	<li><strong>Thierry Wasyl</strong> has two posts this week. Firstly he has a post about <a href="http://thierrywasyl.wordpress.com/2012/12/07/build-javafx-runnable-jar-with-intellij-idea-and-ant/">building JavaFX runnable JAR with IntelliJ IDEA (and Ant)</a>. Secondly he has a post about the JavaFX TableView control, in particular allowing to <a href="http://thierrywasyl.wordpress.com/2012/12/03/tableview-columns-width-using-percentage-in-javafx/">size the column width using percentages</a> (there is actually a <a href="http://javafx-jira.kenai.com/browse/RT-17180">Jira issue for this feature request</a>, so it would be ideal to see this contributed back to OpenJFX).</li>
+	<li>Speaking of TableView, <strong>Amrullah</strong> has posted a blog post about their work on the <a href="http://panemu.com/articles/?p=73&amp;lang=en">JavaFX TableView control to add in a bunch of new functionality</a>. Again, there may be stuff in here that could be contributed back to OpenJFX.</li>
+	<li><strong>Leon Atherton</strong> has blogged about <a href="http://blog.idrsolutions.com/2012/12/handling-threads-concurrency-in-javafx/">handling threads and concurrency</a> in JavaFX applications.</li>
+	<li><strong>Sri kalyan</strong> has blogged about some <a href="http://javafxuieventhandling.blogspot.co.nz/2012/11/javafx-ui-events-handling-tips.html">JavaFX event handling tips</a>.</li>
+	<li><strong>Laurent Nicolas</strong> has updated his <a href="http://www.mrlonee.com/?p=410">radial menu control</a> to support submenus and other features.</li>
+	<li><strong>Randahl Fink Isaksen</strong> has posted his thoughts on <a href="http://blog.randahl.dk/2012/12/javafx-designing-for-multiple-screen.html">designing for multiple screen resolutions in JavaFX</a>.</li>
+</ul>
+<p>Catch you next week.</p>
+]]></Content>
+	</post>

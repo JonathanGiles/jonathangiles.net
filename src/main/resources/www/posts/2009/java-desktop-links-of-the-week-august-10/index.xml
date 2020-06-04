@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>576</ID>
+		<Slug>java-desktop-links-of-the-week-august-10</Slug>
+		<Title>Java desktop links of the week, August 10</Title>
+		<Date>2009-08-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week, another bunch of Java desktop-related links. Keep up the hard work people, and always feel free to email me or leave a comment about anything I may have missed :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Ken Orr</strong> keeps the Swing section alive this week, with a post on <a href="http://explodingpixels.wordpress.com/2009/08/05/creating-a-separated-jlist-using-glazed-lists/">how to create a separated JList using GlazedLists</a>. Having used <a href="http://publicobject.com/glazedlists/">GlazedLists</a> myself in projects, I can vouch for it's awesomeness. If you're not using it, give it a whirl.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Sten Anderson</strong> has two blog posts this week: the first is a <a href="http://blogs.citytechinc.com/sanderson/?p=131">review of the Pro JavaFX Platform book</a>, and the second is his announcement that <a href="http://blogs.citytechinc.com/sanderson/?p=132">he has contributed his Music Explorer FX code</a> to the JFXtras project.</li>
+	<li>Speaking of the JFXtras project, <strong>Stephen Chin</strong> has blogged that the <a href="http://steveonjava.com/2009/08/09/jfxtras-team-grows-up/">number of people contributing to the project is continuing to grow</a>, and he has some details of the new contributions available to JFXtras users.</li>
+	<li>I had a small part to play in this also, having just <a href="/posts/2009javafx-menubar-released/">released my menubar code as part of the JFXtras project</a>.</li>
+	<li><strong>Stephen Chin</strong> also has a post containing the <a href="http://steveonjava.com/2009/08/05/watch-widgetfx-and-jfxtras-at-the-sdforum/">slides and audio recording of a talk he gave at SDForum recently</a>. In this talk he discusses JFXtras and WidgetFX. It's well worth listening to if you have the time.</li>
+	<li>At this talk, Stephen mentioned the MigLayout support in JFXtras for JavaFX. <strong>Dean Iverson</strong> is the guy behind it, and <a href="http://pleasingsoftware.blogspot.com/2009/08/my-good-friend-and-co-author-stephen.html">posted about it to detail how to build the form</a> that Stephen showed.</li>
+</ul>
+<ul>
+	<li><strong>Carl Dea</strong> has put up the <a href="http://carlfx.wordpress.com/2009/08/03/javafx-forms-framework-part-2/">second part of his series</a> discussing a JavaFX forms framework. This part covers the requirements and design of such a framework. For more context, have a look at <a href="http://carlfx.wordpress.com/2009/07/29/javafx-forms-framework-part-1/">part one of the series</a>, which explains what a form framework is.</li>
+	<li><strong>James Clarke</strong> has a post detailing a <a href="http://blogs.sun.com/clarkeman/entry/javafx_jms_unexpected_null_pointer">NullPointerException he was encountering when using JMS</a>. He provides a solution in his post on how to resolve this.</li>
+	<li><strong>Rakesh Menon</strong> has a post that details how to <a href="http://blogs.sun.com/rakeshmenonp/en_US/entry/javafx_youtube">integrate JavaFX with YouTube</a> so that JavaFX controls can be wrapped around a chromeless YouTube video.</li>
+	<li><strong>Jeff Frieson</strong> has continued his work on custom paints, and has written a <a href="http://today.java.net/pub/a/today/2009/07/30/javafx-custom-paints.html">very comprehensive article on java.net about it</a>.</li>
+	<li><strong>Jim Weaver</strong> continues his series into <a href="http://learnjavafx.typepad.com/weblog/2009/08/continuing-bandmatesfx-javafx-tips-tricks-and-a-treasure-trove.html">developing BandmatesFX</a>, adding a number of new bits of functionality / polish.</li>
+	<li><strong>Sergey Malenkov</strong> has a post showing off a <a href="http://weblogs.java.net/blog/malenkov/archive/2009/08/score_your_game_1.html">'Score' class he wrote in JavaFX</a>, which is useful for games and applications that must show a count. Interestingly, the same Score class can be used to count in binary, octal, etc.</li>
+	<li>Google announced this week that they have bought On2, the people behind the codecs used in JavaFX. How this plays out is anyones guess, but the <a href="http://java.dzone.com/announcements/google-buys-on2-javafx-gains">JavaFX world appears to be pleased about it</a>.</li>
+	<li><strong>Piliq.com</strong> posted a <a href="http://piliq.com/javafx/?p=1203">demo of a JavaFX 'mini-map' for a RTS game</a> he is making. There is no code to see however.</li>
+	<li>The <strong>Exadel</strong> blog has a post showing off the <a href="http://mkblog.exadel.com/ria/enterprise-javafx-seam-booking-demo-application/">Seam booking demo using JavaFX</a>.</li>
+	<li><strong>Phoenix</strong> (I wish people would use their actual names more often) has a post containing what he thinks are <a href="http://fresherswisdom.com/web-designing/146-web-programming/975-20-best-javafx-tutorials-collection.html">the 20 best JavaFX tutorials</a>.</li>
+</ul>
+<h4>Groovy</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> blogs about the <a href="http://www.jroller.com/aalmiray/entry/gfxbuilder_0_2_released">release of GfxBuilder 0.2</a>.</li>
+</ul>
+<h4>SWT</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has been busy working on a new project called <a href="http://www.pushing-pixels.org/?p=1354">Project Granite</a>, which is all about animation blueprints for SWT. He has a few example blog posts detailing <a href="http://www.pushing-pixels.org/?p=1367">main application window animations</a>, <a href="http://www.pushing-pixels.org/?p=1370">load progress animations</a>, and <a href="http://www.pushing-pixels.org/?p=1347">fading out Swing/SWT windows</a>.</li>
+</ul>
+<p>That's us for another week. Catch you all next week.</p>
+]]></Content>
+	</post>

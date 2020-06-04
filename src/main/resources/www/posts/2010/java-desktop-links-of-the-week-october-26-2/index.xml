@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>938</ID>
+		<Slug>java-desktop-links-of-the-week-october-26-2</Slug>
+		<Title>Java desktop links of the week, October 26</Title>
+		<Date>2010-10-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A lot of links this week - spanning Swing, JavaFX, Visage and Griffon. I hope you all find something useful in this weeks post. Also, thanks to everyone who takes the time to email me their links.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jean-Francois Poilpret</strong> has put out a new release of the <a href="https://designgridlayout.dev.java.net/">DesignGridLayout layout manager for Swing</a>.</li>
+	<li><strong>Steven Haines</strong> has written on IBM DeveloperWorks about '<a href="http://www.ibm.com/developerworks/java/library/j-5things14/index.html?ca=drs-">5 things you didn't know about ... enhancing Swing</a>'. This covers Substance, SwingX, and threading, among other things.</li>
+	<li><strong>Gerrit Grunwald</strong> has posted two new articles about his SteelSeries project. The first one is <a href="http://harmoniccode.blogspot.com/2010/10/multicolored-bargraphs.html">multicolored bargraphs</a>, and the second is a <a href="http://harmoniccode.blogspot.com/2010/10/friday-fun-component-i.html">signal tower</a>.</li>
+	<li><strong>Besmir Beqiri</strong> let me know about <a href="http://xtrememp.sourceforge.net/">XtremeMP</a>, which is an open source Swing-based media player (although at present it only does audio).</li>
+	<li><strong>Alexander Gunko</strong> let me know that their (commercial) <a href="http://www.creamtec.com/products/ajaxswing/">AjaxSwing</a> product has had another release. AjaxSwing is a web deployment platform for Java Swing applications. It allows companies that built Java desktop applications to run them as web applications.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jim Weaver</strong> has an article online (which was also published in Oracle Magazine) about <a href="http://www.oracle.com/technetwork/issue-archive/2010/10-nov/o60javafx-170536.html">customizing your application layout in JavaFX 1.3.1</a>.</li>
+	<li><strong>Richa Singhal</strong> has blogged about '<a href="http://xebee.xebia.in/2010/10/22/creating-header-and-cell-renderers-in-javafx/">creating header and cell renderers in JavaFX</a>', which makes use of the Swing JTable component.</li>
+</ul>
+<h4>Visage</h4>
+<ul>
+	<li><strong>Jim Weaver</strong> has blogged about how the <a href="http://learnjavafx.typepad.com/weblog/2010/10/eye-on-visage-compiler-preview-1-available.html">first compiler preview release of project visage</a>. As a reminder, Visage is a fork of the JavaFX Script compiler (which has always been open source), with an aim to allow for the JavaFX Script DSL to live on and support JavaFX 2.0 APIs, as well as alternative UI toolkits.</li>
+	<li><strong>William Antonio</strong> has done a post to show off the <a href="http://fxapps.blogspot.com/2010/10/visage-my-first-impression.html">first new feature of Visage</a> - the 'default' keyword that has been introduced.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Viaboxx Systems</strong> have a post about '<a href="http://www.viaboxxsystems.de/griffon-faster-groovy-desktop-development">Griffon - Faster Groovy Desktop Development</a>'.</li>
+</ul>
+<p>That's it for another week. Catch you all in the weeks time! :-)</p>
+]]></Content>
+	</post>

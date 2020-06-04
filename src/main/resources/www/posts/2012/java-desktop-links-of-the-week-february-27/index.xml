@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1197</ID>
+		<Slug>java-desktop-links-of-the-week-february-27</Slug>
+		<Title>Java desktop links of the week, February 27</Title>
+		<Date>2012-02-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Look at this - a post that is on time! Don't expect this to happen too often :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>As another week rolls around, we have <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">another JavaFX 2.1 developer preview release</a> available, taking the build number up to b14.
+<strong></strong></li>
+	<li><strong>Nicolas Lorain</strong>, a member of the JavaFX team at Oracle, and also known as <a href="http://www.twitter.com/javafx4you">@javafx4you</a> on Twitter, has posted about his research into <a href="https://blogs.oracle.com/javafx/entry/javafx_2_and_developer_community">the JavaFX 2 developer community</a>.</li>
+	<li><strong>Michael Heinrichs</strong>, yet another member of the JavaFX team at Oracle, has posted a blog post about his '<a href="http://blog.netopyr.com/2012/02/23/most-often-asked-questions-about-javafx/">most often asked questions about JavaFX</a>'.</li>
+	<li>Speaking of questions people have about JavaFX 2, <strong>Dustin Marx</strong> has a post covering <a href="http://marxsoftware.blogspot.co.nz/2012/02/questions-at-my-rmoug-training-days.html">some of the questions he was recently asked</a> at a conference he presented at.</li>
+	<li><strong>Peter Zhelezniakov</strong>, another JavaFX team member at Oracle, has a post about <a href="https://blogs.oracle.com/javafx/entry/communicating_between_javascript_and_javafx">communicating between JavaScript and JavaFX with WebEngine</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has posted about <a href="https://blogs.oracle.com/geertjan/entry/javafx_browser_as_a_ready">using the JavaFX WebView as a ready-to-roll NetBeans module</a> for people wanting web browsing functionality.</li>
+	<li><strong>Dan Zwolenski</strong> has <a href="http://www.zenjava.com/2012/02/20/porting-first-contact-to-spring/">ported the 'first contact' application to Spring</a>. First Contact is a simple JavaFX-based contact management system that has been used in <a href="http://www.zenjava.com/2011/12/11/javafx-and-mvp-a-smorgasbord-of-design-patterns/">earlier blog posts</a>.</li>
+	<li>In a separate post, <strong>Dan</strong> talks about '<a href="http://www.zenjava.com/2012/02/25/going-remote-javafx-and-spring-remoting/">going remote - JavaFX and Spring</a>'.</li>
+	<li><strong>Roberto Marquez</strong> has created an <a href="http://onebeartoe.org/programming-languages/java/javafx/animations-with-translate-transition/">animated TIX clock using JavaFX 2</a>.</li>
+	<li><strong>Mark Anro Silva</strong> has a post about <a href="http://glyphsoft.wordpress.com/2012/02/26/javafx-2-form/">creating a 'Tron-like' effect in JavaFX 2</a> forms by modifying the CSS.</li>
+	<li><strong>Johan Vos</strong> and I put out a new release of <a href="http://www.javafxdata.org">DataFX</a> this week. The <a href="http://www.javafxdata.org/changelog/">main feature of this release</a> is the availability of a JDBC data source. We also announced the <a href="http://java.net/projects/datafx">availability of the source code</a> for people to explore and provide feedback / features on. We even got a <a href="http://jaxenter.com/welcome-datafx-javafx-ui-controls-made-easy-41024.html">friendly write-up</a> on <strong>jaxenter</strong>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Alexander Potochkin</strong> continues his series of posts on 'Swing in a better world' by this time talking about <a href="http://weblogs.java.net/blog/alexfromsun/archive/2012/02/09/swing-better-world-static-fields-vs-appcontext?force=610">static fields vs the AppContext</a>.</li>
+</ul>
+<p>That's all - catch you all next week. :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1468</ID>
+		<Slug>java-desktop-links-of-the-week-may-27</Slug>
+		<Title>Java desktop links of the week, May 27</Title>
+		<Date>2013-05-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week, another batch of links. I'm in a rush this morning, so lets get right into it! Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Niklas Therning</strong> has posted the code he developed (and steps required) for getting the <a href="http://blog.robovm.org/2013/05/brickbreaker-javafx-sample-on-ios-robovm-source-code-released.html">BrickBreaker JavaFX sample application to work on iOS devices</a>.</li>
+	<li>Two good blog posts appeared this week related to tips and tricks around JavaFX CSS. First of all, <strong>Gerrit Grunwald</strong> posted on '<a href="http://harmoniccode.blogspot.de/2013/05/css-confusing-style-sheets.html">CSS == Confusing Style Sheets</a>', and covers the API to expose custom pseudo class states and styleable properties in JavaFX 8.0. Secondly, <strong>Claudine Zillmann</strong> posted part one of a series on '<a href="http://www.guigarage.com/2013/05/aquafx-lessons-learned-part-i/">AquaFX: lessons learned</a>'. This post covers a number of tricks she learned in adapting the caspian css to look like Mac OS aqua.</li>
+	<li><strong>mihosoft</strong> has part three in the series of blog posts on <a href="http://mihosoft.eu/?p=630">workflow visualisation with VWorkflows &amp; JavaFX</a>.</li>
+	<li><strong>Christian Schudt</strong> has blogged about a <a href="http://myjavafx.blogspot.de/2013/05/developing-numberspinner-control.html">NumberSpinner control</a> he has developed.</li>
+	<li>An '<a href="https://github.com/glaforge/doctorpad">experimental editor for AsciiDoc documents</a>, with rendering preview, built with Griffon and GroovyFX' has been made available on github.</li>
+	<li><strong>Jan Köhnlein</strong> has posted '<a href="http://koehnlein.blogspot.co.nz/2013/05/another-xtend-and-javafx-story.html">another Xtend and JavaFX story</a>', where he talks about developing a way to export a JavaFX scene to SVG.</li>
+	<li><a href="http://fxexperience.com/2013/05/announcing-scenic-view-8-0-0-developer-preview-3/">Scenic View 8.0.0 developer preview 3 has been released</a>, although you'd never know it as the website is constantly dying under the load. We'll be moving to a new website soon, so sorry for the troubles!</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li>A new office suite, written in Swing, has been released. The suite is called <a href="http://www.joeffice.com/">Joeffice</a>, and appears to include an editor, spreadsheet, and presentation tool.</li>
+</ul>
+<p>Keep up the great work - catch you all in a weeks time!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1554</ID>
+		<Slug>scheduled-backups-for-raspberry-pi-to-a-nas</Slug>
+		<Title>Scheduled backups for Raspberry Pi to a NAS</Title>
+		<Date>2013-09-18</Date>
+		<Status>publish</Status>
+		<Categories>Technology</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Because I have a few Raspberry Pi's at my place, and I may get more in the future, and because I have a Network-Attached Storage (NAS) device, I figured I really should get around to backing up my Pi's to prevent them from dying (as SD cards are apparently prone to do) and taking my data / configuration with them. To this end, I developed a really, really simple process that automates this and gives me a collection of gzipped SD card images, ready to recreate the state of my Pi. I saw on Twitter that there was some interest in this, so here is what I did. </p>
+
+<p>If there are any questions feel free to post a comment - I'll update this blog post to ensure it is as detailed as necessary.</p>
+
+<p>Finally, I should note that this approach is based on a <a href="http://www.stuffaboutcode.com/2012/08/raspberry-pi-auto-backups.html">blog post</a> by <strong>Martin O'Hanlon</strong>. The only real difference is that I have the Pi's gzip the image file prior to sending across the network, and this substantially reduces the amount of space taken up by the images (especially if your Pi is running with a big SD card (e.g. 16GB)). This does of course increase the amount of time it takes to do the backup, and does require more CPU effort, so it is up to you whether you value speed or hard disk space more.</p>
+
+<p><span style="text-decoration: underline;"><strong>Steps to back up your Raspberry Pi to a home NAS device</strong></span></p>
+
+<p><strong>1) Mount your NAS</strong></p>
+<p>I created a directory /home/pi/nas/backups. This directory will map to a 'backups' directory on my NAS. With this directory created I run <code>sudo nano /etc/fstab</code> to edit the Raspberry Pi file system list. I added the following line so that my NAS was automatically mounted at startup:</p>
+
+<pre class="code_block"><code class="sh">//diskstation/backups /home/pi/nas/backups cifs username=pi,password=raspberry,workgroup=workgroup,users,auto,user_xattr 0 0</code></pre>
+
+<p>Note that this works because my home NAS has the name 'diskstation', and I've created a limited user account on there with username/password combination pi/raspberry (note that this isn't the real username/password combination - please don't try to hack my house) :-)</p>
+
+<br>
+
+<p><strong>2) Create backup script</strong></p>
+<p>I created a really simple backup script. This script is located on the NAS in the backups directory. This means that it is accessible on the Pi via /home/pi/nas/backups, but my recommendation is to copy the file onto the Pi itself (on my Pi's I copy it into /home/pi). I call this file 'runSDCardBackup.sh', and you'll note it expects one argument, which is the name of the file it will write to. Here's the entirety of the script:</p>
+
+<pre class="code_block"><code class="plaintext">#!/bin/sh
+# Script to backup the SD card of a Pi to the nas.
+# This should be copied to the /home/pi directory on each Pi and then
+# set in the crontab to run automatically on a set schedule.
+# Be sure to pass in a single argument to name the backup file
+# (e.g. homePiBackup or mediaPiBackup)
+#
+# Refer here for the original information:
+# http://www.stuffaboutcode.com/2012/08/raspberry-pi-auto-backups.html
+sudo bash -c "dd if=/dev/mmcblk0 | sudo gzip > /home/pi/nas/backups/$1.gz"
+</code></pre>
+
+<p>You may need to set this shell script to be executable. To do this, simply type the following: <code>sudo chmod +x runSDCardBackup.sh</code></p>
+
+<br>
+
+<p><strong>3) Set up the script to run on a schedule</strong></p>
+<p>Run <code>sudo crontab -e</code> to edit the crontab file. I set the script to run at 2:30am every Monday morning. Because I have multiple Pis at my house, I set the time to be different for each Pi so that the network doesn't get flooded with SD card images flying over it. Here's the line I added to the crontab file:</p>
+
+<pre class="code_block"><code class="plaintext">30 2  *   *   1     /home/pi/runSDCardBackup.sh homePiBackup > /home/pi/nas/backups/homePiBackup.log 2>&1</code></pre>
+
+<p>You'll note that I pass in 'homePiBackup' to the shell script - this is the name that the file will be given on the NAS. On each Pi I obviously use a different name - in my house they have names like homePi (for home automation), mediaPi (for home theatre), etc. You'll also note that I'm sending the output to a log file on the NAS - again note that you'll want a different file name for each Pi.</p>
+]]></Content>
+	</post>

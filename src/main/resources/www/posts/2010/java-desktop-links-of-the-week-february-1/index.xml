@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>728</ID>
+		<Slug>java-desktop-links-of-the-week-february-1</Slug>
+		<Title>Java desktop links of the week, February 1</Title>
+		<Date>2010-01-31</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|javafx|swing</Tags>
+		<Content><![CDATA[<p>Well, the Oracle acquisition of Sun is now done, and I'd like to say hello to my new corporate overlord :-) The good news in the last week is that all the concern around what Oracle was going to do with the various Sun projects has been relatively well clarified. From the sounds of things, investment in Java, JavaFX and NetBeans is going to continue or even grow. Perhaps the biggest (initial) loser is Project Kenai, the Sun cloud-based project hosting project. I know a lot of people have created kenai projects, and it is unfortunate to see this close down.</p>
+
+<p>There is a tonne of news this week, so lets get into it and I hope you enjoy it!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has been very busy this week, writing a <a href="http://www.jug-muenster.de/swing-nixieclock-321/">Swing-based nixie tube clock</a> (using assets exported from Adobe Fireworks). To help explain how to use Fireworks assets in Swing, he has <a href="http://www.jug-muenster.de/drawing-in-code-part-1-379/">written a two-part</a> post <a href="http://www.jug-muenster.de/drawing-in-code-part-2-2-384/">dicussing this very topic</a>.</li>
+	<li><strong>Damien Ielsch</strong> this week writes about '<a href="http://free-the-pixel.blogspot.com/2010/01/table-and-actions.html">tables and actions</a>'. In other words, how best do you enact an action against a row in a table? He proposes a new approach, but in my opinion, nothing goes past the combination of context menu and buttons to the side (either in a toolbar or placed directly to the right). The main thing is to be consistent throughout your UI.</li>
+	<li><strong>Kirill Grouchnikov</strong> has posted details of <a href="http://www.pushing-pixels.org/?p=1606">how Substance 6.0 renders SwingX date picker components</a>.</li>
+	<li><strong>Kas Thomas</strong> has written about <a href="http://asserttrue.blogspot.com/2010/01/how-to-iimplement-custom-paint-in-50.html">implementing custom paint in 50 lines of Java</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has posted about an <a href="http://blogs.sun.com/geertjan/entry/e_mail_management_system_on">E-mail management system that is built on top of the NetBeans RCP</a>. What is particularly pleasing about this application is that it actually looks pretty decent, given it's heavy focus on data presentation.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jim Weaver</strong> sums up the Oracle news this week nice and succinctly: '<a href="http://learnjavafx.typepad.com/weblog/2010/01/oracle-we-will-invest-heavily-in-javafx.html">We will invest heavily in JavaFX</a>'.</li>
+	<li>The JavaFX tutorial has been updated to include a <a href="http://java.sun.com/javafx/1/tutorials/core/dataBinding/">gentler introduction to data binding and triggers</a>, with a new chapter devoted exclusively to "the basics". Also, apparently there are plans to include a more advanced article discussing this topic also.</li>
+	<li>Want tabs in your JavaFX application? Well, today's your lucky day as <strong>toumaille</strong> has posted exactly this. His <a href="http://jfxstudio.wordpress.com/2010/01/25/say-well-it-come-tabbedpane-v-3/">tabbed pane control</a> appears to be well thought out, and may be of use to people out there, certainly until there is an official tab control in JavaFX.</li>
+	<li><strong>Drew</strong>, carrying on his investigation into JavaFX and physics, has put up a JavaFX applet of a very, very simple <a href="http://piliq.com/javafx/?p=1426">platform game using real physics</a>.</li>
+	<li><strong>Exadel</strong> released a new version of their JavaFX Plug-In for Eclipse, <a href="http://blog.exadel.com/2010/01/25/exadel-javafx-plug-in-for-eclipse-version-1-2-1-out/">taking it up to version 1.2.1</a>.</li>
+	<li><strong>Jim Weaver</strong> introduces an <a href="http://learnjavafx.typepad.com/weblog/2010/01/data-visualisation-by-nik-silver.html">interesting visualisation</a> developed in JavaFX by <strong>Nik Silver.</strong> You can <a href="http://niksilver.com/guardian-tag-bubbles/">go directly to the visualisation</a> if you are interested in playing with it.</li>
+	<li><strong>Simon Morris</strong> has put up a page that contains <a href="http://www.jfxia.com/JFXDemos/">all of the demos</a> he wrote whilst writing his book 'JavaFX in Action'.</li>
+	<li><strong>Pedro Duque Vieira</strong> has written about how he has <a href="http://pixelduke.wordpress.com/2010/01/30/debug-embeded-javafx/">embedded a JavaFX scene into a Swing application</a>.</li>
+	<li><strong>Krishna Kishore</strong> has created a JavaFX application that <a href="http://www.gyanlabs.com/blog/?p=53">grows/animates flowers onto  the screen</a>. It's a rather nice effect, and shows the power of the  language given Krishna admits creating this program just to learn the  language.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has announced the <a href="http://groovy.dzone.com/announcements/griffon-03-beta-2-released">release of Griffon 0.3 Beta 2</a>. Griffon 0.3 Beta 2 is mostly a collection of fixes for issues found in  the previous beta.</li>
+</ul>
+<p>Whew! I did warn you there was a lot of really high-quality news this week. Well, that's it for another week. Keep up the hard work (but remember to find time to relax too!), and I'll see you all again next week.</p>
+]]></Content>
+	</post>

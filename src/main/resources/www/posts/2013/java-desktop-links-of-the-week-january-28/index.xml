@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1398</ID>
+		<Slug>java-desktop-links-of-the-week-january-28</Slug>
+		<Title>Java desktop links of the week, January 28</Title>
+		<Date>2013-01-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Welcome to the last links for January 2013 - time sure is flying these days! Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> announced that some of the <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2013-January/005640.html">SQE tests for JavaFX are now open source</a>, with more on their way soon. These tests are the number one protection we have against functional regressions, so having them out in the public makes it far simpler for third parties to now contribute to OpenJFX.</li>
+	<li>JavaFX Scene Builder 1.1 developer preview 18 is <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">now available for download</a>. Check out the <a href="http://docs.oracle.com/javafx/scenebuilder/1/release_notes_1-1/jsbpub-release_notes_1-1.htm">release notes</a> to see what is new in Scene Builder 1.1.</li>
+	<li>Two new features for JavaFX 8.0 became public this week, including <a href="http://javafx-jira.kenai.com/browse/RT-12100">SwingNode support</a> (i.e. embedding Swing components inside JavaFX applications) (see <a href="http://javafx-jira.kenai.com/browse/RT-27887">this Jira issue</a> also), and <a href="http://javafx-jira.kenai.com/browse/RT-24009">support for Hi-DPI displays</a>.</li>
+	<li><strong>Tom Schindl</strong> has announced that he has proposed <a href="http://tomsondev.bestsolution.at/2013/01/23/efxclipse-proposed-to-eclipse-foundation/">e(fx)clipse to the Eclipse Foundation</a>. You can <a href="http://eclipse.org/proposals/technology.efxclipse/">read the proposal</a> over at eclipse.org if you're interested in the future of JavaFX tooling and runtime support in Eclipse.</li>
+	<li><strong>Pedro Duque Vieira</strong> has ported the JFXtras <a href="http://pixelduke.wordpress.com/2013/01/27/metro-style-spinner-for-java-jmetro/">Spinner</a> and <a href="http://pixelduke.wordpress.com/2013/01/27/java-calendar-with-a-metro-style-dark/">Calendar</a> controls to be styled using JMetro.</li>
+	<li>Speaking of the JFXtras Spinner control, <strong>Ed Thompson</strong> has blogged another of his <a href="http://ed4becky.net/homepage/javafx-from-the-trenches-jfxtras-spinner-controls/">'JavaFX from the trenches' on the JFxtras Spinner control</a>.</li>
+	<li><strong>Björn Müller</strong> has published a paper on why CaptainCasa&nbsp; (an open community of mid-range business application software vendors using and developing one common frontend infrastructure for their business applications) has <a href="http://captaincasa.blogspot.co.nz/2013/01/why-we-use-javafx-paper.html">chosen to use JavaFX rather than other technologies like HTML5</a>.</li>
+	<li><strong>Thierry Wasyl</strong> has blogged about <a href="http://thierrywasyl.wordpress.com/2013/01/27/set-custom-font-in-javafx-2/">how to set custom fonts in JavaFX</a>. I should also note that <strong>Jasper Potts</strong> blogged about the same issue in relation to <a href="http://fxexperience.com/2012/12/use-webgoogle-fonts-in-javafx/">support that was improved in JavaFX 8.0</a>.</li>
+	<li><strong>Robert Ladstätter</strong> has writing about <a href="http://ladstatt.blogspot.co.nz/2013/01/how-to-create-2d-lightning-effects-with.html?m=1">lightning effects</a> (yes, that isn't a typo: lightning, not lighting!) :-)</li>
+	<li><strong>Steven Van Impe</strong> has written a <a href="http://asipofjava.blogspot.be/2013/01/reminders-javafx-and-jpa-demo.html">JavaFX and JPA demo application</a> called Reminders.</li>
+	<li>For those of you interested in JRuby and JavaFX, there is a lot of <a href="https://github.com/nahi/jrubyfx">work going on for JRubyFX project</a> over at Github.</li>
+	<li><strong>Leon Atherton</strong> has blogged about <a href="http://blog.idrsolutions.com/2013/01/setting-z-order-of-nodes-in-javafx/">how to set the Z order of nodes in JavaFX</a>.</li>
+</ul>
+<p>That's us for another week. Catch you again in a weeks time! :-)</p>
+]]></Content>
+	</post>

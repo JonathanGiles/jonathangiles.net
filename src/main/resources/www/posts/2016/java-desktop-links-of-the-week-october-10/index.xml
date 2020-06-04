@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2190</ID>
+		<Slug>java-desktop-links-of-the-week-october-10</Slug>
+		<Title>Java desktop links of the week, October 10</Title>
+		<Date>2016-10-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A number of interesting links this week. Enjoy!</p>
+<ul>
+ 	<li><strong>Jeff Martin</strong> has posted about his work <a href="https://reportmill.wordpress.com/2016/10/04/quickest-way-to-java-in-the-browser/">getting JavaFX running in the browser</a> using TeaVM.</li>
+ 	<li><strong>Rob Terpilowski</strong> has blogged about <a href="https://rterp.wordpress.com/2016/10/03/how-to-import-the-gmapsfx-component-into-scenebuilder/">how to import GMapsFX into Scene Builder</a>.</li>
+ 	<li><strong>Dierk Koenig</strong> has posted a YouTube video of his <a href="https://www.youtube.com/watch?v=CZr8RLJsZqc&amp;feature=youtu.be">FregeFX talk</a> at JavaOne.</li>
+ 	<li><strong>David Gilbert</strong> has announced the release of <a href="http://www.jfree.org/jfreesvg/">JFreeSVG 3.2</a>.&nbsp;JFreeSVG is a library for generating SVG content via the standard Java2D APIs. This release includes provision for user specified width and height units, an optional viewBox attribute, and a few bug fixes based on user feedback.</li>
+ 	<li><strong>Manuel Mauky</strong> has posted about building <a href="http://lestard.eu/2016/todomvc_javafx/">TodoMVC</a> - a simple task management app. He plans to build this in a few different ways to demonstrate different frameworks and patterns that can be used to build JavaFX applications.</li>
+ 	<li>There are a few apps I've been informed of this week that use JavaFX that have had new releases. These include <a href="http://frosch95.github.io/SmartCSV.fx/">SmartCSV.fx</a>, <a href="https://itunes.apple.com/nl/app/trainchinese-desktop-chinese/id1052892720?l=en&amp;mt=12">trainchinese</a>, <a href="http://slideshowfx.github.io/">SlideshowFX</a>, and <a href="http://www.capitalware.com/rl_blog/?p=4027">MQ Visual Edit</a>.</li>
+</ul>
+]]></Content>
+	</post>

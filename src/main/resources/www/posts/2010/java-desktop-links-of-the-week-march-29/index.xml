@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>759</ID>
+		<Slug>java-desktop-links-of-the-week-march-29</Slug>
+		<Title>Java desktop links of the week, March 29</Title>
+		<Date>2010-03-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Yeesh, already at the end of March - time is flying! Perhaps most exciting this week is that <a href="http://www.oracle.com/us/javaonedevelop/062264.html">JavaOne 2010 is now open for registration</a>, and is discounted by $400 if you get in before mid-July. Of course, that isn't the only news - let's get into it!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has been adding right-to-left support to his Flamingo project, in particular in <a href="http://www.pushing-pixels.org/?p=1690">command buttons</a> and <a href="http://www.pushing-pixels.org/?p=1695">rich tooltips</a>.</li>
+	<li><span class="submitted"><strong>Eugene Ryzhikov</strong> has posted <a href="http://mcoj.wordpress.com/2010/03/28/swinging-task-dialog-part-4/">part four</a> of his Swinging Task Dialogs blog series. This week he has announced the release of 0.5.0 of the library, which is dedicated to Mac OS support.</span></li>
+	<li><strong>Gerrit Grunwald</strong> has posted two very interesting posts this week. Firstly, he talks about <a href="http://www.jug-muenster.de/swing-weather-worldclock-490/">adding weather information to the world clock</a> he has written previously, and <a href="http://www.jug-muenster.de/swing-event-departure-board-518/">creating a departure board in Swing / Java2D</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>A lot has been said this week about whether or not JavaFX is ready for the prime time. Coming out to give his perspective on the issue is <strong>Adam Bien</strong>, who lists <a href="http://www.adam-bien.com/roller/abien/entry/is_javafx_ready_for_the">11 reasons why he thinks JavaFX is on the right path</a>.</li>
+	<li><strong>Tor Norbye</strong> has blogged about <a href="http://blogs.sun.com/tor/entry/transparent_windows_on_linux">transparent windows in Linux</a>, based on his experience in building the upcoming Authoring Tool and testing it across platforms.</li>
+	<li><strong>Johan Vos</strong> has blogged about <a href="http://blogs.lodgon.com/johan/Map_rendering_in_JavaFX">map rendering in JavaFX</a> using data from OpenStreetMap. He provides both a runnable demo, and also the code. What's most fascinating is how little code was actually written to support this - it really is a tiny amount.</li>
+	<li><strong>Rakesh Menon</strong> created a <a href="http://rakeshmenonp.wordpress.com/2010/03/23/javafx-wizard-ui/">Wizard UI in JavaFX</a> which is actually quite nice, and certainly usable for people wanting to show wizards in JavaFX.</li>
+	<li><strong>Exadel</strong> have released <a href="http://exadel.org/javafxplugin-releasenotes">version 1.2.3 of the JavaFX Plugin for Eclipse</a>. They have also announced that they plan to release more regular, and smaller, updates for the plugin (once every two weeks or so).</li>
+	<li><strong>Nathan Erwin</strong> emailed me about a <a href="http://maven-javafxdoc.sourceforge.net/">Maven Javafxdoc plugin</a> that he has been working on. This allows for you to easily generate JavaFX API documentation as part of the Maven build process.</li>
+	<li><strong>Peter Pilgrim</strong> has posted a <a href="http://www.jroller.com/peter_pilgrim/entry/javafx_javawug_moonlander_stage_10">new demo of his Moonlander game</a>, which along with providing a new stage also fixes a few bugs.</li>
+	<li><strong>Joshua Smith</strong> has blogged about <a href="http://devjfx.wordpress.com/2010/03/26/static-fields-and-functions-in-javafx/">static fields and functions in JavaFX</a>. This is one of those areas that differs from how it is done in Java, but it's certainly still possible in JavaFX to have static fields and functions.</li>
+	<li>If you're wanting to learn more about JavaFX then <strong>Sang Shin</strong> has a slide deck titled "<a href="http://www.slideshare.net/Ahmedsalem804/javafx-overview-90minutes-3455072">JavaFX: Building RIA Application</a>" you should check out. Unfortunately, the 'Application' part of the title is a little redundant given the RIA acronym preceding it, but it's a very easy trap to fall in to.</li>
+</ul>
+<p>After writing all these links out I realise - there is a heap of interesting news and blog posts this week, so get clicking :-) That's it for another week - catch you all in a weeks time!</p>
+<p><div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">http://exadel.org/javafxplugin-releasenotes</div></p>
+]]></Content>
+	</post>

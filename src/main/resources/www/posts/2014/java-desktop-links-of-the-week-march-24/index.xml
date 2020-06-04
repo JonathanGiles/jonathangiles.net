@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1698</ID>
+		<Slug>java-desktop-links-of-the-week-march-24</Slug>
+		<Title>Java desktop links of the week, March 24</Title>
+		<Date>2014-03-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all. The big news this week was of course Java 8.0 being released, but that didn't seem to stop all of you from getting your projects done - there is a heap of interesting news this week! Keep up the great work, and to everyone else, enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>As mentioned, Java 8.0 / JavaFX 8.0 was released this week. It shouldn't surprise anyone that this is a major release of JavaFX, bringing with it a heap of new features and bug fixes, having been in development for a very long time! If you haven't already, you can <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">download JDK 8</a> from the usual source. Whilst that is downloading, you can learn more about what is <a href="https://blogs.oracle.com/thejavatutorials/entry/learn_more_about_enhancements_in">new in JavaFX 8.0</a>, or <a href="http://docs.oracle.com/javase/8/javase-clienttechnologies.htm">read the JavaFX documentation</a>. There are heaps of features in this release, but some of my (very biased!) favourites include new controls (<a href="http://docs.oracle.com/javase/8/javafx/user-interface-tutorial/tree-table-view.htm">TreeTableView</a> and <a href="http://docs.oracle.com/javase/8/javafx/user-interface-tutorial/date-picker.htm">DatePicker</a>), <a href="http://docs.oracle.com/javase/8/javafx/user-interface-tutorial/embed.htm">UI control support on embedded platforms</a>, print support, 3D support, bi-directional text support, and of course <a href="http://fxexperience.com/2013/03/modena-theme-update/">the new Modena stylesheet</a> that is used by default. You can read more detail about the JavaFX features in JDK 8 in the <a href="http://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html">release notes</a>.</li>
+	<li><strong>Tom Eugelink</strong> has added a new <a href="http://tbeernot.wordpress.com/2014/03/23/round-and-round-she-goes/">'CircularPane' layout container</a> to the <a href="http://www.jfxtras.org">JFXtras project</a>. His blog post is a very interesting read that covers the details of implementing such a layout (to avoid overlapping nodes, for example).</li>
+	<li><strong>Tomas Mikula</strong> continues to create interesting JavaFX projects! This week he has open sourced his <a href="https://github.com/TomasMikula/EasyBind">EasyBind project</a>, which "leverages lambdas to reduce boilerplate when creating custom bindings." Overall it looks like a very useful library for people to investigate using in their projects.</li>
+	<li>Speaking of <strong>Tomas</strong>, he has also done a blog post titled "<a href="http://tomasmikula.github.io/blog/2014/03/22/trigger-processing-after-a-period-of-inactivity.html">Trigger processing after a period of inactivity</a>", which shows how to use <a href="http://www.reactfx.org">ReactFX</a> to defer processing of user input until a specified period of user's inactivity.</li>
+	<li><strong>Michael Berry</strong> has blogged about <a href="http://berry120.blogspot.co.uk/2014/01/draggable-and-detachable-tabs-in-javafx.html">draggable and detachable tabs in JavaFX</a>. This is something I've been wanting to do in JavaFX for a very long time, so I'm pleased someone has already done it :-) It would be great to see this contributed back to OpenJFX / <a href="http://jfxtras.org">JFXtras</a> / <a href="http://www.controlsfx.org">ControlsFX</a> so that it could be more widely used and tested.</li>
+	<li><strong>Adam Bien</strong> has announced <a href="http://www.adam-bien.com/roller/abien/entry/afterburner_fx_v1_4_4">afterburner.fx version v1.4.4</a>. This release includes support for resource bundles and improved support for mocking.</li>
+	<li><strong>Dino Tsoumakis</strong> has updated <a href="https://github.com/dimaki/followme.fx">followme.fx</a>, a sample afterburner.fx project for iOS based on <strong>Adam Bien's</strong> afterburner.fx.</li>
+	<li><strong>Jens Deters</strong> has posted a call for people to <a href="http://www.jensd.de/wordpress/?p=1006">verify the responsiveness of their applications</a> to different screen / font size configurations, after he found one of his apps rendered poorly.</li>
+	<li><strong>Christoph Nahr</strong> has <a href="http://news.kynosarges.org/2014/03/21/mime-browser-1-3-released/">released MIME Browser 1.3</a>, a JavaFX-based application for browsing MIME messages that are locally stored in standard EML files.</li>
+	<li><strong>Sean Phillips</strong> has a video titled "<a href="https://www.youtube.com/watch?v=aA5GfWc8ho4">Enhancing NASA Mission Support with JavaFX 8</a>". The video demonstrates his work with JavaFX, <a href="http://www.controlsfx.org">ControlsFX</a>, and NetBeans. Very impressive stuff.</li>
+	<li><strong>Mark Stephens</strong> has a blog post with some screenshots / information about the new (and commercial) JavaFX-based <a href="http://blog.idrsolutions.com/2014/03/sneak-preview-new-javafx-pdf-viewer/">PDF viewer</a> that IDR Solutions is working on.</li>
+	<li><strong>Dirk Lemmermann</strong> has released a first early access build of his (commercial) <a href="http://www.dlsc.com/index.php/flexgantt/flexganttfx-ea">JavaFX-based FlexGanttFX library</a>.</li>
+</ul>
+<p>Catch you next week :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3132</ID>
+		<Slug>java-desktop-links-of-the-week-august-27-2</Slug>
+		<Title>Java desktop links of the week, August 27</Title>
+		<Date>2018-08-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p><!-- wp:list --></p>
+<ul><li><strong>Gerrit Grunwald</strong> has created a <a href="https://harmoniccode.blogspot.com/2018/08/medusa-morphing-clock.html">morphing clock skin</a> for the Medusa - very nice :-)</li><li><strong>Almas Baimagambetov</strong> has updated <a href="https://github.com/AlmasB/FXGL">FXGL</a>, the JavaFX Game Library project. It is becoming very nicely polished now :-)</li><li><strong>Brian Young</strong> has an article on <a href="https://brianyoung.blog/2018/08/23/javafx-treeview-drag-drop/">how to do drag and drop using the JavaFX TreeView</a> control.</li><li><strong>Pedro</strong> DV has posted a <a href="https://pixelduke.com/2018/08/19/fluent-design-slider-java-javafx/">new fluent design style for the JavaFX Slider control</a>.</li><li>The&nbsp;<strong>Conservation Coding</strong> website has an article about <a href="https://conservationcoding.com/2018/08/16/javafx-is-dead-long-live-javafx-from-a-a-science-perceptive/">using JavaFX from a science perspective</a>.</li><li><strong>sirolf2009</strong> has created a JavaFX <a href="https://github.com/sirolf2009/fxgraph">graph visualisation library</a>.</li><li><strong>Adrian D. Finlay</strong> has blogged about <a href="https://medium.freecodecamp.org/how-to-make-a-cross-platform-mobile-app-in-java-5f8eae071ff2">how to make cross-platform mobile apps using JavaFX</a>.</li></ul>
+<p><!-- /wp:list --></p>
+]]></Content>
+	</post>

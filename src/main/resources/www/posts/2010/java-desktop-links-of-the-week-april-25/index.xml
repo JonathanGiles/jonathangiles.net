@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>786</ID>
+		<Slug>java-desktop-links-of-the-week-april-25</Slug>
+		<Title>Java desktop links of the week, April 25</Title>
+		<Date>2010-04-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>This weeks post comes to you from Santa Clara in the heart of Silicon Valley, so pardon the brevity, and due to my travel please excuse me if I missed any links.</p>
+
+<p>This week saw the release of JavaFX 1.3, which comes with a heap of improvements. Rather than repeat the details here, I have links to the main links below. Let's get into the news.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has been <a href="http://www.pushing-pixels.org/?p=1786">improving the breadcrumb component</a>, including making it use the Flamingo command button component. If you're using the breadcrumb component, you shouldn't notice any difference other than a more polished look.</li>
+	<li><strong>Eugene Ryzhikov</strong> has announced the <a href="http://mcoj.wordpress.com/2010/04/24/taskdialog-1-0-official-release/">1.0 release of his Swing TaskDialog project</a>. It looks to be a very useful component, so check it out.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>As mentioned, JavaFX 1.3 came out this week. You can <a href="http://blogs.sun.com/javafx/entry/javafx_1_3_released_delivers">read the official blog post</a> about it, <a href="http://javafx.com/docs/articles/javafx1-3.jsp">check out the new features</a>, and read the <a href="http://javafx.com/docs/articles/porting-guide-javafx1-3.jsp">migration guide</a> to understand what was changed since 1.2.</li>
+	<li>Over at FX Experience, <strong>Richard</strong>, <strong>Jasper</strong> and I posted a '<a href="http://fxexperience.com/2010/04/welcome-javafx-1-3/">Welcome JavaFX 1.3</a>' post, and also covered <a href="http://fxexperience.com/2010/04/top-10-changes-in-javafx-1-3/">our top 10 features of JavaFX 1.3</a>. We also plan to start putting up a bunch of posts over the next week or two to cover more details in JavaFX 1.3.</li>
+	<li><strong>Stephen Chin</strong> has covered his <a href="http://steveonjava.com/javafx-1-3-top-10/">top 10 features in the new JavaFX 1.3 release</a>.</li>
+	<li><strong>Dean Iverson</strong> has done a great job filling in the gaps on how to style JavaFX, this time with a blog introducing <a href="http://pleasingsoftware.blogspot.com/2010/04/brief-introduction-to-styling-controls.html">how to use the new CSS styling</a> available in JavaFX 1.3.</li>
+	<li><strong>Jim Weaver</strong> has posted a <a href="http://learnjavafx.typepad.com/weblog/2010/04/your-calendar-pwn3d-leveraging-the-javafx-scene3d-conditionalfeature.html">3D JavaFX application</a> that demonstrates some of the new 3D API and functionality in javaFX 1.3.</li>
+	<li><strong>Johannes Schneider</strong> has done a bunch of posts recently, so I'll just mention the titles here: '<a href="http://blog.cedarsoft.com/2010/04/javafx-creating-custom-controls-the-right-way">JavaFX: Creating custom controls – the right way</a>', '<a href="http://blog.cedarsoft.com/2010/04/javafx-about-bounds/">JavaFX: Bounds by example</a>', '<a href="http://blog.cedarsoft.com/2010/04/javafx-gotcha-in-skin-assignment/">JavaFX: Gotcha in skin assignment</a>' and '<a href="http://blog.cedarsoft.com/2010/04/javafx-1-3-binding-improved">JavaFX 1.3: Binding improved</a>'.</li>
+	<li><strong>Pedro Duque Vieira</strong> has blogged about adding <a href="http://pixelduke.wordpress.com/2010/04/24/modellus-new-animated-characters/">animated characters to the Modellus project</a> he is working. Of additional interest is that this application is a merging of Swing and JavaFX. Check out the YouTube video to see it in action.</li>
+	<li><strong>Mark Anro Silver</strong> has posted two code samples on JFXStudio. The first one shows <a href="http://jfxstudio.wordpress.com/2010/04/19/javafx-effect/">glow and lighting effects</a>, and the second post showing how you can <a href="http://jfxstudio.wordpress.com/2010/04/21/javafx-light-bulb/">apply effects on top of graphics for interesting effects</a>.</li>
+	<li><strong>Peter Karich</strong> has posted about his thoughts on <a href="http://jfxstudio.wordpress.com/2010/04/22/new-desktop-experience/">creating simple desktop widgets in JavaFX</a>. He also posted about creating a <a href="http://karussell.wordpress.com/2010/04/22/reply-via-javafx-on-shadow-motion-effect-in-5-lines-of-jquery/">shadow motion effect in JavaFX</a>.</li>
+	<li><strong>Itssmee</strong> has blogged about <a href="http://itssmee.wordpress.com/2010/04/21/comparing-processing-to-javafx-via-a-processing-tutorial/">comparing the Processing language to JavaFX Script</a>.</li>
+	<li>Have a play with the <a href="http://metamaps.net/">MetaMaps</a> tool being created in JavaFX, and be sure to offer any feedback you may have.</li>
+</ul>
+<p>Right. That's that. Time to put the feet up and blob in front of Discovery channel. Catch you all in a week.</p>
+]]></Content>
+	</post>

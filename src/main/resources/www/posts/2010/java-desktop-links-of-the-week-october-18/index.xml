@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>935</ID>
+		<Slug>java-desktop-links-of-the-week-october-18</Slug>
+		<Title>Java desktop links of the week, October 18</Title>
+		<Date>2010-10-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome to another week of Java desktop links :-)</p>
+
+<p>This week I think is actually quite a good week of links. Whilst the quantity of links is somewhat low, there is great quality and depth to what is being done in the Java desktop world at the moment, and it's quite fun to read what everyone is up to. Keep up the great work folks! Now, on with the links.</p>
+<h4>Swing</h4>
+<ul>
+	<li>The <a href="http://kenai.com/projects/bsaf">Better Swing Application Framework</a> has just had the <a href="http://kenai.com/projects/bsaf/pages/190GA">GA release of 1.9</a> come online for all to use. The BSAF project is basically a fork of the Swing Application Framework, which has struggled to materialise after a number of years in development.</li>
+	<li><strong>Gerrit Grunwald</strong> has <a href="http://harmoniccode.blogspot.com/2010/10/steelseries-14.html">released SteelSeries 1.4</a>. The major improvement is the addition of a custom layer to the  gauges which is displayed  between the background and the tickmarks. This allows for the easy addition of logos, icons, etc to your gauges.</li>
+	<li><strong>Greg Brown</strong> has a post up about <a href="http://www.dzone.com/links/r/combining_swing_and_apache_pivot.html">combining Swing and Apache Pivot based applications</a>. He says "Pivot doesn't currently support embedded Swing components. However, it  is possible to use Pivot components within an existing Swing application".</li>
+	<li>It looks like everybodies favourite layout manager, GridBagLayout, has a <a href="http://wiki.netbeans.org/NewAndNoteworthyNB70#GUI_Builder_-_New_GridBagLayout_Designer">new GUI builder tool awaiting it in NetBeans 7.0</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>Coming up on November 10 is the next Silicon Valley JavaFX Users Group talk, which is also broadcast in video live to those not in the Silicon Valley area. The November talk is <strong>Stephen Chin</strong> reprising the talk he and I gave at JavaOne on <a href="http://www.svjugfx.org/calendar/14264038/?eventId=14264038&amp;action=detail">JavaFX 2.0 using alternative languages</a> (for those unwilling to wait until November 10, you can <a href="/posts/2010javafx-your-way-building-javafx-applications-with-alternative-languages/">find the slides we used on my blog</a>). He will also be giving more details on <a href="http://www.visage-lang.org">project Visage</a>, the fork of the JavaFX Script compiler to support the JavaFX Script language on JavaFX 2.0 and alternate GUI toolkits.</li>
+	<li><strong>Martin Ryzl</strong> has put up a screencast on <a href="http://netbeans.org/kb/docs/javafx/newdatasource-screencast.html">how to use new data sources in JavaFX Composer</a> in the NetBeans 6.10 M1 IDE.</li>
+	<li><strong>IBM DeveloperWorks</strong> has an article up on how to '<a href="http://www.ibm.com/developerworks/web/library/wa-javafxapp/index.html?ca=drs-">use JavaFX to quickly create applications</a>', with the subtitle of 'JavaFX + Eclipse IDE = Easy GUI'</li>
+	<li>Last week I mentioned that <strong>Kim Topley</strong> has released a new book about JavaFX 1.3. This week there is an excerpt from this book available at InformIT. It covers <a href="http://www.informit.com/articles/article.aspx?p=1639628&amp;WT.rss_f=Article&amp;WT.rss_a=JavaFX%20Effects%20and%20Blending&amp;WT.rss_ev=a">JavaFX effects and blends</a>.</li>
+</ul>
+<p>That's us for another week. Like I said, there wasn't <a href="http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html">alot</a> of links, but I hope you found one or two of them interesting. Catch you all in a weeks time.</p>
+]]></Content>
+	</post>

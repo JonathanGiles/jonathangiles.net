@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1270</ID>
+		<Slug>java-desktop-links-of-the-week-july-9</Slug>
+		<Title>Java desktop links of the week, July 9</Title>
+		<Date>2012-07-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all - here is another weeks worth of links. I'm run off my feet working on the latest JavaFX release, so please pardon the brevity! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Igor Nekrestyanov</strong> has published an article on <a href="https://blogs.oracle.com/talkingjavadeployment/entry/packaging_swing_apps_with_integrated">packaging Swing apps with integrated JavaFX content</a>.</li>
+	<li><strong>Adam Bien</strong> has published part two of his series on <a href="http://www.oracle.com/technetwork/articles/java/enterprisefxpt2-1676394.html">the enterprise side of JavaFX</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> continues to explore the <a href="https://blogs.oracle.com/geertjan/entry/advanced_experiments_with_javafx_css">intersection of JavaScript, CSS, HTML, JavaFX and Java</a>.</li>
+	<li><strong>Gunnar Morling</strong> has blogged about <a href="http://musingsofaprogrammingaddict.blogspot.co.nz/2012/07/using-javafx-21-with-maven.html">using JavaFX 2 with Maven</a>.</li>
+	<li>The first chapter of <strong>Carl Dea's</strong> book "<a href="http://www.apress.com/java/javafx/9781430242574">JavaFX 2.0: Introduction by Example</a>" has been <a href="http://books.google.co.nz/books?id=DVB1Ol4HDOwC&amp;pg=PA1&amp;lpg=PA1&amp;output=html_text">made available online for free</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> has done yet another of his 'Friday Fun Component' posts, this time recreating a '<a href="http://harmoniccode.blogspot.co.nz/2012/07/friday-fun-component-xvii.html">domino-piece clock</a>'.</li>
+	<li>In another post (and on another blog), <strong>Gerrit</strong> has also posted about <a href="http://www.canoo.com/blog/2012/07/04/javafx-recipes-dynamic-shadows/">JavaFX dynamic shadows</a>, to create more life-like effects.</li>
+	<li>If you want to run the developer preview versions of JavaFX 2.2 on Ubuntu Linux, you can now <a href="http://www.wikihow.com/Install-JavaFX-on-Ubuntu-Linux">follow these online instructions</a>.</li>
+	<li><strong>Andres Almiray</strong> has written about <a href="http://www.jroller.com/aalmiray/entry/griffon_javafx_for_the_enterprise">using Groovy and Griffon to build JavaFX applications</a> without all the Java boilerplate.</li>
+	<li><strong>Patrick Martin</strong> has started a blog at <a href="http://javafx2.org/">javafx2.org</a>. It covers topics such as reflective event handling, JavaFX and Scala, and JavaFX and Groovy.</li>
+	<li><strong>John Yeary</strong> has blogged about how he created a JavaFX 2.2 pie chart using JPA.</li>
+	<li><strong>Stephen Chin</strong> and <strong>Jim Weaver</strong> were <a href="http://streaming.oracle.com/ebn/podcasts/media/11865725_JavaFX2_070612.mp3">interviewed</a> (note: direct MP3 file link) by <strong>Donald Smith</strong> recently.</li>
+</ul>
+]]></Content>
+	</post>

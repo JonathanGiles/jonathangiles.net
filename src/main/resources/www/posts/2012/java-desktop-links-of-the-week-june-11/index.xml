@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1259</ID>
+		<Slug>java-desktop-links-of-the-week-june-11</Slug>
+		<Title>Java desktop links of the week, June 11</Title>
+		<Date>2012-06-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx</Tags>
+		<Content><![CDATA[<p>Hi all - welcome to this weeks roundup. I hope you find something to enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>Developer preview releases of JavaFX 2.2 b11 and Scene Builder 1.0 b41 are <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">now available for download</a>.</li>
+	<li>JFXtras for JavaFX 2.0 has finally arrived! The <a href="http://jfxtras.org/">first release of JFXtras Labs</a> (the incubator for JFXtras) has been made available. I <a href="http://fxexperience.com/2012/06/interview-with-the-jfxtras-team/">interviewed four of the members of the JFXtras team</a> recently too.</li>
+	<li><strong>Gerrit Grunwald</strong> has blogged about one of the <a href="http://harmoniccode.blogspot.de/2012/06/jfxtras-series-lcd-control.html">new components in JFXtras Labs 0.1: a LCD display</a>.</li>
+	<li><strong>Tom Schindl</strong> has created a <a href="http://tomsondev.bestsolution.at/2012/06/05/almost-totally-crazy/">proof of concept of SWT running on top of JavaFX</a> (in effect, it is the SWT API with JavaFX rendering).</li>
+	<li>Following on from the release of Scenic View 1.0 last week, <a href="http://fxexperience.com/2012/06/scenic-view-1-0-1-now-available/">Scenic View 1.0.1 was released</a> to improve performance in some situations, and to also fix a few bugs that were discovered after the release of 1.0.</li>
+	<li><strong>Michael Heinrichs</strong> has posted his for his talk '<a href="http://www.slideshare.net/michael_heinrichs/javafx-for-business-application-developers-13246315">JavaFX for Business Application Developers</a>'.</li>
+	<li>Speaking of business applications, <strong>Jim Weaver</strong> has posted part two of his series on <a href="http://www.oracle.com/technetwork/articles/java/javafxbest2-1634274.html">best practices for JavaFX 2.0 enterprise applications</a> (although we are well past 2.0 now!).</li>
+	<li><strong>Anton Epple</strong> has released a new NetBeans plugin that <a href="http://88.198.17.44/blog/2012/06/06/new-netbeans-plugin-svg-2-fxml/">converts SVG images into FXML</a> for use inside your JavaFX applications.</li>
+	<li><strong>Mohamed Sanaulla</strong> has posted about <a href="http://www.javabeat.net/2012/05/using-lambda-expressions-of-java-8-in-java-fx-event-handlers/">how the introduction of lambdas in Java 8 will impact JavaFX</a>. Namely, the use of single abstract method interfaces for almost all interfaces in JavaFX allows for immediate use of closures in these situations, once Java 8 rolls around.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li>Griffon had its 1.0 release recently, which <a href="http://griffon.codehaus.org/Download">can be downloaded</a>, along with <a href="http://artifacts.griffon-framework.org/plugin/swing">two</a><a>useful</a> Griffon plugins.</li>
+</ul>
+<p>That's us for another week! Catch you next week :-)</p>
+]]></Content>
+	</post>

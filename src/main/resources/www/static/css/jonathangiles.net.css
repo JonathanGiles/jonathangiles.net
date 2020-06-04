@@ -1,0 +1,143 @@
+/*
+Theme Name:   JonathanGiles.net
+Description:  Tweaks on top of the Primer theme
+Author:       Jonathan Giles
+Author URL:   http://JonathanGiles.net
+Template:     primer
+Version:      1.0
+Text Domain:  jonathangiles-net
+*/
+
+/* Make main content area wider on wide windows */
+/*@media only screen and (min-width: 1530px) {
+	.site-content {
+	  max-width: 1500px !important;
+	}
+	.content-area {
+	  width: 79% !important;
+	  margin-left: 0px !important;
+	  margin-right: 5px !important;
+	}
+	.widget-area {
+	  width: 20% !important;
+	  margin-left: 10px !important;
+	  margin-right: 0px !important;
+	}
+}*/
+/* End of making content area wider */
+
+/* Only show widget area on front-page, not subpages */
+body.page .content-area {
+    width: 100% !important;
+}
+body.page .widget-area {
+    display: none;
+    width: 0% !important;
+}
+/* End of hiding widget area on subpages */
+
+.page-title-container,
+.posted-author,
+.entry-footer {
+    display: none !important;
+}
+
+.site-header {
+    min-height: 36vw;
+}
+.jetpack_widget_social_icons svg {
+    color: white !important;
+}
+
+.site-footer .widget {
+    background-color: inherit !important;
+    text-align: center;
+}
+.site-footer .jetpack-social-widget-list,
+.site-footer .footer-widget-area {
+    padding: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+/* Hide copyright */
+.site-info-wrapper {
+    display: none;
+}
+
+.about-text {
+    font-size: 0.8em;
+    text-align: justify;
+}
+
+.about-link {
+    font-size: 0.8em;
+    vertical-align: top;
+}
+
+.project .title .subtitle {
+    font-size: 0.8em;
+    font-weight: 100;
+    padding-left: 10px;
+}
+
+.project .image {
+    text-align: center;
+}
+
+/* Make headers wrap around any images, rather than drop to beneath them */
+.page-content h1,
+.page-content h2,
+.page-content h3,
+.page-content h4,
+.page-content h5 {
+    clear: none;
+}
+
+@media only screen and (max-width: 978px) {
+    /* Hide the awards and twitter widgets on mobile */
+    #text-337752356,
+    #twitter_timeline-2 {
+        display: none;
+    }
+}
+
+/* Make block quotes look a little nicer */
+blockquote {
+    font-size: 100% !important;
+    font-style: italic !important;
+    border-left-color: rgb(1, 131, 170) !important;
+    color: inherit !important;
+    margin-left: 20px !important;
+}
+
+/* Make printer output look a lot nicer by removing a lot of clutter and just displaying the main content */
+@media print {
+    .site-header {
+        background-image: none !important;
+        background-color: inherit !important;
+        color: black !important;
+        min-height: inherit;
+    }
+    .main-navigation-container {
+        display: none;
+    }
+    .layout-two-column-default .content-area {
+        width: 100%;
+    }
+    .layout-two-column-default #secondary {
+        display: none;
+        width: 0%;
+    }
+    .site-main .post-navigation {
+        display: none;
+    }
+    .jp-relatedposts {
+        display: none !important;
+    }
+    .comments-area {
+        display: none;
+    }
+    .hentry {
+        padding: 0.5em 3.375em;
+    }
+}

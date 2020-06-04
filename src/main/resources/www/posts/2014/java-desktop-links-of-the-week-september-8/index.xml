@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1799</ID>
+		<Slug>java-desktop-links-of-the-week-september-8</Slug>
+		<Title>Java desktop links of the week, September 8</Title>
+		<Date>2014-09-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Not long now until JavaOne, so I hope everyone that is presenting is getting things sorted out! :-) Here's the weeks links - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Johan Vos</strong> has written about <a href="http://www.infoq.com/articles/Building-JavaFX-Android-Apps">building and deploying Android apps using JavaFX</a>. He also has written about the <a href="http://www.lodgon.com/dali/blog/entry/Mobile_JavaFX_Enterprise_at_JavaOne">sessions he is presenting at JavaOne</a>, including a session on JavaFX on Android.</li>
+	<li><strong>Dirk Lemmermann</strong> has <a href="http://dlemmermann.wordpress.com/2014/09/02/new-release-flexganttfx-1-0-0/">announced the 1.0.0 release</a> of his (commercial) <a href="http://flexganttfx.com/">FlexGantt library</a>.</li>
+	<li><strong>Rob Terp</strong> has a post titled "<a href="http://rterp.wordpress.com/2014/09/04/animations-with-javafx-so-easy-a-chimp-can-do-it/">Animations with JavaFX: So Easy a Chimp Can Do It</a>".</li>
+	<li>I continue to post interviews with members of the JavaFX community, this week interviewing <a href="http://fxexperience.com/2014/09/javaone-interviews-david-grieve/"><strong>David Grieve</strong></a> and <a href="http://fxexperience.com/2014/09/javaone-interviews-carl-dea/"><strong>Carl Dea</strong></a>.</li>
+	<li><strong>Niels Gundermann</strong> continues to work on his JavaFX 3D Editor project, <a href="http://javafxstuff.blogspot.co.nz/2014/09/javafx-3d-editor-update-11.html">releasing update 11</a> as well as a blog post detailing <a href="http://javafxstuff.blogspot.co.nz/2014/09/how-to-create-new-painting-tools-on.html">how to create new painting tools</a>.</li>
+</ul>
+<p>That's all for this week. Catch you again next week!</p>
+]]></Content>
+	</post>

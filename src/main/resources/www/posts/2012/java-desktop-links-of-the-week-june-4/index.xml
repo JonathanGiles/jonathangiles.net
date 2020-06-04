@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1257</ID>
+		<Slug>java-desktop-links-of-the-week-june-4</Slug>
+		<Title>Java desktop links of the week, June 4</Title>
+		<Date>2012-06-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>It's June already?! Where does time go! It's a public holiday here today so I'll get these links out quickly so I can get out of the office again. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">JavaFX 2.2 Developer Preview build 11, and Scene Builder 1.0 build 40</a> are now available for download.</li>
+	<li><strong>Richard Bair</strong> has blogged about <a href="http://fxexperience.com/2012/06/javafx-the-10000-foot-view/">JavaFX from a 10,000 foot (or 3,048 metres) view</a>.</li>
+	<li><strong>Jasper Potts</strong> and I have set up a new Scenic View page to be <a href="http://fxexperience.com/scenic-view/">the home for Scenic View</a>. Soon it will have a help section, various screenshots, as well as news and downloads.</li>
+	<li>In preparation for the new release, I have <a href="http://fxexperience.com/2012/06/interview-with-ander-ruiz/">interviewed <strong>Ander Ruiz</strong></a>. He is responsible for much of the improvements in the upcoming release of Scenic View.</li>
+	<li><strong>Tom Schindl</strong> has been very busy in the past few days. Firstly, he announced the <a href="http://tomsondev.bestsolution.at/2012/05/29/efxclipse-0-0-14-released/">release of e(fx)clipse 0.0.14</a>. Then he did two blog posts, one on <a href="http://tomsondev.bestsolution.at/2012/05/29/javafx-xtend-an-ongoing-love/">JavaFX and xtend</a>, and then one on <a href="http://tomsondev.bestsolution.at/2012/05/29/getting-started-with-efxclipse-and-javafx/">getting started with e(fx)clipse and JavaFX</a>.</li>
+	<li>In yet another post, Tom Schindl posted about <a href="http://tomsondev.bestsolution.at/2012/06/03/about-mixing-and-matching-jdt-and-javafx/">Eclipse JDT + JavaFX</a>, essentially building a mini IDE with JavaFX as the UI layer.</li>
+	<li><strong>Gerrit Grunwald</strong> has been exploring some of the new features coming up in JavaFX 2.2. Firstly, he covers the <a href="http://harmoniccode.blogspot.de/2012/05/dead-bitmaps-could-be-beautiful-part-ii.html">ImagePaint API to create textures using images</a>, and secondly he forks the <a href="http://harmoniccode.blogspot.de/2012/06/dead-bitmaps-could-be-beautiful-part.html">patternizer project so that it generates JavaFX code</a>.</li>
+	<li>Also exploring the JavaFX Canvas API is <strong>Jim Clarke</strong>. Jim does a performance test and finds that <a href="http://www.codetown.us/profiles/blogs/javafx-2-2-canvas">JavaFX appears to run very, very fast</a> compared to implementations of the performance test in other languages.</li>
+	<li><strong>Anton Epple</strong> has blogged about <a href="http://88.198.17.44/blog/2012/06/03/svg-to-fxml-using-netbeans/">converting SVG to FXML using NetBeans</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li>JIDE Software have announced the release of <a href="http://www.jidesoft.com/history/">version 3.4.1 of all of their libraries</a>. Also, they have moved their <a href="https://github.com/jidesoft/jide-oss">open source code to Github</a>.</li>
+</ul>
+<p>Ok, that's all for this week. Now I can go outside! :-) Catch you all next week.</p>
+]]></Content>
+	</post>

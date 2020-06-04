@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2019</ID>
+		<Slug>java-desktop-links-of-the-week-december-21-2</Slug>
+		<Title>Java desktop links of the week, December 21</Title>
+		<Date>2015-12-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>I hope everyone is starting to wind down for the holiday season, I know I certainly am. It seems like perhaps the Java desktop community bloggers are also starting to take it easy before the holidays, as the links this week are a fair bit quieter than normal. In any case, I hope everyone has a festive and safe holiday season, and I will see you on the other side! Enjoy :-)</p>
+<ul>
+	<li><strong>Gluon</strong> posted an interview with <strong>Saxonia Systems</strong> about how they are <a href="http://gluonhq.com/saxonia-systems-supports-gluon-moving-scene-builder-forward/">working on Scene Builder together</a>.</li>
+	<li><strong>Robert Ladstätter</strong> has blogged about using the <a href="http://ladstatt.blogspot.co.at/2015/12/javafx-tableview.html">JavaFX TableView control from Scala</a>.</li>
+	<li><strong>Carl</strong> has blogged about&nbsp;<a href="http://bekwam.blogspot.co.nz/2015/12/sprite-programming-with-javafx-and_13.html">sprite programming with JavaFX and Scene Builder</a>.</li>
+	<li><strong>David Bell</strong> has a post about a <a href="http://broadlyapplicable.blogspot.co.nz/2015/12/get-me-outta-here.html">game he has created</a> with JavaFX.</li>
+</ul>
+]]></Content>
+	</post>

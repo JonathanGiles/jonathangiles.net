@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2253</ID>
+		<Slug>java-desktop-links-of-the-week-march-20</Slug>
+		<Title>Java desktop links of the week, March 20</Title>
+		<Date>2017-03-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week, but a few nice links nonetheless:</p>
+<ul>
+ 	<li><strong>Edvin Syse</strong> released <a href="https://github.com/edvin/fxlauncher/releases/tag/v1.0.15">FXLauncher 1.0.15</a>, and auto updating launcher for JavaFX Applications.</li>
+ 	<li>GlazedLists 1.10.0 has been <a href="http://www.glazedlists.com/releases/glazed-lists-1-10-0">released</a>. As&nbsp;<strong>Holger Brands</strong> put it to me: "It now features an JavaFX extension, which contains a <a href="https://github.com/glazedlists/glazedlists/tree/master/extensions/javafx/source/ca/odell/glazedlists/javafx">bridge between EventList and ObservableList</a>. EventObservableList is an implementation of ObservableList that is backed by a source EventList. That way you can use your existing EventList pipelines and connect it to the JavaFX world." Very nice! :)</li>
+ 	<li><strong>Stephan Janssen</strong> has posted about the '<a href="https://www.linkedin.com/pulse/brand-new-my-devoxx-mobile-app-stephan-janssen">brand new "My Devoxx"? mobile app</a>', built using JavaFX (using <a href="http://www.gluonhq.com">Gluon</a>) and running on iOS and Android, which is being used for all Devoxx conferences, including Devoxx US coming up this week.</li>
+</ul>
+]]></Content>
+	</post>

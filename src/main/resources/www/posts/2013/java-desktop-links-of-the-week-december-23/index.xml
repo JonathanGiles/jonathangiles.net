@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1623</ID>
+		<Slug>java-desktop-links-of-the-week-december-23</Slug>
+		<Title>Java desktop links of the week, December 23</Title>
+		<Date>2013-12-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>I'm on holiday this week (and for most of January), so I'm keeping today's post brief and to the point. Also, next week my first son is due, so whether there is a post anytime next week is up in the air. I hope you'll understand! :-) Anyway, enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The <strong>JavaFX Prague Team</strong> blog has a <a href="https://blogs.oracle.com/jfxprg/entry/javafx_on_android">JavaFX on Android follow-up</a> post, summarising the current state of the art.</li>
+	<li><strong>Tomas Mikula</strong> continues to work on his <a href="https://github.com/TomasMikula/CodeAreaFX">CodeAreaFX UI control</a>, which is a "text area for JavaFX that supports assigning style classes for ranges of text. It is intended as a base for code editors with syntax highlighting."</li>
+	<li>There seems to be a lot of interest recently in adding a date axis to the JavaFX chart API. This week <strong>Gerrit Grunwald</strong> has blogged about a <a href="http://harmoniccode.blogspot.de/2013/12/dateaxis310.html">DateAxis API he has developed that makes use of JSR 310</a> (new date and time APIs). It would be great to see the community pull together some improved / additional APIs for the charting component of JavaFX and to contribute these back to JavaFX *hint hint* ;-)</li>
+	<li>Speaking of JSR 310, <strong>Florian Brunner</strong> has upgraded his <a href="http://puces-blog.blogspot.co.nz/2013/12/drombler-commons-date-and-time-controls.html">Drombler Commons API</a> to use the new Java 8 Date and Time APIs.</li>
+	<li><strong>Pedro Duque Vieira</strong> has two posts this week. Firstly has has posted about his <a href="http://pixelduke.wordpress.com/2013/12/22/metro-style-password-box-for-java-jmetro/">Metro-styled PasswordField for JavaFX</a>. Secondly, he has a post detailing some of <a href="http://pixelduke.wordpress.com/2013/12/16/skinning-in-java8-javafx8/">the changes in the JavaFX controls API</a> coming up in JavaFX 8.0.</li>
+	<li><strong>Mark Stephens</strong> has a post introducing a <a href="http://blog.idrsolutions.com/2013/12/javafx-pdf-viewer/">PDF viewer for JavaFX</a> written solely using JavaFX technologies.</li>
+	<li><strong>Christian Schudt</strong> has <a href="http://myjavafx.blogspot.co.nz/2013/12/tetris-with-javafx.html">recreated Tetris in JavaFX</a>, and has <a href="https://bitbucket.org/sco0ter/tetris">posted the code online</a> for your learning pleasure.</li>
+	<li><strong>Andy Till</strong> has made available code for his <a href="https://github.com/andytill/cavity-search">'Cavity Search' project</a>. As summarised by Andy, "Cavity Search is a UI search library for any JavaFX UI. Given a node instance, Cavity Search will go through the nodes hierarchy, finding all text. When it finds a text match it will create a highlight node that can be added to your scene."</li>
+</ul>
+<p>Catch you all (possibly) next week! :-)</p>
+]]></Content>
+	</post>

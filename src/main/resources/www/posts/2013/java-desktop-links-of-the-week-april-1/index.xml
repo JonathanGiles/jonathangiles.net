@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1439</ID>
+		<Slug>java-desktop-links-of-the-week-april-1</Slug>
+		<Title>Java desktop links of the week, April 1</Title>
+		<Date>2013-03-31</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Happy April 1st everyone. Brace yourself for an onslaught of fake news in the next 24 hours! :-) Anywho, what I have below is anything but fake - rather it is the best Java desktop news around - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> has been working like a mad man improving the build infrastructure of OpenJFX by using gradle. As his work proceeds he has been writing <a href="https://wiki-beta.openjdk.java.net/display/OpenJFX/Building+OpenJFX">considerable documentation</a> for those interested.</li>
+	<li>Much discussion took place this week on Twitter due to the introduction of the <a href="http://hg.openjdk.java.net/openjfx/8/graphics/rt/rev/8105bb179397">SwingNode code</a> into the OpenJFX repo. The SwingNode allows for Swing to be embedded within a JavaFX scenegraph (so in JavaFX 8.0 it is possible to embed JavaFX inside Swing and SWT, and Swing can be embedded inside JavaFX).</li>
+	<li><strong>JetBrains</strong> have posted part three of their series on IntelliJ support for JavaFX 2, this time blogging about <a href="http://blogs.jetbrains.com/idea/2013/03/packaging-javafx-2-applications-in-intellij-idea-121/">packaging JavaFX 2 applications in IntelliJ IDEA 12.1</a>.</li>
+	<li><strong>Johan Vos</strong> has an article up on <strong>jaxenter</strong> about '<a href="http://jaxenter.com/getting-real-world-data-into-java-ui-controls-with-datafx-46600.html">getting real world data into JavaFX UI controls with DataFX</a>'. More information about DataFX can be found over at the <a href="http://www.javafxdata.org/">DataFX website</a>.</li>
+	<li><strong>Sven Reimers</strong> has begun a series of posts on&nbsp; his <a href="http://weblogs.java.net/blog/sven/archive/2013/03/24/javafx-application-frameworks-where-are-thou">eFX application framework</a> for JavaFX.</li>
+	<li><strong>Dierk Koenig</strong> has posted a video showing a <a href="http://www.youtube.com/watch?v=OoOaC0vMFW8&amp;feature=youtu.be">Swing to JavaFX migration using the OpenDolphin framework</a>.</li>
+	<li><strong>mihosoft</strong> have posted about how JavaFX 8.0 has seen <a href="http://mihosoft.eu/?p=486">large performance gains</a> over JavaFX 2.x (which is something we've been working hard on in the 8.x development cycle).</li>
+	<li><strong>Sven Efftinge</strong> has put up a readme detailing the <a href="https://github.com/svenefftinge/xtendfx">functionality offered by the xtendfx library</a>. As he puts it, "XtendFX is a little library making JavaFX programming in Java and Xtend a joy." It certainly does look very nice.</li>
+	<li><strong>Robert Ladstätter</strong> continues to work on JavaFX graphics, this time he has a video where he draws a <a href="http://ladstatt.blogspot.co.nz/2013/03/javafx-3d-tree-visualization.html">3D tree</a> (yes, literally a tree) :-)</li>
+	<li><strong>Jens Deters</strong> has blogged about a custom JavaFX component he has developed: a <a href="http://www.jensd.de/wordpress/?p=274">SelectablePane</a> (essentially a TitledPane with some modifications to control its expanded state).</li>
+</ul>
+<p>That's all folks! Catch you in a weeks time :-)</p>
+]]></Content>
+	</post>

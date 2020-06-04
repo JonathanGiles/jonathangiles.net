@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>109</ID>
+		<Slug>a-formal-contract-language-for-plugin-based-software-engineering</Slug>
+		<Title>A Formal Contract Language for Plugin-based Software Engineering</Title>
+		<Date>2007-08-05</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>plugins-research</Tags>
+		<Content><![CDATA[<p>Just as a quick note for the future me (and to anyone interested), here is <a href="http://dx.doi.org/10.1109/ICECCS.2007.7" target="_blank">the paper</a> I was involved in earlier this year, now that it is published. As is the title for this blog post, the title of the paper is "A Formal Contract Language for Plugin-based Software Engineering". It is to do primarily to do with our research into plugin-based software such as Eclipse (which is completely plugin-based), and our thoughts on a way to strengthen the relationship between plugin and the plugin host (or extension and extension-point in proper Eclipse lingo).</p>
+
+<p>Any questions feel free to ask.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2960</ID>
+		<Slug>java-desktop-links-of-the-week-march-12-2</Slug>
+		<Title>Java desktop links of the week, March 12</Title>
+		<Date>2018-03-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Howdy folks! Big news this week, so let's just get into it.</p>
+<ul>
+ 	<li>The big news this week was the announcement by Oracle that JavaFX is to be removed from the JDK from 11 onwards. This was <a href="https://www.infoworld.com/article/3261066/java/javafx-will-be-removed-from-the-java-jdk.html">covered in InfoWorld</a>, and in a <a href="https://blogs.oracle.com/java-platform-group/the-future-of-javafx-and-other-java-client-roadmap-updates">blog post</a> and <a href="http://www.oracle.com/technetwork/java/javase/javaclientroadmapupdate2018mar-4414431.pdf">white paper</a> by Oracle. In addition to JavaFX being moved to a module that is not shipped with the JDK, there were other Java client announcements made at the same time: Java Web Start and Applet technologies will also be removed from JDK 11 and future releases, and Swing / AWT, being a part of the Java SE spec, will continue to be supported through to 2026. For those of you forgetting the new release plan, JDK 11 is scheduled for release in September of this year. I have received a huge number of emails from people wondering what this means for JavaFX. The answer is - it is now in the hands of the community, with companies like <a href="http://www.gluonhq.com">Gluon</a> stepping up to take on the load. You can choose to look at this optimistically (faster releases, easier contributions from community, etc) or cynically (another area that Oracle has abandoned and left the community in charge) - for me, I will write a blog post adding more detail about this as soon as possible.</li>
+ 	<li><strong>Eric Canull</strong> has posted code to GitHub for a <a href="https://github.com/EricCanull/fxsortinganimation">JavaFX-based sorting animation app</a>.</li>
+ 	<li><strong>Pedro Duque Vieira</strong> has <a href="http://pixelduke.com/2018/03/04/update-to-fxribbon-ribbon-for-java/">updated his FXRibbon project</a> to clean up API, etc.</li>
+ 	<li><strong>Christoph Nahr</strong> has posted about <a href="http://news.kynosarges.org/2018/03/11/windows-gui-dpi-scaling-in-2018/">Windows GUI DPI scaling in 2018</a>.</li>
+</ul>
+]]></Content>
+	</post>

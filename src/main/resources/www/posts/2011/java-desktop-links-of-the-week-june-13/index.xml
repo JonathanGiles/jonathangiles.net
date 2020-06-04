@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1060</ID>
+		<Slug>java-desktop-links-of-the-week-june-13</Slug>
+		<Title>Java desktop links of the week, June 13</Title>
+		<Date>2011-06-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing|swt</Tags>
+		<Content><![CDATA[<p>Another week, another batch of links. Let's just get right into it!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>GroovyFX was announced this week by <strong>Jim Clarke</strong>, which is a library <a href="http://groovy.codehaus.org/GroovyFX">that makes building JavaFX 2.0 user interfaces easier</a> (when written in Groovy, obviously). The features include a SceneGraphBuilder, TimelineBuilder,         bind syntax and a 	GroovyDSL to support colors, durations, timelines, enumerations, etc. I'm very excited to see alternate JVM languages starting to adopt JavaFX 2.0 now that it is all Java-based.</li>
+	<li>Speaking of alternate JVM languages, here are two <a href="http://blog.altasoft.pl/2011/06/clojure-with-javafx2-0/">blog</a> <a href="http://blog.altasoft.pl/2011/06/clojure-javafx-2-0-simple-app/">posts</a> by <strong>Emil Kruczek</strong> about using JavaFX 2.0 in Clojure.</li>
+	<li><strong>Tom Schindl</strong> has <a href="http://tomsondev.bestsolution.at/2011/06/08/taking-javafx-for-a-spin/">taken JavaFX 2.0 for a spin</a>, and thinks that JavaFX 2.0 is looking pretty good, which is kind considering he is an SWT fan. Despite this, he says that "[t]his makes me a bit sorry about SWT because compared to what JavaFX provides to me SWT is light years behind."</li>
+	<li>In a separate post, <strong>Tom</strong> blogs about <a href="http://tomsondev.bestsolution.at/2011/06/09/using-xtext-to-create-javafx-css-editor/">using Xtext to create a JavaFX-CSS editor</a>, which, he theorises, could quite nicely become part of an Eclipse JavaFX 2.0 plugin (along with other Eclipse-based techonologies).</li>
+	<li><strong>Rafa? Rusin</strong> has blogged about <a href="http://www.dzone.com/links/r/visualizing_gis_data_in_javafx_20_beta_using_geot.html">visualising GIS data in JavaFX 2.0 beta using GeoTools</a>.</li>
+	<li>I put up a link to my in-progress <a href="/posts/2011/javafx/2.0/CellFactories/">JavaFX Control Cell Factories</a> project. Currently you can just check out the (clearly beta quality) screenshots and see what the API looks like (hint: fully static API with a lot of Callbacks - I can't wait for closures to clean this up!).</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has blogged about <a href="http://harmoniccode.blogspot.com/2011/06/just-scale-it.html">scaling shapes in Java2D</a>.</li>
+	<li><strong>JIDE Software</strong> released version 3.0.4 of their libraries, which includes a <a href="http://www.jidesoft.com/history/">number of enhancements and bug fixes</a>.</li>
+</ul>
+<h4>SWT</h4>
+<ul>
+	<li><strong>Laurent Caron</strong> has made available further features&nbsp; in his <a href="http://code.google.com/a/eclipselabs.org/p/opal/">Opal widgets project</a>. The latest release includes a horizontal Spinner, two "panels" in order to blur a form or make it darker, and a checkBoxGroup whose contents are activated by ticking a checkbox.</li>
+</ul>
+<p>That's all for another week. I hope you all found something useful in the links above. Catch you again in a weeks time, and keep up all the hard work folks!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1495</ID>
+		<Slug>java-desktop-links-of-the-week-july-1</Slug>
+		<Title>Java desktop links of the week, July 1</Title>
+		<Date>2013-07-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week, and I'm well behind schedule today, so let's just get right into the links! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Angela Caicedo</strong> <a href="http://www.meetup.com/svjugfx/events/124595592/?a=ea2_grp&amp;rv=ea2">is presenting</a> at the Silicon Valley JavaFX Users Group on July 10. As per usual it is streamed live online so even if you aren't in Silicon Valley you can join in. Angela is presenting on "Beyond Beauty: JavaFX, Parallax, Touch, Raspberry Pi, Gyroscopes, and Much More".</li>
+	<li>JavaFX Scene Builder 1.1 <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">build b28</a> is now available for download.</li>
+	<li><strong>Jim Weaver</strong> has<a href="http://learnjavafx.typepad.com/weblog/2013/06/scratching-the-surface-with-javafx.html"> posted the slides</a> for his JayDay 2013 talk regarding JavaFX touch input functionality.</li>
+	<li><strong>Christophe Dufour</strong> has posted about <a href="http://blog.dooapp.com/2013/06/fxbinding-binding-you-need.html">FXBinding</a>, a project to provide additional binding APIs for JavaFX developers.</li>
+	<li><strong>dooApp</strong> have announced the release of <a href="https://github.com/dooApp/FXForm2/wiki/Release-notes">FXForm 2 release 0.2.2</a>. FXForm2 is a library providing <a href="https://github.com/dooApp/FXForm2">automatic JavaFX 2.0 form generation</a>.</li>
+	<li><strong>Micha Kops</strong> has blogged about <a href="http://www.hascode.com/2013/06/creating-and-packaging-a-game-in-java-fx-2-2/">creating and packaging a game in Java FX 2.2</a>.</li>
+	<li><strong>Jörn Hameister</strong> has posted code about how he built a <a href="http://www.hameister.org/JavaFX_PuzzleGame.html">JavaFX puzzle game</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li>Jyloo Software has announced the <a href="http://www.jyloo.com/news/?pubId=1372319615000">release of Synthetica V2.17.1 and SyntheticaAddons V1.8.2</a>. As noted in the link, "the updates mainly provide some minor enhancements and bug fixes - see also <a href="http://www.jyloo.com/synthetica/changelog">Synthetica changelog</a> and <a href="http://www.jyloo.com/syntheticaaddons/changelog">SyntheticaAddons changelog</a>."</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

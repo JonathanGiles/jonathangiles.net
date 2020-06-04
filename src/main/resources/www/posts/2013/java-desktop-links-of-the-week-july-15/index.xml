@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1505</ID>
+		<Slug>java-desktop-links-of-the-week-july-15</Slug>
+		<Title>Java desktop links of the week, July 15</Title>
+		<Date>2013-07-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Hi all. Welcome to another weeks worth of links. Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JDK 8 (which includes JavaFX 8.0) was <a href="https://jdk8.java.net/download.html">updated for ARM Linux this week</a>. Previously anyone playing with JDK 8 only had access to build 36. With the release this week, you can now download build 97! In other words, a huge amount of improvements are in this build compared to what was available before. Also, JDK 8 builds for ARM Linux will be part of the regular releases from here on out, so people on Raspberry Pi and other such devices can test on the very latest code. <strong>Daniel Blaukopf</strong> has also updated the OpenJFX wiki pages to include details about <a href="https://wiki.openjdk.java.net/display/OpenJFX/OpenJFX+on+the+Raspberry+Pi">OpenJFX on the Raspberry Pi</a>, and <a href="https://wiki.openjdk.java.net/display/OpenJFX/Building+OpenJFX#BuildingOpenJFX-CrossbuildingforARMhardfloat">how to build OpenJFX for a Raspberry Pi</a>.</li>
+	<li>This week I was incredibly pleased to announce <a href="http://fxexperience.com/2013/07/announcing-controlsfx-8-0-1/">the availability of ControlsFX 8.0.1</a>, a major release containing a number of new features and bug fixes. New <a href="http://fxexperience.com/controlsfx/features/">features</a> included a PropertySheet control, a NotificationPane, 'lightweight' dialogs (i.e. internal dialogs), a font chooser dialog, and a progress bar dialog. This is the third release of ControlsFX in as many months, so progress is really pleasing. If you're keen to follow along or join in, visit the <a href="http://www.controlsfx.org">ControlsFX website</a> for more information (or go directly to the <a href="http://code.controlsfx.org">BitBucket repo</a>).</li>
+	<li><strong>Rob Terp</strong> has a blog post titled '<a href="http://rterp.wordpress.com/2013/07/08/using-a-custom-tablecell-factory-to-format-a-javafx-table-in-fxml/">Using a Custom TableCell Factory to Format a JavaFX table in&nbsp;FXML</a>'.</li>
+	<li><strong>Michael</strong> has put up part four of his '<a href="http://mihosoft.eu/?p=730">VWorkflows &amp; Multiple Inputs/Outputs</a>' series.</li>
+	<li><strong>Robert Ladstätter</strong> has put up part two of his Sudoku grabber and solver application, which can now solve a Sudoku puzzle simply by the <a href="http://ladstatt.blogspot.co.nz/2013/07/sudoku-grabber-and-solver-part-ii.html">user placing the puzzle in front of their webcam</a>. Pretty cool! :-)</li>
+	<li><strong>Geertjan Wielenga</strong> has a post showing the work by <strong>Johannes Weigend</strong> on <a href="https://blogs.oracle.com/geertjan/entry/prototype_of_javafx_performance_analyzer">creating a performance analyser tool</a> written in JavaFX.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Dhilshuk Reddy Jeeru</strong> has a blog post detailing an <a href="http://info2jd.blogspot.in/2013/07/swingjdprojectoutlookbar.html">OutlookBar that he has created in Swing</a>.</li>
+</ul>
+<p>Keep up the hard work folks and I'll catch you all again in another week with more of your links :-)</p>
+]]></Content>
+	</post>

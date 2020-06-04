@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2963</ID>
+		<Slug>building-a-serverless-url-shortener-with-azure-functions-and-java-part-one</Slug>
+		<Title>Building a serverless url shortener with Azure Functions and Java, part one</Title>
+		<Date>2018-03-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java|Programming>Microsoft]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>I'm a Java engineer who doesn't really know the intricacies of cloud development as well as my '<a href="http://jogil.es/cda">Cloud Developer Advocate</a>' job title suggests that I should. That is why I'm such a fan of <a href="http://java.ms/functions-tutorial">Azure Functions</a> - it makes the concept of serverless programming a possibility for Java developers. Serverless is one of those odd marketing terms, but what it essentially boils down to, as my colleague <a href="http://jlik.me">Jeremy Likness</a> likes to say, is that it is 'less server' - which sounds perfect for me! :-)</p>
+
+<p>To better understand Azure Functions, I set out to build a URL shortener app, so that I could take a long URL like <a href="http://docs.microsoft.com/en-us/java/azure/">http://docs.microsoft.com/en-us/java/azure/</a> and replace it with a short url like <a href="http://java.ms/docs">http://java.ms/docs</a>. I'm not the first <a href="http://jogil.es/cdas">Microsoft Cloud Developer Advocate</a> to do this, as it seems like one of those projects people like to do when they first encounter serverless programming :-) You can read <a href="https://blog.jeremylikness.com/build-a-serverless-link-shortener-with-analytics-faster-than-finishing-your-latte-8c094bb1df2c">Jeremy's blog about how he built a URL shortener in C#</a> (he's put a lot more hours into features than me, so there is a lot of good ideas there to borrow :-) ).</p>
+
+<p>This is a first post in a series. I'll add links here when I publish new articles, but you can always <a href="http://twitter.com/JonathanGiles">follow me on Twitter to keep updated</a>.&nbsp;The total topic list for this series includes:</p>
+<ul>
+ 	<li>Part one: <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-one/">Introduction to project and development of shortcode and redirect functions</a></li>
+ 	<li>Aside One: <a href="/posts/2018/creating-custom-routes-in-azure-functions/">Creating custom routes in Azure Functions</a></li>
+ 	<li>Part two: <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-two/">Using queues and integrating realtime Slack notifications of events</a></li>
+ 	<li>Aside Two: <a href="/posts/2018/environment-variables-in-azure-functions-with-java/">Environment variables in Azure Functions with Java</a></li>
+ 	<li>Part three: Integrating Application Insights to learn more about performance bottlenecks, etc</li>
+ 	<li>Part four: Configuring proxies and custom domains</li>
+ 	<li>Part five: Building a static HTML user interface to easily create short links, and hosting it as an Azure Function</li>
+ 	<li>Part six: Focusing on performance - lets pay as little as possible by making our code as performant as possible</li>
+</ul>
+<h3>Serverless Value Proposition</h3>
+<p>The main attraction to building a link shortener using serverless programming is that you only pay for the time your function is actually operating - you aren't paying for 24/7/365 server uptime, which is pretty handy for a link shortener that only operates occasionally. You also don't need to worry at all about concerns such as scaling your service - the cloud provider takes care of that for you. I wanted to build this as cheaply as possible (i.e. consume as few resources, and use the cheapest options) in Microsoft Azure, and I didn't want to have to write code in any language other than Java, and I really didn't want to have to worry about all that other cloud nonsense :-)</p>
+
+<p>In terms of actual costs, Jeremy stated in <a href="https://blog.jeremylikness.com/build-a-serverless-link-shortener-with-analytics-faster-than-finishing-your-latte-8c094bb1df2c">his blog post</a> the following:</p>
+<p><blockquote>Although actual results will differ for everyone, in my experience, running the site for a week while generating around 1,000 requests per day resulted in a massive seven cent U.S.D. charge to my bill. I don’t think I’ll have any problem affording this!</blockquote></p>
+<p>He also updated his calculations for cost in a follow-up tweet:</p>
+
+<p>https://twitter.com/jeremylikness/status/957976243634307073</p>
+
+<p>I tend to agree - I think I can afford this serverless lifestyle! :-) So, off I set on my adventure... I started by buying two domain names - <a href="http://jogil.es">jogil.es</a> and <a href="http://java.ms">java.ms</a> - which both seemed relevant to my interests. After that, I started writing code (and note: this project is all <a href="https://github.com/JonathanGiles/azure-functions-java-shortcode">open source on GitHub</a>)! :-) Let's get into it...</p>
+<h3>Creating a Java Function App</h3>
+<p>Setting up a new Azure Function App is simple, especially with the <a href="http://java.ms/functions-tutorial">Java / Maven tooling</a> that is available. Firstly though, if you don't have an Azure account, you can <a href="http://java.ms/free">create one for free</a>, and it comes with 1,000,000 Azure Function calls free per month forever (which is well in excess of what I need, so I don't think I'll even be spending 7 cents)! Once you have an account, you can follow the <a href="http://java.ms/functions-tutorial">Azure Functions on Java tutorial</a> to step through the software setup and creating your own function app. The approach works really smoothly - it's all based around a few Maven commands that will auto-generate your first function, and you even use this to deploy to Azure! Because of this, I'm not going to dive any more deeply into getting started with Azure Functions with Java, and I'm just going to dive into some of the configuration details, and then into the code for building a link shortener.</p>
+
+<p>Once you've done your first <span class="lang:shell decode:true crayon-inline">mvn clean package azure-functions:deploy</span>, you can log in to the <a href="http://portal.azure.com">Azure Portal</a> to see your function app, which will look something like this:</p>
+
+<p><a href="/posts/2018/wp-content/uploads/2018/03/jogiles-short-url_-_Microsoft_Azure.png/"><img class="aligncenter size-full wp-image-2965" src="/content/2018/03/jogiles-short-url_-_Microsoft_Azure.png" alt="" width="1741" height="857"></a></p>
+
+<p>In here you'll see a list of your functions in the left column (my app has four functions: <code>frontend</code>, <code>keepAlive</code>, <code>redirect</code>, and <code>shortcode</code>, as well as details on the URL, subscription, etc. Today we will just discuss the <code>redirect</code> and <code>shortcode</code> functions, and address the other two functions in another blog post.</p>
+
+<p>By default, to access any of your functions, you simply take the base URL (in the image above, it is https://jogiles-short-url.azurewebsites.net), add /api/, and then the function name. For example, the redirect function is at http://jogiles-short-url.azurewebsites.net/api/redirect (and, low-and-behold, if you go there with a given shortcode, it should work - try <a href="http://jogiles-short-url.azurewebsites.net/api/redirect?shortcode=docs">http://jogiles-short-url.azurewebsites.net/api/redirect?shortcode=docs</a>). As noted at the beginning of this post, the final URL is <a href="http://java.ms/docs">http://java.ms/docs</a>, but that is achieved using an <a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-proxies">Azure Functions Proxy</a>, which simply redirects to the full URL shown here. We will return to proxy configuration in a later blog post, to achieve this nicer URL effect.</p>
+<h3>URL Shortening Function</h3>
+<p>The key requirement of a URL shortener is to take a URL and return a shorter URL. In terms of implementation, it's quite simple really - take a <code>url</code> query parameter that we want to convert, use some algorithm to create a unique short code, and store it in some persistent storage. That is basically what you see in the code below, with one additional feature: the shortcode function also supports an optional <code>shortcode</code> parameter. If the user specifies a preferred shortcode (like 'docs' above), we simply store that mapping in the persistent storage without running the shortcode algorithm. Here's essentially the full code listing (remember <a href="https://github.com/JonathanGiles/azure-functions-java-shortcode">all the code is on GitHub</a>):</p>
+
+<pre class="code_block"><code class="java">public class ShortcodeFunction {
+
+    private static final int MIN_KEY_LENGTH = 2;
+
+    @FunctionName("shortcode")
+    public HttpResponseMessage&lt;String&gt; shortcode(
+            @HttpTrigger(name = "req", methods = {"post"}, authLevel = AuthorizationLevel.ANONYMOUS) HttpRequestMessage&lt;Optional&lt;String&gt;&gt; request,
+            final ExecutionContext context) {
+
+        String url = request.getQueryParameters().getOrDefault("url", null);
+        if (url == null || url.isEmpty()) {
+            return request.createResponse(Util.HTTP_STATUS_BAD_REQUEST, "No url query parameter provided");
+        }
+
+        // if there is no tracking information, add the default tracking information here
+        url = Util.addMicrosoftTracking(url, request);
+
+        // we allow people to request their desired short code by setting a 'shortcode' query parameter
+        String desiredShortcode = request.getQueryParameters().getOrDefault("shortcode", null);
+
+        if (desiredShortcode == null) {
+            // the user just wants an auto-generated shortcode
+            return useGeneratedShortcode(request, url, context);
+        } else {
+            // lets try to use their shortcode. If it fails, we return a failure.
+            return useProvidedShortcode(request, url, desiredShortcode, context);
+        }
+    }
+
+    private HttpResponseMessage&lt;String&gt; useGeneratedShortcode(HttpRequestMessage&lt;Optional&lt;String&gt;&gt; request,
+                                                              String url,
+                                                              final ExecutionContext context) {
+        context.getLogger().info("Attempting to create shortcode with url " + url + " and autogenerated shortcode");
+
+        DataStore dataStore = DataStoreFactory.getInstance();
+
+        String shortCode = "";
+        int collisionCount = 0;
+        int keyLength = MIN_KEY_LENGTH;
+        while (shortCode == null || shortCode.isEmpty()) {
+            shortCode = dataStore.saveShortCode(url, Util.generateKey(keyLength), true);
+
+            // if we are here, the proposed shortcode failed, so we count that.
+            // If we get too many collisions, increase the key length by one and
+            // keep trying
+            collisionCount++;
+            if (collisionCount &gt; 3) {
+                keyLength++;
+                collisionCount = 0;
+            }
+        }
+        context.getLogger().info("Created short code: " + shortCode);
+
+        return request.createResponse(Util.HTTP_STATUS_OK, createShortUrl(request, shortCode));
+    }
+
+    private HttpResponseMessage&lt;String&gt; useProvidedShortcode(HttpRequestMessage&lt;Optional&lt;String&gt;&gt; request,
+                                                             String url,
+                                                             String shortcode,
+                                                             final ExecutionContext context) {
+        context.getLogger().info("Attempting to create shortcode with url " + url + " and shortcode " + shortcode);
+
+        DataStore dataStore = DataStoreFactory.getInstance();
+
+        // we set checkForDupes to be false, so that we allow this short code to be used, even if the long URL is
+        // recorded elsewhere
+        String result = dataStore.saveShortCode(url, shortcode, false);
+        if (result == null) {
+            return request.createResponse(Util.HTTP_STATUS_CONFLICT, "Requested shortcode already in use");
+        }
+
+        return request.createResponse(Util.HTTP_STATUS_OK, createShortUrl(request, result));
+    }
+
+    private String createShortUrl(HttpRequestMessage&lt;Optional&lt;String&gt;&gt; request, String shortCode) {
+        return "http://" + Util.getHost(request).getHost() + "/" + shortCode;
+    }
+}</code></pre>
+
+<p>As can be seen, at present there is no authentication, so anyone can create shortlinks (I might rectify this some day soon) :-) We simply check the <code>url</code> is valid, and if the user wants an auto-generated shortcode or if they want to provide their own. Based on this, we go in to one of two functions. In the auto-generated case, we iterate until we find an acceptable shortcode, and then we persist that into the data store.</p>
+
+<p>In terms of data storage, I've written a small wrapper API around the Azure Storage APIs for Java, as I originally intended to use MySQL or SQL Server (with or without JPA), but then I realised that because <a href="https://docs.microsoft.com/en-us/azure/azure-functions/">Azure Functions</a> are built on top of <a href="https://azure.microsoft.com/en-us/services/app-service/">Azure App Service</a>, which has built-in storage available to it. Because of this, I simply piggy-back on the table store that is already available, using the Java APIs explained in the <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/table-storage-how-to-use-java">Azure Table Storage guide</a>. I've written a simple AzureTableStore class to handle the read / write access to this table:</p>
+
+<pre class="code_block"><code class="java">public class AzureTableStore implements DataStore {
+
+    private static final String TABLE_NAME = "shortcodes";
+    private static final String storageConnectionString = System.getenv("AzureWebJobsStorage");
+
+    private CloudTable cloudTable;
+
+    @Override
+    public synchronized String getLongUrl(String shortCode) {
+        try {
+            TableOperation lookupLongUrl = TableOperation.retrieve(Util.getPartitionKey(shortCode), shortCode, ShortCodeRecord.class);
+            TableResult result = getTable().execute(lookupLongUrl);
+
+            if (result == null) return null;
+
+            ShortCodeRecord record = result.getResultAsType();
+            return record.getLongUrl();
+        } catch (Exception e) {
+            e.printStackTrace();
+            return null;
+        }
+    }
+
+    @Override
+    public synchronized String getShortCode(String longUrl) {
+        TableQuery&lt;ShortCodeRecord&gt; query = TableQuery
+                .from(ShortCodeRecord.class)
+                .where("LongUrl eq '" + longUrl + "'");
+
+        try {
+            Iterable&lt;ShortCodeRecord&gt; results = getTable().execute(query);
+            for (ShortCodeRecord record : results) {
+                return record.getShortCode();
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+
+    @Override
+    public synchronized boolean persistShortCode(String longUrl, String shortCode) {
+        try {
+            getTable().execute(TableOperation.insertOrReplace(new ShortCodeRecord(longUrl, shortCode)));
+            return true;
+        } catch (Exception e) {
+            e.printStackTrace();
+            return false;
+        }
+    }
+
+    private CloudTable getTable() throws Exception {
+        if (cloudTable == null) {
+            CloudStorageAccount storageAccount = CloudStorageAccount.parse(storageConnectionString);
+            CloudTableClient tableClient = storageAccount.createCloudTableClient();
+            cloudTable = tableClient.getTableReference(TABLE_NAME);
+            cloudTable.createIfNotExists();
+        }
+        return cloudTable;
+    }
+}</code></pre>
+
+<p>The end result of all this code is that I have a table that shows all mappings. Here is a screenshot of the excellent (and free) <a href="https://azure.microsoft.com/features/storage-explorer/">Microsoft Azure Storage Explorer</a> app, looking at my table of short codes (click the image for a larger version):</p>
+
+<p><a href="/posts/2018/wp-content/uploads/2018/03/Microsoft_Azure_Storage_Explorer-1.png/"><img class="aligncenter size-full wp-image-2968" src="/content/2018/03/Microsoft_Azure_Storage_Explorer-1.png" alt="" width="2840" height="1462"></a></p>
+
+<p>You can see I simply use the first letter of the RowKey as the PartitionKey, to have an even distribution in all partition buckets. You can also see that of the four short links I have created, two are 'custom' shortlinks (for <a href="http://java.ms/docs">docs</a> and <a href="http://jogil.es/linkedin">linkedin</a>), and two are auto-generated (00 and zC). To generate the short links, I simply have the following code I use:</p>
+
+<pre class="code_block"><code class="java">public static String generateKey(int length) {
+    StringBuilder key = new StringBuilder();
+    Random random = new Random();
+
+    for (int i = 0; i &lt; length; i++) {
+        int type = random.nextInt(3);
+        switch (type) {
+            case 0: key.append((char)(random.nextInt(10) + 48)); break; // 0-9
+            case 1: key.append((char)(random.nextInt(26) + 65)); break; // A-Z
+            case 2: key.append((char)(random.nextInt(26) + 97)); break; // a-z
+        }
+    }
+
+    return key.toString();
+}</code></pre>
+
+<p>Again, it's not the prettiest or best approach, but it'll do for now :-)</p>
+
+<p>The end result of all this code is that a short code is generated, and a short url is returned, including the URL (that is, java.ms or jogil.es, depending on which host was called to shrink the URL in the first place). That's great, but it is only half the story - now we need to support the user actually going to that URL and it being converted to the long URL again!</p>
+<h3>Shortcode Redirection Function</h3>
+<p>The code to convert a shortcode into a full URL is even simpler, it simply gets the <code>shortcode</code> query parameter, looks up the long url in the data store, and does a HTTP 302 redirect to that URL (302 is the status code for a permanent redirect, as opposed to 301 which is temporary, and will therefore put more strain on the function for people who repeatedly visit the same URL). Here's the redirect function class in full:</p>
+
+<pre class="code_block"><code class="java">public class RedirectFunction {
+
+    @FunctionName("redirect")
+    public HttpResponseMessage&lt;String&gt; redirect(
+            @HttpTrigger(name = "req", methods = {"get"}, authLevel = AuthorizationLevel.ANONYMOUS) HttpRequestMessage&lt;Optional&lt;String&gt;&gt; request,
+            final ExecutionContext context) {
+
+        String shortCode = request.getQueryParameters().getOrDefault("shortcode", null);
+        String url;
+
+        if (shortCode == null || shortCode.isEmpty()) {
+            Util.TELEMETRY_CLIENT.trackEvent("No shortcode provided, returning default url instead");
+            url = Util.getHost(request).getDefaultURL();
+        } else {
+            String _shortCode = shortCode.toLowerCase();
+            if (_shortCode.equals(Util.ROBOTS_TXT)) {
+                context.getLogger().info("Request for robots.txt ignored");
+                return request.createResponse(Util.HTTP_STATUS_OK, Util.ROBOTS_RESPONSE);
+            }
+
+            url = Util.trackDependency(
+                    "AzureTableStorage",
+                    "Retrieve",
+                    () -&gt; DataStoreFactory.getInstance().getLongUrl(shortCode),
+                    proposedUrl -&gt; proposedUrl != null &amp;&amp; !proposedUrl.isEmpty());
+
+            if (url == null) {
+                url = Util.getHost(request).getDefaultURL();
+            }
+        }
+
+        HttpResponseMessage response = request.createResponse(Util.HTTP_STATUS_REDIRECT, url);
+        response.addHeader("Location", url);
+        return response;
+    }
+}</code></pre>
+
+<p>The only odd code is the line where I retrieve the url by calling <code>Util.trackDependency(..)</code>. This code is simply convenience code that allows for me to more easily track application performance using <a href="https://azure.microsoft.com/services/application-insights/">Azure Application Insights</a>, which I will cover in more detail in another blog. However, here's the complete function listing, to make it clear that all that really is happening is we're calling the data store to get the long url, and we're recording how long it takes into Application Insights:</p>
+
+<pre class="code_block"><code class="java">/**
+ * Convenience method to log telemetry data into application insights.
+ */
+public static &lt;T&gt; T trackDependency(String dependencyName, String commandName, Supplier&lt;T&gt; task, Function&lt;T, Boolean&gt; success) {
+    long start = System.currentTimeMillis();
+    T result = task.get();
+    long end = System.currentTimeMillis();
+    Util.TELEMETRY_CLIENT.trackDependency(dependencyName, commandName, new Duration(end - start), success.apply(result));
+    return result;
+}</code></pre>
+
+<h3>Summary</h3>
+<p>This is the core of the URL shortener, but there is a lot more still to cover, which I will cover in follow-up posts in the coming weeks. The total topic list for this series includes:</p>
+<ul>
+ 	<li>Part one: <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-one/">Introduction to project and development of shortcode and redirect functions</a></li>
+ 	<li>Aside One: <a href="/posts/2018/creating-custom-routes-in-azure-functions/">Creating custom routes in Azure Functions</a></li>
+ 	<li>Part two: <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-two/">Using queues and integrating realtime Slack notifications of events</a></li>
+ 	<li>Aside Two: <a href="/posts/2018/environment-variables-in-azure-functions-with-java/">Environment variables in Azure Functions with Java</a></li>
+ 	<li>Part three: Integrating Application Insights to learn more about performance bottlenecks, etc</li>
+ 	<li>Part four: Configuring proxies and custom domains</li>
+ 	<li>Part five: Building a static HTML user interface to easily create short links, and hosting it as an Azure Function</li>
+ 	<li>Part six: Focusing on performance - lets pay as little as possible by making our code as performant as possible</li>
+</ul>
+<p>The main point for this post is that even though I'm not super-skilled in cloud development I was able to implement a simple application that provides a useful service to me, and at an extremely low cost. As I noted at the beginning, the cost to operate this service is mere cents per month! So, if you are a Java developer looking to build web services and don't want to get bogged down in dealing with server details, you should definitely take a look at <a href="https://azure.microsoft.com/services/functions/">Azure Functions</a> today - get started with the <a href="http://java.ms/free">free tier</a> and go from there!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>761</ID>
+		<Slug>java-desktop-links-of-the-week-april-5</Slug>
+		<Title>Java desktop links of the week, April 5</Title>
+		<Date>2010-04-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Hello all, and welcome to another weeks worth of interesting and (hopefully) useful links! This week is a bit more interesting in the sense that we've got links for Swing, JavaFX and Griffon. I hope that something takes your interest, and as always feel free to drop me an <a href="mailto:jonathan@jonathangiles.net">email</a> or a <a href="http://www.twitter.com/JonathanGiles">tweet</a> to let me know of something you think others may be interested in.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong>, unsurprisingly, has been busy this week improving his <a href="http://www.pushing-pixels.org/?p=1723">Flamingo project to support Right-To-Left text</a>. In another post, he discusses <a href="http://www.pushing-pixels.org/?p=1700">changes to the Flamingo API for the JRibbon application menu button</a>.</li>
+	<li><strong>Damien Ielsch</strong> has blogged about something I was developing just recently - having <a href="http://free-the-pixel.blogspot.com/2010/04/ghost-drag-and-drop-over-multiple.html">'ghost' images beneath the mouse as you undertake a (proper) drag and drop operation</a> (i.e. data transfer, not GUI manipulation). I'd love to hear if anyone has any improvements on this approach, and indeed if it works on their operating system (particularly on Linux).</li>
+	<li><strong>Rémy Rakic</strong> has blogged about his new project named <a href="http://lqd.hybird.org/journal/?p=309">Shizzle, which is a CSS selector engine for Java / Swing</a>.</li>
+	<li><strong>Jyloo Software</strong> have carried on with their series of blogs showing how you can use their Synthetica look and feel. This week covers their <a href="http://www.jyloo.com/news/?pubId=1270049673000">logo renderer and specifying minimum window sizes</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>The <a href="https://mix.oracle.com/groups/20213">JavaFX geeks and newbies</a> forum passed a milestone this week, seeing member number 200 sign up. This is most probably the best community-driven site related to JavaFX around right now. Join up and join in on the discussions!</li>
+	<li><strong>Stuart Marks</strong> has posted a very useful blog post about <a href="http://stuartmarks.wordpress.com/2010/03/31/function-return-type-inference/">function return type inference in JavaFX</a>. The basic premise: always declare the return type of all functions, and indeed the type of all variables. It just makes life easier and more predictable.</li>
+	<li><strong>Simon Morris</strong> has just released a LGPL project he calls Arkles, which is a "new library that takes advantage of JavaFX Script's 		declarative syntax, combining it with a subset of the XPath 		notation, to create a <a href="http://www.jfxia.com/JFXProjects/Arkles/">more natural and manageable way to process 		XML documents</a> in your JavaFX applications".</li>
+	<li><strong>Stephen Chin</strong> has announced that the <a href="http://www.svjugfx.org/">Silicon Valley JavaFX Users Group</a> presentations are <a href="http://steveonjava.com/2010/03/29/javafx-store-and-jfrog-artifactory/">now able to be watched in Ubivent</a>, a JavaFX application designed specifically for this purpose, and being used by paying customers. Also, don't forget to <a href="http://www.svjugfx.org/calendar/12863551/">sign up for Stuart Marks' talk</a> coming up on the 14th. I'll remind you again in a week.</li>
+	<li><strong>Mark Anro Silva</strong> has posted a small JavaFX code sample, and video, of an application where he has <a href="http://glyphster.blogspot.com/2010/03/javafx-animation-walking-stickman.html">animated a person walking around the stage</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Nick Zhu</strong> has blogged about a <a href="http://nzhu.blogspot.com/2010/04/grails-like-validation-plugin-for.html">Grails-like validation plugin for Griffon</a> called GValidation.</li>
+</ul>
+<p>Righty - that's it for another week. Stay classy, and I'll see you all again in a weeks time! :-)</p>
+]]></Content>
+	</post>

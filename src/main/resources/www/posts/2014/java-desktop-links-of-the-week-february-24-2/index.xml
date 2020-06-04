@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1682</ID>
+		<Slug>java-desktop-links-of-the-week-february-24-2</Slug>
+		<Title>Java desktop links of the week, February 24</Title>
+		<Date>2014-02-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>More days. Much work. Such links. Wow.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Johan Vos</strong> continues to keep busily improving the JavaFX Android support. This week he has a very interesting blog post about using <a href="http://www.lodgon.com/dali/blog/entry/Using_Android_APIs_in_JavaFX">Android APIs from within JavaFX</a>, such as the location services.</li>
+	<li><strong>Laurent Nicolas</strong> has posted part three about <a href="http://www.mrlonee.com/?p=552">custom controls in JavaFX</a>.</li>
+	<li><strong>Robert Ladstätter</strong> has posted about <a href="http://ladstatt.blogspot.co.nz/2014/02/javafx3d-and-leapmotion.html">JavaFX 3D and LeapMotion</a>.</li>
+	<li><strong>Michael Hoffer</strong> has posted video and code demonstrating <a href="http://mihosoft.eu/?p=1025">how to get a 'milk glass' effect with JavaFX</a>. Quite an interesting approach making use of the JavaFX snapshot API.</li>
+	<li>The '<strong>cathive developers</strong>' have <a href="https://github.com/cathive/fx-cdi">open sourced fx-cdi</a>: "some useful classes that help you to use CDI alongside / within your JavaFX applications."</li>
+	<li><strong>Sébastien Bordes</strong> has posted about a trick he learned from <strong>Jens Deters</strong> about <a href="http://blog.jrebirth.org/javafx/tip-1-fxml-model-simplification/">cutting down on the amount of code required to load fxml files</a>, simply by creating a convention where the fxml file is named in relation to the class file that will load it.</li>
+	<li><strong>Falko Riemenschneider</strong> has posted about an <a href="http://www.falkoriemenschneider.de/a__2014-02-18__Interactive%20GUI%20Development.html">interactive JavaFX GUI development tool</a> he has written that uses a custom DSL, rather than Java, to specify the user interface.</li>
+	<li>The <strong>ustesis blog</strong> has a video (but no code that I can see?) showing a <a href="http://ustesis.wordpress.com/2014/02/19/a-combined-linechart-and-tableview-widget-in-javafx/">combined LineChart and TableView user interface</a>, where they both visualise the same data.</li>
+	<li><strong>Jeff Martin</strong> has posted an update to SnapCode, the free educational IDE for Java and JavaFX, including a video of&nbsp;<a href="http://www.reportmill.com/snap/gallery/StudioIntro/">animation programming</a>&nbsp;and&nbsp;<a href="http://www.reportmill.com/snap/gallery/PenIntro/">pen graphics programming</a>.</li>
+</ul>
+<p>Catch you all again next week! :-)</p>
+]]></Content>
+	</post>

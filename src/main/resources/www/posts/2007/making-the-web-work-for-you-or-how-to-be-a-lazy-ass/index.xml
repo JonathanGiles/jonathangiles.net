@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>84</ID>
+		<Slug>making-the-web-work-for-you-or-how-to-be-a-lazy-ass</Slug>
+		<Title>Making the web work for you (or, How to be a lazy-ass)</Title>
+		<Date>2007-03-01</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>semantic-web-research</Tags>
+		<Content><![CDATA[<p>The semantic web is all about making it possible for people to get lazier, whilst the semantic web takes over our tedious tasks. Things like taking that email about the conference you're attending and putting it into your diary, and temporarily putting the contacts into your address book (presuming they aren't already in there). It's about tentatively booking your flights so that you can get to the nearest hotel to the conference (which the agent once again tentatively booked for you). Coincidently, the hotel is where all other conference guests are being informed to go to as well (imagine the fun!).</p>
+
+<p>Sounds like a pipe dream, and right now it is. To be honest, it's not my dream at all - it's Tim Berners-Lee's - that guy behind the WWW among other irrelevant inventions. Sooner or later this will become a reality ("not an if but a when, yada yada").</p>
+
+<p>How far are we along this pipe dream? Surprisingly far, actually - not that we are all going to have semi-autonomous agents doing our virtual bidding anytime soon however. That's still a while off (alas). What we do have is a lot of the plumbing coming into place. RDF and OWL are the HTML of the semantic web, and they are both W3C standards. They already exist and are slowly getting embedded all over the place (just waiting for these smart agents to pop up). Inferencing engines are getting increasingly smart - an example being <a href="http://pellet.owldl.com/">Pellet</a>. These engines can infer new knowledge from whatever knowledge it is given - just give it the rules (using another W3C standard called SWRL). Query RDF data stores using the SPARQL query language (which is analogous to SQL as you can get, and once again is nearly a W3C standard).</p>
+
+<p>Don't be too surprised about these all being standards, dirty old Tim Berners-Lee is at it again - he made up the W3C, and is in charge of it. The web doesn't stand a chance against this kind of bias!</p>
+
+<p>Surprisingly, all data that is currently inside RDBMS can already be exposed on the semantic web - so we don't have to start again in any regard.</p>
+
+<p>What we need to still work on is mapping databases together easily (i.e. 'smushing' databases), and then walk up the semantic web cake to sorting out how we trust the information we have....</p>
+
+<p>What am I doing to help? I'm working with these technologies, and in particular working on both the mapping of database tables throughout the net, and trying to work out methods to trust information (based on user trust). An interesting side-effect of my research, and really one of the core goals, is that by joining together data we get explicit links in a graph being formed - but users have many implicit links as well - and it is my goal to unlock these links by letting users tag and rate information that they come across (once again linking into the whole trust issue). This gives us relevance and similarity suggestions that can be calculated by our agents.</p>
+
+<p>Then....world domination....(but I'm not sure if it's for ourselves or our smart agents).....</p>
+
+<p>By the way, is it just me or whenever you think of a smart agent you think of a 10 pixel high game character with dark glasses? In particular, I am reminded of an old Apogee game I used to <a href="http://en.wikipedia.org/wiki/Secret_Agent_(computer_game)">play</a>....</p>
+]]></Content>
+	</post>

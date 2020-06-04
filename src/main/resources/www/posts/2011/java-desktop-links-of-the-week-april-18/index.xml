@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1033</ID>
+		<Slug>java-desktop-links-of-the-week-april-18</Slug>
+		<Title>Java desktop links of the week, April 18</Title>
+		<Date>2011-04-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>A bit quiet this week, but here are the top links of the past week. Enjoy! :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has posted about <a href="http://harmoniccode.blogspot.com/2011/04/bilinear-color-interpolation.html">bilinear color interpolation</a>, and how to create the 'colour picker' effect in Java 2D.</li>
+	<li><strong>Dotan Nahum</strong> has blogged about <a href="http://blog.paracode.com/2011/04/15/writing-a-desktop-application-with-jruby-and-swing/">rewriting a simple Swing application using JRuby</a>. He provides links to the code repo's of the source code <a href="https://github.com/jondot/darkness/tree/master">before</a> and <a href="https://github.com/jondot/darkness/blob/master/darkness.rb">after</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Mario</strong> has blogged about <a href="http://desmontandojava.blogspot.com/2011/04/tweetagile.html">creating a Twitter client using Griffon</a>. At present it is only a very simple project right now, but the <a href="http://sourceforge.net/scm/?type=svn&amp;group_id=315309">source code is available</a> for you to browse if you're interested in learning more.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Andrew Krizhanovsky</strong> emailed me about his <a href="http://code.google.com/p/wikokit/">wikokit project</a>, which is a visual interface to the parsed English Wiktionary and Russian Wiktionary databases. It is built using JavaFX 1.x, and the source code is available for people to explore.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> blogged about '<a href="http://www.joshondesign.com/2011/04/10/amino-and-leonardo-next-steps/">Amino and Leonardo: Next Steps</a>', in light of the pending arrival of Josh 2.0.</li>
+</ul>
+<p>That's that for us this week. Keep up the always great work folks, and I'll see you in a weeks time :-)</p>
+]]></Content>
+	</post>

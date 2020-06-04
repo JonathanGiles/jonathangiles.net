@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1631</ID>
+		<Slug>java-desktop-links-of-the-week-january-6</Slug>
+		<Title>Java desktop links of the week, January 6</Title>
+		<Date>2014-01-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another weeks worth of links, posted whilst I'm on vacation, so pardon the brevity! :-) Enjoy!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has posted a video showing an application he has developed <a href="http://www.youtube.com/watch?v=a3dAteWr40k&amp;feature=youtu.be">running on desktop, Android, iOS and Raspberry Pi</a>. It is a great video as it shows the state of JavaFX on these platforms, and what remains to be done. In general it is very pleasing seeing where things currently stand - it seems beyond a few issues with fonts and layout, the primary focus needs to be on performance.</li>
+	<li><strong>Sven Ruppert</strong> has blogged about the <a href="http://www.rapidpm.org/2014/01/testfx-internals-explained.html">internals of the TestFX library</a> for testing JavaFX user interfaces.</li>
+	<li><strong>Andy Till</strong> continues to work on his Cavity Search API for <a href="https://github.com/andytill/cavity-search">searching for labels in JavaFX user interfaces</a>. It looks like it will be a really useful API for users wanting to provide this specific feature in their software.</li>
+	<li><strong>Dino Tsoumakis</strong> has released a fork of <strong>Adam Bien's</strong> <a href="https://github.com/AdamBien/followme.fx">followme.fx</a>, with his version <a href="https://github.com/dimaki/followme.fx">focusing on support for iOS</a>.</li>
+	<li><strong>Laurent Nicolas</strong> has created an application for his kids called <a href="http://www.mrlonee.com/?p=502">DrawKidFX</a> which makes use of JavaFX, Leap Motion, and his Radial Menu control.</li>
+</ul>
+<p>That's all folks. See you again next week :-)</p>
+]]></Content>
+	</post>

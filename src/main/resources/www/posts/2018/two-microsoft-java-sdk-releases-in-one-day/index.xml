@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2923</ID>
+		<Slug>two-microsoft-java-sdk-releases-in-one-day</Slug>
+		<Title>Two Microsoft Java SDK releases in one day</Title>
+		<Date>2018-02-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java|Programming>Microsoft]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Microsoft really loves Java. I'm amazed by how many teams are putting out Java SDKs, and I am fortunate enough to work with all of them! Today two Java SDKs were released by Microsoft for the <a href="https://developer.microsoft.com/en-us/graph">Microsoft Graph SDK</a>, and for <a href="https://azure.microsoft.com/en-us/services/application-insights/">Application Insights</a>. Here is a quick summary of each of them:</p>
+
+<p><strong>Microsoft Graph SDK for Java Preview</p>
+<p></strong></p>
+
+<p>The Microsoft Graph SDK is what developers use to build smart productivity apps, but connecting to mail, calendar, contacts, documents, directory, devices, and more. The <a href="https://dev.office.com/blogs/microsoft-graph-java-sdk-preview-2">Java SDK</a> for the Microsoft Graph now makes it easier than ever to access these services and to write Java-based applications.</p>
+
+<p><strong>Application Insights for Java SDK 2.0.0</strong></p>
+
+<p>The 2.0.0 release of the <a href="https://github.com/Microsoft/ApplicationInsights-Java/releases">Application Insights API for Java</a>&nbsp;provides the next level of distributed tracing functionality: end to end trace visibility over HTTP, enhanced sampling, and much more. You can learn more about <a href="https://docs.microsoft.com/en-us/azure/application-insights/">how to use Application Insights on Microsoft Docs</a>.</p>
+]]></Content>
+	</post>

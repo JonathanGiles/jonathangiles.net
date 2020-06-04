@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2193</ID>
+		<Slug>java-desktop-links-of-the-week-october-17</Slug>
+		<Title>Java desktop links of the week, October 17</Title>
+		<Date>2016-10-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A quiet week this week, but there are a few good links for you to check out:</p>
+<ul>
+ 	<li><strong>David Gilbert</strong> has&nbsp;released <a href="https://github.com/jfree/fxgraphics2d">FXGraphics2D 1.5</a>, an update to his&nbsp;library that provides a bridge from Java2D to the JavaFX Canvas. &nbsp;This release provides an option (via rendering hints) to use the JavaFX text measurement API instead of the AWT equivalent. &nbsp;This gives better results for text placement in JFreeChart.</li>
+ 	<li><strong>Jeff Martin</strong> has posted a short video demonstrating the <a href="https://reportmill.wordpress.com/2016/10/13/java-ui-builder-for-the-browser-and-desktop/">UI builder abilities</a> of his SnapCode software, which can deploy to the desktop and browser.</li>
+ 	<li><strong>Samir Hadzic</strong> has a blog post about <a href="https://blog.samirhadzic.com/2016/10/10/treetableview-and-sorting/">TreeTableView and sorting</a>.</li>
+</ul>
+]]></Content>
+	</post>

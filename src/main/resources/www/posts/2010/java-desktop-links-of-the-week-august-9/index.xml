@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>878</ID>
+		<Slug>java-desktop-links-of-the-week-august-9</Slug>
+		<Title>Java desktop links of the week, August 9</Title>
+		<Date>2010-08-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A very quiet week this week in terms of link quantity, but with new JavaFX and NetBeans releases it is made up for with some very important links to take note of this week. As always thanks to the people who take the time to email me their links.</p>
+<h4>Swing</h4>
+<ul>
+ 	<li><strong>Kas Thomas</strong> has posted about implementing <a href="http://asserttrue.blogspot.com/2010/08/implementing-smart-blur-in-java.html">smart blur in Java</a>.</li>
+ 	<li><strong>Jan Haderka</strong> has blogged that <a href="http://weblogs.java.net/blog/rah003/archive/2010/07/26/swingx-going-maven-maybe">SwingX may be going to Maven</a>. You can see <a href="http://forums.java.net/jive/thread.jspa?threadID=152010">further discussion</a> of this over in the SwingX forum.</li>
+ 	<li><strong>Richard Kennard</strong> recently released Metawidget v0.99, and has written a 9 part blog series on the different ways he's encountered that <a href="http://kennardconsulting.blogspot.com/2010/08/customizing-which-form-fields-are_04.html">people like to order their UI fields</a>. The general conclusion is that there is no 'right' way and a good UI generator must support multiple ways.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+ 	<li><a href="http://blogs.oracle.com/java/2010/08/javafx_131_released_improves_experiences_for_developers_and_end-users.html">JavaFX 1.3.1 was released this week</a>. It contains a lot of <a href="http://download.oracle.com/javafx/1.3/reference/releasenotes/javafx-sdk-release-notes-1-3-1.html">improvements and bug fixes</a>, and is accompanied by an <a href="http://download.oracle.com/javafx/1.3/reference/releasenotes/javafx-netbeans-release-notes-1-3-1.html">updated NetBeans release</a>. The main feature of JavaFX 1.3.1 is an <a href="http://download.oracle.com/javafx/1.3/tutorials/ApplicationStartup/">improved (and more configurable) startup experience</a>.</li>
+ 	<li><strong>Danny Coward</strong> presented at Jazoon in June with an interesting talk titled '<a href="http://www.parleys.com/#id=1980&amp;sl=1&amp;st=5">Java SE and JavaFX: The Road Ahead</a>'. It's a good and informative talk, so if you've got an hour to spare the video is well worth watching.</li>
+ 	<li><strong>David Kaspar</strong> has written an article over at the NetBeans knowledge base about <a href="http://netbeans.org/kb/docs/javafx/fragments.html">using NetBeans JavaFX Composer fragments</a> to make building user interfaces easier (by spanning them over multiple files).</li>
+ 	<li>I posted two screencasts for two controls I built in my spare time: <a href="/posts/2010/javafx/TitledPane/demo/1/">TitledPane</a> and <a href="/posts/2010/javafx/Accordion/demo/1/">Accordion</a>.</li>
+</ul>
+<p><div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;"></p>
+<p><dl class="profile-datablock"></p>
+<p> 	<dt class="profile-data">Kas Thomas</dt></p>
+<p></dl></p>
+<p></div></p>
+]]></Content>
+	</post>

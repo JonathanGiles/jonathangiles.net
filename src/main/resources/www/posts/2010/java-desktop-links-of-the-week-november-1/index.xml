@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>942</ID>
+		<Slug>java-desktop-links-of-the-week-november-1</Slug>
+		<Title>Java desktop links of the week, November 1</Title>
+		<Date>2010-10-31</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>A very good week of links this week. This week there are a number of Swing, JavaFX and other links, but for me it is so pleasing to see that Swing is still seeing interesting development in the community. Keep up the great work folks - I look forward to following what you're all doing.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jean-Francois Poilpret</strong> has announced the <a href="https://designgridlayout.dev.java.net/servlets/NewsItemView?newsItemID=9046">release of DesignGridLayout 1.4</a>.</li>
+	<li><strong>Daniel Frisk</strong> emailed me to let everyone know that <a href="http://jalbum.net/software/release-notes">JAlbum 8.12 has been released</a>.</li>
+	<li>A preview release of <a href="http://dock.javaforge.com/index.html">DockingFrames 1.10 has just come out</a>. DockingFrames is an open source Java Swing docking framework, licenced under LGPL 2.1.</li>
+	<li><strong>Gerrit Grunwald</strong> continues to develop his SteelSeries components library. This week has has two posts. The first post discuses <a href="http://harmoniccode.blogspot.com/2010/10/custom-steel.html">how to customise the components</a>, and the second post is his second 'Friday Fun' component - this week it is a <a href="http://harmoniccode.blogspot.com/2010/10/friday-fun-component-ii.html">'MagicButton' implementation in Java</a>.</li>
+	<li><strong>Mark Fortner</strong> asks '<a href="http://www.jroller.com/phidias/entry/is_swing_dead">is Swing dead</a>'?</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>William Billingsley</strong> blogs about the <a href="http://wbillingsley.blogspot.com/2010/10/another-javafx-mistake.html">perils of calling <code>this.getClass()</code> in JavaFX Script</a>. My apologies to William for missing his blog last week, despite him emailing the link to me!</li>
+	<li>Coming up on November 10 is <strong>Stephen Chin's</strong> talk about <a href="http://www.svjugfx.org/calendar/14264038/?a=cv1p_grp&amp;eventId=14264038&amp;action=detail&amp;rv=cv1p&amp;rv=cv1p">JavaFX 2.0 with alternative languages</a>. This is an extended talk based on the presentation he and I gave at JavaOne. His talk also will be covering the visage project. Don't worry - I'll remind you of this talk next week also.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><a href="http://www.dzone.com/links/r/griffon_091_released.html">Griffon 0.9.1 has been released</a>, followed swiftly by an emergency o.9.1a release. This release brings improvements to Griffon's artifacts API.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Peter Pilgrim</strong> posted <a href="http://www.xenonique.co.uk/blog/?p=80">two videos on his site that were taken at JavaOne</a>. Of particular interest to readers of this blog is the second video which consists of a few minutes of <strong>Richard Bair's</strong> and <strong>Jasper Potts'</strong> Hardcore CSS session, followed by a session given by Alex Ruiz and his wife Yvonne on Java UI testing.</li>
+	<li><strong>Nicolas Fränkel</strong> has blogged about one of the perils of making available Java applications to clients - the <a href="http://blog.frankel.ch/safely-give-away-your-demo-applications">ease of decompilation</a>. His basic conclusion is that the (commercial) <a href="http://www.excelsior-usa.com/jet.html" target="_blank">Excelsior Jet product</a> is the best solution.</li>
+</ul>
+<p>That's it - hopefully (as I always say) you found something useful in the bunch of links above. Also, feel free to drop me an email with links you think I should cover in a future post. My details are all on the right hand side. Catch you all next week!</p>
+]]></Content>
+	</post>

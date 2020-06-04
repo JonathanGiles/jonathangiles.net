@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2107</ID>
+		<Slug>java-desktop-links-of-the-week-may-23-2</Slug>
+		<Title>Java desktop links of the week, May 23</Title>
+		<Date>2016-05-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Gluon</strong> had two big announcements this week. Firstly, that <a href="http://gluonhq.com/scene-builder-8-2-0-now/">Scene Builder 8.2.0 has been released</a> with built-in Maven repo support (for downloading control libraries, etc automatically), and secondly that <a href="http://gluonhq.com/javafx-3d-now-available-android-ios/">JavaFX 3D support has now been added for iOS and Android devices</a>. Very exciting.</li>
+ 	<li>I interviewed <strong>Tai</strong> and <strong>Ajo</strong> from <a href="http://fxexperience.com/2016/05/interview-with-tai-and-ajo-from-vero-analytics/">Vero Analytics on their JavaFX software</a> that has seen a lot of interest already from Netflix and Mozilla.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has published two of his 'Friday Fun Components', <a href="http://harmoniccode.blogspot.co.nz/2016/05/friday-fun-xxix.html">both</a> of <a href="http://harmoniccode.blogspot.co.nz/2016/05/friday-fun-xxx.html">which</a> look very cool.</li>
+ 	<li><strong>Rob Terpilowski</strong>&nbsp;has announced the <a href="https://rterp.wordpress.com/2016/05/20/gmapsfx-2-0-6-released/">release of&nbsp;GMapsFX 2.0.6</a>.</li>
+ 	<li><strong>David Bimamisa</strong> has blogged about <a href="http://tuiofx.org/blog/2016/05/11/a-case-study-on-novel-multi-user-multi-touch-interaction-concepts-using-the-graph-editor-library/">adding multi-user multi-touch capabilities</a> to his graph editor project.</li>
+</ul>
+]]></Content>
+	</post>

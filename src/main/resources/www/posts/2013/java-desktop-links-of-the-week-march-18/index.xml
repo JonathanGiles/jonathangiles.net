@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1430</ID>
+		<Slug>java-desktop-links-of-the-week-march-18</Slug>
+		<Title>Java desktop links of the week, March 18</Title>
+		<Date>2013-03-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A heap of links this week, and I've already spent long enough writing the links out below, so let's just get straight into it! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JDK 8 b81 is <a href="http://jdk8.java.net/download.html">out now for download</a>, and as always contains the latest JavaFX 8.0 bits for you to test out.</li>
+	<li>JavaFX Scene Builder 1.1 Developer Preview b22 is <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">now available for download</a>.</li>
+	<li><strong>Jasper Potts</strong> posted an updated blog post about the <a href="http://fxexperience.com/2013/03/modena-theme-update/">new Modena theme</a> that is coming to JavaFX 8.0. It has come a long way since the <a href="http://fxexperience.com/2013/01/modena-new-theme-for-javafx-8/">first post on Modena six weeks ago</a>, and much of the community advice has been listened to to refine the Modena look. Personally I think it is miles ahead of what we shipped in JavaFX 1.x and 2.x (which is known as Caspian).</li>
+	<li><strong>Tom Schindl</strong> continues to write a number of interesting blog posts detailing his current projects. This week he has three posts. Firstly, he talks about building an <a href="http://tomsondev.bestsolution.at/2013/03/11/build-an-intelligent-code-editor-with-javafx-and-jdt/">intelligent code editor with JavaFX and JDT</a>. Secondly he has announced the <a href="http://tomsondev.bestsolution.at/2013/03/12/efxclipse-0-8-1-released/">release of e(fx)clipse 0.8.1</a> which includes a number of new features. Finally, he has details of his <a href="http://tomsondev.bestsolution.at/2013/03/17/efxclipse-and-javafx-at-eclipsecon/">upcoming talks about e(fx)clipse and JavaFX at EclipseCon</a> next week.</li>
+	<li>Speaking of Eclipse, <strong>Kai Tödter</strong> has blogged about his experiments with <a href="http://www.toedter.com/blog/?p=965">GEF4 graphics being rendered using JavaFX Canvas</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> has started work on a testing framework for JavaFX that he is calling <a href="http://www.guigarage.com/2013/03/introducing-marvinfx/">MarvinFX</a>. I hope that this project gains a lot of traction with the community and can grow to encompass fixtures for all UI controls to make testing quicker and easier.</li>
+	<li>It's not for another week yet (so I'll remind you again in a weeks time), but <strong>John Yoon</strong> from the JavaFX team at Oracle will be <a href="http://www.svjugfx.org/events/58444072/?fromms=1&amp;a=ea2_grp&amp;eventId=58444072&amp;action=detail&amp;rv=ea2&amp;rv=ea2">presenting at the Silicon Valley JavaFX Users Group</a> on March 27. As per usual you can attend in person or virtually. What's cool is that <strong>John</strong> studied animation at the UCLA Film School, where he received his Master of Fine Arts in Animation/Film. Prior to working at Oracle, <strong>John</strong> worked in the animation industry as a Character Technical Director at Disney Animation and DreamWorks Animation on such films as "Chicken Little", "Meet the Robinsons", "Shrek Forever After", and "How to Train Your Dragon".</li>
+	<li>It is great to see the <strong>JetBrains</strong> folks starting to get right behind JavaFX. This week they have posted about their <a href="http://blogs.jetbrains.com/idea/2013/03/support-for-javafx-2-css-in-intellij-idea-121/">improved support for JavaFX 2 CSS</a> in IntelliJ IDEA 12.1.</li>
+	<li>A whitepaper was published over at the <strong>Oracle Technical Network</strong> about how <strong>Integra CCS</strong> uses JavaFX to <a href="http://www.oracle.com/technetwork/java/javafx/integra-1917751.html">power contact centers around the world</a>.</li>
+	<li><strong>Björn Müller</strong> has published an article titled <a href="http://www.oracle.com/technetwork/articles/java/casa-1919152.html">Why, Where, and How JavaFX Makes Sense</a>.</li>
+	<li><strong>Farrukh Obaid</strong> has published another JavaFX skin, this time it emulates the look of the <a href="http://farrukhobaid.wordpress.com/2013/03/17/officesilver-skin-for-javafx/">Office Silver look</a>.</li>
+	<li><strong><strong>Jens Deters</strong></strong> has a post about custom components, where is explores <a href="http://www.jensd.de/wordpress/?p=54">hover effects</a>.</li>
+	<li><strong>Jorn Hameister</strong> has blogged about <a href="http://www.hameister.org/JavaFX_Dartboard.html">how to create a JavaFX dartboard</a> with Shapes (Path, Arc, ArcTo, Circle) and Text.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jyloo Software</strong> have posted about the new <a href="http://www.jyloo.com/news/?pubId=1362994485000">Synthetica BlueLight Look and Feel</a> that was added in V2.17.</li>
+	<li>In a separate post <strong>Jyloo Software</strong> have announced the <a href="http://www.jyloo.com/news/?pubId=1363269715000">availability of SyntheticaAddons V1.8.1</a>, which is a maintenance release. For more details take a look at the <a href="http://www.jyloo.com/syntheticaaddons/changelog">changelog</a>.</li>
+</ul>
+<p>Keep up all the hard work folks - you're doing such a great job and it is a pleasure reading what you're all up to! :-)</p>
+]]></Content>
+	</post>

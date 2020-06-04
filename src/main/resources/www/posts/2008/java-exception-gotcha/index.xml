@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>155</ID>
+		<Slug>java-exception-gotcha</Slug>
+		<Title>Java Exception Gotcha</Title>
+		<Date>2008-05-26</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>java|Programming</Tags>
+		<Content><![CDATA[<p>I've been doing a bit of study for the Sun Certified Java Programmer exam recently, and just studied a piece of code which I was tricked by, so I thought I'd post it here.</p>
+
+<p>When doing exception handling in Java, I always thought that a return statement prevented a finally { } block from being called. In other words, I assumed the output from the following code snippet should be "exe1", not "exe1 finally".</p>
+
+
+<pre class="code_block"><code class="java">public class Test {
+	public static void main(final String[] args) {
+		try {
+			exception();
+		} catch (final IOException e) {
+			System.out.print("exe1");
+			return;
+		} finally {
+			System.out.print(" finally");
+		}
+
+		System.out.println(" what now?");
+	}
+
+	private static void exception() throws IOException {
+		throw new IOException();
+	}
+}
+</code></pre>
+
+
+<p>In actual fact, despite the return statement in the catch block, the finally method is still called prior to the method returning. As should be obvious, the " what now?" message is never printed in this instance.</p>
+
+<p>So, in summary, it's reassuring to know that the finally block is called even when an explicit return statement is added - it means things like DB connections will always be closed. I always was a little nervous about return statements in try {...} catch {...} blocks, but now after reassuring myself it seems there is no need for this. </p>
+]]></Content>
+	</post>

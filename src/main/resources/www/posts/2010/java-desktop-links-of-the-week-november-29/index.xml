@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>967</ID>
+		<Slug>java-desktop-links-of-the-week-november-29</Slug>
+		<Title>Java desktop links of the week, November 29</Title>
+		<Date>2010-11-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week in the Java desktop world. I'm sure this is partly explained away by the fact our friends in the US were celebrating Thanksgiving. This week there were posts for Swing, JavaFX, and for Josh Marinacci's 'Amino' UI toolkit. Let's get on with the links! :)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has posted about the release of <a href="http://harmoniccode.blogspot.com/2010/11/steelseries-22.html">SteelSeries 2.2</a>. This is a very interesting library, and for those that need these kind of components,&nbsp; you should feel very pleased that this library exists.</li>
+	<li><strong>Paul-Emile Veuve</strong> emailed me to let me know about <a href="http://sourceforge.net/apps/mediawiki/fingon/index.php?title=Main_Page">Fingon</a>, an open source and "auxiliary look and feel which brings a 'sound and feel' to the&nbsp;Swing  applications. Using speech synthesis, sounds and music, Fingon is able  to give the user an audio feedback about what happens in the interface  and information about its current state."</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Stephen Chin</strong> has blogged about '<a href="http://javafx.steveonjava.com/alternative-languages-at-devoxx-and-soon-javaone-brazil/">Alternative Languages at Devoxx and Soon JavaOne Brazil</a>'. This post includes the slide deck he used at Devoxx (which has updated slides from when we initially presented it at JavaOne). As noted in the title, this talk will soon be given at JavaOne Brazil.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li>Josh Marinacci has announced the <a href="http://leonardosketch.org/2010/11/132/">release of Leonard Sketch</a>, codenamed Ruby Red.</li>
+</ul>
+<p>That's us for another week. I'll catch you all in a weeks time, and as always feel free to get in touch with me if you have anything you think should be posted. My contact details are, as always, to the right.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>540</ID>
+		<Slug>javafx-menubar-control</Slug>
+		<Title>JavaFX Menubar control</Title>
+		<Date>2009-07-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>To continue developing my JavaFX skills I put in a few hours over the last week to build a menubar control. For those unsure on what a menubar is, it is the row at the top of an applications window (on most operating systems) that has the 'File', 'Edit', 'Help', etc menus. The menubar control is therefore responsible for making it easy to add and remove menus and menu items from the menu. For anyone interested in the API for my menubar, you can read the <a href="http://code.google.com/p/jfxtras/source/browse/jfxtras.core/trunk/controls/test/org/jfxtras/scene/menu/MenuTest.fx">code that must be written to build the menu shown below</a>.</p>
+
+<p>I'm not wanting to go on about it too much now, as it is still in very early development, but <a href="http://www.JonathanGiles.net/jnlp/Menus.jnlp">you can play with it here</a>. You'll need to be running a recent Java release to get the best results. Of course, don't expect much - what you see in the screenshot below is all you get (along with a bit of interactivity). Click the screenshot for a bigger image.</p>
+<p><p style="text-align: center;"><a href="/content/2009/07/menubar2a.png"><img class="aligncenter size-medium wp-image-571" title="menubar2a" src="/content/2009/07/menubar2a-300x112.png" alt="menubar2a" width="300" height="112"></a></p>
+<p><p style="text-align: center;"><a href="/content/2009/07/menubar1a.png"><img class="aligncenter size-medium wp-image-570" title="menubar1a" src="/content/2009/07/menubar1a-300x147.png" alt="menubar1a" width="300" height="147"></a></p>
+<p><p style="text-align: left;">I'm also aware that it is lacking :-) Features such as accelerators, mnemonics, <span style="text-decoration: line-through;">grouped menu items</span>, <span style="text-decoration: line-through;">submenu arrows</span>, <span style="text-decoration: line-through;">checks on checked menu items</span> are all coming (some faster than others). As well as this, there are some layout issues that I need to work out - in particular <span style="text-decoration: line-through;">menu width improvements</span>, submenu positioning (overlap), text alignment, etc. <strong>Update: </strong>Note that the crossed-out tasks have been completed.</p>
+<p><p style="text-align: left;">For now it's a tech demo (for me) - hopefully as time permits it may find time to become more polished, and possibly even usable!</p>
+]]></Content>
+	</post>

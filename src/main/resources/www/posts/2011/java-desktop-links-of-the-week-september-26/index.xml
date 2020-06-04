@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1113</ID>
+		<Slug>java-desktop-links-of-the-week-september-26</Slug>
+		<Title>Java desktop links of the week, September 26</Title>
+		<Date>2011-09-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Here we are: one week to go until JavaOne starts. There are a number of links this week, but I'm sure there will be a lot of good news coming in the next few weeks. I'll try my best to get blog posts out whilst I'm traveling, but I can't guarantee it (both on this blog, and over at <a href="http://www.fxexperience.com">FX Experience</a>). I'm away for three weeks from October 1 to October 23.</p>
+
+<p>For those of you coming to JavaOne, I'm really looking forward to catching up with you - if you spot me please come up and chat! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has blogged about <a href="http://tomsondev.bestsolution.at/2011/09/23/javafx-2-0-and-osgi-equinox/">JavaFX 2.0 and OSGi integration</a>.</li>
+	<li><strong>Weiqi Gao</strong> tweeted that he has created a <a href="http://twitter.com/#!/weiqigao/statuses/117945715963076608">JavaFX 2.0 properties live templates for IDEA</a>. You can <a href="http://www.weiqigao.com/blog/files/JavaFX.xml">get the file from his website</a>.</li>
+	<li><strong>Christian Schlichtherle</strong> has blogged about a <a href="http://truezip.schlichtherle.de/2011/09/22/javafx-scala-demo/">Maven archetype for JavaFX 2.0 in Scala</a>.</li>
+	<li>Another reminder that the <strong>Silicon Valley JavaFX Users Group</strong> is meeting on October 13, with Peter Pilgrim presenting on the topic of '<a href="http://www.svjugfx.org/events/22355481/?eventId=22355481&amp;action=detail">Progressive JavaFX 2.0 Custom Components</a>'. As always, it'll be live-streamed.</li>
+	<li><strong>Stephen Chin</strong> was interviewed by the Java Spotlight podcast about <a href="http://blogs.oracle.com/javaspotlight/entry/java_spotlight_episode_48_stephen">his sessions at JavaOne</a>.</li>
+	<li><strong>Laurent Nicolas</strong> has put up a blog post about <a href="http://www.mrlonee.com/?p=319">using SVGPath in JavaFX 2.0</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Hendrik Ebbers </strong>has continued his tutorial series on his JGrid tutorial. This week he has two more posts, one on <a href="http://www.guigarage.com/2011/09/jgrid-tutorial-4/">creating zoomable grids</a>, and the other on <a href="http://www.guigarage.com/2011/09/jgrid-tutorial-5/">creating custom cell renderers</a> in JGrid.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has blogged about a project that he has developed called <a href="http://www.joshondesign.com/2011/09/22/hidden-treasure-appbundler/">AppBundler</a>. AppBundler is a tool that creates native executables of Java applications for Windows, Mac, and WebOS.</li>
+	<li><strong>Geertjan Wielenga</strong> has <a href="http://blogs.oracle.com/geertjan/entry/adobe2java">continued</a> to <a href="http://blogs.oracle.com/geertjan/entry/gerrit_grunwald_adobe_fxg_transformations">blog</a> about a <a href="http://plugins.netbeans.org/plugin/40128/?show=true">NetBeans plugin</a> that pulls in <strong>Gerrit Grunwald's</strong> <a href="http://harmoniccode.blogspot.com/2011/09/fxgconverter-20.html">FXG Converter</a>.</li>
+</ul>
+<p>Catch you all at JavaOne, or in another links roundup as soon as I can create it! :-)</p>
+]]></Content>
+	</post>

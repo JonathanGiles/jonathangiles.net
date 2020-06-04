@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>167</ID>
+		<Slug>basic-xml-marshalling-in-java</Slug>
+		<Title>Basic XML Unmarshalling in Java</Title>
+		<Date>2008-09-11</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>java</Tags>
+		<Content><![CDATA[<p>I frequently find myself groaning in agony over having to deal with more XML coming in to my various Java applications. I thought I would finally do something about it, so I wrote the code below. It is very simple, but performs the way I need it to. Basically, you give it a class that specifies the properties from the XML. Each field is annotated with the name that it correlates to in the XML string. Below is the code, and below that is an example.</p>
+
+<pre class="code_block"><code class="java">package nz.co.jogiles.xml;
+
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+import java.lang.reflect.Field;
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * A simple XML Marshaller
+ * 
+ * @created 11/09/2008
+ * @author Jonathan Giles
+ */
+public class SimpleXmlMarshaller {
+
+	@Retention(RetentionPolicy.RUNTIME)
+	public static @interface XmlElement {
+		String elementName();
+	}
+
+	public static interface XmlType {}
+
+	public static  List parseXML(final String xml, final String parentElement,
+			final Class typeDeclaration) {
+		final List result = new ArrayList();
+
+		// no point continuing with no xml
+		if (xml == null) {
+			return result;
+		}
+
+		// this gets us an array of the attributes that exist in the xml type class
+		final Field[] fields = typeDeclaration.getDeclaredFields();
+
+		// how many times does the parent element occur in the xml string?
+		final int occurrences = xml.split(parentElement).length / 2;
+
+		try {
+			// create another reference of the provided xml
+			String tempXml = xml;
+
+			// iterate enough times to hit all occurences of the
+			for (int i = 0; i &lt; occurrences; i++) {
+				final T xmlElement = typeDeclaration.newInstance();
+				result.add(xmlElement);
+
+				for (final Field field : fields) {
+					final XmlElement element = field.getAnnotation(XmlElement.class);
+					final String elementName = element.elementName();
+
+					// try to find the first instance of that element in the string
+					final int start = tempXml.indexOf("&lt;" + elementName + "&gt;") + 2 + elementName.length();
+					final int end = tempXml.indexOf("<!--" + elementName + "-->");
+
+					final String elementValue = tempXml.substring(start, end);
+
+					field.set(xmlElement, elementValue);
+				}
+
+				// we should strip off the first lot of the parent element to move on to the next
+				// one
+				final int end = tempXml.indexOf("/" + parentElement) + 2 + parentElement.length();
+				tempXml = tempXml.substring(end, tempXml.length());
+			}
+		} catch (final Exception e) {
+			e.printStackTrace();
+		}
+
+		return result;
+	}
+}
+</code></pre>
+
+<p>The other class is a class that a user must provide. My test class is the following:</p>
+
+<pre class="code_block"><code class="java">package nz.co.jogiles.xml;
+
+import nz.co.jogiles.xml.SimpleXmlMarshaller.XmlElement;
+import nz.co.jogiles.xml.SimpleXmlMarshaller.XmlType;
+
+public class RangeXmlType implements XmlType {
+	@XmlElement(elementName = "name")
+	public String name;
+
+	@XmlElement(elementName = "low")
+	public String low;
+
+	@XmlElement(elementName = "high")
+	public String high;
+
+	@Override
+	public String toString() {
+		return "name: " + name + ", low: " + low + ", high: " + high;
+	}
+}
+</code></pre>
+
+<p>A sample execution would then be:</p>
+
+<pre class="code_block"><code class="java">public static void main(final String[] args) {
+		final String xml = "name 17677name 212name 3342";
+
+		final List<!--? extends RangeXmlType--> results = SimpleXmlMarshaller.parseXML(xml, "filter", RangeXmlType.class);
+
+		for (final RangeXmlType element : results) {
+			System.out.println(element);
+		}
+	}
+</code></pre>
+
+<p>The output of this then becomes:</p>
+<p><code></p>
+<p>name: name 1, low: 76, high: 77</p>
+<p>name: name 2, low: 1, high: 2</p>
+<p>name: name 3, low: 3, high: 42</p>
+<p></code></p>
+
+<p>The reason why the output is above is because I have overridden the toString() method, but of course all of the fields are accessible just like any other publically accessible field.</p>
+
+<p>Basic I know, but it is reusable, and I plan to make use of this code in the future to stop me having to groan in agony over dealing with XML text.</p>
+]]></Content>
+	</post>

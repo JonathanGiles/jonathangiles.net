@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3094</ID>
+		<Slug>java-desktop-links-of-the-week-july-8-2</Slug>
+		<Title>Java desktop links of the week, July 8</Title>
+		<Date>2018-07-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>It's been a stupendously long time since the last 'weekly' roundup, and for that I apologise profusely! I've been caught up doing a heap of travelling, getting sick, more travelling, and then trying to fit some work around the edges. Not to mention, I'm also trying to contribute a chapter on JavaFX UI controls to an upcoming JavaFX book. The end result of all of this is excuses and inability to do everything I try to obligate myself to do. On the upside, I'm a <a href="/posts/2018/on-becoming-a-java-champion/">Java Champion now</a> - that's pretty cool, right? :-)</p>
+
+<p>Whilst I've been away I have been doing my best to track the Java desktop landscape, and so I have a lot of links to share today. I will be brief as I am writing this on a Sunday morning :-)</p>
+<ul>
+ 	<li>As always, <strong>Gerrit Grunwald</strong> has been super busy. I have no less than seven links to share! Firstly, <strong>Gerrit</strong> has created some&nbsp;<a href="https://harmoniccode.blogspot.com/2018/05/time-for-something-newios-fx.html">iOS-style controls for JavaFX</a> (useful if used in conjunction with Gluon Mobile, for example), and this code is <a href="https://github.com/hansolo/iosfx">available on GitHub</a>.</li>
+ 	<li><strong>Gerrit</strong> has also been working on a bunch of improvements for TilesFX, his dashboard control for showing overview tiles to users. He has created a <a href="https://harmoniccode.blogspot.com/2018/06/a-status-skin-for-tilesfx.html">new 'status' skin</a>, a <a href="https://harmoniccode.blogspot.com/2018/06/some-updates-to-tilesfx.html">bunch of other updates (e.g. background images) and bug fixes</a>, some <a href="https://harmoniccode.blogspot.com/2018/07/tilesfx-colors.html">new colour schemes</a>, a <a href="https://harmoniccode.blogspot.com/2018/07/tiles-164.html">new release of TilesFX</a>, and a YouTube video showing some new work on <a href="https://www.youtube.com/watch?v=SD2IQFa3rIQ&amp;feature=youtu.be">gradient interpolation in a bar gauge</a>.</li>
+ 	<li><strong>Johan Vos</strong><strong>&nbsp;</strong>has posted to the openjfx-dev mailing list about <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2018-July/022088.html">getting JavaFX 11 snapshots into maven sonatype</a>. This is a great step for JavaFX, as it means that it can be developed at a fast pace and released directly to maven, where it can be added as a dependency in your applications - no longer are you tied to JDK releases.</li>
+ 	<li>Speaking of deployment of applications, <strong>Florian Brunner</strong> has blogged about '<a href="https://puces-blog.blogspot.com/2018/06/the-next-generation-of-java-application.html">the next generation of Java application deployments</a>'.</li>
+ 	<li><strong>Pedro DV</strong> has two posts about his JMetro project (to skin JavaFX UI controls to look like metro controls in Windows). Firstly, he has a <a href="https://pixelduke.com/2018/06/11/javas-metro-theme-recap-and-new-version">recap and a new version announcement</a>, and secondly he has a post about a <a href="https://pixelduke.com/2018/07/02/metro-table-for-java-javafx/">metro style for the JavaFX TableView control</a>.</li>
+ 	<li><strong>Thomas Nield</strong> has open sourced <a href="https://github.com/thomasnield/DirtyFX">DirtyFX</a>, a library for&nbsp;dirty state-tracking properties and collections for JavaFX.</li>
+ 	<li><a href="https://www.javafx-days.com/">JavaFX Days is coming up in December</a>. It's a three-day conference in Zurich, Switzerland where you can learn all about JavaFX stuff!</li>
+</ul>
+]]></Content>
+	</post>

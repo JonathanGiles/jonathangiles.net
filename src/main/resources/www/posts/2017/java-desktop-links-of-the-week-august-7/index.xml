@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2537</ID>
+		<Slug>java-desktop-links-of-the-week-august-7</Slug>
+		<Title>Java desktop links of the week, August 7</Title>
+		<Date>2017-08-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Edvin Syse</strong> announced the <a href="https://github.com/edvin/tornadofx/releases/tag/v1.7.9">release of TornadoFX 1.7.9.</a>&nbsp;TornadoFX is a lightweight JavaFX Framework for Kotlin.</li>
+ 	<li>
+<div class="mb-3 repository-topics-container js-repository-topics-container js-details-container"><strong>Tom Schindl</strong>&nbsp;announced the release of <a href="https://tomsondev.bestsolution.at/2017/08/06/efxclipse-3-0-0-is-released/">e(fx)clipse 3.0.0</a>, which supports Java 9 and brings with it a host of other improvements.</div></li>
+ 	<li><strong><strong></strong>Arnaud Hamon</strong> has put online some code to <a href="https://github.com/PtitNoony/FxTreeMap">draw tree maps in JavaFX</a>, using both the scenegraph APIs, as well as the Canvas node.</li>
+ 	<li><strong>Almas Baimagambetov</strong> continues to improve <a href="https://github.com/AlmasB/FXGL">FXGL</a> - the JavaFX Game Library.</li>
+ 	<li><strong>Peter Rogge</strong> continues to improve&nbsp;<a href="https://github.com/Naoghuman/lib-preferences">Lib-Preferences</a>, a library for easily storing simple data to a Preferences.properties file in a JavaFx &amp; Maven desktop applications.</li>
+ 	<li><strong>Roger Lacroix</strong> has announced the <a href="http://www.capitalware.com/rl_blog/?p=4454">release of&nbsp;MQ Visual Edit V2.2.0</a>, a commercial app for "allowing users to view, manipulate and manage messages in a queue and/or topic of a IBM MQ queue manager and presents the data in a simplified format similar to a database utility or spreadsheet program."</li>
+</ul>
+]]></Content>
+	</post>

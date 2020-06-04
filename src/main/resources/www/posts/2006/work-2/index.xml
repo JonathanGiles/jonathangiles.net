@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>34</ID>
+		<Slug>work-2</Slug>
+		<Title>Work</Title>
+		<Date>2006-01-05</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>So, I've spent yesterday and today doing a slightly different thing - I wrote my first ever <em>decent </em>server application. It's a little, 1000 line Java application which is designed to provide a server-side to my research. Currently, it handles:</p>
+<ul>
+	<li>Users requests for reminder alerts to be emailed or SMS'd.</li>
+	<li>Users subscriptions to be emailed or SMS'd when something they have subscribed to changes in a way in which they are interested.</li>
+	<li>Server side SQL. Previously, the client directly communicated with the database through JDBC. This is obviously not optimal. Now, the server can handle both database queries ('SELECT', returning a CachedResultSet) and INSERT/UPDATE statements.</li>
+	<li>LDAP user authentication. Once again, the client currently communicates directly with the LDAP server, so this is now replaced with the client communicating with the server, which then takes care of talking to LDAP.</li>
+</ul>
+<p>The last two points meant I had to define my own protocol for the various options. This was rather 'cute', with my communication between the server and client being messages like 'hello', 'ok', 'sql', 'ldap', and 'bye'.</p>
+
+<p>A benefit to doing this is that it lessens the filesize of the client - we no longer need JDBC or LDAP libraries. For the MySQL and Novell eDirectory libraries, this cuts out about 540Kb of file size. It only gets bigger on larger database servers as well.</p>
+
+<p>I've pretty much done my server work now, so I may go relax for a bit. Next week I start work out at Massey for three weeks, which should be a bit of money <img src="http://spaces.msn.com/rte/emoticons/smile_regular.gif"> but I need to actually study the stuff I'm doing - mainly XPath, XSLT, XML, and a library called Jaxen.</p>
+
+<p>Ciao.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1175</ID>
+		<Slug>java-desktop-links-of-the-week-january-16</Slug>
+		<Title>Java desktop links of the week, January 16</Title>
+		<Date>2012-01-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week for Java desktop links.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>A new JavaFX 2.1 developer preview <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">build is out</a>. The build number is now b08.</li>
+	<li>JavaFX.com is moving to be part of the Oracle Technical Website (OTN). For future reference, the URL will be <a href="http://otn.oracle.com/javafx">http://otn.oracle.com/javafx</a>.</li>
+	<li><strong>Adam Bien</strong> posted a tiny blog post showing <a href="http://www.adam-bien.com/roller/abien/entry/javafx_2_0_css_reference">how to include custom CSS</a> in a JavaFX application.</li>
+	<li>By now <strong>Weiqi Gao</strong> has given his JavaFX 2.0 talk, but <a href="http://www.weiqigao.com/blog/2012/01/11/javafx_2_0_is_fun.html">he has posted the code from his talk</a>. It details the <a href="http://en.wikipedia.org/wiki/Lissajous_curve">Lissajous curve</a> to show off the JavaFX 2.0 Path API and the properties and bindings framework.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Florian Simon</strong> let me know about <a href="http://www.flows-projects.com/?c=Home">FlowSProject</a>, which is "looking for ways to simplify initialisation and use of swing widgets like the JTable or the JTree."</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>9</ID>
+		<Slug>dynamic-context-menus-plugins</Slug>
+		<Title><![CDATA[Dynamic Context Menus & Plugins]]></Title>
+		<Date>2006-06-15</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>plugins-research</Tags>
+		<Content><![CDATA[<p>Well, this is certainly a tech blog. I kinda want to keep this brief, but I want to outline how plugins change the way you program GUI's.</p>
+
+<p>The old way of having a dynamic context menu (i.e. a popup menu that changes its items based on what thing you click on) is roughly:</p>
+
+<p>You somewhere have a popupmenu (JPopupMenu in Java terms). You populate the popupmenu with the full list of possible menu items. You have a show() method that gets called, which is passed the thing you click on. Using this argument, it is possible to create a series of if ... else ... statements to decide what items to show, and what to hide. The menu can then be shown. If an item on the menu is clicked, it is necessary for this popup class to handle farming out the ActionEvent that is created to the relevant class.</p>
+
+<p>This results in a popup menu class somewhere that is horribly designed - it has dependencies to basically everywhere else in the system. I always hated writing this kind of code. I really hope there are better ways to doing this that I don't know of....</p>
+
+<p>Plugins make this far better. I define an extension point that any plugin can add themselves to called 'ContextMenuItem' or similiar. Any plugin is able to add into this. When a context menu is shown for the first time, it goes out and says 'get me all plugins wanting to extend this point'. It builds up a list of all such plugins. Whenever the context menu is shown, it then simply iterates through each plugin, passing it the JPopupMenu onto which it may insert its menu items, and of course the thing that was clicked on. It can then be up to the plugin to actualy decide what menu items to add based on the thing clicked on. Once all plugins have added what they want to add for this particular item, the menu can be shown.</p>
+
+<p>That is pretty cool, cos the dependency hell from above is removed entirely, as all method calls are simply calling an interface, instead of directly to the plugin classes. Note also that ActionEvents can actually be handled internally within the plugin, reducing the size of the popup management class incredibly (it effectively just calls the plugins and handles showing the popup only).</p>
+
+<p>Ok, that's enough. Sorry if you don't care, but I do get emails and MSN messages from people asking about this, and I'm personally very interested, so meh...:P</p>
+
+<p>oh, btw, I'm down one 'exam' (it was only 1.5 hours), and have to wait until next Saturday (the 24th) until my next one - hence more work on plugin functionality.</p>
+
+<p>Cheers,</p>
+<p>Jonathan</p>
+]]></Content>
+	</post>

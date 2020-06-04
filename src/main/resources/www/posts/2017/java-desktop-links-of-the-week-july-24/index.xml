@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2531</ID>
+		<Slug>java-desktop-links-of-the-week-july-24</Slug>
+		<Title>Java desktop links of the week, July 24</Title>
+		<Date>2017-07-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Ok - lets dust the cobwebs off this blog huh? Sorry about the silence folks, it's been quite hectic around here with some travelling and conference distractions, as well as a huge amount of other stuff going on. Anyway, hopefully the worst is behind and I can get back to what is important! :-) Apologies if I missed your link - <a href="mailto:jonathan@jonathangiles.net">let me know</a> and I'll be sure to include it next week.</p>
+<ul>
+ 	<li><strong>Dirk Lemmermann</strong> has posted about '<a href="http://dlsc.com/2017/07/03/javafx-tip-26/">going dark</a>' with a darcula-inspired theme in JavaFX. This is one of those amazing things people don't always understand about how JavaFX UI controls work - with only a very minor amount of CSS, the entire UI can change style considerably.</li>
+ 	<li><strong>Florian Brunner</strong> has <a href="https://puces-blog.blogspot.co.nz/2017/07/drombler-fx-version-010-released.html">released Drombler FX 0.10</a>.&nbsp;This version is mainly a bug fix release and especially fixes some issues on Macs.</li>
+ 	<li><strong>Almas Baimagambetov</strong> continues to put out <a href="https://github.com/AlmasB/FXGL">releases of FXGL</a> - his JavaFX game library.</li>
+ 	<li><strong>Peter Rogge</strong> continues to make releases of his <a href="https://github.com/Naoghuman/lib-preferences">lib-preferences library</a>, 'for easy storing simple data to a Preferences.properties file in a JavaFx &amp; Maven desktop application.'</li>
+ 	<li><strong>Mohammad Hossein Rimaz</strong> has a post about '<a href="http://rimdiary.com/math-visualization/">Nonsense Mathematics to Awesome Visualization</a>' where he creates cool-looking JavaFX visualisations.</li>
+</ul>
+]]></Content>
+	</post>

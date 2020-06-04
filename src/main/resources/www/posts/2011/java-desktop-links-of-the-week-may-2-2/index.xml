@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1038</ID>
+		<Slug>java-desktop-links-of-the-week-may-2-2</Slug>
+		<Title>Java desktop links of the week, May 2</Title>
+		<Date>2011-05-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Another month, and another week of desktop links. I hope there is something of interest in the links below for everyone. As always, feel free to get in contact with me with anything you want me to include.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jens Schauder</strong> has blogged about <a href="http://blog.schauderhaft.de/2011/05/01/binding-scala-objects-to-swing-components/">binding Scala objects to Swing components</a>.</li>
+	<li><strong>Rob Camick</strong> has created a <a href="http://tips4java.wordpress.com/2011/04/24/marquee-panel/">marquee panel</a> to scroll text message across the screen.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Oracle Technical Network</strong> is doing <a href="http://www.oracle.com/us/dm/h2fy11/70892-apacfm10037745mpp136c003-oem-359658.html">presentations in Brisbane and Perth</a>, Australia. One of the talks is going to be an intro to JavaFX 2.0. The day is free to attend - I'll be going to the Brisbane day.</li>
+	<li><strong>Tom Eugelink</strong> has blogged about in-progress <a href="http://tbeernot.wordpress.com/2011/05/01/javafx-2-0-swing-2-0/">JavaFX 2.0 EA APIs</a>, specifically those related to listening to property invalidation / change events. Because these are all pre-beta APIs, there is still a chance that all of these may change to be more convenient for this kind of use case.</li>
+	<li><strong>Eric Bruno</strong> has blogged about a JavaFX 1.3.1-based <a href="http://drdobbs.com/blogs/java/229402139">multi-column/multi-select ListView control</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li>The <a href="http://blogs.oracle.com/java/2011/04/javaone_call_for_papers_now_open.html">JavaOne 2011 call for papers</a> has started, and is open from now until May 23. I'm hoping to see plenty of great submissions in the Java SE, Client-Side Technologies and Rich User Experiences track.</li>
+	<li>The <strong>Oracle Technical Network </strong><a href="http://medianetwork.oracle.com/media/show/16485?n=playlist&amp;nid=86">interviewed John Jullion-Ceccarelli</a>, NetBeans Engineering Manager, about NetBeans 7.0.</li>
+	<li><strong>Josh Marinacci</strong> has released the <a href="http://leonardosketch.org/2011/04/176/">first beta of Leonardo 1.0</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has blogged about the <a href="http://groovy.dzone.com/news/griffon-plugin-netbeans-ide-70">Griffon plugin for NetBeans IDE 7.0</a>.</li>
+	<li><strong>Laurent Caron</strong> emailed me to know that he has added <a href="http://code.google.com/a/eclipselabs.org/p/opal/">five new components to the opal project</a>, which is an umbrella project for new SWT widgets.</li>
+</ul>
+<p>That's that for another week. Catch you all in a weeks time :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>156</ID>
+		<Slug>prefuse-15-source-drop</Slug>
+		<Title>Prefuse 1.5 Source Drop</Title>
+		<Date>2008-06-05</Date>
+		<Status>publish</Status>
+		<Categories>Programming|Technology</Categories>
+		<Tags>software</Tags>
+		<Content><![CDATA[<p>I do a bit of development work on the <a href="http://www.prefuse.org">prefuse</a> project. Recently a new branch has been created that is a port to Java 1.5 (i.e. it has generics, enumerations, etc). A lot of people are having trouble connecting to the relevant CVS branch, so to help them out I have posted it <a href="/content/2008/06/prefuse-15.zip">here.</a></p>
+
+<p>Enjoy.</p>
+]]></Content>
+	</post>

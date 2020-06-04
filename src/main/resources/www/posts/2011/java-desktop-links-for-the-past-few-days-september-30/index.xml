@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1115</ID>
+		<Slug>java-desktop-links-for-the-past-few-days-september-30</Slug>
+		<Title>Java desktop links (for the past few days), September 30</Title>
+		<Date>2011-09-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Here's a special edition of Java desktop links for folks. I thought, given the fact I've accumulated a few good links this week already, and that I'll be super-busy next week and probably won't be able to share any links, that I'll get a post out before I fly out to JavaOne. Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>Mean words are being said, battle lines are drawn, and full-on war is nearing...at least in the vicious GroovyFX vs ScalaFX battle for minds and hearts. <strong>Stephen Chin</strong> started it with his post <a href="http://javafx.steveonjava.com/javafx-2-0-and-scala-like-milk-and-cookies/">introducing ScalaFX</a>. He may not have said it, but I'm sure you could tell he was suggesting that <a href="https://code.google.com/p/scalafx">ScalaFX</a> was the better choice over GroovyFX....</li>
+	<li>Naturally, <strong>Dean Iverson</strong> wasn't going to take this lying down, so he fired up his blog and posted a <a href="http://pleasingsoftware.blogspot.com/2011/09/groovyfx-vs-scalafx.html">stinging GroovyFX rebuttal</a>.</li>
+	<li>Backing <strong>Dean</strong> was <strong>Jim Clarke</strong>, co-developer of the <a href="http://groovy.codehaus.org/GroovyFX">GroovyFX</a> library along with <strong>Dean</strong>. <strong>Jim</strong> has just started a series of blog posts on <a href="http://www.codetown.us/profiles/blogs/groovyfx-getting-started">getting started with GroovyFX</a>.</li>
+	<li>Of course, I'm sure both <strong>Stephen</strong> and <strong>Dean</strong> are toiling away on their own implementations. They'll be meeting head-to-head for a winner-takes-all battle at their JavaOne session next week: 'JavaFX 2.0 with Alternative Languages'. Unfortunately, this session conflicts with a session I'm giving on 'JavaFX Data Sources', but alas, I'm sure you'll all make the right call.</li>
+	<li>Speaking of the JavaFX Data Sources talk I am co-presenting with <strong>Johan Vos</strong>, we just put up a website for the related project: <a href="http://www.javafxdata.org">DataFX</a>. It is two projects in one: a series of data source adapters to make bring data into JavaFX UI Controls simpler, and a number of pre-built cell factories to make rendering data simpler and richer. Downloads will be enabled next week once we've presented our talk.</li>
+	<li>Final warning: next week <strong>Peter Pilgrim</strong> will be presenting his '<a href="http://www.dzone.com/links/r/progressive_javafx_20_custom_components.html">Progressive JavaFX 2.0 Custom Components</a>' JavaOne talk at the Silicon Valley JavaFX Users Group. It's on Thursday, October 13, 2011, at 6:00 PM. As per usual, it'll be <a href="www.ustream.tv/channel/silicon-valley-javafx-user-group">live streamed</a> for those that can't attend in person. For the first time, I'm hoping to finally be able to attend in person this month.</li>
+	<li><strong>Tom Schindl</strong> has put up a blog post on '<a href="http://tomsondev.bestsolution.at/2011/09/26/how-to-author-fxml">How to author FXML</a>', which demonstrates some work he has done to make developing JavaFX interfaces simpler in his e(fx)clipse project.</li>
+	<li>In another post, <strong>Tom</strong> has just announced the <a href="http://tomsondev.bestsolution.at/2011/09/29/efxclipse-0-0-6-released/">release of e(fx)clipse 0.0.6</a>. This release incorporates the FXML authoring support mentioned in the previous link, as well as updated CSS support, improved OSGi bundling support, and the beginnings of runtime components (including layout APIs and OSGi support).</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> put up a <a href="http://projects.joshy.org/Leonardo/daily/">new release</a> of his Leonardo Sketch application. This is built using his custom Java UI toolkit Amino.</li>
+</ul>
+<p>Ok, that's it for this week. I apologise in advance for any lapses in links postings for the next few weeks. I'll try my best, but I'm really hoping you folks make it easier for me by emailing me any new and wonderful links you may find. Also, as I said last week, I'm really looking forward to catching up with you all next week at JavaOne. If you see me, please come up and chat - the hallway track is by far the most fun part of JavaOne.</p>
+
+<p>Until next time, have a great week, enjoy JavaOne, and I'll see you on the other side! :-)</p>
+]]></Content>
+	</post>

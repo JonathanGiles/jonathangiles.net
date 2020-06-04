@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1359</ID>
+		<Slug>java-desktop-links-of-the-week-november-19</Slug>
+		<Title>Java desktop links of the week, November 19</Title>
+		<Date>2012-11-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Welcome to yet another weeks worth of Java desktop links. Thanks to <strong>Neil</strong> for his guest editing of last weeks post - I know it isn't overly fun writing these posts, so I really appreciate his time and contribution. Now, on with the news.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Eugelink</strong> blogged about his work on creating an <a href="http://tbeernot.wordpress.com/2012/11/10/javafx-layout-a-silver-lining/">alternative API for JavaFX layouts</a>. So far he has developed a proof of concept for HBox and VBox.</li>
+	<li>The <strong>Jetbrains</strong> folks have updated their bug tracker to show that <a href="http://youtrack.jetbrains.com/issue/IDEA-75173">release 12.1 of IntelliJ IDEA will support JavaFX</a>.</li>
+	<li>Last week at Devoxx I met with <strong>Hendrik Ebbers</strong> and got a <a href="http://www.guigarage.com/2012/11/jgridfx-first-demo/">demo</a> of his GridView component (which is very nicely made - and <a href="http://www.guigarage.com/2012/11/gridfx-is-hosted-at-github/">open source</a>). Since Devoxx he has written a number of blog posts about his work, including another demo showing <a href="http://www.guigarage.com/2012/11/playing-with-gridfx-and-itunes-webservices/">integration with iTunes</a>, a detailed post on <a href="http://www.guigarage.com/2012/11/custom-ui-controls-with-javafx-part-1/">writing custom controls</a>, and a post that he believes <a href="http://www.guigarage.com/2012/11/swing-is-dead/">Swing is dead</a>. The next steps for GridFX (in my humble opinion) are to add virtualisation support (<strong>Hendrik</strong> and I discussed this at Devoxx), and then consider moving to <a href="http://www.jfxtras.org">JFXtras</a> :-)</li>
+	<li>The <a href="http://java.net/projects/vmfx/pages/Home">vmFX</a> and <a href="http://java.net/projects/efx/pages/Home">eFX</a> projects are now open source. For those not familiar with the projects, eFX is a JavaFX Application Framework based on the NetBeans Platform, and vmFX is a JavaFX-based VM Monitoring tool based on eFX.</li>
+	<li><strong>Pedro Duque Vieira</strong> continues on with his Metro styling for JavaFX. This time around it is the <a href="http://pixelduke.wordpress.com/2012/11/18/metro-style-radio-button-for-java-jmetro/">radio button that has gotten the Metro treatment</a>. I have to say it is looking very nice! :-)</li>
+	<li>The <a href="http://open-dolphin.org/dolphin_website/Home.html">open-dolphin.org website</a> has been updated with new documentation and updated downloads.</li>
+	<li>The folks over at <strong>IDR Solutions</strong> have made available (for free) an <a href="http://blog.idrsolutions.com/2012/11/free-online-pdf-to-javafx-converter-now-available/">online PDF to JavaFX converter</a>.</li>
+	<li><strong>Mark Heckler</strong> has <a href="https://blogs.oracle.com/javajungle/entry/polishing_the_monologfx_api">polished the MonologFX API</a> based on JFXtras community feedback.</li>
+	<li><strong>René Jahn</strong> has two posts up this week. Firstly, we has a post about '<a href="http://blog.sibvisions.com/2012/11/18/javafx-scenicview-javeleon-livefx/">JavaFX + ScenicView + Javeleon = LiveFX</a>', and secondly he has a post about <a href="http://blog.sibvisions.com/2012/11/18/javafx-development-for-beagleboard-xm/">JavaFX development on the Beagleboard xm</a>.</li>
+</ul>
+<p>That's us for another week - catch you in a weeks time! :-)</p>
+]]></Content>
+	</post>

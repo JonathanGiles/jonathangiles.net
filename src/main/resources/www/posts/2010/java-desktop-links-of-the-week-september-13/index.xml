@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>909</ID>
+		<Slug>java-desktop-links-of-the-week-september-13</Slug>
+		<Title>Java desktop links of the week, September 13</Title>
+		<Date>2010-09-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>The final week of Java desktop links before JavaOne, and bucking the trend I mentioned last week, there has been a heap of posts this week. Let's get into them!</p>
+<h4>Swing</h4>
+<ul>
+	<li>Someone<strong> </strong>emailed me (sorry - your name turned into garbage thanks to wordpress) to say that the Better Swing Application Framework has just had a <a href="http://kenai.com/projects/bsaf/pages/190RC5">new release candidate put out for the 1.9 release</a>.</li>
+	<li>If you've ever wanted to integrate the Microsoft Office 'Ribbon' into NetBeans - someone has done it for you. <strong>Pinkmatter solutions</strong> have <a href="http://www.pinkmatter.co.za/Blog/tabid/65/EntryId/2/Netbeans-platform-ribbon-bar-library.aspx">combined the excellent Flamingo JRibbon with NetBeans</a>, and offer the source as a BSD-licensed zip file.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jim Weaver</strong> has written about the new <a href="http://www.oracle.com/technetwork/java/javafx-loadui-170428.html">LoadUI application developed by eviware</a>. They've clearly put a lot of effort into this application.</li>
+	<li><strong>Stephen Chin</strong> has blogged about the session he and I are presenting at JavaOne, which focuses on <a href="http://steveonjava.com/javafx-your-way-building-javafx-applications-with-alternative-languages/">writing JavaFX applications in alternative languages</a>.</li>
+	<li>The <strong>NetBeans</strong> folks have an article up on <a href="http://netbeans.org/kb/docs/javafx/grid.html">how to use the JavaFX Composer to build grid-based application user interfaces</a>.</li>
+	<li><strong>Jan-Hendrik Kuperus</strong> has a post discussing the <a href="http://java.sogeti.nl/JavaBlog/2010/09/08/javafx-grid-component-worries/">differences between the JFXtras XGrid and the preview Grid layout containers</a>.</li>
+	<li><strong>JavaBeat</strong> has a <a href="http://www.javabeat.net/articles/209-javafx-media-1.html">four-page article</a> up about the 'JavaFX 1.2 Application Development Cookbook' book. It appears to cover how to use various parts of the JavaFX API.</li>
+	<li><strong>Matt Warman</strong> has an article up discussing <a href="http://blog.starbaseinc.com/blog/the-java-rocker/0/0/new-javafx-features">his findings in the latest JavaFX 1.3.1 release</a>.</li>
+	<li><strong>Carlos Quintanilla</strong> has blogged a few basic <a href="http://carlosqt.blogspot.com/2010/09/javafx-basics-by-example.html">JavaFX Script examples</a> - in particular how to define classes.</li>
+	<li><strong>Daniel Mikusa</strong> has created another <a href="http://mikusa.blogspot.com/2010/09/more-javafx-fun.html">JavaFX Game of Life implementation</a>.</li>
+	<li><span class="post-author vcard"><span class="fn"><strong>siesiek</strong> has posted about <a href="http://javafxscripting.blogspot.com/2010/09/how-to-centre-nodes-using-stack.html">centering nodes in a stack</a>.
+</span></span></li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li>Griffon just celebrated its second birthday - <a href="http://jroller.com/aalmiray/entry/griffon_s_second_birthday">happy birthday Griffon</a>!</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has released the <a href="http://leonardosketch.org/2010/09/73/">first beta of his Leonardo vector drawing app</a>. As mentioned previously, this application uses a custom-built UI toolkit, but it is Java-based.</li>
+</ul>
+<p>That's that for another week. I'm not sure when the next post will be as I'll be travelling to the US for two weeks next weekend. I'll try to put something out, but I'm not sure when :-)</p>
+<p><div id="_mcePaste" style="position: absolute; left: -10000px; top: 51px; width: 1px; height: 1px; overflow: hidden;"></p>
+<h1 class="title"><a href="http://carlosqt.blogspot.com/">Carlos Quintanilla</a></h1>
+<p></div></p>
+]]></Content>
+	</post>

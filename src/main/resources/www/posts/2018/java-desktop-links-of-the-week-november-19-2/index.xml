@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3186</ID>
+		<Slug>java-desktop-links-of-the-week-november-19-2</Slug>
+		<Title>Java desktop links of the week, November 19</Title>
+		<Date>2018-11-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>I'm back and well-rested after a week in Honolulu (although as it was noted to me on Twitter, taking kids on vacation is pretty much turning the vacation into 'looking after kids in a different location').</p>
+<ul>
+ 	<li><strong>Peter Rogge</strong> has released <a href="https://github.com/Naoghuman/lib-i18n">Lib-I18N version 0.5.0</a>. This library "allows developers to easily bind `.properties` key (values) to a [StringBinding]. So changing the language during runtime in a JavaFX application won't be a problem anymore."</li>
+ 	<li><strong>Adam Carroll</strong> has released <a href="https://vocabhunter.github.io/2018/11/11/santulator.html">Santulator</a>, an open source secret santa present draw app written with JavaFX 11.</li>
+ 	<li><strong>Pedro DV</strong> has released <a href="https://pixelduke.com/2018/11/08/jmetro-version-4-8-released/">JMetro 4.8</a>, with a number of Metro / Fluent Design styles revamped or tweaked.</li>
+ 	<li><strong>GOXR3PLUS STUDIO</strong> has released an update to the media player / web browser called&nbsp;<a href="https://github.com/goxr3plus/XR3Player">XR3Player</a> (along with a <a href="https://youtu.be/7Hai7cavmUY">video of it in action</a>), as well as an update to <a href="https://github.com/goxr3plus/FX-BorderlessScene">FX-BorderlessScene</a>, an "undecorated JavaFX Scene with implemented move, resize, minimise, maximise, close and Windows Aero Snap controls".</li>
+</ul>
+]]></Content>
+	</post>

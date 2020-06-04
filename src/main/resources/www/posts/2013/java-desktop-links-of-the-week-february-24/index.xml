@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1416</ID>
+		<Slug>java-desktop-links-of-the-week-february-24</Slug>
+		<Title>Java desktop links of the week, February 24</Title>
+		<Date>2013-02-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi everyone, and welcome to another weekly links roundup. This weeks post is a day early as I'll be out of town when I usually post. Anyway, enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> continues his work on styled text rendering in JavaFX, going so far as to <a href="http://tomsondev.bestsolution.at/2013/02/19/speeding-up-textflow-for-javafx8-by-a-factor-of-100/">improve performance by 100x</a>, and then developing a <a href="http://tomsondev.bestsolution.at/2013/02/20/from-styledtextviewer-to-a-styledtexteditor-with-javafx8/">styled text editor</a> using a combination of the new rich text support in JavaFX 8.0 and the ListView control.</li>
+	<li>Speaking of <strong>Tom</strong>, you can find out more about what Tom has been up to with rich text in JavaFX in an <a href="http://fxexperience.com/2013/02/interview-with-tom-schindl-2/">interview I posted with him</a>.</li>
+	<li><strong>John Hendrix</strong> has posted a YouTube video of a <a href="http://www.youtube.com/watch?v=8Mb15bOwIyE">JavaFX Carousel control</a> that interestingly is simply a new skin for the TreeView control that ships with JavaFX. I'd be interested in seeing the source code for this!</li>
+	<li><strong>Jarek Sacha</strong> wrote to let me know that <a href="http://code.google.com/p/scalafx/">ScalaFX 1.0 Milestone 1</a> has been released. As he puts it, "ScalaFX helps you simplify creation of JavaFX-based user interfaces in Scala. ScalaFX uses a simple, hierarchical pattern for creating new objects and building up the scene graph. ScalaFX supports full interoperability with Java and can run anywhere the Java Virtual Machine (JVM) and JavaFX2 are supported. Current version supports most of the JavaFX 2.2.* functionality. For more information see <a href="http://code.google.com/p/scalafx/">ScalaFX home page</a>."</li>
+	<li><strong>Elisabeth Engel</strong> has posted on <a href="http://blog.comsysto.com/2013/02/21/how-to-present-spring-data-neo4j-nodes-in-a-javafx-tableview/">how to present Spring Data Neo4j Nodes in a JavaFX&nbsp;TableView</a>.</li>
+	<li>JacpFX, the RCP framework on top of JavaFX and Spring has <a href="http://code.google.com/p/jacp/">reached version 1.2</a>. This release is mainly a bugfix release and improves stability and overall performance.</li>
+	<li><strong>Jens Deters</strong> has updated his blog posts on <a href="http://www.jensd.de/wordpress/?p=178">how to use the 'Font Awesome' font in JavaFX</a>. You can find <a href="http://www.jensd.de/wordpress/?p=132">read his earlier post for further context</a>.</li>
+	<li><strong>Anton Epple</strong> has posted about he has written a <a href="http://jayskills.com/blog/2013/02/13/space-invaders-in-less-than-175-loc/">Space Invaders clone in JavaFX</a> using his fx2d library (and 175 additional lines of code).</li>
+	<li><strong>Arnaud Nouard</strong> has posted part two of his series on the Undecorator library he is developing, this time focusing on <a href="http://arnaudnouard.wordpress.com/2013/02/23/undecorator-part-ii-the-undecoratorscene-class/">ease of integration with your application</a>.</li>
+	<li><strong>Andy Till</strong> continues to develop his <a href="https://bitbucket.org/atill/estimate/overview">EstiMate application</a>, this week releasing version 0.0.2. As he puts it, "EstiMate is not a project management tool, it is firmly aimed at software engineers and developers who need to provided accurate estimates for tasks to be performed by themselves and their team."</li>
+	<li><strong>Farrukh Obaid</strong> has posted a video of a <a href="http://www.youtube.com/watch?v=gjgdZhX0IWs&amp;feature=youtu.be">new CSS theme he has been working on for JavaFX</a>. It looks good, but now I'm keen to see the code. Hopefully it is made available sometime soon (if it isn't already).</li>
+</ul>
+<p>That's us for another week. Catch you again in a weeks time! Keep up the great work folks! :-)</p>
+]]></Content>
+	</post>

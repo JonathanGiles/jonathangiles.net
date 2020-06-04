@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1139</ID>
+		<Slug>java-desktop-links-of-the-week-november-7</Slug>
+		<Title>Java desktop links of the week, November 7</Title>
+		<Date>2011-11-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week, another round of links from the Java desktop world. I hope you all find something of interest. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>Continuing on from last weeks mention of the OpenJFX project being 'formally discussed', <a href="http://mail.openjdk.java.net/pipermail/announce/2011-November/000113.html">it has now been formally proposed</a> as an OpenJDK project. Voting is currently underway, with voting closing on November 16. Following this, if everything goes to plan, the first release of JavaFX source code (the UI controls library) will follow shortly thereafter.</li>
+	<li>A <a href="http://www.oracle.com/technetwork/java/javafx/downloads/javafx2-macosx-487281.html?t=1320366072">new JavaFX 2.0 Mac OS Developer Preview release</a> came out last week, taking the build number up to 07.</li>
+	<li>The <a href="http://thingsfx.com/">ThingsFX project</a> was launched this week by <strong>Robert <del datetime="2011-11-01T11:36:45+00:00"></del>Branchat</strong>, <strong>Mario Torre</strong>, and <strong>Roman Kennke</strong>. This project is the new home of the link I blogged about last week where they have enabled embedding Swing inside JavaFX (the opposite of what is supported natively in JavaFX). They also put up a few blogs about this feature. Firstly, they demonstrated embedding a <a href="http://www.jroller.com/neugens/entry/embed_swing_inside_javafx_21">Swing button inside JavaFX</a>, then <a href="http://www.jroller.com/neugens/entry/jfreechartfx">JFreeChart inside JavaFX</a>, and finally an <a href="http://jroller.com/neugens/entry/javafx_as_image_processing_library">image processing example</a>.</li>
+	<li><strong>Tori Wieldt</strong>, blogging for <strong>The Java Source</strong>, has blogged on the topic of '<a href="https://blogs.oracle.com/java/entry/what_is_javafx">What is JavaFX?</a>'. Of particular interest to many, she links to a number of upcoming talks at various conferences.</li>
+	<li><a href="http://dooapp.github.com/FXForm2/">FXForm2</a>, a dynamic JavaFX 2.0 form generation library, has been updated.</li>
+	<li><strong>Zonski</strong> continues his explorations of JavaFX with FXML in a blog post titled '<a href="http://www.zenjava.com/2011/11/03/client-server-with-javafx-2-and-hessian-guice-fxml/">Client Server with JavaFX 2 and Hessian (+Guice +FXML)</a>'.</li>
+	<li><strong>Wayne Young</strong> has a post about <a href="https://blogs.oracle.com/wayneyoung/entry/configuring_jdeveloper_for_javafx_2">configuring JDeveloper for JavaFX 2.0 development</a>.</li>
+	<li><strong>Gail Anderson</strong> continues her series of blog posts, this week her post covers <a href="http://www.asgteach.com/blog/?p=372">adding animation with JavaFX</a>.</li>
+	<li><strong>Peter Pilgrim</strong> has put online a <a href="http://www.xenonique.co.uk/blog/?p=516">video walkthrough of using ScalaFX</a>.</li>
+	<li><strong>Narayan</strong> has blogged about a way to enable <a href="http://blog.ngopal.com.np/2011/10/26/save-node-to-image-in-javafx-2-0/">saving a JavaFX node or scene to an image file</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has put up another of his 'Friday Fun Components', this time it is <a href="http://harmoniccode.blogspot.com/2011/11/friday-fun-component-xii.html">a Swing light bulb component</a>.</li>
+</ul>
+<p>That's all for another week. Keep up the great work folks and I'll be back in a weeks time to highlight everything you've been up to! :-)</p>
+]]></Content>
+	</post>

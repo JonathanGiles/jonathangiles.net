@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>994</ID>
+		<Slug>java-desktop-links-of-the-week-february-21-2</Slug>
+		<Title>Java desktop links of the week, February 21</Title>
+		<Date>2011-02-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A quiet week this week in the world of the Java desktop. However, with the first EA builds of JavaFX 2.0 coming out, I have seen a lot of very interesting projects being started. I've also heard from a lot of people how they find the APIs to be very good, so I'm pleased (although I'm always on the lookout for feedback) :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li>Thanks to everyone that let me know that <strong>Jyloo Software</strong> announced the release of <a href="http://www.jyloo.com/news/?pubId=1297422319000">Synthetica V2.12</a> and <a href="http://www.jyloo.com/news/?pubId=1297423104000">SyntheticaAddons V1.4</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Adam Bien</strong> had a very popular blog post about JavaFX 2.0, showing off how you build a very simple <a href="http://www.adam-bien.com/roller/abien/entry/hello_javafx_2_back_to">Hello World application using the early JavaFX 2.0 API</a>. Also interesting is the considerable discussion that took place in the comments section.</li>
+	<li><strong>Stephen Chin</strong> was <a href="http://www.oracle.com/technetwork/articles/java/chin-on-javafx-185052.html">interviewed by OTN</a>, where he discusses JavaOne, JavaFX, Visage and other topics.</li>
+</ul>
+<p>Catch you all in a weeks time.</p>
+<p><div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;"></p>
+<h1>Synthetica V2.12</h1>
+<p></div></p>
+]]></Content>
+	</post>

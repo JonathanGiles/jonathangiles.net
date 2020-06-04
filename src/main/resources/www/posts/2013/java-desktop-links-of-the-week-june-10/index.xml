@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1474</ID>
+		<Slug>java-desktop-links-of-the-week-june-10</Slug>
+		<Title>Java desktop links of the week, June 10</Title>
+		<Date>2013-06-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week, but a couple of open source projects continue to keep the community momentum moving forward. Let's get right into it! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> announced the beginning of a '<a href="https://wiki.openjdk.java.net/display/OpenJFX/Performance+Tips+and+Tricks">performance tips and tricks</a>' wiki page to track performance ideas and details of the JavaFX infrastructure. This document is intended to be fluid as new areas are discovered and explored.</li>
+	<li><strong>JIDE Software</strong> (purveyors of fine Swing UI components) have announced the <a href="http://www.jidesoft.com/blog/2013/06/06/jidefx-beta-release/">beta release of JideFX</a>, a collection of libraries (some open source (LGPL+classpath), some commercial) that contain a number of JavaFX UI controls and other useful libraries.</li>
+	<li>I announced the <a href="http://fxexperience.com/2013/06/announcing-controlsfx-8-0-0-final/">release of ControlsFX 8.0.0 final</a>, which includes a bunch of improvements to dialogs and other new API. This release was once again a team effort, with a substantial percentage of the development by other team members, most notably <strong>Eugene Ryzhikov</strong>, but also thanks must go to <strong>Danno Ferrin</strong> and <strong>Hendrik Ebbers</strong> for their contributions too. As always ControlsFX is available under the BSD license.</li>
+	<li><strong>William Antônio</strong> has put up a blog post about <a href="http://fxapps.blogspot.co.nz/2013/06/another-javafx-crud-server-side.html">developing the server side</a> of a JavaFX CRUD application.</li>
+	<li>ScalaFX 1.0.0 Milestone 4 was <a href="https://code.google.com/p/scalafx/downloads/list">released recently</a>. If you're interested in building JavaFX applications in Scala,&nbsp; you should definitely check this project out!</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Danno Ferrin</strong> is looking for someone to <a href="http://speling.shemnon.com//blog/2013/06/08/insubstantial-needs-a-new-maintainer/">take over control of the Insubstantial project</a>, which itself is a friendly fork of the abandoned Substance (and related) projects originally started by <strong>Kirill Grouchnikov</strong>.</li>
+</ul>
+<p>Catch you all in a weeks time!</p>
+]]></Content>
+	</post>

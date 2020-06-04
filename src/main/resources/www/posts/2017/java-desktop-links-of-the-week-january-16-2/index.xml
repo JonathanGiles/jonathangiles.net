@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2230</ID>
+		<Slug>java-desktop-links-of-the-week-january-16-2</Slug>
+		<Title>Java desktop links of the week, January 16</Title>
+		<Date>2017-01-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Kevin Rushforth</strong> posted to the openjfx-dev mailing list <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2017-January/020153.html">encouraging everyone to start testing their software on JDK 9</a>, because a lot has changed in there with regards to modularisation, removing impl API, etc. It is critical that bugs be reported now and not after release, so get testing!</li>
+ 	<li><strong>Florian Brunner</strong> has released <a href="http://puces-blog.blogspot.co.nz/2017/01/drombler-fx-version-09-released.html">Drombler FX 0.9</a>. Drombler FX is a&nbsp;modular application framework for JavaFX.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has done another of his 'Friday Fun' releases, this time <a href="https://harmoniccode.blogspot.co.nz/2017/01/friday-fun-xliii.html">combining the world map control with the heat map control</a> he has previously built, and the result is pretty cool!</li>
+ 	<li>The <strong>AdoptOpenJDK</strong> project has a <a href="https://github.com/AdoptOpenJDK/jitwatch">jitwatch</a> project written with JavaFX that analyses and visualises the Java HotSpot JIT compiler.</li>
+ 	<li><strong>Chris Newland</strong> has released part three of his <a href="https://github.com/chriswhocodes/DemoFX">DemoFX</a> performance testbed / demoscene callout :-) The <a href="https://www.youtube.com/watch?v=9jztG_l8qrk&amp;feature=youtu.be">YouTube video</a> of it is very cool...</li>
+</ul>
+]]></Content>
+	</post>

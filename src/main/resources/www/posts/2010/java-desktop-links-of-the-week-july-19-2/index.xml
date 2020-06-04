@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>854</ID>
+		<Slug>java-desktop-links-of-the-week-july-19-2</Slug>
+		<Title>Java desktop links of the week, July 19</Title>
+		<Date>2010-07-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Well, what an interesting week we had in the JavaFX world. It started off with <strong>Kirill Grouchnikov</strong> posting his thoughts that <a href="http://www.pushing-pixels.org/?p=2106">JavaFX is a train wreck</a>. This created a number of threads around the web discussing this. At the same time <strong>Stephen Chin</strong> posted his <a href="http://steveonjava.com/javafx-petition/">petition to open source JavaFX</a>. So much controversy, so many (sometimes anonymous) comments - what a week! For what it's worth, I'm just reporting the news here, not endorsing or disagreeing with any of it :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has blogged about <a href="http://www.pushing-pixels.org/?p=2093">dynamic resizing of ribbon components in Flamingo 5.0</a>. He also showed off the latest <a href="http://www.pushing-pixels.org/?p=2087">Mariner skin</a>, which is included as part of Substance 6.1. Finally, he showed off the <a href="https://flamingo.dev.java.net/release-info/5.0/release-info.html">release information documentation for Flamingo 5.0</a>.</li>
+	<li><strong>Karl Schaefer</strong> has blogged about <a href="http://weblogs.java.net/blog/kschaefe/archive/2010/07/08/swingx-using-promptsupport">PromptSupport</a>, which is a new feature in SwingX 1.6.1. PromptSupport relates to showing prompt text in JTextFields to inform the user of what should be typed in.</li>
+	<li>The <a href="http://www.pagosoft.com/products/pgslookandfeel/index.html">PgsLookAndFeel is 1.1 Update 1</a> was released on 18th July. It fixes all known bugs.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>As mentioned, this week <strong>Kirill Grouchnikov</strong> outlined his thinking that <a href="http://www.pushing-pixels.org/?p=2106">JavaFX is a train wreck</a>. Quite quickly the comments on his blog became incredibly side-tracked, so he turned off comments. Because of the nature of the topic, the discussion <a href="http://java.dzone.com/polls/how-can-oracle-make-javafx">spilled</a> <a href="http://www.javaworld.com/community/node/4647">over</a> into a number of other blogs, and for the most part was mostly negative.</li>
+	<li><strong>Stephen Chin</strong> has posted a petition to <a href="http://steveonjava.com/javafx-petition/">open source JavaFX</a>. Further discussion is available <a href="http://java.dzone.com/articles/stephen-chins-petition-open">here</a> and <a href="http://groups.google.com/group/javaposse/browse_thread/thread/5b602839dd2c836c">here</a>.</li>
+	<li>The next <a href="http://www.svjugfx.org/">Silicon Valley JavaFX Users Group</a> topic has been announced: it'll be <strong>Stephen Chin</strong> and <strong>Keith Combs</strong> doing a live lab session where they will demonstrate the <a href="http://www.svjugfx.org/calendar/13784815/?eventId=13784815&amp;action=detail">concepts behind implementing JavaFX Controls</a>. It's coming up August 11, so a few weeks away yet.</li>
+	<li><strong>Jim Weaver</strong> has posted a tutorial on the Sun Developer Network titled "<a href="http://java.sun.com/developer/technicalArticles/javafx/css/">Stylin' with JavaFX</a>".</li>
+	<li><strong>Dean Iverson</strong> has posted some <a href="http://pleasingsoftware.blogspot.com/2010/07/my-bads.html">comments about his previous blog posts</a> to fix up mistakes and misunderstandings on his part.</li>
+	<li>Max Katz has done a bunch of blogs recently, titled '<a href="http://mkblog.exadel.com/ria/javafx-ria/binding-to-server-side-context-variable-from-javafx/">Binding to server-side context variable from JavaFX</a>', '<a href="http://mkblog.exadel.com/ria/javafx-ria/using-expression-language-el-in-javafx-to-communicate-with-server/">Using Expression Language (EL) in JavaFX to communicate with server</a>' and '<a href="http://mkblog.exadel.com/ria/javafx-ria/seam-conversation-from-javafx/">Seam conversations from JavaFX</a>'.</li>
+	<li><strong>Alex Ruiz</strong> has announced <a href="http://alexruiz.developerblogs.com/?p=1371">FEST JavaFX Compiler Maven Plug-in 1.0b2</a>. This release adds new configuration options.</li>
+	<li><strong>Sergey Malenkov</strong> has posted about '<a href="http://weblogs.java.net/blog/malenkov/archive/2010/07/09/localized-reaction-time">localized reaction time</a>'. It shows how you can localise your application in JavaFX.</li>
+	<li><strong>William Antônio Siqueira</strong> has created <a href="http://fxapps.blogspot.com/2010/07/searching-lyrics-with-this-javafx-app.html">LyricSearchFX</a>, which you can run over at his <a href="http://fxapps.blogspot.com/">new blog</a>.</li>
+	<li>I posted <a href="/posts/2010/javafx/TabView/demo/1/">two</a> <a href="/posts/2010/javafx/TabView/demo/2/">brief</a> screencasts to show off a TabView control I'm building in my spare time.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has posted another Griffon 0.9 sneak peek, this time looking at <a href="http://www.jroller.com/aalmiray/entry/griffon_0_9_sneak_peek5">runtime enhancements</a>.</li>
+</ul>
+<p>Whew! What a week. Catch you all again in a week.</p>
+]]></Content>
+	</post>

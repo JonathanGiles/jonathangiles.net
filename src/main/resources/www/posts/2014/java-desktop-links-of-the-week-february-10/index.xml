@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1675</ID>
+		<Slug>java-desktop-links-of-the-week-february-10</Slug>
+		<Title>Java desktop links of the week, February 10</Title>
+		<Date>2014-02-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week, more links - enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tomas Mikula</strong> is working on two interesting projects that you should keep an eye on (on top of his excellent <a href="https://github.com/TomasMikula/CodeAreaFX">CodeAreaFX</a>): <a href="https://github.com/TomasMikula/ReactFX">ReactFX</a> and <a href="https://github.com/TomasMikula/UndoFX">UndoFX</a>. The ReactFX "project is an exploration of reactive programming techniques for JavaFX" - and I highly recommend you look at the code examples to understand how it might be useful in your projects. UndoFX is "a general-purpose undo manager for JavaFX (or Java applications in general)." Again, something that could be very useful in your applications! :-)</li>
+	<li><strong>Jens Deters</strong> has posted code to make it easy to <a href="http://www.jensd.de/wordpress/?p=955">animate a SplitPane divider</a>.</li>
+	<li><strong>Daniele Renda</strong> has a post on "<a href="http://java.dzone.com/articles/real-world-javafx-graniteds-0">Real World JavaFX with GraniteDS</a> : the ACI Ticketing and Booking System".</li>
+	<li><strong>Dirk Lemmermann</strong> has blogged about another control coming in the soon-to-be-released ControlsFX 8.0.5: <a href="http://dlemmermann.wordpress.com/2014/02/04/and-another-one-masterdetailspane/">MasterDetailPane</a>.</li>
+	<li><strong>Thierry Wasyl</strong> has posted a handy tip on how to more cleanly ensure your code is <a href="http://thierrywasyl.wordpress.com/2014/02/09/update-your-scene-in-javafx/">running on the JavaFX Application Thread</a>.</li>
+	<li><strong>Steven Schwenke</strong> has blogged about an <a href="http://stevenschwenke.de/extendableSearchPaneInJavaFX">extendable search pane</a> he has created in JavaFX, which may be useful for other developers.</li>
+	<li><strong>Thomas Bolz</strong> has published his project '<a href="https://github.com/teabeeoh/renamerFX">renamerFX</a>' which is a utility to "batch rename your pictures and movies after taking them from the camera from cryptic to meaningful file names."</li>
+	<li><strong>Jan Kovar</strong> has started work on <a href="https://github.com/jean79/FXUtils">FXUtils</a>, whose stated goal is to "develop set of components for easier development of JavaFX 8 applications using FXML."</li>
+</ul>
+<p>See you all next week for another round.</p>
+
+<p>https://github.com/TomasMikula/CodeAreaFX</p>
+]]></Content>
+	</post>

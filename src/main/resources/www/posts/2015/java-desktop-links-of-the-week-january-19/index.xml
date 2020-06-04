@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1857</ID>
+		<Slug>java-desktop-links-of-the-week-january-19</Slug>
+		<Title>Java desktop links of the week, January 19</Title>
+		<Date>2015-01-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Here we go again with another round of links. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jens Deters</strong> has released a <a href="http://www.jensd.de/wordpress/?p=1780">new release of MQTT.fx</a>, as well as a <a href="http://www.jensd.de/wordpress/?p=1788">new release of ShichimiFX</a>. These projects just keep getting better and better with each release.</li>
+	<li>Another MQTT-related project written in JavaFX is also available. This one is called <a href="https://code.google.com/p/mqtt-spy/">mqtt-spy</a>, and also looks like a very polished project.</li>
+	<li><strong>Tom Schindl</strong> has been working on some <a href="http://tomsondev.bestsolution.at/2015/01/12/javafx-filesystem-viewers/">JavaFX-based filesystem viewers</a>. Very handy!</li>
+	<li><strong>Pance Cavkovski</strong> has posted about <a href="https://www.voxxed.com/blog/2015/01/doornfx-touchscreen-javafx-8-raspberry-pi/">DoorNFX</a>, a JavaFX / Java 8 on ARM project which uses a Raspberry PI and touch screen functionality.</li>
+	<li><strong>Andy Till</strong> has been working on a project called <a href="https://github.com/andytill/erlyberly">erlyberly</a>, which "is a debugger for erlang, and elixir. Instead of setting break points in code, a trace is set on a function and calls to it are logged without blocking your processes."</li>
+	<li><strong>Jeffrey Guenther</strong> has posted about <a href="http://blog.jeffreyguenther.com/post/108273590074/my-wish-for-javafx-in-2015">his wishes for JavaFX in 2015</a>.</li>
+	<li><strong>Kieran France</strong> has a post on <a href="https://blog.idrsolutions.com/2015/01/running-tests-javafx-swing-using-junit/">running tests on both JavaFX and Swing using JUnit</a>.</li>
+	<li><strong>David Weber</strong> has a post on how he managed to <a href="http://senior-dev.com/blog/english/javafx-swing-and-desktop-java/changing-caret-color-javafx/">change the color of the caret in the TextField control</a>.</li>
+</ul>
+<p>Until next week - keep up the great work folks! :-)</p>
+]]></Content>
+	</post>

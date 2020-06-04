@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1605</ID>
+		<Slug>java-desktop-links-of-the-week-november-25</Slug>
+		<Title>Java desktop links of the week, November 25</Title>
+		<Date>2013-11-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Wow! This week is by far the best week of links in a long time (sorry past weeks, but once you read through here I'm sure you'll agree). There is so much going on now with Java on the desktop, and now on mobile platforms too (maybe these blog posts will need a name change soon) :-) I won't spoil all the good details, but it is great to see things like professional services springing up for open source projects, blog posts from the likes of Intel and NASA, all the interesting progress on open source projects, and of course the progress towards getting JavaFX running on mobile platforms</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Johan Vos</strong> blogged that the <a href="http://www.lodgon.com/dali/blog/entry/DataFX_20_developer_preview_release">DataFX project has a new release</a>, along with a <a href="http://www.javafxdata.org">new website</a> and <a href="https://groups.google.com/forum/#!forum/datafx-dev">Google group for discussions</a>. Also, importantly,<a href="http://www.lodgon.com/dali/page/DataFX_Consulting"> DataFX now has professional services available</a> for teams that are using it and want support. I highly recommend you consider engaging the DataFX professional services as you'll be learning from the experts (of both JavaFX and Java EE), and hopefully it'll be mutually beneficial and will allow DataFX to become even more fully-featured.</li>
+	<li><strong>Dirk Lemmermann</strong> has blogged about a <a href="http://dlemmermann.wordpress.com/2013/11/19/a-popup-editor-for-javafx-8/">new 'Popup Editor' control he has developed</a>. Funnily enough the <a href="http://www.controlsfx.org">ControlsFX</a> team was planning on developing exactly the same component for the next ControlsFX release, but fortunately <strong>Dirk</strong> reached out to offer to contribute it to ControlsFX, and now it should appear in the 8.0.3 release in early December (all things going to plan).</li>
+	<li><strong>Mark Heckler</strong> has blogged about MonologFX, his custom dialogs API for JavaFX. He has introduced a new <a href="https://blogs.oracle.com/javajungle/entry/monologfx_update_timed_javafx_dialogs">timed dialog feature</a> which fades the dialog in and out.</li>
+	<li>The <strong>JavaFX Prague team</strong> has a blog on <a href="https://blogs.oracle.com/jfxprg/entry/building_javafx_for_android_with">building JavaFX for Android with the skia library</a> (instead of statically linking in freetype).</li>
+	<li>Speaking about running on mobile platforms, <strong>Tobi</strong> from <strong>UltraMixer Digital Audio Solutions</strong> has a blog post showing his software <a href="http://blog.software4java.com/?p=148">running on Android and iOS devices</a>. Hopefully we'll see contributions back into the <a href="https://bitbucket.org/javafxports/android/wiki/Home">JavaFX ports project</a> that is gaining steam (and has a new <a href="https://groups.google.com/forum/#!forum/javafxandroid">Google group for discussions</a>).</li>
+	<li><strong>Dustin Marx</strong> has posted about <a href="http://marxsoftware.blogspot.co.nz/2013/11/native-java-packaging-with-netbeans-74.html">native Java packaging with NetBeans 7.4</a>.</li>
+	<li><strong>Michael</strong> has posted a <a href="http://mihosoft.eu/?p=1000">Gradle project for automatic OpenJDK/OpenJFX builds</a>. Very nice! :-)</li>
+	<li><strong>Intel</strong> have a detailed article about <a href="http://software.intel.com/en-us/articles/using-javafx-to-implement-multi-touch-with-java-on-windows-8-desktop">using JavaFX to implement multi-touch</a> with Java on Windows 8 Desktop.</li>
+	<li><strong>Bertrand Goetzmann</strong> has a blog post up about <a href="http://www.odelia-technologies.com/content/tiddlywikifx-or-managing-tiddlywikis-javafx">TiddlyWikiFX</a>, which is a JavaFX-based application that embeds a TiddlyWiki instance inside of it. It's nice to see it making use of other open source projects: (obviously) TiddlyWiki, but from the JavaFX world it includes the <a href="http://afterburner.adam-bien.com/">afterburner.fx MVP framework</a> as well as <a href="http://www.controlsfx.org">ControlsFX</a>.</li>
+	<li><strong>Sean Phillips</strong> has posted part two of his series on <a href="https://weblogs.java.net/blog/seanmiphillips/archive/2013/11/20/visualizing-nasa-ground-system-data-products-using-javafx-and-netbeans-platform-part-2">visualizing NASA ground system data products</a> using JavaFX and the NetBeans Platform.</li>
+	<li><strong>Pedro Duque Vieira</strong> has styled the <a href="http://pixelduke.wordpress.com/2013/11/24/metro-style-combobox-for-java-jmetro/">JavaFX ComboBox control to take the Windows Metro look</a> this week (as part of his JMetro project).</li>
+	<li><strong>Christoph Nahr</strong> has a blog post pointing out some <a href="http://news.kynosarges.org/2013/11/20/javafx-listview-sizing/">flaws with the JavaFX ListView control</a>. ListView is something I am responsible for, so I will be returning to this blog post myself in the coming days to work out what (if anything) needs fixing.</li>
+	<li><strong>Björn</strong> has a brief blog post about the 5.0 release of CaptainCasa, which includes <a href="http://captaincasa.blogspot.co.nz/2013/11/javafx-based-rich-client-applications.html">full support for a JavaFX front end</a>.</li>
+	<li><strong>Johannes Rupprecht</strong> has a post about <a href="http://johnthecodingarchitect.blogspot.co.nz/2013/11/nested-or-dependant-javafx-properties.html">nested or dependent JavaFX properties</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Dave Gilbert</strong> wrote in to announce that <a href="http://www.jfree.org/jfreechart/download.html">JFreeChart 1.0.17</a> has been released. I'm not too sure what has changed, but it never hurts to keep up to date with these things :-)</li>
+</ul>
+<p>I hope you agree, a good week of links! Catch you all next week, and keep up the great work everyone! :-)</p>
+]]></Content>
+	</post>

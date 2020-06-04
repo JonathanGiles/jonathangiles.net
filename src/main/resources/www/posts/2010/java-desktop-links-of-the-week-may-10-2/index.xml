@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>799</ID>
+		<Slug>java-desktop-links-of-the-week-may-10-2</Slug>
+		<Title>Java desktop links of the week, May 10</Title>
+		<Date>2010-05-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>An absolute tonne of posts this week, particularly in the JavaFX world. It's great to see that desktop Java is doing well, and that people are so active in improving, growing and supporting the community. Keep it up folks :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has posted about the <a href="http://www.pushing-pixels.org/?p=1812">improved keyboard shortcut support in Substance 6.1</a>. This is an important area and I suggest you read this post, even if just to become more aware of the problem space. Coincedently, we did something very similar to this in JavaFX 1.3 and hopefully in the future we'll document our approach to solving this problem.</li>
+	<li><strong>Nick D'Arcy</strong> has <a href="http://devandwhateverelse.blogspot.com/2010/05/scala-swing-combobox-part-2.html">continued his Scala Swing post</a> that I mentioned last week by showing you how to select a ComboBox item programmatically and also  listen to changes to the ComboBox.</li>
+	<li><a href="http://metawidget.sourceforge.net/index.html">Metawidget v0.95 was released recently</a>. Metawidget is a 'smart User Interface widget' that populates itself, at runtime, with UI components to match the properties of your business objects.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Amy Fowler</strong> has put out two blog posts this week at her new website. The first post covers '<a href="http://amyfowlersblog.wordpress.com/2010/04/30/javafx-1-3-taming-the-layout-beast/">taming the layout beast</a>', and in particular details the general rules you should follow when doing layouts in JavaFX 1.3. Her second post covers the <a href="http://amyfowlersblog.wordpress.com/2010/05/07/javafx-1-3-autosizing-everywhere/">changes to auto-sizing</a> in JavaFX 1.3. These are must-read posts for anyone doing JavaFX development.</li>
+	<li>The JavaFX documentation team has published a huge article covering all <a href="http://javafx.com/docs/articles/UIControls/overview.jsp">UI controls available in JavaFX</a>. Be sure to use the navigation on the left to browse through the various controls.</li>
+	<li><strong>Osvaldo Pinali Doederlein</strong> has done a detailed and well-considered post on the <a href="http://weblogs.java.net/blog/opinali/archive/2010/05/03/first-long-look-javafx-13-and-prism">performance improvements in the recent JavaFX 1.3 release</a>. This is highly recommended reading in my opinion.</li>
+	<li>Over at <strong>FXExperience</strong> I did an introductory post on a new preview control in JavaFX 1.3: <a href="http://fxexperience.com/2010/05/new-to-javafx-1-3-menus/">Menus</a>. I also did a brief introduction to how to style them, but there are far better resources available in last weeks links of the week by Dean Iverson.</li>
+	<li><strong>Jim Weaver</strong> has posted about the <a href="http://learnjavafx.typepad.com/weblog/2010/05/the-cubic-earth-society-using-3d-features-of-the-javafx-13-api.html">3D features available in JavaFX 1.3</a>. There is plenty of code here for people to sink their teeth into.</li>
+	<li><strong>Exadel</strong> have released <a href="http://mkblog.exadel.com/javafx-plug-in/exadel-javafx-plug-in-for-eclipse-with-javafx-1-3-support/">version 1.3 of the JavaFX Plug-in for Eclipse</a>, which adds support for JavaFX 1.3.</li>
+	<li><strong>Stephen Chin</strong> has posted about a new project called <a href="http://steveonjava.com/announcing-the-apropos-project/">Apropos for managing product portfolio planning</a>. The interesting part of this is that the application is written in JavaFX, so it may prove interesting to those keen to understand / develop some best practises around application development in JavaFX.</li>
+	<li>Johannes Schneider continues his series of posts related to his explorations of JavaFX. This week he has (only!) three posts titled '<a href="http://blog.cedarsoft.com/2010/05/analyzing-javafx/">Analyzing JavaFX</a>', '<a href="http://blog.cedarsoft.com/2010/05/binding-propertychangesupport-to-javafx-objects/">Binding PropertyChangeSupport to JavaFX objects transparently</a>' and '<a href="http://blog.cedarsoft.com/2010/05/javafx-internals-part-2/">JavaFX Internals Part 2</a>'.</li>
+	<li>The JavaFX team occassionally prowls the forums offering help where we can. This week Stuart Marks helped clarify how you should go about <a href="http://forums.sun.com/thread.jspa?threadID=5437646">providing custom styles in a stylesheet</a>, and I clarified the changes and implications of <a href="http://forums.sun.com/thread.jspa?messageID=10984739&amp;#10984739">changes to ToggleGroup in 1.3</a>.</li>
+	<li><strong>William Antônio  Siqueira</strong> published a <a href="http://jfxstudio.wordpress.com/2010/05/03/a-google-translate-service-client/">Google Translate application</a> written using JavaFX 1.3. You can play with it, and also check out the source code to see how he did things.</li>
+	<li><strong>Rakesh Menon</strong> has posted about <a href="http://rakeshmenonp.wordpress.com/2010/05/03/javafx-facebook/">how to integrate JavaFX with Facebook</a>. In particular this weeks post covers authentication.</li>
+	<li><strong>Antoine Mischler</strong> has posted about creating a custom Axis for the JavaFX chart library so that it is possible to <a href="http://blog.dooapp.com/javafx-chart-api-and-logarithmic-scale-tag-ja">plot logarithmic data easily</a> (and without having to modify the data before showing it in the chart). It's actually impressive how easy this looks to be.</li>
+	<li>I stumbled across a post by the NetBeans team that further <a href="http://netbeans.org/kb/docs/javafx/states.html">introduces and explains the concept of states</a> that they have introduced into the NetBeans Composer tool for JavaFX rapid app development.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li>10 people from the Griffon community recently got together to work on some new Griffon plugins. Out of the get-together they created three new plugins, with a fourth on the way. Check out the <a href="http://jroller.com/aalmiray/entry/hackergarten_2_griffon">summary post</a> by <strong>Andres Almiray</strong> to learn more.</li>
+</ul>
+<p>I warned you that this was a busy week! I hope that there was something helpful in the bunch of links above that was of particular help and/or interest to you. If I missed something out, or you just want to complain/sing my praises, please either message me on twitter (<a href="http://www.twitter.com/JonathanGiles">@JonathanGiles</a>) or <a href="mailto:jonathan@jonathangiles.net">email me</a>.</p>
+
+<p>Right, that's it for another week. Keep up the hard work folks and I'll see you all again in a weeks time.</p>
+]]></Content>
+	</post>

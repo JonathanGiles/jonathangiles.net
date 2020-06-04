@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2991</ID>
+		<Slug>creating-custom-routes-in-azure-functions</Slug>
+		<Title>Creating custom routes in Azure Functions</Title>
+		<Date>2018-03-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java|Programming>Microsoft]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>I've been working on my <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-one/">URL shortener project</a> recently, but I took a few days away from it to start writing some JavaDoc for the <a href="https://github.com/Azure/azure-functions-java-worker">Java APIs for Azure Functions</a>. In doing so I learned about a cool piece of API that might not be readily apparent (although I hope it is now that I've written documentation!), and so in this blog post I wanted to quickly introduce the <code>route</code>&nbsp;field on the <code>@HttpTrigger</code>&nbsp;annotation.</p>
+
+<p>By default, when you create a function for an HTTP trigger the function is addressable with a route of the form <code>http://&lt;yourapp&gt;.azurewebsites.net/api/&lt;functionname&gt;</code>. This is fine in many cases, but in some cases you want your endpoint to be parameterised. For example, we've all seen URLs such as <code>reddit.com/r/java</code>, where the <code>java</code>&nbsp;can be replaced by any value (I hope I'm not shattering illusions for anyone by informing you that these all aren't separate HTML pages sitting on a server :-) ). Doing this with <a href="https://azure.microsoft.com/services/functions/">Azure Functions</a> is trivial, with help from the <code>route</code>&nbsp;property. For example, we could specify a route of <code>products/{category:alpha}/{id:int}</code>, and this would mean that the function is now addressable at <code>http://&lt;yourapp&gt;.azurewebsites.net/api/products/electronics/357</code>.</p>
+
+<p>If the only benefit was that the path was parameterised, we wouldn't bother using this API, which is why the other half of the feature is the ability to use the <code>@BindingName</code>&nbsp;annotation to bring in these arguments into the function. For example, here is a full method signature with <code>route</code>&nbsp;and <code>@BindingName</code>&nbsp;in use (apologies for the odd line wrapping required):</p>
+
+<pre class="code_block"><code class="java">@FunctionName("routeTest")
+public HttpResponseMessage&lt;String&gt; routeTest(
+        @HttpTrigger(name = "req", 
+                     methods = {"get"}, 
+                     authLevel = AuthorizationLevel.ANONYMOUS, 
+                     route = "products/{category:alpha}/{id:int}") HttpRequestMessage&lt;String&gt; request,
+        @BindingName("category") String category,
+        @BindingName("id") int id,
+        final ExecutionContext context) {
+    ...
+    context.getLogger().info("We have " + category + " with id " + id);
+    ...
+}</code></pre>
+
+<p>As can be seen here, we are receiving the category and id values from the URL endpoint and they are being provided to us as arguments into the function itself, where they are immediately usable. The <code>route</code>&nbsp;string can be quite complex, as there are a number of configuration options available. Microsoft has published <a href="https://docs.microsoft.com/en-us/aspnet/web-api/overview/web-api-routing-and-actions/">useful documentation on routing</a> (just ignore the C# noise :-) ).</p>
+
+<p>This has just been a quick blog post on the routing support in Azure Functions, because I thought it was neat. I will keep posting this short snippets as I discover API that delights me. As always though: playing with Azure Functions is really fun - I recommend all Java developers take it for a spin to see what they can achieve when they don't need to worry about all the underlying infrastructure. Even better, you can get started with the&nbsp;<a href="http://java.ms/free">free tier</a>&nbsp;where you have 1,000,000 free function calls a month, and go from there! If you want more inspiration, check out my series on <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-one/">URL shorteners</a>, built using Java and Azure Functions.</p>
+]]></Content>
+	</post>

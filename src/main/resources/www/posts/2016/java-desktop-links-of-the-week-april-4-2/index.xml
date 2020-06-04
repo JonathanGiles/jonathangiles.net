@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2078</ID>
+		<Slug>java-desktop-links-of-the-week-april-4-2</Slug>
+		<Title>Java desktop links of the week, April 4</Title>
+		<Date>2016-04-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+	<li><strong>Gluon</strong> has <a href="http://gluonhq.com/javafxports-8-60-7-released/">released&nbsp;JavaFXPorts 8.60.7</a>, which includes a number of bug fixes and performance improvements.</li>
+	<li><strong>Arnaud Nouard</strong> has released a new version of his <a href="https://arnaudnouard.wordpress.com/2016/03/25/undecorator-a-new-theme/">Undecorator library</a>, and it comes with another theme. Looks very nice.</li>
+	<li><strong>Jérome Cambon</strong> has posted an article about <a href="https://jeromecambon.wordpress.com/2016/03/15/testing-javafx-in-headless-mode/">testing JavaFX in headless mode</a>.</li>
+	<li><strong>Dirk Lemmermann</strong> has posted another JavaFX tip on how to <a href="https://dlemmermann.wordpress.com/2016/03/30/save-memory-shadow-fields-for-properties/">save memory with shadow fields</a> for properties.</li>
+	<li><strong>Patrick Martin</strong> has <a href="https://github.com/PatMartin/Dex">open sourced</a> his Dex visualisation tool.</li>
+	<li><strong>Andres Almiray</strong> released&nbsp;<a href="http://aalmiray.github.io/ikonli/">ikonli 1.3.0</a> for Swing and JavaFX.</li>
+	<li><strong>Kamil Baczkowicz</strong> has released <a href="https://github.com/kamilfb/mqtt-spy/releases/tag/mqtt-spy_v0.5.0">mqtt-spy 0.5.0</a>.</li>
+</ul>
+]]></Content>
+	</post>

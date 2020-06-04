@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>692</ID>
+		<Slug>java-desktop-links-of-the-week-january-11</Slug>
+		<Title>Java desktop links of the week, January 11</Title>
+		<Date>2010-01-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>It looks like the gears are starting to grind again after the new years break, with only a small amount of news this week, but some interesting links nonetheless. Thanks to the people who email me their links - it's very much appreciated. So, for another week, I hope you enjoy the links, find something new or useful, and I'll catch you all again in a weeks time.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Damien Ielsch</strong> emailed me to say that he has just started a new Java2D/AWT/Swing blog. His first post is about <a href="http://free-the-pixel.blogspot.com/2010/01/text-prompt.html">adding a subtle fade-in/out on a JTextField prompt text/image</a>. This is nicely done (using Trident) - it is subtle enough to not be annoying. Note that JTextField does not allow for prompt text, but there has been <a href="http://tips4java.wordpress.com/2009/11/29/text-prompt/">sample code which I've linked to in the past</a> that allows for prompt text. In his second post, he covers <a href="http://free-the-pixel.blogspot.com/2010/01/customs-jdialogjframe.html">custom JDialogs/JFrames</a>. Frankly I'm not a huge fan of this kind of dialog, but to each his own.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>The <strong>JavaFX team</strong> has put out two new articles this week, entitled '<a href="http://javafx.com/docs/articles/AnimatedMotion/transition.jsp">Easy Animations With the Animated Transitions</a>' and '<a href="http://javafx.com/docs/techtips/Create-Secure-JavaFX-App/index.jsp">Create a Secure JavaFX Application</a>'.</li>
+	<li>The <strong>JavaFX team</strong> also put out an <a href="http://javafx.com/docs/gettingstarted/eclipse-plugin/release-notes.jsp">update to the JavaFX plugin for Eclipse</a>, which brings a bunch of new features since the last release came out in June 2009.</li>
+	<li><strong>toumaille</strong> has posted a <a href="http://jfxstudio.wordpress.com/2010/01/05/levelindicator/">JavaFX level indicator</a>, which may prove to be very useful for some people.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> announced that the Griffon team has just <a href="http://www.jroller.com/aalmiray/entry/soaring_griffons">released versions 0.2.1 and 03-BETA-1</a> of the <a href="http://griffon.codehaus.org/">Griffon</a> framework.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has been writing a series of posts introducing the concepts of animation. This is notable due to his work on the <a href="http://kenai.com/projects/trident/pages/Home">Trident animation / timing library</a> he has developed for Java, and which is used in his <a href="https://substance.dev.java.net/">Substance look and feel</a>, among other things. You can read Animations <a href="http://www.pushing-pixels.org/?p=1579">101</a>, <a href="http://www.pushing-pixels.org/?p=1583">102</a>, <a href="http://www.pushing-pixels.org/?p=1586">103</a>, <a href="http://www.pushing-pixels.org/?p=1589">201</a> and <a href="http://www.pushing-pixels.org/?p=1593">202</a>.</li>
+</ul>
+<p>That's all folks. Catch you next week :-)</p>
+]]></Content>
+	</post>

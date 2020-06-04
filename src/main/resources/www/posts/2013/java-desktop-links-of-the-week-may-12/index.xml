@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1461</ID>
+		<Slug>java-desktop-links-of-the-week-may-12</Slug>
+		<Title>Java desktop links of the week, May 12</Title>
+		<Date>2013-05-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>This weeks post is a day early, as I'll be traveling to the US this afternoon for meetings and such. Due to this, the number of links this week is a little lower than usual. I imagine next weeks post will be far bigger. Nonetheless, there is still plenty of reading and learning for you from the links this week. Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Hendrik Ebbers</strong> has two posts this week. Firstly, he talks about the '<a href="http://www.guigarage.com/2013/05/aquatecture/">aquatecture</a>' of the AquaFX project (which is a project to create a Mac OS X look for JavaFX). Secondly, he has the first post in a series about designing JavaFX business applications. This <a href="http://www.guigarage.com/2013/05/designing-javafx-business-applications-part-1/">post focuses on the JavaFX middleware layer</a>, and in particular he calls out <a href="http://www.javafxdata.org/">DataFX</a>, <a href="http://www.redfx.org">RedFX</a> and <a href="http://open-dolphin.org">OpenDolphin</a>. Future posts will cover the client side and other areas.</li>
+	<li><strong>Angela Caicedo</strong>, a Java evangelist at Oracle, was interviewed at Devoxx UK about her work on <a href="https://www.java.net/community/javafx/video/user-interface-development-using-raspberry-pi-and-javafx-interview-wangela-caicedo-devoxxuk">user interface development using Raspberry PI and JavaFX</a>.</li>
+	<li><strong>Jim Laskey</strong> has blogged about <a href="https://blogs.oracle.com/nashorn/entry/jjs_fx">writing JavaFX applications in JavaScript</a> (on top of Nashorn).</li>
+	<li>I <a href="http://fxexperience.com/2013/05/announcing-controlsfx/">announced the availability</a> of a new project called <a href="http://fxexperience.com/controlsfx/">ControlsFX</a>, which not surprisingly is a collection of JavaFX UI controls (dialogs, button bars, grid views, etc) designed for JavaFX 8.0 and above.</li>
+	<li><strong>Gerrit Grunwald</strong> has announced a JavaFX BBQ at his place in June. If you're in the area, he's got all the <a href="http://harmoniccode.blogspot.de/2013/05/javafx-bbq_6.html">details on his blog</a>.</li>
+	<li><strong>Sri kalyan</strong> posted a blog post on his FXTalk project, which is a <a href="http://selftechrambling.blogspot.co.nz/2013/04/fxtalk-javafx-based-gtalk-jabber-client.html">JavaFX-based gtalk / Jabber client</a>.</li>
+	<li><strong>Carl Dea</strong> has posted <a href="https://github.com/carldea/WebcamFX">the code for his WebcamFX</a> project to GitHub.</li>
+</ul>
+<p>That's all folks! Catch you again next week after I return from the US.</p>
+]]></Content>
+	</post>

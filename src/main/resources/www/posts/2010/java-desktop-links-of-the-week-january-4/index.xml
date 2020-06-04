@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>685</ID>
+		<Slug>java-desktop-links-of-the-week-january-4</Slug>
+		<Title>Java desktop links of the week, January 4</Title>
+		<Date>2010-01-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome to the first posting of 2010. This week there has been an incredibly small number of posts, so this is a very short post.</p>
+<h4>Swing</h4>
+<ul>
+	<li>The Better Swing Application Framework (BSAF) has <a href="http://kenai.com/projects/bsaf/pages/190RC3">released 1.9 RC3</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> has created a Swing-based implementation of the famous <a href="http://www.jug-muenster.de/swing-apollo-space-program-mission-timer-280/">Apollo space program 'mission timer'</a>. Feel free to include it in your applications whenever you feel the need for epicness.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jeff Frieson</strong> has blogged about <a href="http://javajeff.mb.ca/cgi-bin/makepage.cgi?javafx/hh/hh">how he created his Happy Holidays JavaFX application</a>, which won the most recent <a href="http://jfxstudio.wordpress.com/2009/12/20/challenge-winner-holiday/">JavaFX coding competition</a>.</li>
+	<li><strong>Carl Dea</strong> has created a <a href="http://carlfx.wordpress.com/2009/12/30/javafx-a-poor-mans-form-designer/">poor man's form designer</a>, and provided both an overview as well as the souce code. By his own admission this is really just him playing around, but who knows, if you like it perhaps you can help grow this into a useful application.</li>
+</ul>
+<p>That's it - short and sweet. It's good to see too - it means you're all enjoying your holidays :-) Catch you next week!</p>
+]]></Content>
+	</post>

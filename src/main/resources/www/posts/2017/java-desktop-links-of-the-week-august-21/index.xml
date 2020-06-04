@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2545</ID>
+		<Slug>java-desktop-links-of-the-week-august-21</Slug>
+		<Title>Java desktop links of the week, August 21</Title>
+		<Date>2017-08-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li>Following on from <a href="https://community.oracle.com/docs/DOC-1017010">part one</a>, the <strong>Oracle Technology Network</strong> has posted part two of <strong>Johan Vos'</strong> series of articles on <a href="https://community.oracle.com/docs/DOC-1017184">writing mobile applications for Android and iOS</a> using Java / JavaFX and Gluon technologies.</li>
+ 	<li><strong>Uzair Shamim</strong>&nbsp;has written a post about <a href="https://medium.com/information-and-technology/test-driven-development-in-javafx-with-testfx-66a84cd561e0">using TestFX to write unit tests</a> for JavaFX applications.</li>
+ 	<li><strong>Tom Lin</strong> has open sourced a library called <a href="https://github.com/tom91136/GestureFX">GestureFX</a>, which is a "lightweight gesture enabled pane for JavaFX."</li>
+ 	<li><strong>Almas Baimagambetov</strong> continues to <a href="https://github.com/AlmasB/FXGL">improve FXGL</a>, the JavaFX game library.</li>
+</ul>
+]]></Content>
+	</post>

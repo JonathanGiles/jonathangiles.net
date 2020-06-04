@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3112</ID>
+		<Slug>triggering-azure-functions-with-java-when-a-storage-change-occurs</Slug>
+		<Title>Triggering Azure Functions with Java when a storage change occurs</Title>
+		<Date>2018-07-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Microsoft]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Recently my <a href="https://github.com/JonathanGiles/azure-javadocs">azure-javadocs project</a> has been running into trouble. This project is a simple one that uses <a href="http://travis-ci.org">Travis CI</a> to clone a number of GitHub projects, generate an aggregate JavaDoc from all of them, and then uses the static hosting feature of GitHub to host that output. The problem is that for every build, all of the files in the static branch on GitHub are overwritten, and over time this has become exceedingly large. Travis CI was configured to run daily, and in the last six months or so of running this service, the .git directory in a fresh clone has grown to 4.18GB! This is clearly not going to end well :-)</p>
+
+<p>So, I set about rearchitecting this project, and now I'm using the free&nbsp;<a href="https://visualstudio.microsoft.com/team-services/">Visual Studio Team Services</a> (VSTS) to do the bulk of the work, as well as <a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-maven">Azure Functions</a> to do a little bit of work at the end. Essentially, VSTS now acts as my git repository and build system. For every commit into the git repo, a build is triggered automatically (I commit infrequently - just whenever I want to enable / disable a project from the generated Javadoc - so VSTS is also set to run the build daily). The build steps are specified within the VSTS user interface, and run through the standard steps: clone all the external repos, run Maven tasks to install and generate javadoc. The build concludes by creating a zip file containing the javadoc output, and storing it in an 'incoming' container within my Azure storage account.</p>
+
+<p>Now that I don't want to host the JavaDoc within GitHub (because I don't want to end up with a massive repo again), I make use of a new feature of Azure Storage, which is the built-in support for hosting static sites directly from a storage container (technically the feature is still in-preview, but it works well for me). All I need to do is place my static website (i.e. the JavaDoc output) into a special $web container that is created for me by Azure Storage when I enable the static sites support.</p>
+
+<p>The cool part comes next: I've written an Azure Function (in Java, of course) that is set up to trigger on any files being added to the incoming container. When a file appears, Azure makes sure to call my function, where I can then do whatever I want. In my case, I use it as a chance to firstly empty the entire $web container, and then to unzip the new zip file into the $web container, before deleting the zip file. Once this is all done, the docs are available from <a href="http://java.ms/api">java.ms/api</a>&nbsp;(which, coincidentally, is <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-one/">another Azure Function written in Java</a>). At present the API docs available here are just a subset of all available docs, but I plan to add the missing ones soon (pending some pull requests into various projects).</p>
+
+<p>The code I wrote is below. The most notable aspect is the use of <span class="lang:default decode:true crayon-inline ">@BlobTrigger</span>&nbsp; to tell the function that I want to trigger on file changes in the 'incoming' container. The code is not overly complex, and mostly just deals with deleting all files and then unzipping all files, but I hope it is helpful for someone who is wanting to work out how to use Azure Functions to act as the glue between different services.</p>
+
+<pre class="code_block"><code class="java">import com.microsoft.azure.functions.annotation.*;
+import com.microsoft.azure.functions.*;
+import com.microsoft.azure.storage.CloudStorageAccount;
+import com.microsoft.azure.storage.blob.*;
+
+import java.io.File;
+import java.nio.file.Files;
+import java.util.stream.Stream;
+import java.util.stream.StreamSupport;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipFile;
+
+public class JavaDocBlobWatcher {
+    private static final String CONNECT_STRING = System.getenv("AzureJavaDocsStorage");
+
+    private ExecutionContext context;
+
+    @FunctionName("JavaDocBlobWatcher")
+    @StorageAccount("AzureJavaDocsStorage")
+    public void blobHandler(
+        @BlobTrigger(name = "content", path = "incoming/{name}", dataType = "binary") byte[] content,
+        @BindingName("name") String name,
+        final ExecutionContext context) {
+
+        this.context = context;
+        context.getLogger().info("Java Blob trigger function processed a blob. Name: " + name + "\n  Size: " + content.length + " Bytes");
+
+        try {
+            CloudStorageAccount account = CloudStorageAccount.parse(CONNECT_STRING);
+            CloudBlobClient serviceClient = account.createCloudBlobClient();
+            CloudBlobContainer webContainer =  serviceClient.getContainerReference("$web");
+
+            // clear out the $web container of its current files
+            context.getLogger().info("Clearing old web container content");
+            buildDirStream(webContainer.listBlobs())
+                    .parallel()
+                    .filter(item -&gt; item instanceof CloudBlockBlob)
+                    .forEach(this::deleteBlob);
+
+            // process the output.zip file
+            File outputZip = new File("local-output.zip");
+            outputZip.deleteOnExit();
+            Files.write(outputZip.toPath(), content);
+            ZipFile zipFile = new ZipFile(outputZip);
+            zipFile.stream()
+                    .parallel()
+                    .forEach(e -&gt; uploadBlob(e, zipFile, webContainer));
+            zipFile.close();
+
+            // delete the file from storage as we don't need it anymore
+            CloudBlobContainer incomingContainer =  serviceClient.getContainerReference("incoming");
+            CloudBlockBlob incomingZipFile = incomingContainer.getBlockBlobReference("output.zip");
+            incomingZipFile.delete();
+        } catch (Exception e) {
+            context.getLogger().throwing("JavaDocBlobWatcher", "blobHandler", e);
+        }
+    }
+
+    private void deleteBlob(ListBlobItem item) {
+        try {
+            context.getLogger().info("Deleting " + ((CloudBlockBlob) item).getName());
+            ((CloudBlockBlob) item).delete();
+        } catch (Exception e) {
+            context.getLogger().throwing("JavaDocBlobWatcher", "deleteBlob", e);
+        }
+    }
+
+    private void uploadBlob(ZipEntry entry, ZipFile zipFile, CloudBlobContainer webContainer) {
+        final String entryName = processFilename(entry.getName());
+        if (entryName == null || entryName.isEmpty()) return;
+
+        try {
+            context.getLogger().info("Unzipping file " + entryName);
+            CloudBlockBlob uploadBlob = webContainer.getBlockBlobReference(entryName);
+            uploadBlob.getProperties().setContentType(getContentType(entryName));
+            uploadBlob.upload(zipFile.getInputStream(entry), entry.getSize());
+        } catch (Exception e) {
+            context.getLogger().throwing("JavaDocBlobWatcher", "uploadBlob", e);
+        }
+    }
+
+    private String processFilename(String name) {
+        if (name.startsWith("apidocs/")) {
+            return name.substring(8);
+        }
+        return name;
+    }
+
+    private String getContentType(String entryName) {
+        if (entryName.endsWith(".html") || entryName.endsWith(".htm")) {
+            return "text/html";
+        } else if (entryName.endsWith(".js")) {
+            return "application/javascript";
+        } else if (entryName.endsWith(".css")) {
+            return "text/css";
+        } else if (entryName.equals("package-list")) {
+            return "text/plain";
+        }
+
+        return "application/octet-stream";
+    }
+
+    private Stream&lt;ListBlobItem&gt; buildDirStream(Iterable&lt;ListBlobItem&gt; iterable) {
+        return toStream(iterable).flatMap(this::flatMap);
+    }
+
+    private Stream&lt;ListBlobItem&gt; flatMap(ListBlobItem item) {
+        try {
+            if (item instanceof CloudBlockBlob) {
+                return Stream.of(item);
+            } else if (item instanceof CloudBlobDirectory) {
+                return buildDirStream(((CloudBlobDirectory) item).listBlobs());
+            }
+        } catch (Exception e) {
+            context.getLogger().throwing("JavaDocBlobWatcher", "flatMap", e);
+        }
+        return Stream.empty();
+    }
+
+    private Stream&lt;ListBlobItem&gt; toStream(Iterable&lt;ListBlobItem&gt; iterable) {
+        return StreamSupport.stream(iterable.spliterator(), false);
+    }
+}</code></pre>
+
+<p>In the fullness of time it is unlikely I will need to even have this Azure Function code at all - VSTS will almost certainly have first class support for static site hosting baked into it any day now, but because static site hosting is currently a preview feature, I took it as a good opportunity to learn how to trigger an Azure Function on something different than an HTTP Trigger, and I'm publishing it here in case others run into any issues trying to achieve this for themselves.</p>
+]]></Content>
+	</post>

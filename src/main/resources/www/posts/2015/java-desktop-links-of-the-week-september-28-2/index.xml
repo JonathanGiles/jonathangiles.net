@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1974</ID>
+		<Slug>java-desktop-links-of-the-week-september-28-2</Slug>
+		<Title>Java desktop links of the week, September 28</Title>
+		<Date>2015-09-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week, another bunch of Java desktop links. Enjoy :-)</p>
+<ul>
+	<li><strong>Tom Schindl</strong> has two posts this week. Firstly, an interesting read on&nbsp;<a href="http://tomsondev.bestsolution.at/2015/09/22/javafx-codeeditors-new-features-for-scanner-rules-required-to-support-eg-asciidoc/">JavaFX Code editors</a> (specifically about scanner rules required to support eg Asciidoc), and secondly on&nbsp;<a href="http://tomsondev.bestsolution.at/2015/09/24/major-improvements-to-preference-in-efxclipse-2-1-0/">major improvements to @Preference in e(fx)clipse 2.2.0</a>, which looks very nice.</li>
+	<li>I noticed two JEPs go past my twitter stream this week. Firstly, JEP 272 is titled '<a href="http://openjdk.java.net/jeps/272">Platform-Specific Desktop Features</a>'. Secondly, JEP 275 is titled '<a href="http://openjdk.java.net/jeps/275">Modular Java Application Packaging</a>'.</li>
+	<li><strong>Jens Deters</strong> has announced that&nbsp;<a href="http://www.jensd.de/wordpress/?p=2156">MQTT.fx 0.0.17&nbsp;has been released</a>, with a few nice new features included.</li>
+	<li><strong>Dirk Lemmermann</strong> has published another of his interviews with companies building real-world&nbsp;JavaFX apps. This week he chats to the <a href="https://dlemmermann.wordpress.com/2015/09/21/javafx-real-world-apps-aiso-hrc-matic/">people building AISO HRC-Matic</a>.</li>
+	<li>Another post from <strong>Dirk Lemmermann</strong> announces that&nbsp;<a href="https://dlemmermann.wordpress.com/2015/09/24/calendarfx-released/">CalendarFX 1.0 has been released</a>. This is a very nice, highly-polished (and commercial) library for JavaFX. If you need something like this in JavaFX - this is the best option available.</li>
+	<li><strong>Rob Terp</strong> has posted about&nbsp;<a href="https://rterp.wordpress.com/2015/09/21/binding-a-list-of-strings-to-a-javafx-listview/">binding a List of Strings to a JavaFX ListView</a>.</li>
+	<li><strong>Jan Köhnlein</strong> has posted about <a href="http://koehnlein.blogspot.de/2015/09/fxdiagram-diagram-repair.html">diagram repair in FXDiagram</a>.</li>
+	<li><strong>Gluon</strong> announced the <a href="http://gluonhq.com/gluon-charm-developer-preview-4-released/">release of Gluon Charm developer preview 4</a>. This release adds a number of new features - very nice!</li>
+</ul>
+<p>That's all for another week.</p>
+]]></Content>
+	</post>

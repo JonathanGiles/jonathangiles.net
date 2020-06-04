@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1412</ID>
+		<Slug>java-desktop-links-of-the-week-february-18</Slug>
+		<Title>Java desktop links of the week, February 18</Title>
+		<Date>2013-02-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Hi all, a bunch of really good links this week. I hope there is something of interest to you all - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> posted an <a href="http://fxexperience.com/2013/02/february-open-source-update/">open source status update</a>, and included some news about iOS and Android plans. It is important to note exactly what Richard is saying, which I think is fairly well <a href="http://tomsondev.bestsolution.at/2013/02/13/thoughts-on-javafx-for-android-and-ios/">summarised</a> by <strong>Tom Schindl</strong> over on his blog. This was also covered by <strong><a href="http://marxsoftware.blogspot.co.nz/2013/02/javafx-coming-soon-to-android-or-ios.html">Dustin Marx</a></strong>, <a href="http://news.slashdot.org/story/13/02/13/171227/oracle-open-sourcing-javafx-including-ios-and-android-ports">Slashdot</a>, <a href="http://www.infoq.com/news/2013/02/javafx-ios-android">InfoQ</a> and <a href="http://paritynews.com/software/item/627-oracle-to-open-source-ios-android-ports-of-javafx-soon">Parity News</a>, among others.</li>
+	<li>The session recordings from JavaOne 2012 are now available <a href="http://blueskyworkshop.blogspot.co.nz/2013/02/javaone-2012-presos-are-on-you-tube.html">online for your viewing pleasure</a>. There are a heap of <a href="http://www.youtube.com/playlist?list=PLKCk3OyNwIzvw-zzCMJ3xq5SgxL961IFE">JavaFX-related videos</a> in there, so you've got plenty to watch as time permits!</li>
+	<li><strong>Hendrik Ebbers</strong> has posted a preview of the <a href="http://www.guigarage.com/2013/02/datafx-observableexecutor-preview/">ObservableExecutor feature</a> that is coming in DataFX.</li>
+	<li><strong>Daniel Zwolenski</strong> has released <a href="http://www.zenjava.com/2013/02/15/javafx-maven-plugin-1-4/">JavaFX Maven Plugin 1.4</a>.</li>
+	<li>Speaking of Maven, Florian Brunner has posted about <a href="http://puces-blog.blogspot.co.nz/2013/02/javafx-using-javafx-doclet-with-maven.html">how to use the JavaFX doclet with Maven</a>.</li>
+	<li><strong>Tom Schindl</strong> also blogged this week about <a href="http://tomsondev.bestsolution.at/2013/02/14/experimenting-with-textflow-from-javafx8/">experimenting with the new JavaFX rich text support coming in JavaFX 8.0</a>. He has essentially built a working source code viewer (with proper syntax highlighting).</li>
+	<li>In yet another blog post, <strong>Tom</strong> posted about an upcoming feature in e(fx)clipse: <a href="http://tomsondev.bestsolution.at/2013/02/13/a-smarter-javafx-css-editor/">a smarter JavaFX CSS editor</a>. It looks very nice! :-)</li>
+	<li><strong>Dustin Marx</strong> has two other posts this week. Firstly, he has blogged about <a href="http://marxsoftware.blogspot.co.nz/2013/02/hello-groovyfx.html">GroovyFX</a>, and secondly about <a href="http://marxsoftware.blogspot.co.nz/2013/02/styling-javafx-pie-chart-with-css.html">styling JavaFX pie charts using CSS</a>.</li>
+	<li>I always enjoy seeing people discovering my APIs. This week <strong>Anton Epple</strong> showed the power of the <a href="http://jayskills.com/blog/2013/02/14/javafx-listview-with-custom-display/">pre-built cell factories</a> that have been shipping with JavaFX since 2.2.</li>
+	<li>Speaking of <strong>Anton</strong>, he has two other blogs this week. Firstly, he blogged about how he has created a <a href="http://jayskills.com/blog/2013/02/12/a-minimal-javafx-presentation-in-javafx/">minimal JavaFX presentation player in JavaFX</a> itself (which makes it really easy to demonstrate JavaFX concepts). Secondly, he blogged about how he <a href="http://jayskills.com/blog/2013/02/15/a-star-is-born/">implemented the A* algorithm</a> for pathfinding in his JavaFX tile game.</li>
+	<li><strong>Jim Weaver</strong> has a post on <a href="http://learnjavafx.typepad.com/weblog/2013/02/mary-had-a-little-%CE%BB.html">lambda's in Java 8</a>, and how they impact the code you'll have to write for JavaFX user interfaces (when you're using Java).</li>
+	<li><strong>Canoo</strong> have posted part six of their JavaFX abacus tutorial, this week focusing on <a href="http://www.canoo.com/blog/2013/02/14/javafx-abacus-tutorial-part-vi-styling/">styling the user interface</a>.</li>
+	<li><strong>Björn</strong> has posted an update about the <a href="http://captaincasa.blogspot.co.nz/2013/02/fx-client-update.html">CaptainCasa JavaFX client</a>, including details on a date picker, virtual keyboard, a scheduler and other updates.</li>
+	<li>Speaking of virtual keyboards, <a href="https://github.com/comtel2000/fx-experience">another one</a> has just been released on Github.</li>
+	<li style="text-align: left;"><strong>mihosoft</strong> have posted a video of their <a href="http://mihosoft.eu/?p=429">scalable content functionality</a> that they recently pushed to JFXtras. It's quite interesting technology.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li>Glazed Lists 1.9.0 was released this week. Glazed Lists 1.9.0 is a stable maintenance release suitable for production use. The developers have posted detailed <a href="http://www.glazedlists.com/releases/glazed-lists-1-9-0">release notes</a> for your perusal.</li>
+</ul>
+<p>Catch you all in a weeks time :-)</p>
+]]></Content>
+	</post>

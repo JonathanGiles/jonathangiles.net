@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>469</ID>
+		<Slug>java-desktop-links-of-the-week-june-29</Slug>
+		<Title>Java desktop links of the week, June 29</Title>
+		<Date>2009-06-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx</Tags>
+		<Content><![CDATA[<p>To everyone reading and commenting on my blog - thanks - you help make the world go round :-) Here we go again.</p>
+<h4>General</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> posted a 10-part series on his Trident animation library for Java. Fortunately, his <a href="http://www.pushing-pixels.org/?p=1318">last post was an overview which provides details about each of the parts, and also an overview of where Trident is going</a>. Trident can be used in both Swing and SWT. Finally, <strong>Kirill</strong> posts about his work towards <a href="http://www.pushing-pixels.org/?p=1322">using Trident to augment reality</a> by firing fireworks out of paper based on the papers location.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Maxim Zakharenkov</strong> emailed me to remind me of a major oversight I made - <a href="http://forums.java.net/jive/thread.jspa?threadID=62348&amp;tstart=0">SwingX 1.0 was released during JavaOne</a>. This is major news for the SwingX project, as it is now planning to shift gears and become Java 6 based, which will allow for a lot of redundant code to be removed from the library.</li>
+	<li><strong>Ken Orr</strong> released <a href="http://explodingpixels.wordpress.com/2009/06/23/mac-widgets-for-java-0-9-5/">Mac Widgets for Java 0.9.5</a>, which adds a few new components and plenty of bug fixes. You can <a href="http://code.google.com/p/macwidgets/wiki/Examples?ts=1234719873&amp;updated=Examples">see examples of the components here</a>.</li>
+	<li>In another post, <strong>Ken Orr</strong> posts <a href="http://explodingpixels.wordpress.com/2009/06/27/working-around-basictableuis-lack-of-a-preparerenderer-hook/">how to work around BasicTableUI's lack of a prepareRenderer hook</a>. This is relevant if you want to customise how a JTable looks in Java.</li>
+	<li><strong>Matt Hicks</strong> posts a <a href="http://www.matthicks.com/2009/05/java-media-components-jmc-in-swing.html">short demonstration on how to use JMC in a Swing application</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> posted an article on <a href="http://fxexperience.com">FXExperience.com</a> that discusses <a href="http://fxexperience.com/2009/06/background-tasks-in-javafx/">background tasks in JavaFX</a>.</li>
+	<li><strong>Josh Marinacci</strong> posts an <a href="http://blip.tv/file/2288262">overview of how to use the JavaFX Production Suite</a>. It is a very good overview video and well worth watching, even if you don't ever plan to use it.</li>
+	<li>In another video, <strong>Josh</strong> posts a demo of '<a href="http://blip.tv/file/2293694">JavaFX Particle-o-rama</a>'.</li>
+	<li><strong>Stephen Chin</strong> announced the <a href="http://steveonjava.com/2009/06/22/jfxtras-0-5-release-announcement/">release of JFXtras 0.5</a>, which is a library any JavaFX developer should get to know, as it fills in a lot of gaps that currently exist in JavaFX.</li>
+	<li><strong>Jim Weaver</strong> has two articles this week about JavaFX, one discussing how to do <a href="http://learnjavafx.typepad.com/weblog/2009/06/animating-with-dynamic-timeline-values-in-javafx-scientific-fish-story-from-1901.html">dynamic animation timelines</a>, and the other discussing <a href="http://learnjavafx.typepad.com/weblog/2009/06/background-tasks-in-javafx.html">asynchronous tasks</a> in JavaFX 1.2. The thing I find amazing about the second post is the comment that JavaFX can only support 8 parallel tasks - I would love to see a blog post from someone discussing this statement. To me it seems hard to believe.</li>
+	<li>One of the features in JFXtras is support for borders. These are developed by <strong>James Clarke</strong>, and he has a <a href="http://blogs.sun.com/clarkeman/entry/javafx_borders">blog post which includes more details</a>.</li>
+	<li><strong>John Conner</strong> posts an article <a href="http://learningjavafx.com/2009/06/variables-in-a-for-loop">describing how for-loops differ in JavaFX</a>. It is a useful and short read.</li>
+	<li>In another post by <strong>John Conner</strong>, he discusses <a href="http://learningjavafx.com/2009/06/binding-var-and-def-variables">binding var and def variables in JavaFX</a>.</li>
+	<li><strong>Carl Dea</strong> posted three articles on language features in JavaFX Script. The first post discusses the <a href="http://carlfx.wordpress.com/2009/06/25/javafx-init-and-postinit-blocks-order/">order in which init and postinit blocks are called</a>,&nbsp; the second post discusses <a href="http://carlfx.wordpress.com/2009/06/26/javafx-init-block-setting-default-values/">how to set default values in init blocks</a>, and finally the third post discusses <a href="http://carlfx.wordpress.com/2009/06/28/javafx-presentation-model-pattern-using-binding/">implementing a presentation model in JavaFX using bindings</a>.</li>
+	<li><strong>Jeff Frieson</strong> emailed me to let me know that he has <a href="http://javajeff.mb.ca/cgi-bin/makepage.cgi?javafx/pc/pc">improved the performance of his painters implementation for JavaFX</a> that I linked to last week.</li>
+	<li>"<a href="http://java.sun.com/developer/technicalArticles/javafx/v1_2_newlayouts/">What's new in JavaFX 1.2 technology: new layouts and effects</a>" is the title of an article I missed but that I think is quite good. It was published last month, but it gives a good overview of what is new and noteworthy in JavaFX 1.2.</li>
+	<li>If you're wanting to get to know the nitty-gritty implementation details of JavaFX sequences, you can read up on them in a <a href="http://per.bothner.com/blog/2009/JavaFX-sequence-basics/">series</a> <a href="http://per.bothner.com/blog/2009/JavaFX-unboxed-sequences/">of</a> <a href="http://per.bothner.com/blog/2009/JavaFX-sequence-updating/">four</a> <a href="http://per.bothner.com/blog/2009/JavaFX-sequence-triggers/">posts</a> by <strong>Per Bothner</strong>.</li>
+	<li><strong>Rakesh Menon</strong> posts an <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_linechart">example of drawing a line chart in JavaFX</a> using the new charting components in JavaFX 1.2.</li>
+	<li><strong>Mohammed Sanaulla</strong> posts a short overview of <a href="http://blogs.sun.com/sanaulla/entry/simple_javafx_delicious_rss_feed">how to create a simple JavaFX Delicious RSS feed reader in JavaFX</a>.</li>
+	<li>The <a href="http://mkblog.exadel.com/tools/javafx-studio-plug-in-for-eclipse-updated/">Exadel JavaFX plugin for Eclipse has been updated</a>.</li>
+	<li>Once again this week I posted a few things on JavaFX as I continue to&nbsp; learn and investigate it. This week I posted three articles. Two of them were intended to clarify and provide a mapping between Java and JavaFX concepts. These two posts attempted to clarify <a href="/posts/2009javafx-lets-clarify-public-read-and-public-init/">public-init and public-read variable declarations</a> and <a href="/posts/2009javafx-bound-functions/">bound functions</a>. The other post discussed <a href="/posts/2009javafx-thick-textbox-borders/">borders around controls in JavaFX</a>.</li>
+</ul>
+<h4>Groovy</h4>
+<ul>
+	<li>Andres Almiray posted <a href="http://www.jroller.com/aalmiray/entry/fxbuilder_update_2">two</a> <a href="http://www.jroller.com/aalmiray/entry/fxbuilder_update_3">updates</a> on FxBuilder for Groovy.</li>
+</ul>
+<p>Have a great week everyone, and for those of you in the northern hemisphere, enjoy the nice weather - it's freezing and dark here in New Zealand!</p>
+]]></Content>
+	</post>

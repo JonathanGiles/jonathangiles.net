@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>978</ID>
+		<Slug>java-desktop-links-of-the-week-december-27</Slug>
+		<Title>Java desktop links of the week, December 27</Title>
+		<Date>2010-12-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java</Tags>
+		<Content><![CDATA[<p>Well, merry christmas everybody - I hope you're having a great break with friends and family, and taking a few days away from the keyboard :-) Today's post seems to be about using Swing in alternative languages - with links pointing to Scala, Griffon, and two custom DSLs. Let's get right into it!</p>
+
+<p>Firstly, <strong>Nick D'Arcy</strong> emailed me to let me know about a blog post by <strong>Ingo Maier</strong> discussing <a href="http://ingomaier.blogspot.com/2010/11/scalaswing-package-in-28-and-beyond.html">the scala.swing package in Scala 2.8 and beyond</a>. The main point is it is now on github at <a href="https://github.com/ingoem/scala-swing">https://github.com/ingoem/scala-swing</a>.</p>
+
+<p><strong>Rémy Rakic</strong> has been working on a '<a href="http://lqd.hybird.org/journal/?p=330">Swing + jQuery experiment</a>'. To quote him: "Swing has many advantages, let’s agree on that, but on the other hand it  has many, so many, things that just make me want to jump out my 1st  floor window when I use it. None of those are deal-breakers per se, but  it does feel a lot like ‘death by a thousand paper cuts’. This is my  attempt at correcting those pain points, and making using Swing a bit  easier."</p>
+
+<p><strong>Jacek Furmankiewicz</strong> has announced the <a href="http://www.dzone.com/links/r/swing_javabuilder_11_declarative_uis_with_maximum.html">release of Swing JavaBuilder 1.1</a>, which is a DSL for declaratively building Swing user interfaces.</p>
+
+<p>Finally, <strong>Andres Almiray</strong> has announced the <a href="http://www.dzone.com/links/r/griffon_092beta3_released.html">release of Griffon 0.9.2 beta 3</a>, which includes a number of bug fixes and new features.</p>
+
+<p>That's us for another week. The next time I see most of you it'll be 2011 - so have a great, safe and happy new years, and I'll see you later.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1879</ID>
+		<Slug>java-desktop-links-of-the-week-march-2</Slug>
+		<Title>Java desktop links of the week, March 2</Title>
+		<Date>2015-03-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week, another bunch of links. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Florian Brunner</strong> has announced that <a href="http://puces-blog.blogspot.ch/2015/02/drombler-fx-version-06-released.html">version 0.6 of&nbsp;Drombler FX</a>&nbsp;has been&nbsp;released.&nbsp;This is mainly a bug fix release.</li>
+	<li><strong>Geertjan Wielenga</strong> has posted a video showing <a href="https://blogs.oracle.com/geertjan/entry/why_i_am_excited_about">speed improvements in the JavaFX HTMLEditor control</a> in JDK&nbsp;8u40.</li>
+	<li><strong>René Jahn</strong> has a post about a&nbsp;<a href="http://blog.sibvisions.com/2015/02/28/simple-db-application-with-javafx/">simple DB application</a> written with JavaFX.</li>
+	<li><strong>Stefan Saring</strong> has posted about his <a href="http://www.saring.de/sportstracker/">SportsTracker app</a>, which was recently ported from Swing to JavaFX. As noted on the website, "SportsTracker is an application for people who want to track their sporting activities. It is not bound to a specific kind of sport, the user can create categories for all sport types such as cycling, running, swimming or tennis."</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li>The JSR 377 project (a.k.a 'Desktop|Embedded Application API') has a <a href="http://jsr377.github.io/site/">new website</a>, for those of you interested in following along.</li>
+	<li><a href="http://new.griffon-framework.org/news/griffon_2.2.0.html">Griffon 2.2.0 has been released</a>. This release includes a few new features, as well as an API breaking change - so tread carefully!</li>
+</ul>
+<p>Catch you all next week.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3213</ID>
+		<Slug>java-desktop-links-of-the-week-february-18-2</Slug>
+		<Title>Java desktop links of the week, February 18</Title>
+		<Date>2019-02-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><!-- wp:paragraph --></p>
+<p>It's been a really long time - apologies for the massive gap since the last post. I promise to get back to more regular postings again now :-) Here's the links that I captured during this time:</p>
+<p><!-- /wp:paragraph --></p>
+
+<p><!-- wp:list --></p>
+<ul><li>Early access builds of <a href="https://gluonhq.com/products/javafx/#ea">JavaFX 12</a> have been published by <strong>Gluon</strong>.</li><li><a href="https://vocabhunter.github.io/2019/02/03/vocabhunter-v2.0.0-released.html">VocabHunter 2.0.0 has been released</a>. This moves the codebase to JDK 11 and JavaFX 11, with installable bundles for each platform.</li><li><strong>Almas Baimagambetov</strong> has announced that <a href="https://github.com/AlmasB/FXGL">FXGL 11.0 is finally out</a>! It is fully modular and uses JavaFX 11. Currently only a core subset of features supported but with a more scalable architecture.</li><li><strong>Peter Rogge</strong> has released an <a href="https://github.com/Naoghuman/lib-i18n/">update to Lib-I18N</a>, which allows a developer to bind a key-value pair of a `.properties` file to a StringBinding.</li><li><strong>Gerrit Grunwald</strong> has been busy as always. He has created a <a href="https://harmoniccode.blogspot.com/2019/02/friday-fun-lxi.html">matrix-like data structure</a>, a <a href="https://harmoniccode.blogspot.com/2019/02/friday-fun-lxi-part-2.html">'plain' amp skin</a> gauge, and a post on <a href="https://harmoniccode.blogspot.com/2019/02/style-it-baby.html">styling the Medusa gauges with CSS</a>.</li><li><strong>Dominik Liebler</strong> has posted about <a href="https://domnikl.github.io/2019/02/kotlin-coroutines-and-javafx-threads/">Kotlin coroutines and JavaFX threads</a>.</li><li><strong>David Gilbert</strong> has announced <a href="https://github.com/jfree/fxgraphics2d/blob/master/README.md">FXGraphics2D 1.8</a> and <a href="https://github.com/jfree/jfreesvg">JFreeSVG 3.4</a>.</li><li><strong>Michael Hoffer</strong> has updated <a href="https://github.com/miho/ScaledFX">ScaledFX</a>, a JavaFX pane for scaling arbitrary content nodes.</li><li><strong>Jakob Jenkov</strong> has updated his <a href="http://tutorials.jenkov.com/javafx/tableview.html">JavaFX TableView tutorial</a>.</li><li><strong>Chris Newland</strong> has posted a <a href="https://www.youtube.com/watch?v=B48aeSd379w">JavaFX 'demo scene' video</a>.</li></ul>
+<p><!-- /wp:list --></p>
+]]></Content>
+	</post>

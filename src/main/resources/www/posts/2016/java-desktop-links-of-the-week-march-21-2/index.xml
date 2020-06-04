@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2071</ID>
+		<Slug>java-desktop-links-of-the-week-march-21-2</Slug>
+		<Title>Java desktop links of the week, March 21</Title>
+		<Date>2016-03-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;">A heap of great links this week - enjoy :-)</span></p>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has released an updated version of his <a href="https://github.com/HanSolo/Medusa">Medusa gauge library</a>.</li>
+	<li><strong>Jens Deters</strong> has a blog post on&nbsp;<a href="http://www.jensd.de/wordpress/?p=2293">ordering via SortedList (and Properties Extractor)</a>.</li>
+	<li><strong>Peter Rogge</strong> has released an update to his&nbsp;<a href="http://plugins.netbeans.org/plugin/60847/netbeanside-afterburnerfx-plugin">NetBeansIDE-AfterburnerFX-Plugin</a>.</li>
+	<li><strong>Thomas Nield</strong> has released&nbsp;<a href="https://github.com/thomasnield/RxKotlinFX">RxKotlinFX</a>. <strong>Thomas</strong> explains thusly: "RxKotlinFX contains Kotlin extensions to RxJavaFX. It also is in exploratory stages to add helpful Node extension functions that return Observables."</li>
+	<li><strong>Rob Terpilowski</strong> has <a href="https://rterp.wordpress.com/2016/03/18/gmapsfx-2-0-3-released-with-support-for-directions-elevation-and-geocoding-api/">released&nbsp;GMapsFX 2.0.3</a>, with support for directions, elevation, and geocoding APIs.</li>
+	<li><strong>Carl</strong> has a blog post on '<a href="http://bekwam.blogspot.co.nz/2016/03/a-case-statement-for-javafx-binding.html">a&nbsp;case statement for JavaFX Binding</a>'.</li>
+	<li><strong>Joel Becker</strong> has a blog post on '<a href="http://joelbecker.net/blog/scala-javafx-on-android-ios-windows-osx">running Scala + JavaFX on Android, iOS, Windows, and Mac OS X</a>'.</li>
+	<li><strong>Gian Costa</strong> has pushed his '<a href="https://github.com/giancosta86/EighthBridge">EighthBridge</a>' library to GitHub, which is an 'interactive graph modelling and rendering [API] for ScalaFX'.</li>
+	<li><strong>Dirk Lemmermann</strong> has announced an <a href="https://dlemmermann.wordpress.com/2016/03/20/calendarfx-1-3-released-today/">updated release of his CalendarFX library</a>. As he puts it, "Version 1.3 contains several small bug fixes, important memory leak fixes, and most importantly a big fix for correctly displaying different “first day of week” (e.g. Mondays in Germany, Sundays in the US)."</li>
+	<li><strong>Gluon</strong> has <a href="http://gluonhq.com/gluon-release-train/">announced the release of updated versions</a> of Gluon Mobile (for Java on Mobile), Gluon Desktop (for Java on the Desktop), and the IDE plugins that enable apps to be built using this software.</li>
+</ul>
+]]></Content>
+	</post>

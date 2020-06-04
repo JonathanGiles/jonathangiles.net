@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1721</ID>
+		<Slug>java-desktop-links-of-the-week-may-5</Slug>
+		<Title>Java desktop links of the week, May 5</Title>
+		<Date>2014-05-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Surprise surprise - you folks are all hard at work on Java desktop blog posts! Keep it up, it's always great to read what you're all doing! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tomas Mikula</strong> continues to post about his interesting <a href="http://www.reactfx.org">ReactFX library</a>, this week he discusses ReactFX's general stream combinator: <a href="http://tomasmikula.github.io/blog/2014/05/01/reactfxs-general-stream-combinator-state-machine.html">State Machine</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> has two posts this week. Firstly, he has a brief post to announce that Enzo, his JavaFX component library, is <a href="http://harmoniccode.blogspot.co.nz/2014/05/enzo-is-on-maven-central.html">available via Maven</a>. Secondly, he has created a&nbsp;<a href="http://harmoniccode.blogspot.de/2014/04/neopixel24-ring.html">NeoPixel24 Ring representation in JavaFX</a> using the Canvas node.</li>
+	<li><strong>Marco Jakob</strong> has three good posts this week, providing details on JavaFX 8<a href="http://code.makery.ch/blog/javafx-8-tableview-sorting-filtering/"> TableView sorting and filtering</a>, JavaFX 8 <a href="http://code.makery.ch/blog/javafx-8-event-handling-examples/">event handling examples</a>, and JavaFX <a href="http://code.makery.ch/blog/javafx-8-tableview-cell-renderer/">TableView cell renderers</a>.</li>
+	<li><strong>Rob Terp</strong> has a blog post about GMapsFX, a project that allows you to <a href="http://rterp.wordpress.com/2014/04/25/gmapsfx-add-google-maps-to-your-javafx-application/">add Google maps to your JavaFX application</a>. This is done using the JavaFX WebView component, with Java code being written to call into the JavaScript of Google Maps.</li>
+	<li><strong>Christoph Nahr</strong> has two posts this week. Firstly, he has a post about <a href="http://news.kynosarges.org/2014/05/02/listview-text-alignment/">ListView text alignment</a> (in particular, in relation to having multiple 'columns' of data in each ListCell). Secondly, he has a post about <a href="http://news.kynosarges.org/2014/05/01/simulating-platform-runandwait/">simulating Platform.runAndWait</a>, which is API that is not shipped in JavaFX as it can lead to frozen UIs when used incorrectly (which is almost always).</li>
+	<li>Steven Van Impe has posted part two of his series on <a href="http://asipofjava.blogspot.be/2014/05/game-loops-and-applying-them-to-javafx.html">JavaFX game loops</a>.</li>
+	<li><strong>Falko Riemenschneider</strong> has a post about <a href="www.falkoriemenschneider.de/a__2014-05-01__Applying-core-async-to-JavaFX.html">applying Clojure core.async to JavaFX</a>.</li>
+	<li><strong>Jens Deters</strong> has posted a <a href="https://www.youtube.com/watch?v=q4E3SUeIT5o&amp;feature=youtu.be">video of his MQTT FX application</a>, which is a JavaFX application designed to publish and subscribe to MQTT topics.</li>
+	<li><strong>IDR Solutions</strong> have posted a video tutorial for their <a href="https://www.youtube.com/watch?v=cu99McLaR7A">NetBeans/JavaFX PDF plugin</a></li>
+</ul>
+<p>Catch you all next week.</p>
+]]></Content>
+	</post>

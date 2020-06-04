@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1192</ID>
+		<Slug>java-desktop-links-of-the-week-february-13-2</Slug>
+		<Title>Java desktop links of the week, February 13</Title>
+		<Date>2012-02-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Welcome to another weeks worth of interesting Java desktop links. I hope you enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>Another week brings another developer preview release of JavaFX 2.1, this week taking the <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">build number up to b12</a>.</li>
+	<li><strong>Brian Burkhalter</strong>, a member of the JavaFX media team, has blogged about the upcoming <a href="https://blogs.oracle.com/javafx/entry/mpeg_4_multimedia_support_in">MPEG-4 multimedia support in JavaFX 2.1</a>.</li>
+	<li><strong>Michael Heinrichs</strong> has put up another useful post, this week detailing <a href="http://blog.netopyr.com/2012/02/08/when-to-use-a-changelistener-or-an-invalidationlistener/">when to use a ChangeListener, and when to use an InvalidationListener in JavaFX</a>. This is very useful to know as there can be major performance repercussions if you don't understand the difference.</li>
+	<li><strong>Dustin Marx</strong> continues his posts on JavaFX, this week detailing <a href="http://marxsoftware.blogspot.co.nz/2012/02/javafx-2-animation-path-transitions.html">path transitions in the JavaFX 2.x animation APIs</a>.</li>
+	<li>It seems playing with TextField is popular now. Following on from <strong>Richards</strong> blogs mentioned last week, <strong>Thomas Bolz</strong> has blogged about has blogged about creating both a <a href="http://java.dzone.com/articles/javafx-numbertextfield-and">JavaFX NumberTextField, and a Spinner control</a>. <strong>Dierk König</strong> has done a simliar thing, except <a href="https://github.com/groovyfx-project/groovyfx/blob/develop/groovyfx/src/demo/groovy/CustomFieldDemo.groovy">he shows how he did it using GroovyFX</a>.</li>
+	<li>In another post by <strong>Dierk</strong>, he covers the basics about <a href="http://www.canoo.com/blog/2012/02/12/ui-construction-with-javafx/">UI construction with JavaFX</a>.</li>
+	<li>The slides and code from <strong>Weiqi Gao's</strong> talk at the St. Louis Java Users Group is <a href="http://java.ociweb.com/javasig/knowledgebase/2012-02/index.html">now available online</a>.</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

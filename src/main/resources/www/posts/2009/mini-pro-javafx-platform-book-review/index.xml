@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>421</ID>
+		<Slug>mini-pro-javafx-platform-book-review</Slug>
+		<Title><![CDATA[Mini 'Pro JavaFX Platform' Book Review]]></Title>
+		<Date>2009-06-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>JavaFX is a very, very fast moving platform (language and API in particular). Fair enough too - it's come a remarkably long way since it's inception, and that can't be a bad thing (except for the whole ignoring Swing thing). As I was busily using Java and Swing, I applied the ostrich principle and buried my head in the ground. I even kicked up a fuss that there should be a proper <a href="/posts/2009swing-20/">Swing 2.0</a>. I still stand by that sentiment, but am pleased with the progress of the <a href="http://swing-generics.dev.java.net">Swing Generics</a> project, which has very similar goals to my initial discussion (although it clearly doesn't go as far as one faction of Swing 2.0 supporters, but that's another story entirely). Because of this I feel I can at last investigate JavaFX without feeling like I'm abandoning the Swing 2.0 cause.</p>
+
+<p>Unrelatedly, I was fortunate enough to have Sun sponsor me to go to JavaOne in San Francisco this year. The highlight for me was meeting everyone I knew virtually, but had never met in real life before. Three of the people I met at JavaOne were three of the four authors behind '<strong>Pro JavaFX Platform: Script, Desktop and Mobile RIA with Java Technology</strong>', namely <a href="http://www.steveonjava.com">Stephen Chin</a>, <a href="http://javafxpert.com/">Jim Weaver</a> and <a href="http://www.weiqigao.com/blog/">Weiqi Gao</a> (the other author I missed is of course <a href="http://pleasingsoftware.blogspot.com/ ">Dean Iverson</a>).</p>
+
+<p>As I alluded to in the first sentence, JavaFX is a very fast moving target, and so a book is going to struggle to be useful for very long. With the release of JavaFX 1.2, I would assume that most books are somewhat out of date (based on feedback I've heard from other people and Amazon reviews). I was not about to learn an older version of JavaFX, so I was pleased to hear that the Pro JavaFX Platform book was completely updated to be JavaFX 1.2 compatible. It would be nice to know which of the other JavaFX books are current, so if anyone knows, please leave a comment (particularly the '<a href="http://www.amazon.com/JavaFX-Developing-Rich-Internet-Applications/dp/013701287X/ref=sr_1_2?ie=UTF8&amp;s=books&amp;qid=1245468807&amp;sr=8-2">JavaFX: Building Rich Internet Applications</a>' and '<a href="http://www.amazon.com/Essential-JavaFX-Gail-Anderson/dp/0137042795/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1245468807&amp;sr=8-1">Essential JavaFX</a>' books, which are also both new releases as of JavaOne).</p>
+
+<p>Apress, the publishers of the book, put out an <a href="http://apress.com/book/view/9781430218753">alpha release of the book</a>. The final release I believe is due around mid July. The authors were generous enough to give me a copy of the alpha ebook to read for my own purposes (i.e. they didn't ask for a review). I thought I'd be kind and give them chapter feedback, so I hope I've helped to improve the book quality a little.</p>
+
+<p>So, the book. It's very good if you are a Java developer who knows nothing of JavaFX. Even if you don't know Java, it should still be readable, as chapter two provides a very comprehensive background and introduction to the language. It probably isn't a book for a person new to programming - they should probably get an intro to programming book first - but then what do you expect from a book starting with the word 'Pro'? :-)</p>
+
+<p>Jim (one of the authors) wrote up a <a href="http://learnjavafx.typepad.com/weblog/2009/06/all-pro-javafx-early-access-ebook-chapters-have-been-updated-to-sdk-12.html">good summary of what is in each of the chapters</a> on his blog, so I won't bother to repeat it here.</p>
+
+<p>What I did want to do however was add my personal opinion of the book. Before reading the book I could 'hack' at JavaFX, and of course it was always pretty trivial to read JavaFX code and understand it. Since reading the book I have a better understanding of how to build a JavaFX application <span style="text-decoration: underline;">properly</span>. I also have a far better understanding of the quirks of JavaFX. As I've mentioned elsewhere, JavaFX needs better support for Containers (i.e. layout managers in the Swing world), and whilst JavaFX 1.2 goes some way to helping in this area, the book gives a good introduction to new containers offered in <a href="http://code.google.com/p/jfxtras/">JFXtras</a>, such as the JavaFX port of MigLayout. Finally, it gives a good tutorial as to how you should go about developing a mobile offering of your application.</p>
+
+<p>Some of the chapters are very advanced, so I know that I will be returning to the book when I hit areas of difficulty in JavaFX. In this regard, it doesn't feel like it's the kind of book that you read once and then shelve on your bookshelf. It will be a good reference manual for anybody building JavaFX applications.</p>
+
+<p>If you are a Java developer who tends to spend time developing user interfaces in Swing, and want to get to know JavaFX, then I happily and wholeheartedly recommend the Pro JavaFX Platform book to anybody out there. I can assure you that it is a good book, and it will get you up to speed very quickly. It is current as of it's release (due to the hard work of the authors who pretty much wrote the book 1.5 times), so you need not worry that you're learning old language and API's. Apparently, future releases of JavaFX are less likely to be 'breaking', in the sense of API and language changes, so now is probably a good time to invest in a good resource to learn JavaFX.</p>
+
+<p>If you're interested in the book, buy the <a href="http://apress.com/book/view/9781430218753">ebook</a> or the <a href="http://www.amazon.com/Pro-JavaFX-trade-Platform-Technology/dp/1430218754/ref=pd_bxgy_b_img_c">printed version</a> when it comes out.</p>
+
+<p>Finally, this has <strong>not</strong> been a paid advertisement for Pro JavaFX Platform: Script, Desktop and Mobile RIA with Java Technology, although I wish it was :-)</p>
+]]></Content>
+	</post>

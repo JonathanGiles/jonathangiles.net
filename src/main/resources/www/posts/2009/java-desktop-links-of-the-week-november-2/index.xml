@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>632</ID>
+		<Slug>java-desktop-links-of-the-week-november-2</Slug>
+		<Title>Java desktop links of the week, November 2</Title>
+		<Date>2009-11-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week rolls around, and who would've thought it would be November already?! Yeesh, this year is flying. There has been some interesting news / blog posts this week, so read on to see what has gone down in the last seven days. As always, thanks to the people for emailing me, and please keep it up if you don't want me to miss something of importance to you. You can also catch me on twitter at <a href="http://www.twitter.com/JonathanGiles">@JonathanGiles</a>.</p>
+<h4>General</h4>
+<ul>
+	<li>For Eclipse users who develop in Windows 7, you may be interested to see the work being done by Tasktop/Microsoft on<a href="http://tasktop.com/blog/eclipse/tasktop-working-with-microsoft-to-improve-eclipse-on-windows-7"> improving Eclipse to better integrate with some of the new features in Windows 7</a>.</li>
+	<li>Whilst I don't really like mentioning commercial products, I'm too nice to say no. This week I was emailed by deNova, who produce a commercial Java installer builder called <a href="http://denova.com/">JExpress</a>. To balance things out a bit, I will also mention that <a href="http://izpack.org/">IzPack</a> is a free Java installer that I have used in the past and which works remarkably well, integrating easily into your build script.</li>
+	<li>Similarly, <a href="http://www.xdepend.com/">XDepend</a> is a commercial source code analyzer that "lets you extract, visualize, seek and control the structure of your applications and frameworks". Unfortunately, now that I'm developing in JavaFX Script, I haven't had a chance to test XDepend either, however, XDepend has a free trial if you're interested in playing with it.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has been his usual busy self, writing four blog posts covering news about a <a href="http://www.pushing-pixels.org/?p=1479">new release candidated for Flamingo 4.2</a>, and progress in the Substance look and feel. In particular, he has been focusing on <a href="http://www.pushing-pixels.org/?p=1485">text components</a>, <a href="http://www.pushing-pixels.org/?p=1490">comboboxes</a> (including feedback on <a href="http://www.pushing-pixels.org/?p=1493">comboboxes</a>), and <a href="http://www.pushing-pixels.org/?p=1499">spinners</a>.</li>
+	<li><strong>Tips4Java</strong> has posted an article on <a href="http://tips4java.wordpress.com/2009/10/25/size-document-filter/">how to get text field auto tabbing working</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>The second JavaFX 30 lines / 3000 characters coding challenge, with the<a href="http://jfxstudio.wordpress.com/2009/10/27/challenge-five-is-almost-over/"> theme of 'five' is now over</a>. Some of the entries include a <a href="http://jfxstudio.wordpress.com/2009/10/31/five-prayer-times/">Muslim prayer time display</a> (which must occur five times a day), and a&nbsp; <a href="http://blokmark.blogspot.com/2009/10/mayan-calculator.html">Mayan calculator</a>.</li>
+	<li>The <a href="http://www.svjugfx.org">Silicon Valley JavaFX Users Group</a> has announced it's first meetup, which whilst sounding like it may exclude a large chunk of people who are nowhere near Silicon Valley, they have said that <a href="http://steveonjava.com/2009/10/28/first-svjugfx-meetup-javafx-with-richard-bair/">they intend to stream their meetups</a>, and their <a href="http://www.svjugfx.org/calendar/11620691/?eventId=11620691&amp;action=detail">first talk will be given by Richard Bair</a>.</li>
+	<li><strong>Osvaldo Pinali</strong> has blogged about <a href="http://weblogs.java.net/blog/opinali/archive/2009/10/29/programming-bitmapped-graphics-javafx">programming bitmapped graphics in JavaFX</a>. He achieved this by dropping down into Java2D, however his results are impressive. Additionally, his approach, and comments in the blog, raise a number of interesting discussion points.</li>
+	<li><strong>Simon Morris</strong>, author of the JavaFX in Action book, has just published part two of his "<a href="http://www.insideria.com/2009/10/the-bluffers-guide-to-javafx-p-1.html">Bluffer's Guide to JavaFX</a>". This part focuses entirely on Strings in JavaFX.</li>
+	<li><strong>Drew</strong> (whose last name will forever evade me) has posted two articles this week. Firstly, he discussed <a href="http://piliq.com/javafx/?p=1294">skinning in JavaFX</a> (which should be considerably improved in SoMa), and '<a href="http://piliq.com/javafx/?p=1304">rethinking the Stage</a>', which discusses issues with the lack of global keybinding in JavaFX (which I'm well aware of, being the developer behind the JavaFX Menu / MenuBar control).</li>
+	<li><strong>Nick Wiedenbrueck</strong> has blogged about a simple <a href="http://stronglytypedblog.blogspot.com/2009/10/scala-console-with-javafx-experimental.html">Scala console he wrote in JavaFX</a>.</li>
+	<li>JavaFX Mobile apps can now be <a href="http://blogs.sun.com/javafx/entry/want_to_build_javafx_mobile">built using the mobile emulator on a Mac</a>.</li>
+	<li>The Sun Tech Test Train game developed to <a href="http://blogs.sun.com/javafx/entry/tech_test_train_update">test your skills in JavaFX has been updated</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> announced the <a href="http://groovy.dzone.com/announcements/griffon-02-released">release of Griffon 0.2 this week</a>, and also that <a href="http://www.jroller.com/aalmiray/entry/griffon_0_2_comes_loaded">it comes loaded with a heap of new features</a>.</li>
+</ul>
+<p>That's all folks - keep up the hard work, and catch you next week: same bat time, same bat channel.</p>
+]]></Content>
+	</post>

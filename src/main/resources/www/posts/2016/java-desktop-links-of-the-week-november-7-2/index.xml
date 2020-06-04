@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2204</ID>
+		<Slug>java-desktop-links-of-the-week-november-7-2</Slug>
+		<Title>Java desktop links of the week, November 7</Title>
+		<Date>2016-11-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Lots of good links - enjoy!</p>
+<ul>
+ 	<li><strong>Jens Deters</strong> has <a href="http://www.jensd.de/wordpress/?p=2538">released FontAwesomeFX 8.13</a>, with updated icon fonts and other bug fixes.</li>
+ 	<li><strong>Jens</strong> has also <a href="http://www.jensd.de/wordpress/?p=2520">released MQTT.fx 1.2.0 recently</a>, which includes bug fixes and some new usability improvements.</li>
+ 	<li><strong>Davild Gilbert</strong> has released an updated <a href="https://github.com/jfree/orson-charts">Orson Charts library</a>. Orson Charts is "an open source 3D chart library for JavaFX and Swing. This release adds a change notification mechanism for the XYZSeriesCollection dataset, generics for classes throughout the API plus upgrades to the FXGraphics2D and JFreeSVG dependencies (bringing in bug fixes and other improvements)."</li>
+ 	<li><strong>Adam Carroll</strong> has released <a href="http://vocabhunter.github.io/2016/11/02/VocabHunter-v1.0.18-Released.html">VocabHunter 1.0.18.</a></li>
+ 	<li><strong>Christoph Nahr</strong> has written a <a href="http://kynosarges.org/Diagrammer.html">class diagrammer in JavaFX</a>.</li>
+ 	<li><strong>Nicholas Jensen</strong> has written <a href="http://nickety.rwbay.com/2016/11/drop-bay-encrypted-notes-made-easy/">Drop Bay</a>, an encrypted notes application built with JavaFX.</li>
+</ul>
+]]></Content>
+	</post>

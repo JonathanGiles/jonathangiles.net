@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1254</ID>
+		<Slug>java-desktop-links-of-the-week-may-29</Slug>
+		<Title>Java desktop links of the week, May 29</Title>
+		<Date>2012-05-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Hi all! Sorry for the delayed post this week - I have just moved to a new house (just outside of <a href="http://g.co/maps/xm5yc">Palmerston North, New Zealand</a>), and didn't have internet access. Now that things are starting to get back to normal (and my internet is thankfully restored), I've got a bunch of links for your reading pleasure. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>As per usual, <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">new developer preview builds</a> of JavaFX 2.2 and Scene Builder 1.0 have been released.</li>
+	<li>Along with the updated developer preview builds, the documentation team has also released <a href="https://blogs.oracle.com/thejavatutorials/entry/javafx_scene_builder_docs_updated">updated Scene Builder documentation</a>.</li>
+	<li>I wrote a post over at FX Experience regarding <a href="http://fxexperience.com/2012/05/listview-custom-cell-factories-and-context-menus/">how to show context menus when using a custom cell factory</a> in ListView/TreeView/TableView controls.</li>
+	<li><strong>Gregg Setzer</strong> has started an open source project to <a href="https://github.com/GreggSetzer/JavaFX-CSS-Themes">create native looks for JavaFX applications</a>. He has started off by developing a Windows 8 CSS file. I would love to see more people join this project and develop a number of CSS files for various operating system releases. If you're interested, Greg is watching the thread of this post for any comments.</li>
+	<li><strong>Anton Epple</strong> has posted a comparison between the <a href="http://88.198.17.44/blog/2012/05/23/hidden-treasures-of-netbeans-graphical-ui-debugger/">Scenic View application released a few weeks ago and the NetBeans Graphical UI Debugger</a>. I will note that Scenic View is about to see another release, with a huge number of features added including live editing, searching (class name, node id and property name), and much, much more. However, there are of course things that Scenic View will likely never do, including integrating with the source code, so there is certainly value in getting to know both tools.</li>
+	<li><strong>Gerrit Grunwald</strong> has blogged about <a href="http://harmoniccode.blogspot.de/2012/05/death-bitmaps-could-be-beautiful-part-i.html">using the new Canvas API</a> in the JavaFX 2.2 developer preview builds.</li>
+	<li><strong>Jim Weaver</strong> has posted part two of his '<a href="http://www.oracle.com/technetwork/articles/java/javafxbest2-1634274.html">Best Practices for JavaFX 2 Enterprise Applications</a>' series.</li>
+	<li><strong>Carl Dea</strong> wrote <a href="http://carlfx.wordpress.com/2012/05/20/javafx-2-gametutorial-part-3/">part three of his JavaFX 2 game tutorial</a>.</li>
+	<li><strong>Thierry Wasyl</strong> has put up <a href="http://thierrywasyl.wordpress.com/2012/05/21/tweetwallfx-part-4/">part four</a> and <a href="http://thierrywasyl.wordpress.com/2012/05/25/tweetwallfx-part-5/">part five</a> of his TweetWallFX blog series. These posts cover using the JavaFX charting API, and pulling the whole project together. He has also put up a screencast <a href="http://thierrywasyl.wordpress.com/2012/05/27/tweetwallfx-screencast-2/">demonstrating some of the more recent features</a>.</li>
+	<li><strong>Amol Hingmire</strong> has posted about <a href="http://www.e-zest.net/blog/javafx-2-x-development-using-fxml/">JavaFX 2.x development using FXML</a>.</li>
+	<li><strong>Zoran Pavlovic</strong> has two posts this week. Firstly, he introduces <a href="http://zoranpavlovic.blogspot.co.nz/2012/05/javafx-2-css-styling-buttons.html">how to style JavaFX buttons using CSS</a>, and secondly he <a href="http://zoranpavlovic.blogspot.co.nz/2012/05/javafx-2-ui-controls-listview.html">introduces the JavaFX ListView control</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Mario</strong> has blogged about <a href="http://www.abstra.cc/lightheaded/?p=111">solving Swing EDT violation problems</a> with the help of <a href="http://swinghelper.java.net/">SwingHelper</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has announced that the long-awaited <a href="http://www.jroller.com/aalmiray/entry/griffon_in_action_where_are">Griffon in Action book has finally been finished</a>.</li>
+</ul>
+<p>That's all for another week. Again, sorry for the delay. See you all again next week! :-)</p>
+]]></Content>
+	</post>

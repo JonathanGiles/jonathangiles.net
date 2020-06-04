@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1188</ID>
+		<Slug>java-desktop-links-of-the-week-february-7</Slug>
+		<Title>Java desktop links of the week, February 7</Title>
+		<Date>2012-02-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Sorry for the delayed post this week, I've been a little bogged down in other work recently. But anywho, here we go for another week - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> was busy this week, putting up three blog posts over at FX Experience. The first post talks about his investigation into <a href="http://fxexperience.com/2012/02/restricting-input-on-a-textfield/">restricting input on a TextField control</a>. This then leads on to a <a href="http://fxexperience.com/2012/02/moneyfield/">MoneyField control</a> that he has made available, and finally a blog post about how he slightly simplified the MoneyField by <a href="http://fxexperience.com/2012/02/toolbar-in-fxml-no-longer-requires-tag/">adding more DefaultProperty annotations to UI control properties</a>.</li>
+	<li><strong>Phil Race</strong> has blogged about the <a href="http://blogs.oracle.com/javafx/entry/lcd_text_support_in_javafx">LCD text support in JavaFX 2.1</a>.</li>
+	<li><strong>Michael Heinrichs</strong> has blogged about <a href="http://blog.netopyr.com/2012/02/02/creating-read-only-properties-in-javafx/">creating read-only properties in JavaFX</a>.</li>
+	<li><strong>Thom Schindl</strong> announced the <a href="http://tomsondev.bestsolution.at/2012/01/31/efxclipse-0-0-12-released/">release of e(fx)clipse 0.0.12</a>.</li>
+	<li><strong>Daniel Zwolenski</strong> has published an article on OTN titled "<a href="http://www.oracle.com/technetwork/articles/java/zonski-1508195.html">Building Java EE Applications in JavaFX 2.0</a>".</li>
+	<li><strong>Adam Bien</strong> has blogged about <a href="http://www.adam-bien.com/roller/abien/entry/setting_javafx_2_runtime_at">setting the JavaFX 2.0 runtime at startup</a> (and solving "Unable to read ../rt/" problem).</li>
+	<li><strong>Jim Weaver</strong> put up a number of quotes from developers with their <a href="http://learnjavafx.typepad.com/weblog/2012/01/i-hear-voices-javafx-21-developer-preview-for-mac-and-linux.html">reactions to the recent release of the developer preview of JavaFX 2.1 for Linux</a>.</li>
+	<li>For those in the St Louis area, <strong>Weiqi Gao</strong> is giving <a href="http://java.ociweb.com/javasig/">another JavaFX 2.0 talk</a> covering the core concepts.</li>
+	<li>Speaking of <strong>Weiqi</strong>, he has also blogged about how to get started <a href="http://www.weiqigao.com/blog/2012/02/03/running_32_bit_javafx_2_1_beta_sdk_on_64_bit_ubuntu_11_10.html">running JavaFX 2.1 on a 64-bit Ubuntu</a> install.</li>
+	<li><strong>Mark Anro Silva</strong> has created a <a href="http://glyphsoft.wordpress.com/2012/02/05/javafx-2-0-neon-globe/">3D neon globe</a> which can be started via webstart (although I can't see the source code).</li>
+	<li><strong>Dustin Marx</strong> has blogged about creating a JavaFX application that <a href="http://marxsoftware.blogspot.co.nz/2012/01/javafx-2-presents-quadratic-formula.html">can solve quadratic equations</a>.</li>
+	<li><strong>William Antonio</strong> has blogged about a JavaFX application that he has created that <a href="http://fxapps.blogspot.co.nz/2012/01/javafx-app-for-gatein-navigation-rest.html">consumes the GateIn navigation REST API</a>.</li>
+	<li><strong>Altu? Uzunali</strong> has created a <a href="http://javafxwidgets.blogspot.co.nz/2012/01/complex-widget-waterfall-display.html">waterfall display</a> (aka a spectrogram).</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li>SwingX 1.6.3 was <a href="http://www.java.net/forum/topic/javadesktop/java-desktop-technologies/swinglabs/swingx-163-has-been-released?force=449">released this week</a>.</li>
+</ul>
+<p>That's all for another week. Catch you again in a weeks time.</p>
+]]></Content>
+	</post>

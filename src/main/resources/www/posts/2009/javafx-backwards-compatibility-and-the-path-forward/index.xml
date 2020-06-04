@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>374</ID>
+		<Slug>javafx-backwards-compatibility-and-the-path-forward</Slug>
+		<Title>JavaFX, backwards compatibility, and the path forward</Title>
+		<Date>2009-06-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>JavaFX at JavaOne impressed me. It is the first time I saw how things could come together to allow for the easy development of applications with both enterprise and consumer user interfaces alike. The combination of the Caspian look and feel, the components, and the team sold me a compelling package. To be clear, JavaFX isn't ready to be used in many circumstances, as the number of components is too bare, but I am satisfied that this will be rectified in the coming months.</p>
+
+<p>This being the case, and given that JavaFX has been blogged to death, I want to instead cover my opinion on how I believe JavaFX should proceed. I discussed this with a few people from Sun, and I wanted to get the pulse of the (JavaFX) nation on this issue. Let's be clear - Sun read blogs where there is discussion. I know for a fact the Swing 2.0 discussion from a while ago was heavily discussed internally. I would very much like to see what kind of discussion we get out of this post.</p>
+
+<p>The general question is <strong>which path should the JavaFX API take</strong> ? Anyone who knows me knows that I like clean APIs, simply for the sake of code cleanliness. You should therefore be able to easily work out my preference :-) The options are below, but if you have any other suggestions, please post a comment.</p>
+<h4>Option 1: Evolve the API over a number of releases, but never remove methods</h4>
+<p>As demoed in James Gosling's Toy Show, there are now apps out there using JavaFX, and JavaFX is a publicly available API with a lot of marketing behind it. There are books in production and already released that explain the API as it currently is. To set the API in stone now would give people more certainty that they should start to commit to JavaFX in their systems. This doesn't stop the API from growing, or for old methods to be deprecated. This is what we have in most API's - and it is possible that the end result is a hugely convoluted API (need I do the *cough*Swing*cough* thing, or was it too obvious anyway?).</p>
+<h4>Option 2: Clearly state the API is undergoing change, but promise API stability for a future release</h4>
+<p>This is what I call the 'Google Collections' approach, as it is what Google have done with their collections API. In this approach, Google has been very, very clear that their upcoming 1.0 release will be a 100% stable API that will not change. They have also been very, very clear that releases leading up to the 1.0 release will potentially have huge API changes. The benefit of this approach is that when 1.0 is released, the public can be certain of a completely stable, and <strong>clean / polished</strong> API. The downside of course is that early adopters are burnt on releases.</p>
+
+<p>My preference is for the later. I want a clean API that is going to last for a long time. I want to see Sun publicly announce a roadmap for the next x months which will culminate in a stable, rock solid, and clean API that will last for the foreseeable future. As things stand, there is no clarity on what will happen next with the JavaFX API, and I think that is at least partially because the public has not yet spoken. If we don't speak up soon, it'll be too late.</p>
+
+<p>Comments?</p>
+]]></Content>
+	</post>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3178</ID>
+		<Slug>java-desktop-links-of-the-week-october-29-2</Slug>
+		<Title>Java desktop links of the week, October 29</Title>
+		<Date>2018-10-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li>Oracle Code One was last week, and&nbsp;<strong>Kevin Rushforth</strong> and&nbsp;<strong>Johan Vos</strong> presented on JavaFX.Next. You can <a href="http://cr.openjdk.java.net/~kcr/presentations/code-one-2018/JavaFXNext.pdf">read the slides online now</a>.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has posted a <a href="https://harmoniccode.blogspot.com/2018/10/color-chooser.html">color chooser control he built</a>.</li>
+ 	<li><strong>Florian Brunner</strong> has made <a href="https://puces-blog.blogspot.com/2018/10/drombler-fx-version-012-and-013-released.html">two releases of&nbsp;Drombler FX</a> - the modular application framework for JavaFX.</li>
+ 	<li><strong>Pedro DV</strong> has <a href="https://pixelduke.com/2018/10/14/fxribbon-version-1-2-released/">released FXRibbon 1.2</a>.</li>
+ 	<li><strong>Amanda Hinchman-Dominguez</strong> presented at KotlinConf 2018 about '<a href="https://www.youtube.com/watch?v=XyGvwsQ5W5A&amp;feature=youtu.be">Kotlin and TornadoFX: The Next Frontier in Modern (Meta)Programming</a>'.</li>
+</ul>
+]]></Content>
+	</post>

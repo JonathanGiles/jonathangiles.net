@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>680</ID>
+		<Slug>dealing-with-itunes-freezing-up-in-windows</Slug>
+		<Title>Dealing with iTunes freezing up in Windows</Title>
+		<Date>2009-12-30</Date>
+		<Status>publish</Status>
+		<Categories>Technology</Categories>
+		<Tags>iTunes|Technology</Tags>
+		<Content><![CDATA[<p>Righty, fair enough, this post isn't really along the lines of most of my other ones, but it has to be said that I've been particularly faithful to iTunes in the past, and I'm fairly certain <a href="/posts/2009control-itunes-using-keyboard-media-keys/">I've blogged about</a> things that have bugged me which I've fixed / resolved in one way or another. Tonight I decided to finally sort out another annoying 'feature' of iTunes, whereby it would freeze up every time a new song started playing.</p>
+
+<p>As a quick background on my situation, I'm on a 64-bit Windows 7 install, but I'm fairly certain I've been suffering this throughout my time on a 32-bit Vista install as well. Whilst I obviously can't be completely certain, the following has resolved the issue for me, and at least to me, it makes sense.</p>
+
+<p>I've used <a href="http://desktop.google.com/">Google Desktop</a> for some time to index my system to make it searchable. I long resisted using one of these 'always indexing' applications, but I gave in a few years back when I got a decent computer, powerful enough that any slowdowns caused by constant indexing are negligible. My opinion now is that it's a real life saver - and you should certainly consider installing it.</p>
+
+<p>There is a caveat with these indexing tools however, and it's pretty obvious: it likes touching all your files. Especially the ones you're currently working with. This leads to frustration when I compile code, test something, and then want to send it off to the Windows equivalent of /dev/null - the files are being indexed by Google Desktop, and Windows packs a sad. When I'm doing a lot of compile/test/delete cycles, I normally turn off Google Desktop for a few hours - it makes life easier.</p>
+
+<p>So, getting onto the iTunes freezeup issue. For whatever reason - I never looked into it - iTunes writes out to an XML file every time a new song plays. I'm sure you can see where this is going: it seems like there is a little bit of a tussle going on between iTunes and Google Desktop, leading to this iTunes freezeup.</p>
+
+<p>Fortunately, the solution is simple: in Google Desktop (or your indexing system of choice), simply go into the preferences, and tell it to not bother indexing the following file:</p>
+<p><p style="padding-left: 30px; text-align: left;">c:\users\&lt;account name&gt;\appdata\roaming\apple computer\itunes\iTunesPrefs.xml</p>
+<p>Of course, replace &lt;account name&gt; with your windows user name.</p>
+
+<p>After doing this, everything works far better for me in iTunes. I probably won't have another complaint for six months :-)</p>
+
+<p>I hope this helps.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>849</ID>
+		<Slug>java-desktop-links-of-the-week-july-5</Slug>
+		<Title>Java desktop links of the week, July 5</Title>
+		<Date>2010-07-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Wow, July already. Time sure is flying these days. This week we have news for Swing, JavaFX and Griffon. As always, please feel free to flick me an <a href="mailto:jonathan@jonathangiles.net">email</a> or a <a href="http://www.twitter.com/JonathanGiles">tweet</a> to let me know of any news you want included. Let's get on with the news!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Nicolas Frankel</strong> has created a tutorial that <a href="http://blog.frankel.ch/flamingo-tutorial">introduces the Flamingo JRibbon component</a>, which is a Swing-based implementation of the Ribbon component introduced in Microsoft Office.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tor Norbye</strong> blogged about <a href="http://blogs.sun.com/tor/entry/don_t_use_implicit_return">not using implicit return types</a> in <span style="text-decoration: underline;">public API declarations</span> in JavaFX, and from my perspective, copped quite an unfair bashing for doing so. He also provided a NetBeans plugin for identifying this issue, and 'quick fixing' it. As for the comments on the post: I personally love implicit typing, but <strong>not</strong> when it is public API, for the reasons Tor identifies. It would suck to have to type :Void for every function and specify the type of all parameters in an overridden function. The language really isn't broken.</li>
+	<li>The <strong>Exadel</strong> JavaFX Plugin for Eclipse has been <a href="http://mkblog.exadel.com/ria/javafx-ria/exadel-javafx-plug-in-for-eclipse-version-1-3-3/">upgraded to 1.3.3</a>. In addition to this they've blogged about the <a href="http://mkblog.exadel.com/ria/javafx-ria/exadel-javafx-plug-in-for-eclipse-go-to-member-feature-in-pictures/">new 'go to member' feature</a> added in 1.3.3.</li>
+	<li><strong>Johannes Schneider</strong> has announced that he has <a href="http://blog.cedarsoft.com/2010/07/javafx2java-bridge-added-to-jfxtras-step-1/">added his JavaFX2Java bridge to the JFXtras project</a> (in a separate cloned repo). You can <a href="http://blog.cedarsoft.com/2010/05/closing-the-gap-between-java-and-javafx/">find out more about this bridge</a> in another blog posting.</li>
+	<li>The <strong>Oracle Technical Network</strong> <a href="http://medianetwork.oracle.com/media/show/15301">interviewed John Jullion-Ceccarelli and Martin Ryzl</a>, two of the managers behind NetBeans 6.9. They discussed the new NetBeans Composer tool for rapid JavaFX application development.</li>
+	<li><strong>Srikanth Shenoy</strong> has blogged about '<a href="http://weblogs.java.net/blog/srikanth/archive/2010/07/01/effective-javafx-architecture-part-1">Effective JavaFX Architecture</a>'. This is the first part of a series of posts he is promising to do.</li>
+	<li><strong>Eviware</strong> popped out of nowhere this week with their <a href="http://www.loadui.org/">loadUI</a> application for load-testing webapps. They've <a href="http://www.loadui.org/loadUI-Demo-Movies.html">posted some videos</a> and in general their app, built using JavaFX and Groovy, looks really impressive.</li>
+	<li><strong>Oracle</strong> announced that <a href="http://www.oracle.com/us/corporate/press/103103">JavaFX is powering the Major League Baseball 'fantasy baseball' applications</a>, although I haven't yet seen it in action because I don't live in the US or Canada (<a href="http://mlb.mlb.com/mlb/fantasy/wsfb_c/info/index.jsp">but you can go here to sign up, and presumably play</a>).</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has posted two sneak peeks at what is comming up in Griffon 0.9. They cover <a href="http://www.jroller.com/aalmiray/entry/griffon_0_9_sneak_peek">command line updates</a> and <a href="http://www.jroller.com/aalmiray/entry/griffon_0_9_sneak_peek1">application archetypes</a>.</li>
+</ul>
+<p>That's it for another week folks. Catch you in a weeks time.</p>
+]]></Content>
+	</post>

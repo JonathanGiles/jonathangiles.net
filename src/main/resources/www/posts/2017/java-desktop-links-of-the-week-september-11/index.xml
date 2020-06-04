@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2556</ID>
+		<Slug>java-desktop-links-of-the-week-september-11</Slug>
+		<Title>Java desktop links of the week, September 11</Title>
+		<Date>2017-09-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another quiet week as per usual in September (with JavaOne coming up soon).</p>
+<ul>
+ 	<li><strong>Dirk Lemmermann</strong> has posted another JavaFX tip - <a href="http://dlsc.com/2017/09/07/javafx-tip-28-pretty-list-view/">styling the JavaFX ListView control</a>.</li>
+ 	<li><strong>GOXR3PLUS STUDIO</strong> has two GitHub projects using JavaFX - <a href="https://github.com/goxr3plus/XR3Player">XR3Player</a>&nbsp;(an 'advanced JavaFX media player') and <a href="https://github.com/goxr3plus/JavaFX-Web-Browser">JavaFX Web Browser</a> (a 'web browser made in Java and JavaFX').</li>
+</ul>
+]]></Content>
+	</post>

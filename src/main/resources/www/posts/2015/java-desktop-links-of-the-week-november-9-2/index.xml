@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1995</ID>
+		<Slug>java-desktop-links-of-the-week-november-9-2</Slug>
+		<Title>Java desktop links of the week, November 9</Title>
+		<Date>2015-11-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;">JavaOne is over and it's time to get back into work. The good news is that JavaOne 2016 is in mid-September, so only ~10 months away now! :-) Here are the links that come out over the last few weeks whilst I've been away at JavaOne. I'm sure I've missed some but feel free to email them to me and I'll include them next week.</span></p>
+<ul>
+	<li><strong>Alexander Casall</strong> has started working on a&nbsp;<a href="https://github.com/sialcasa/focusFX">FocusManager for JavaFX</a>.</li>
+	<li><strong>Sven Ehrke</strong> has posted about his preferred way of <a href="http://svene.github.io/adocblog/html/2015_11_08_javafx_presentationstate.html">building JavaFX applications using presentation state</a>.</li>
+	<li><strong>James Nocentini</strong> has posted about '<a href="http://blog.couchbase.com/2015/october/getting-started-javafx-couchbase-mobile">Getting Started with JavaFX and Couchbase Mobile</a>'.</li>
+	<li><strong>Pat Martin</strong> has announced the <a href="https://dexvis.wordpress.com/2015/10/21/dex-0-8-released/">release of Dex 0.8</a>.&nbsp;Dex "aims to bring sophisticated visualization capabilities without requiring a high degree of expertise in order to get professional results."</li>
+	<li><strong>Gluon</strong> has three blog posts of relevance this week. Firstly, the announcement that it <a href="http://gluonhq.com/gluon-receives-dukes-choice-award-at-javaone-2015/">won a Dukes Choice award at JavaOne</a> (and I do feature in the attached photo). Secondly, that <a href="http://gluonhq.com/gluon-is-growing-join-us/">Gluon is seeking skilled JavaFX / Java engineers</a> to join the growing team. Thirdly, a post detailing the <a href="http://gluonhq.com/gluon-supports-multiple-jvms/">impact on Gluon from recent changes in the iOS ecosystem</a> (i.e. changes in RoboVM licensing and ownership).</li>
+	<li><strong>René Jahn</strong> has posted about&nbsp;<a href="http://blog.sibvisions.com/2015/10/28/details-about-live-css-hacking/">live css hacking</a> (similar to what is available in Scenic View with CSSFX). There is also an overview post of <a href="http://blog.sibvisions.com/2015/10/21/code-once-run-anywhere/">some of the features of the JVx library</a> (namely, the ability to code&nbsp;once and run on multiple devices).</li>
+	<li><strong>Peter Rogge</strong> has been working on&nbsp;the <a href="https://github.com/Naoghuman/NetBeansIDE-AfterburnerFX-Plugin">NetBeansIDE-AfterburnerFX-Plugin</a>, which "is a NetBeans IDE plugin which supports the file generation in convention with the library afterburner.fx in a JavaFX project."</li>
+	<li><strong>David Ray</strong> has open sourced his <a href="https://github.com/fxpresso/Mosaic">Mosaic layout container project</a>.</li>
+</ul>
+<p>Catch you all again next week.</p>
+]]></Content>
+	</post>

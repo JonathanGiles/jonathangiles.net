@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2056</ID>
+		<Slug>java-desktop-links-of-the-week-february-29</Slug>
+		<Title>Java desktop links of the week, February 29</Title>
+		<Date>2016-02-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Welcome to the leap-day edition of Java desktop links of the week! :-)</p>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has two posts this week. Firstly, he has a post on <a href="http://harmoniccode.blogspot.co.nz/2016/02/building-multi-gauge-with-medusa.html">building a multi gauge with Medusa</a>. Secondly, he has created another of his '<a href="http://harmoniccode.blogspot.co.nz/2016/02/fridayfun-xxiii.html">Friday Fun Components</a>'.</li>
+	<li><strong>Tom Eugelink</strong> has posted about <a href="https://tbeernot.wordpress.com/2016/02/28/multiplatform-javafx-for-real-basic-layout/">building multiplatform JavaFX applications</a> - in particular the ways he approached layout issues.</li>
+	<li><strong>Tobias Jonas</strong> has released <a href="https://github.com/Jonato/JFXC">JFXC</a>, a library of JavaFX controls.</li>
+	<li><strong>Thomas Künneth</strong> has started work on a JavaFX application to make it easy to <a href="http://kuennetht.blogspot.co.nz/2016/02/revived-old-project-of-mine-tkmactuning.html">change default settings on OS X</a>.</li>
+	<li><strong>Gluon</strong> has posted about some changes going on in the <a href="http://gluonhq.com/simplifying-gluon/">Java&nbsp;on mobile&nbsp;space</a>.</li>
+</ul>
+]]></Content>
+	</post>

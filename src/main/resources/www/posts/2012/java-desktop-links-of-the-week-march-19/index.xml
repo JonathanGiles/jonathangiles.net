@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1217</ID>
+		<Slug>java-desktop-links-of-the-week-march-19</Slug>
+		<Title>Java desktop links of the week, March 19</Title>
+		<Date>2012-03-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Welcome to yet another week of Java desktop links. I hope you're all doing well, and that you find something of interest in this weeks roundup.</p>
+<h4>Miscellaneous</h4>
+<ul>
+	<li>Ok, normally miscellaneous goes at the bottom, but I didn't want you to miss this one. The JavaOne call for papers <a href="http://www.oracle.com/javaone/call-for-papers/information/index.html">has opened up</a>, and closes mid-April. It is time to get your sessions submitted! Hopefully I'll get to go along again and will see you all there again (and continue the tradition of the Java Desktop lunch).</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>It's not until late April, but you're not going to want to miss the <a href="http://www.svjugfx.org/events/51199322/?a=ea2_grp&amp;eventId=51199322&amp;action=detail&amp;rv=ea2&amp;rv=ea2">introduction to the JavaFX Scene Builder tool</a>, being given by <strong>Nicolas Lorain</strong> (PM for JavaFX) and <strong>Jasper Potts</strong> (Developer Experience Architect for JavaFX). This is at the Silicon Valley JavaFX User Group, but as always you can attend virtually and join in the live webcast.</li>
+	<li><strong>Michael Heinrichs</strong>, a developer in the JavaFX team at Oracle, has <a href="http://blog.netopyr.com/2012/03/17/example-css-stylying-in-javafx/">explored the JavaFX CSS functionality</a>, something he admits he was not involved in developing, and comes away pleasantly surprised by how well it works. Considering this is something my team 'owns', I'm very pleased he is happy (but all praise should be directed at <strong>David Grieve</strong>, the long-standing owner of all CSS functionality in JavaFX).</li>
+	<li><strong>Kumanivasar Srin</strong> has posted a JEP over at the OpenJDK to <a href="http://openjdk.java.net/jeps/153">add support into Java to make it support loading JavaFX applications</a> without any special compilation needed. This would be a great thing to get into Java in my humble opinion.</li>
+	<li><strong>Willy Raharjo</strong> has posted two blog posts about JavaFX and Slackware. The first post is a tutorial on <a href="http://slackblogs.blogspot.co.nz/2012/03/running-javafx-apps-on-slackware.html">running JavaFX apps on top of Slackware</a>. The second post discusses <a href="http://slackblogs.blogspot.co.nz/2012/03/integrating-javafx-into-netbeans-on.html">integrating JavaFX into Netbeans on top of Slackware</a>.</li>
+	<li><strong>PFGrid</strong> has released a first version of their (commercial) <a href="http://www.pfgrid.com/Index_JavaFX.aspx">PFGrid FX toolkit</a>, which at this stage contains just one control: a 'rotator' control.</li>
+	<li>I did a blog post over at FX Experience <a href="http://fxexperience.com/2012/03/new-in-javafx-2-1-combobox">introducing the new ComboBox control</a> in JavaFX 2.1. In general it should be a very useful control in your toolbox.</li>
+</ul>
+<p>That's that for this week. Catch you again next week.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></Content>
+	</post>

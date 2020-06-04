@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>83</ID>
+		<Slug>introduction</Slug>
+		<Title>Introduction</Title>
+		<Date>2007-02-26</Date>
+		<Status>publish</Status>
+		<Categories>Life|Miscellaneous|Programming</Categories>
+		<Tags>plugins-research|semantic-web-research</Tags>
+		<Content><![CDATA[<p>So, to introduce myself....My name is Jonathan Giles, I'm a resident of the mega-happening Palmerston North (and have been here for the 22 years I have been alive pretty much). I am married as of January 2007 (yes, my wife and I have been friends since we were young - we had known each other for a number of years before getting hitched). I figured why wait to get married if it was inevitable anyway....</p>
+
+<p>I've just completed a Bachelor of Engineering with Honours degree at Massey, where I studied software engineering. I managed to get first class honours, be put on the Massey University Merit List, and given the title of Massey Scholar. I tossed up between doing a PhD or a masters, but finally settled on masters, as given the choice to be theoretical or practical, I definitely fall on the side of practical.</p>
+
+<p>My research last year was in the area of plugin-based development. What this means is writing a program composed entirely of plugins - think Eclipse if you're a Java person. Do not think Winamp or Firefox - they of course offer plugins, but functionally they are complete with plugins really to 'smooth the edges'. Programs I have written, and applications like Eclipse, on the other hand are entirely based on plugins - even the core functionality. The benefits of such technology are that development can proceed far more agilely - customer pressuring you for a piece of functionality? Stop work on your current plugin, and begin a new plugin. Drop it into their 'plugins' folder, and it all works nicely - and this is in my practise, not in academic theory. </p>
+
+<p>Of course, this doesn't sound very web 2.0, and it isn't. I haven't jumped on that platform yet. I still think in some circumstances you just can't beat an application, therefore none of my research is in the web 2.0 area.</p>
+
+<p>My new area of research (which coincidently still builds atop my plugin research) is in the area of semantic web technologies. This is all about getting data off intranets and the internet, and making it far more comprehensible for people. The main push for semantic web in this case is in terms of making things standards-compliant, so that in the future, as more systems are able to interact with this kind of data, my research is able to become more valuable to the end user. At the same time, there is so much data inside businesses that can be accessed using the results of my research, and this data can once again be used to help people comprehend their environment.</p>
+
+<p>The point of my semantic web research may sound rather odd - but I will make sure to clarify it more in the future - there is an actual 'real-life' product attached to this work - it isn't just vapourware. I'll post as soon as I am able to on that!</p>
+
+<p>Righty, I'll leave it there. I'll make sure I keep you all updated about my work as it progresses over the next year.</p>
+]]></Content>
+	</post>

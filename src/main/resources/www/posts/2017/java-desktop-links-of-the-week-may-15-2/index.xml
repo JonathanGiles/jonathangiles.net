@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2505</ID>
+		<Slug>java-desktop-links-of-the-week-may-15-2</Slug>
+		<Title>Java desktop links of the week, May 15</Title>
+		<Date>2017-05-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Apologies for not posting anything last week - I was unwell&nbsp;at the start of the week, and spent the rest of the week catching up!</p>
+<ul>
+ 	<li>A project I started a while back is slowly gaining steam. The <a href="https://github.com/FXDocs/docs">FXDocs project</a> aims to create a comprehensive 'book' related to JavaFX. It's all asciidoc, open for contributors to submit sections, and automatically builds new <a href="https://fxdocs.github.io/docs/index.html">HTML</a> and <a href="https://fxdocs.github.io/docs/book.pdf">PDF</a> output on every commit. If you want to contribute, <a href="mailto:jonathan@jonathangiles.net">get in touch</a>!</li>
+ 	<li><strong>Sean Phillips</strong> was interviewed by Oracle regarding his work on <a href="https://blogs.oracle.com/otn/video%3a-the-moon%2c-jupiter%2c-and-beyond%3a-javafx-and-the-final-frontier">using JavaFX to visualise complex data</a> related to deep space trajectories.</li>
+ 	<li><a href="https://bitbucket.org/cuchaz/jfxgl">Version 0.3 of JFXGL</a>, a library that provides "Glue code that allows you to use <a href="https://en.wikipedia.org/wiki/JavaFX">JavaFX</a> in your <a href="https://www.opengl.org/">OpenGL</a>/<a href="https://www.lwjgl.org/">LWJGL3</a> app", has been released.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has posted about <a href="https://harmoniccode.blogspot.co.nz/2017/05/formatting-numbers-in-medusa.html">formatting numbers</a> in the Medusa gauge library.</li>
+ 	<li><strong>Dirk Lemmermann</strong> has posted an interview about a JavaFX application written using Gluon and other open source projects to <a href="http://dlsc.com/2017/05/08/javafx-real-world-apps-monastery/">target iOS and Android devices</a>.</li>
+ 	<li><strong>Christoph Nahr</strong> has written about <a href="http://news.kynosarges.org/2017/05/14/javafx-chart-coloring/">JavaFX chart coloring</a>.</li>
+ 	<li><strong>Patrick Martin</strong> has posted a video detailing some of the <a href="https://www.youtube.com/watch?v=r54dsc58c_s&amp;feature=youtu.be">capabilities found in Dex 0.9</a>.</li>
+ 	<li><strong>Patrick</strong> has also written about <a href="https://dexvis.net/posts/DataDrivenUI.html">building JavaFX user interfaces with JSON</a>.</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>22</ID>
+		<Slug>software-plugin-architectures</Slug>
+		<Title>Software Plugin Architectures</Title>
+		<Date>2006-03-29</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>plugins-research</Tags>
+		<Content><![CDATA[<p>*warning, this is geeky....stop now if you didn't understand the title*</p>
+
+<p>Ever wonder how developers allowed you to make sweeping changes to their software, like, say Doom and it's wad files, or Winamp and it's vast array of plugins, or for the best example, eclipse, which is entirely built with plugins (and obviously a small bootstrapper)?</p>
+
+<p>So did I......for a very long time. It was just cool to let the internals of your software be manipulated. If you don't know what I mean, download eclipse (<a href="http://www.eclipse.org">www.eclipse.org</a>), and run it. Then look in the plugins folder - that will give you a small glimpse of the internal architecture of the app, and into the way its been broken down.</p>
+
+<p>Like I said, Eclipse is just a collection of plugins. My install has about 195 of them. Your mileage will vary.</p>
+
+<p>So, I've now spent the last few weeks researching as part of my year-long research the ways in which plugins work, and most specifically, the way in which eclipse plugins work.</p>
+
+<p>I now have a 30 minute seminar to give on the topic, but I could honestly do double or triple that. Not only is the topic amazingly interesting, it spans a number of areas of quite interesting research: software design patterns, software architecture, software metrics (code quality), and to a lesser degree, team development of software applications.</p>
+
+<p>So, what does this mean to you, the humble reader? Well, if you have any questions, I am now probably qualified to answer many of them. If you want to learn more, even if it isn't fully technical, ask away. If you are coming to my seminar, you now know what to expect in a nutshell.</p>
+
+<p>Goodo,</p>
+<p>Jonathan</p>
+]]></Content>
+	</post>

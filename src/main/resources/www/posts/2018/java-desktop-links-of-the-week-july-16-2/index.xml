@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3110</ID>
+		<Slug>java-desktop-links-of-the-week-july-16-2</Slug>
+		<Title>Java desktop links of the week, July 16</Title>
+		<Date>2018-07-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Here are the latest links. Enjoy :-)</p>
+<ul>
+ 	<li><strong>Andres Almiray</strong> has forked <a href="https://github.com/lincolnminto/javaFXMDI">JavaFXMDI</a> and created <a href="http://andresalmiray.com/announcing-desktoppanefx/">DesktopPaneFX</a>. Both projects are MDI-style components, similar to the JDesktopPane in Swing.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has created a really cool <a href="https://harmoniccode.blogspot.com/2018/07/gradientpicker-reloaded.html">GradientPicker control</a>.</li>
+ 	<li><strong>Dirk Lemmermann</strong> has published a JavaFX tip on <a href="https://dlsc.com/2018/06/18/javafx-tip-29-ignore-invisible-nodes/">the 'managed' property in JavaFX</a> and what it means.</li>
+ 	<li><strong>David Gilbert</strong> has released an <a href="https://github.com/jfree/fxgraphics2d">update to FXGraphics2D</a>, which is a free implementation of the Java Graphics2D API that targets the JavaFX Canvas. It makes it possible to reuse existing Java2D code in a JavaFX application.</li>
+ 	<li><strong>Java Magazine</strong> has an article written by <strong>Sean Phillips</strong> on '<a href="http://www.javamagazine.mozaicreader.com/MayJune2018/Twitter#&amp;pageSet=38&amp;page=0">producer-consumer implementations in JavaFX</a>'.</li>
+ 	<li><strong>Brian Hudson</strong> has blogged about <a href="https://medium.com/@hudsonb/lets-make-a-visualization-chord-diagram-b9497eb2990d">creating a chord diagram in JavaFX</a>.</li>
+</ul>
+]]></Content>
+	</post>

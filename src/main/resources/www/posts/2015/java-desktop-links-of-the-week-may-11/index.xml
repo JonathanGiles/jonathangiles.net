@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1914</ID>
+		<Slug>java-desktop-links-of-the-week-may-11</Slug>
+		<Title>Java desktop links of the week, May 11</Title>
+		<Date>2015-05-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week, but there are a few interesting links worth reporting. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Eugene Ryzhikov</strong> from Gluon posted a <a href="http://gluonhq.com/introducing-gluon-glisten/">teaser video of Gluon Glisten</a>.</li>
+	<li><strong>Rob Terp</strong> has blogged about&nbsp;<a href="https://rterp.wordpress.com/2015/05/08/automatically-sort-a-javafx-tableview/">automatically sorting a JavaFX TableView</a>.</li>
+	<li><strong>René Jahn</strong> has posted about&nbsp;<a href="http://blog.sibvisions.com/2015/05/08/javafx-table-and-tree-lazy-loading/">JavaFX TableView and TreeView lazy loading</a>.</li>
+	<li><strong>Glenn Martin</strong> has posted two new projects to GitHub: firstly,&nbsp;<a href="https://github.com/grmartin/JavaFX-Data-Support">JavaFX/FXML "Data" Tag support</a>, which allows the addition of arbitrary metadata to FXML source files. Secondly, an <a href="https://github.com/grmartin/SVG2FXML-Extended">extended implementation&nbsp;of the SVG2FXML converter</a>, intended as a drop-in replacement along side it.</li>
+</ul>
+<p>That was quick! :-) Catch you all again next week.</p>
+]]></Content>
+	</post>

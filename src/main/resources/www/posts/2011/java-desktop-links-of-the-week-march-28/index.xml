@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1020</ID>
+		<Slug>java-desktop-links-of-the-week-march-28</Slug>
+		<Title>Java desktop links of the week, March 28</Title>
+		<Date>2011-03-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>Howdy folks. Here's another week of links that I hope you find interesting. Keep up the great work folks! :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> continues (as always) with his SteelSeries series of gauges. This week he has two posts: the first discussing his attempts at <a href="http://harmoniccode.blogspot.com/2011/03/slim-down.html">slimming down the dynamic footprint of the gauges</a>, and the second <a href="http://harmoniccode.blogspot.com/2011/03/steelseries-38-slim-down-release.html">announcing the 3.8 release</a>. This release includes the first results of his dynamic footprint cleanup, as well as new gauges and improvements to others.
+<strong></strong></li>
+	<li><strong>Alexander Potochkin</strong> continues his series of posts on 'Swing in a better world', this time talking about <a href="http://weblogs.java.net/blog/alexfromsun/archive/2011/03/21/swing-better-world-checked-exceptions">checked exceptions</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Max Katz</strong> blogged about JavaFX 2.0, and how recently there was discussion about <a href="http://mkblog.exadel.com/2011/03/javafx-2-0-no-mac-or-linux-support/">initially supported platforms</a>. I don't really have anything to add from the product marketing side of things (it's absolutely not my area at all, I am not a spokesperson for JavaFX 2.0, I have no insight at all into this level of things, etc, etc, etc), but I did want to say this: Within Oracle a number of the JavaFX development team are developing JavaFX 2.0 on Mac and Linux platforms. There are also a number of people in the JavaFX 2.0 EA program using Mac OS and Linux as their development environments (e.g. <a href="http://pleasingsoftware.blogspot.com/2011/02/sweet-combination-javafx-20-ea-griffon.html">Dean's post from early February</a>). Regardless of what is officially supported in the 2.0 release, as a bunch of hardworking engineers we're working to ensure all platforms work as well as possible. Regarding the comments on Max's blog, I think there is a bit too much assuming going on! I'm certain more information will come out from official sources as we build up to the JavaFX 2.0 release. However, and as always, once the beta hits we'd all appreciate your feedback in the <a href="http://javafx-jira.kenai.com">JavaFX bug tracker</a>.</li>
+	<li><strong>Eric Bruno</strong> has briefly noted that he has had considerable success in <a href="http://drdobbs.com/blogs/java/229400021">porting from JavaFX 1.3 to JavaFX 2.0</a>.</li>
+	<li><strong>Re Lai</strong> has blogged about '<a href="http://www.oracle.com/technetwork/java/lai-flex-javafx-jsf-301278.html">Using Adobe Flex and JavaFX with JavaServer Faces 2.0</a>'. Note: this is a JavaFX 1.3-related post.<strong></strong></li>
+	<li><strong>mxshrestha</strong> has blogged about <a href="http://mxshrestha.wordpress.com/2011/03/23/managing-multiple-scenes-in-javafx/">managing multiple scenes in JavaFX Script</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has blogged about <a href="http://www.jroller.com/aalmiray/entry/griffon_dealing_with_uncaught_exceptions">dealing with uncaught exceptions in Griffon</a>.</li>
+	<li><strong>Andres</strong> also provides details of <a href="http://www.jroller.com/aalmiray/entry/griffon_on_tour_europe">where Griffon will be being presented during spring in Europe</a>.</li>
+</ul>
+<p>Catch you all in a weeks time!</p>
+]]></Content>
+	</post>

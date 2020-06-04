@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>140</ID>
+		<Slug>ten-ui-lessons-from-the-real-world</Slug>
+		<Title>Ten UI Lessons from the Real World</Title>
+		<Date>2008-03-07</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>Centruflow</Tags>
+		<Content><![CDATA[<p>This is a <a href="http://www.componenthouse.com/article-21">good article</a> about user interface design, which is something I'm quite passionate about. I enjoy creating user interfaces that are simple but functional. <a href="http://www.centruflow.com">Centruflow</a> is an example of this. Inside our company, I have put up a set of rules that all UI designers/developers need to follow. I thought I'd repeat them here:</p>
+<p><ol></p>
+	<li><strong>KISS principle</strong> -- Keep It Simple, Stupid. You don't need to make everything customisable and you don't want to overwhelm your users with a multitude of options.</li>
+	<li><strong>Make it 'just work'.</strong> Automate as much as you can. Try to have configuration options that either will work in the vast majority of cases with the defaults, or have the application automatically try to determine the best settings for the user's environment. The best configuration dialog is one the user never has to see.</li>
+	<li><strong>Softer software</strong> -- make things customisable, but in a way that they don't HAVE to be customized for a good user experience. Most users won't customise their environment very much. Always keep this in mind.</li>
+	<li><strong>Present as little of the interface as necessary to accomplish the task at hand.</strong> Better to have more dialogs or dialog tabs with a few options than one big gargantuan dialog that has everything.</li>
+	<li><strong>On layouts</strong> -- put the most commonly-used controls in a very prominent place and make them big and easy to click on. Things that are less likely to be used should be smaller and out of the way. Buttons are better than menus, but don't end up with so many buttons that the user gets lost -- again, fewer controls on more windows is better than more controls on fewer windows.</li>
+	<li><strong>Know your audience.</strong></li>
+<p></ol></p>
+<p>I boil it all down to the last point - unless we are developing for other software developers, we should consider our user interface/interactions very carefully, and from their perspective. I would recommend everyone to develop a set of UI rules that all developers within a team should read once in a blue moon to remind themselves of what is important. Just copy the above ones if you want.</p>
+
+<p>On that note - users (as opposed to customers - quite often different people) don't care that your software is using a RESTful webservice that connects to a messaging server that allows for Enterprise blah-di-blah - the user interface is the program to them. If they can't find the functionality they need the software may as well send messages via courier pigeon.</p>
+
+<p>One other thing - as the lead tech guy at Centruflow Ltd it's important to have cool features implemented and integrated into Centruflow based on customer feedback - but the development of any feature only begins if an intuitive integration is possible. I believe it's my job to provide a first layer of protection against any 'feature creep' that might begin to invade the context menus, toolbars, menubars, control panels. We need to always keep these areas as clean and as intuitive as possible. The question should always be 'how do we expose this functionality intuitively but without costing much UI real estate?'.</p>
+
+<p>Well, that was a bit of a braindump, sorry for the mess - I'm running out the door to CeBIT and wanted to throw that out there. Maybe one day I'll come back and clarify my points. Remember to read <a href="http://www.componenthouse.com/article-21">this article</a> too if you have time.</p>
+]]></Content>
+	</post>

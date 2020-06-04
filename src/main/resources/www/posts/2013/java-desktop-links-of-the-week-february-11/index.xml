@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1408</ID>
+		<Slug>java-desktop-links-of-the-week-february-11</Slug>
+		<Title>Java desktop links of the week, February 11</Title>
+		<Date>2013-02-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Hi all. Welcome to another weeks worth of links. Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>More JavaFX source code was open sourced this week, including the <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2013-February/005927.html">JavaFX/Swing and JavaFX/SWT classes</a>, <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2013-February/006044.html">Decora</a>, and <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2013-February/005967.html">javafx-beans</a> (beans/bindings/collections).</li>
+	<li>JavaFX Scene Builder 1.1 developer preview b20 is <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">now available for download</a>.</li>
+	<li><a href="http://fxexperience.com/2013/02/announcing-scenic-view-8-0-0-developer-preview-1/">Scenic View 8.0.0 developer preview 1</a> was made available this week. This is the first developer preview for JavaFX 8.0 - consider it a very early alpha release! Please leave feedback on the blog post for any issues&nbsp; you're encountering.</li>
+	<li><strong>Gerrit Grunwald</strong> has two posts this week. Firstly, he has a post about <a href="http://harmoniccode.blogspot.se/2013/02/native-idea.html">creating native packages using IntelliJ</a>. Secondly, he has created a <a href="http://harmoniccode.blogspot.se/2013/02/one-class-gauge.html">gauge using just one class</a> (for memory efficiency and to more easily deploy to embedded devices).</li>
+	<li>Speaking of <strong>Gerrit</strong>, he also presented at Jfokus recently on embedded JavaFX. His <a href="http://www.jfokus.se/jfokus13/preso/jf13_JavaFXOnEmbedded.pdf">slide deck is now available</a> online as a PDF.</li>
+	<li><strong>Robert Ladstätter</strong> also has two posts this week. Firstly he continues to <a href="http://ladstatt.blogspot.co.nz/2013/02/tree-visualization-part-3.html">refine his tree visualisation code</a> to make the trees more realistic and have leaves. Secondly, he has developed a version of <a href="http://ladstatt.blogspot.co.nz/2013/02/conways-game-of-life.html">Conways Game of Life in ScalaFX</a>, using only 140 lines of code.</li>
+	<li><strong>Angela Caicedo</strong> has blogged about <a href="https://blogs.oracle.com/acaicedo/entry/managing_multiple_screens_in_javafx1">managing multiple screens in JavaFX</a> (in a single stage).</li>
+	<li><strong>Jim Connors</strong> has released the <a href="https://blogs.oracle.com/jtc/entry/source_code_for_javafx_scoreboard">source code</a> for the JavaFX/Raspberry Pi scoreboard project <a href="https://blogs.oracle.com/jtc/entry/a_raspberry_pi_javafx_electronic">he blogged about recently</a>.</li>
+	<li><strong>Tim Yates</strong> has ported the Canoo JavaFX <a href="https://gist.github.com/timyates/4706040">abacus tutorial to GroovyFX</a>.</li>
+	<li><strong>Sébastien Bordes</strong> has blogged about <a href="http://blog.webeo.fr/post/2013/02/03/How-to-build-a-JRebirth-Presentation">how to build a JRebirth presentation</a>.</li>
+	<li><strong>Christoph Burmeister</strong> has created a <a href="http://christoph-burmeister.eu/?p=1991">maven build</a> for his JavaFX image exif project.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Karl Schaefer</strong> has announced the <a href="http://weblogs.java.net/blog/kschaefe/archive/2013/01/29/swingx-165-released?force=623">release of SwingX 1.6.5</a>. This release includes a number of bug fixes as well as a few improvements.</li>
+	<li><strong>Jean-François Poilpret</strong> has announced the release of <a href="http://designgridlayout.java.net/">DesignGridLayout 1.10</a>.</li>
+</ul>
+<p>Catch you all in a weeks time.</p>
+]]></Content>
+	</post>

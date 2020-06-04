@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>912</ID>
+		<Slug>java-desktop-links-of-the-week-september-18</Slug>
+		<Title>Java desktop links of the week, September 18</Title>
+		<Date>2010-09-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A slightly early post this week, as the normal post date coincides with me being enroute to San Francisco and JavaOne. Therefore, not as much news as usual - but I'm sure there will be plenty of Java desktop news in the next few weeks to make up for this. Enjoy :-)</p>
+
+<p>Swing</p>
+<ul>
+	<li><strong>Google</strong>, having acquired Instantiations recently, <a href="http://googlewebtoolkit.blogspot.com/2010/09/google-relaunches-instantiations.html">have just released their tools</a>....for free. Some of these tools are generic Java tools (of high quality), but most useful for readers of this blog is probably the WindowBuilder Pro GUI designer.</li>
+	<li><strong>Gerrit Grunwald</strong> has blogged about <a href="http://harmoniccode.blogspot.com/2010/09/steelseries-updates.html">further</a> <a href="http://harmoniccode.blogspot.com/2010/09/and-another-one.html">work</a> on his SteelSeries component library.</li>
+	<li><strong>Rhiannon Liebowitz</strong> has a tutorial on <a href="http://java.dzone.com/articles/java-swing-components">how to skin his (commercial) Swing Accordion control</a>.</li>
+</ul>
+<p>JavaFX</p>
+<ul>
+	<li><strong>Amy Fowler</strong>, a team mate in the JavaFX UI Controls team, has just published a <a href="http://amyfowlersblog.wordpress.com/2010/09/15/back-to-our-roots-for-javaone/">list of the JavaOne talks she is more excited about</a>.</li>
+	<li>Similarly, <strong>Stephen Chin</strong> has posted a list of JavaOne sessions he is considering the <a href="http://steveonjava.com/expert-ria-track/">'JavaFX Expert RIA' track</a>.</li>
+	<li><strong>Martin Ryzl</strong> and <strong>Irina Filippova</strong> have a tutorial up on <a href="http://netbeans.org/kb/docs/javafx/fxd.html">using JavaFX graphic resources in JavaFX Composer</a>.</li>
+	<li><strong>Marceli Narcyz</strong> let me know about a <a href="http://marceliapps.appspot.com/checkers/index.html">JavaFX Checkers applet</a> he has built.</li>
+</ul>
+<p>That's it for this (short) week. Like I said last week, I'll try to do a post whilst I'm overseas, but no guarantees :-)</p>
+]]></Content>
+	</post>

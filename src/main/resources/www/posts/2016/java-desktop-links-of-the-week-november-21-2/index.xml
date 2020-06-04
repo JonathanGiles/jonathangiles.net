@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2211</ID>
+		<Slug>java-desktop-links-of-the-week-november-21-2</Slug>
+		<Title>Java desktop links of the week, November 21</Title>
+		<Date>2016-11-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A few nice links this week - enjoy!</p>
+<ul>
+ 	<li><strong>Adam Carroll</strong> has blogged about <a href="https://vocabhunter.github.io/2016/11/13/JavaFX-Dependency-Injection.html">dependency injection in JavaFX</a>.</li>
+ 	<li><strong>Samir Hadzic</strong> has written about <a href="https://blog.samirhadzic.com/2016/11/18/drag-and-scroll-automatically-in-your-application/">dragging and scrolling automatically</a> in the ControlsFX SpreadsheetView control.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has two posts this week. Firstly, an <a href="http://harmoniccode.blogspot.co.nz/2016/11/medusa-industrial-clock-skin.html">industrial clock skin</a> for his Medusa project, and secondly he has <a href="http://harmoniccode.blogspot.co.nz/2016/11/worldmap-cosmetics.html">improved the world map project</a> he blogged about previously to include a lower resolution version of the map to conserve memory, and to also visualise locations based on latitude/longitude.</li>
+ 	<li>This week I was pointed to <a href="https://github.com/stackleader/kubefx">KubeFX</a>, "an open source tool for working with kubernetes written in JavaFX."</li>
+</ul>
+]]></Content>
+	</post>

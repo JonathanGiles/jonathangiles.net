@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2926</ID>
+		<Slug>java-engineering-at-microsoft-interview-with-rikki-gibson</Slug>
+		<Title>Java Engineering at Microsoft: Interview with Rikki Gibson</Title>
+		<Date>2018-03-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java|Programming>Microsoft]]></Categories>
+		<Tags>interview</Tags>
+		<Content><![CDATA[<p>Today I have another interview to share! Following my <a href="/posts/2018/java-evangelism-at-microsoft-interview-with-yoshio-terada/">interview with Yoshio Terada</a>, a Java evangelist at Microsoft, today I have an interview with <strong>Rikki Gibson</strong>, a software engineer at Microsoft, working exclusively on Java-related projects. I am quite envious of his role, as engineering and solving fun problems is always what excites me most! So, to everyone reading - enjoy this post, and I'll work on getting more stories about Java people at Microsoft up every week or two :-)</p>
+
+<p><img class="size-full wp-image-2933 aligncenter" src="/content/2018/03/RikkiGibson.jpeg" alt="" width="460" height="460"></p>
+
+<p><strong>Hi Rikki – can you please introduce yourself to everyone?</p>
+<p></strong>Hi there! I’m Rikki Gibson. I come from Corvallis, Oregon and I’m a 2017 graduate from Oregon State University in Computer Science. When I was in school I worked part-time for a few years on .NET-based systems for the Oregon state government, and I have some Java background from a small foray into <a href="https://play.google.com/store/apps/details?id=osu.appclub.corvallisbus">Android development</a>. When I joined Microsoft in July 2017 I was brought on the Azure SDKs team within Microsoft Developer Division working on Java and .NET libraries.</p>
+
+<p><strong>Outside of working for Microsoft, do you have any hobbies, open source projects, or other things that keep you busy?</p>
+<p></strong>I continue to maintain a set of apps for <a href="https://corvallisb.us/">finding out when the bus will arrive in my hometown</a>. I’m also starting to work on writing a <a href="https://github.com/rikkigibson/rgb">Game Boy emulator</a> on the side on weekends. Certainly a solved problem, but I find exploring all the little behaviors of an embedded system like that to be pretty interesting. I’m also into PC gaming, D&amp;D, and hiking when the weather is good :-)</p>
+
+<p><strong>You’ve only relatively recently joined Microsoft as a Java engineer. What are your impressions of Java at Microsoft?</p>
+<p></strong><span style="font-size: 1rem;">Yes, it’s been just 7 months, although it feels like that’s gone by fast. Java has an incredible, long-established open source community. It’s a big shift for Microsoft to try and start being a citizen of that community. Even people within Microsoft might find it surprising that unless confidential / preview Azure features are involved, <a href="https://github.com/Azure/autorest.java">my team typically does work, issue tracking, and code reviews in the open from the very first commit</a>. I’m very happy being in that kind of a space as an engineer.</span></p>
+
+<p>.NET has the lion’s share of usage on Azure, so it can be harder to raise awareness about our Java offerings. We also have to occasionally fight the tendency to foist .NET-isms onto Java developers. On the bright side, we have more latitude than the .NET SDK teams to make changes that we think will improve the developer experience in Java.</p>
+
+<p><strong>Working in the open can be daunting, but also very rewarding. From my experience contributing to OpenJDK for 9 or so years, you can get all kinds of people appearing to contribute. Do you have anybody from the community helping with development, and do you have any messages to people who might be on the lookout for an open source project they can contribute to (in relation to why yours might be a fun one to join)?</p>
+<p></strong>David Moten, who’s very knowledgeable about RxJava, has come and made some really useful bug reports recently from reading our code. Besides that, there have been several people who have showed up with bug reports or PRs to try and make something in particular work better for their use case.</p>
+
+<p>If you’ve got a REST API that you want to create a Java client for, you might enjoy being bold and trying to create it using our stack :-) The experience of it isn’t half bad! Otherwise I’d just encourage people to take a look at the libraries they currently use in their own projects and to do a little digging about what the community for those libraries is like—many library teams like to answer people’s questions and hear their feedback. You might find small bugs or work items that you can pick up and complete. It’s very good to have open source projects on your resume.</p>
+
+<p><strong>Microsoft is a huge organization, and Azure is massive. How do all the puzzle pieces fit together between the teams?</p>
+<p></strong>The problem we face in delivering Azure services to developers is that we need to multiply the number of Azure services by the number of languages we wish to offer first-class support for. Completely hand-authoring the libraries for communicating with these services would be prohibitively time-consuming and difficult to keep consistent between each other.</p>
+
+<p><a href="https://swagger.io/">Swagger, otherwise known as OpenAPI</a>, is how we formally describe the endpoints available in each service. Azure service teams author these documents, and then we use the <a href="https://github.com/azure/autorest">AutoRest code generator</a> to generate code in a variety of languages. Ideally, some amount of hand-written code wraps the generated code so that we can be sure we’re presenting a coherent, pleasant experience to developers. This isn’t always the case, depending on the size of the audience for the service, the stability of the service API, or the urgency of delivering new API features. We do a significant amount of work to try and make the generated code usable out of the box, but it’s hard to reach the same level of quality that way.</p>
+
+<p><strong>Today you are a software engineer working on Java at Microsoft. What exactly are you working on?</p>
+<p></strong>I work on the core tools that we use to generate API clients in Java. Specifically, I’ve been working on an overhaul of our Java code generator and “runtime” library, which is referenced in our generated Java code to make network calls, authenticate, serialize/deserialize, and many other various tasks. The overall solution has to be suitable both for a user who just wants to show up and learn to make a few simple calls, and a user who wants to have a high level control over how things are done and get as much throughput as possible with minimal usage of system resources.</p>
+
+<p><strong>So your code is what all Java SDKs use to connect to Azure? That feels like a big responsibility! What kind of challenges do you have in your job?</p>
+<p></strong>Some of the biggest challenges are around delivering convenience features based on the needs of various teams that depend on us while continuing to function fully across such a general space. It can be a bit of a tightrope walk to implement features for one team without breaking features for another team, and we wind up supporting a lot of implicit “convenience” conversions that stay with us. We have to spend a lot of time considering finer details, like what URL escaping means for different types of URL parameters or what empty strings/collections vs. nulls should mean in various contexts.</p>
+
+<p>It was particularly challenging to implement the network layer of our new Java core using Netty and RxJava. I learned a great deal about concurrency in Java by doing so. Although it’s sometimes discouraging to debug issues that only show up on a server under heavy load, it’s also very interesting and rewarding to reason about and solve problems in that kind of a setting.</p>
+
+<p><strong>I have been quite vocal about the importance of convenience APIs, and I feel like sometimes when you're in a meeting with me that I'm unintentionally attacking your work. So, sorry if you feel ambushed! :-) I have a lot of respect for the challenges you face in auto-generating APIs, and feel bad for arguing the importance of hiding these APIs behind a convenience layer! The fact that you need to cover such a massive surface area, and a surface that is frequently changing, makes your work super important. I know you're constantly working to improve the auto-generated APIs, so some of the language features in JDK 8 must have you pretty excited. Apart from that, are there libraries you're fond of using? Reactive APIs, dependency injection, etc, or do you try to keep external dependencies to a minimum?</p>
+<p></strong>No worries—I don’t see criticism of the product as criticism of myself :-) I don’t disagree with your argument. I just hope we can find a balance that lets us ship code of respectable quality on a reasonable schedule. I pray that something like “void getMetadata()” never ships.</p>
+
+<p>Regarding Java 8: I think CompletableFuture is the right answer for&nbsp;many of our users, and Java 8’s lambdas are already simplifying our code generator considerably. I find RxJava enables some really powerful sequencing of asynchronous tasks, but we also have to think about our users who just want to make a few calls with straightforward semantics that resemble the JDK APIs they already know. Before we made the call to standardize on Java 8 recently, it was particularly challenging, as the JDK didn’t really provide a fundamental type for composable asynchronous programming at that point.</p>
+
+<p>I’m in favor of keeping a minimal dependency count, but the truth is that we have some essential dependencies that we couldn’t live without. They tend to also be the ones where we have to work through the greatest number of breaking changes when we update, and where we hear about our customers getting in trouble with version conflicts the most.</p>
+
+<p>Some of the architectural decisions we made for v2 amount to us choosing to replace some of our dependencies with internal solutions that handle our use case more effectively (particularly <a href="https://github.com/square/retrofit">Retrofit</a>), and to rearchitect our API surface to hide the dependencies more effectively--particularly the abstract HttpClient/Request/Response types that are meant to allow users to adapt any HttpClient out in the world to work in our stack. I’m optimistic that moving in that kind of a direction in the long term will help our customers use our library in a wider variety of environments.</p>
+
+<p><strong>As you look ahead, what are some of the areas of focus for you and your work? Are you looking into Java 8 to simplify your APIs or Java 9 to modularize the SDK?</p>
+<p></strong>After quite a bit of examination of telemetry and release schedules, we’re deciding to require a Java 8 minimum for our upcoming major release later this year. I’m particularly hoping to reduce our third-party dependency burden through use of APIs that are new in Java 8.</p>
+
+<p>I’ve picked up a book on Java 9 modules recently to try and figure out the best experience we can provide for Java 9 users moving forward. I don’t know a ton yet, but I want to make sure we start off on the right foot in terms of which classes are being placed in which packages so that we can properly hide our implementation details.</p>
+
+<p><strong>Microsoft isn’t historically known for its support of Java. How do you find being an engineer working with Java inside Microsoft?</p>
+<p></strong>I’m lucky to be on a team with a lot of Java experience and a team culture that expects participation in the open source community. It’s been good for us to be kind of an underdog in this space—we have to work to win the trust of Java developers, and that pushes us to come up with better solutions.</p>
+
+<p><strong>Thanks so much for your time! Do you have any other final words that you want to share with the community?</p>
+<p></strong>Thank you for having me. I’d like to say thanks to Dávid Karnok and David Moten from RxJava, and Norman Maurer and Scott Mitchell from Netty for being welcoming and helpful when I showed up with questions or bug reports.</p>
+]]></Content>
+	</post>

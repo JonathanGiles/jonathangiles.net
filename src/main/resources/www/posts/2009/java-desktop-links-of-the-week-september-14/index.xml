@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>607</ID>
+		<Slug>java-desktop-links-of-the-week-september-14</Slug>
+		<Title>Java desktop links of the week, September 14</Title>
+		<Date>2009-09-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>It's another week, so of course it's time for another weeks worth of links. It's been a very busy news week, so I have tried to keep each point succinct. Also, thanks to everyone emailing me their links. Righty - on with the news.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has been very busy recently, putting up a heap of work that he did whilst vacationing. He published <a href="http://www.pushing-pixels.org/?p=1386">three</a> <a href="http://www.pushing-pixels.org/?p=1390">new</a> <a href="http://www.pushing-pixels.org/?p=1393">skins</a> for Substance, posted about <a href="http://www.pushing-pixels.org/?p=1396">overlay painters</a> as used in Substance, and introduced an <a href="http://www.pushing-pixels.org/?p=1402">updated version of the Jitterbug editor for Substance colour schemes</a>.</li>
+	<li><strong>Eric Burke</strong> has a post on how <a href="http://stuffthathappens.com/blog/2009/09/07/not-a-jcombobox-bug/">JComboBox handles the situation where multiple items are equal</a>. In summary, you really should not duplicate things in a combo box.</li>
+	<li><strong>Carsten Oland</strong> has a post detailing how to create "<a href="http://carsten-oland.blogspot.com/2009/09/fancy-jlabels-with-jhlabs-filters.html">fancy JLabels with JHLabs Filters</a>". Of course, just because you can create fancy labels, doesn't mean you should; excerise restraint, lest your GUI become overwhelmed in fanciness.</li>
+	<li>Speaking of fanciness, <strong>Andy Gibson</strong> has a tutorial on <a href="http://www.andygibson.net/blog/index.php/2009/09/02/glass-button-tutorial-in-java/">creating glass buttons in Java</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Amy Fowler</strong> has a <a href="http://weblogs.java.net/blog/aim/archive/2009/09/10/javafx12-layout">really useful article further clarifying layouts in JavaFX 1.2</a>.&nbsp; If you're using JavaFX, it's well recommended that you check out this blog post.</li>
+	<li>Speaking of layouts, <strong>Inyoung Cho</strong> has a post that provides a JavaFX applet that <a href="http://javafx.com/docs/articles/Flowers/layoutContainers.jsp">demonstrates the various layouts available</a>.</li>
+	<li>For those of you in better timezones than I, there is a Sun webinar titled "<a href="https://dct.sun.com/dct/forms/reg_us_0309_179_0.jsp">Serving the Next Billion, JavaFX: Rich Internet Experiences</a>". It is on September 23, 2009 at 8:00am PDT. It is being presented by <strong>Jacob Lehrbaum</strong>, Marketing Lead, and  JavaFX Engineering leader.</li>
+	<li><strong>Josh Marinacci</strong> has posted the <a href="http://jfxstudio.wordpress.com/2009/09/08/jfxstudio-challenge-theme-revealed/">theme for the next JFXStudio Challenge, and it's 'time'</a>. This challenge requires you to <a href="http://jfxstudio.wordpress.com/2009/08/31/jfxstudio-challenge-small-is-the-new-big/">write an application in 30 lines (or 3000 characters - it's your choice)</a>, with an Amazon gift card for the best entrant.</li>
+	<li><strong>Simon Brocklehurst</strong> has published the results of his applet start-up test he run last week. He has <a href="http://www.psynixis.com/blog/2009/09/08/javafx-applets-%E2%80%93-current-state-of-play-and-next-steps/">succinctly summarised where he considers the problems to be</a>, and it's well worth a read for anyone considering deploying on the web.</li>
+	<li><strong>Osvaldo Pinali</strong> has a <a href="http://weblogs.java.net/blog/opinali/archive/2009/09/09/javafx-121-out-fixes-binding-leaks-and-performance">blog discussing the new JavaFX 1.2.1 release</a>. If you want to know what has changed, this is perhaps the best blog post I've seen discussing it.</li>
+	<li><strong>Jeff Frieson</strong> has a long tutorial on InformIT titled "<a href="http://www.informit.com/articles/article.aspx?p=1391213">Using Transitions to Simplify JavaFX Animations</a>".</li>
+	<li><strong>Jim Weaver</strong> has <a href="http://learnjavafx.typepad.com/weblog/2009/09/introducing-speedreaderfx-powered-by-javafx-and-jfxtras.html">released SpeedReaderFX</a>, which is an application that pulls together RSS and Atom feeds, as well as data from some social networking APIs such as Twitter (among many others). It (ab)uses my JavaFX menubar API also :-)</li>
+	<li><strong>Kerry Wilson</strong> has a good tutorial on <a href="http://www.goodercode.com/wp/?p=25">building a sticky notes application in JavaFX</a>. This covers wrapping Swing components, using the Storage API, demonstrates simple binding and graphics/effects.</li>
+	<li><strong>Dmitry Kostovarov</strong> has a post discussing <a href="http://javafx.com/docs/techtips/custom_fonts/">how to use custom fonts in JavaFX</a>.</li>
+	<li><span lang="EN-US"><strong>Pedro Duque Vieira</strong> emailed me to remind everyone that <a href="http://code.google.com/p/jfxtras/source/browse/jfxtras.core/trunk/src/org/jfxtras/scene/JXScene.java">JXScene in the JFXtras project is available</a> and updated to work with JavaFX 1.2 and 1.2.1. JXScene allows for you to embed JavaFX scenes into your Swing applications.</span></li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has blogged about the <a href="http://www.jroller.com/aalmiray/entry/griffon_latest_plugin_releases_ii">latest plugin releases based on the 0.2-BETA release of Griffon</a>.</li>
+	<li>As well as this, <strong>Andres</strong> was counting down the days earlier this month, until <a href="http://www.jroller.com/aalmiray/entry/happy_birthday_griffon">declaring happy 1st birthday to Griffon on September 10</a>. Mark this day in your calendars people, so as not to wonder next year what Andres' countdown means :-)</li>
+</ul>
+<p>See you all again next week.</p>
+<p><div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;"><strong>Inyoung Cho</strong></div></p>
+]]></Content>
+	</post>

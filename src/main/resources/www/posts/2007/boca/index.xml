@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>79</ID>
+		<Slug>boca</Slug>
+		<Title>Boca</Title>
+		<Date>2007-02-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p><a href="http://ibm-slrp.sourceforge.net/">Boca</a> is part of IBM's Semantic Layered Research Platform.<img src="http://ibm-slrp.sourceforge.net/wiki/images/3/37/Boca-overview.png " title="Boca Overview" alt="Boca Overview" align="right" height="291" width="297"></p>
+
+<p>It is "the foundation of many of our components.It is an enterprise-featured RDF store that provides support for multiple users, distributed clients, offline work, real-time notification, named-graph modularization, versioning, access controls, and transactions with preconditions."</p>
+
+<p>To be honest, I am still trying to fully understand what that paragraph means entirely. I am in communication with the IBM people involved with this project, and it may turn out that this technology becomes a part of my research this year.</p>
+
+<p>I think my options right now are to either:</p>
+<ul>
+	<li>Use <a href="http://jena.sf.net">Jena</a> to store the graph data by querying a database that has a <a href="http://sites.wiwiss.fu-berlin.de/suhl/bizer/d2r-server/">D2R server</a> sitting in front of it (D2R allows for relational databases to be queried using <a href="http://www.w3.org/TR/rdf-sparql-query/">SPARQL</a>).</li>
+	<li>Use <a href="http://openrdf.org">Sesame</a> to store the graph data by querying Boca, which wraps around a database (mind you, the database is a custom Boca one).</li>
+</ul>
+<p>Regardless of option taken, I will likely need to write custom SPARQL queries to populate the graph.</p>
+
+<p>Having written this, I'm torn. Boca offers some cool features (particularly real-time notification, versioning, access controls and the ability to update data), but so does D2R server (the ability to map multiple databases together). Ideally, it would be possible to get both sets of functionality. Maybe the <a href="http://sites.wiwiss.fu-berlin.de/suhl/bizer/ng4j/semwebclient/">Semantic web client library</a> can help there?</p>
+]]></Content>
+	</post>

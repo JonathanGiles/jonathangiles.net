@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>358</ID>
+		<Slug>java-desktop-links-of-the-week-may-18</Slug>
+		<Title>Java desktop links of the week, May 18</Title>
+		<Date>2009-05-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Wow. This week a lot of other Java toolkits get a mention, including SWT, Pivot, Groovy, and QT Jambi. Things are feeling a little splintered in the Java desktop world (which to me is a little sad - I'd much rather everyone get behind one or two libraries instead of needlessly duplicating effort). Despite this, it's open source, and people are welcome to scratch their itches.</p>
+
+<p>Without further ado, here we go - I hope you enjoy!</p>
+<h3>General</h3>
+<ul>
+	<li>Not strictly desktop related, but very useful nonetheless is the news that Java 7 will support watching directories for changes. <strong>Sharon Zakhour</strong> posts a <a href="http://blogs.sun.com/thejavatutorials/entry/watching_a_directory_for_changes">comprehensive overview of this new feature in NIO2</a> .</li>
+	<li><strong>Taranfx</strong> posts an <a href="http://www.taranfx.com/blog/?p=806">overview of Java VisualVM</a> . I highly recommend you watch the video on the site.</li>
+</ul>
+<h3>Swing</h3>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has been stupidly busy this week. He announced new release candidate releases for <a href="http://www.pushing-pixels.org/?p=1215">Substance 5.2</a> and <a href="http://www.pushing-pixels.org/?p=1225">Flamingo 4.1</a> . He also features a guest post from <strong>Michael Kneebone</strong> talking <a href="http://www.pushing-pixels.org/?p=1228">about the Laf-widget project</a> . Finally, Kirill announced <a href="http://www.pushing-pixels.org/?p=1231">Project Onyx which aims to provide blueprints for adding animation to Swing applications</a> (using his Trident timing framework).</li>
+	<li>A bug has been fixed in Java which resulted in <a href="http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=6713352">deadlocks when using a JFileChooser in a particular way</a> .</li>
+	<li><strong>Rob Camick</strong> posts a <a href="http://tips4java.wordpress.com/2009/05/08/custom-painting-approaches/">brief overview of custom painting in Java</a> .</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li><strong>Magnus Robertsson</strong> posts about <a href="http://blog.jayway.com/2009/05/12/transparent-bind-of-javafx-and-pojos/">transparent binding between JavaFX and POJOs using aspect-oriented programming</a> .</li>
+	<li><strong>Vaibhav</strong> gives a few <a href="http://blogs.sun.com/vaibhav/entry/take_care_of_basic_user">pointers on how to improve the user experience when developing JavaFX applications</a> . He also posts a JavaFX script that <a href="http://blogs.sun.com/vaibhav/entry/image_of_the_day_nasa">retrieves a new picture from NASA each day</a> .</li>
+	<li><strong>Jim Connell</strong> posts about <a href="http://newfoo.net/2009/05/12/building-an-analytics-dashboard-with-javafx.html">building an analytics dashboard with JavaFX</a> .</li>
+	<li><strong>Fabrizio Giudici</strong> posts some <a href="http://netbeans.dzone.com/articles/javafx-using-patterns-and">sample code on building a more Swing-looking JavaFX application</a> .</li>
+	<li><strong>Chui</strong> posts <a href="http://www.redmountainsw.com/wordpress/archives/javafx-custom-cursors">how to get custom cursors in JavaFX</a> , even when the image is smaller than the required 32x32.</li>
+	<li> <strong><span class="byline"> Haining Henry Zhang </span> </strong> <span class="byline">posts about <a href="http://www.insideria.com/2009/05/writing-the-pac-man-game-in-ja.html">writing a Pac-Man game in JavaFX</a> .</span></li>
+	<li><span class="byline"><strong>Piliq.com</strong> posts about the BubbleMark test, and <a href="http://piliq.com/javafx/?p=943">how he managed to optimise the JavaFX version to improve performance</a> .</span></li>
+</ul>
+<h3>SWT</h3>
+<ul>
+	<li><strong>mkyong.com</strong> posts a <a href="http://www.mkyong.com/swt/swt-hello-world-example/">demo of a Hello World application in SWT</a> .</li>
+</ul>
+<h3>Groovy</h3>
+<ul>
+	<li><strong>Andres Almiray</strong> posts that <a href="http://www.jroller.com/aalmiray/entry/flamingobuilder_0_2_released">FlamingoBuilder 0.2 has been released</a> . FlamingoBuiilder is a member of the SwingBuilder family of builders, it lets you take advantage of the <a href="http://flamingo.dev.java.net/">Flamingo</a> component suite.</li>
+</ul>
+<h3>QT Jambi</h3>
+<ul>
+	<li><a href="http://labs.trolltech.com/blogs/2009/05/11/qt-jambi-450_01-released-contributors-wanted/">QT Jambi 4.5.0_01 has been released</a> . This is the final feature release of QT Jambi by QT Software.</li>
+</ul>
+<h3>Apache Pivot</h3>
+<ul>
+	<li><strong>Greg Brown</strong> posts <a href="http://www.insideria.com/2009/05/exploring-apache-pivot-11-part-2.html">part 3 of an overview of Apach Pivot 1.1.</a> Pivot is a Java-based RIA toolkit that is currently undergoing incubation at the Apache Software Foundation. Part 3 explains how Pivot can be used to implement support for "push" notifications in a web application using the Jabber instant messaging API. Part 2 of the series <a href="http://www.insideria.com/2009/05/exploring-apache-pivot-11-part-1.html">demonstrated Pivot's new support for browsing the local file system</a> . Part 1 of the series <a href="http://www.insideria.com/2009/04/exploring-apache-pivot-11-part.html">discusses Pivot's support for drag and drop</a> .</li>
+</ul>
+<p>Have a great week everyone.</p>
+]]></Content>
+	</post>

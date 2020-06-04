@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2094</ID>
+		<Slug>java-desktop-links-of-the-week-may-2-3</Slug>
+		<Title>Java desktop links of the week, May 2</Title>
+		<Date>2016-05-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A good number of links this week - enjoy :-)</p>
+<ul>
+ 	<li><strong>Adam Bien</strong> has <a href="http://www.adam-bien.com/roller/abien/entry/afterburner_fx_v1_7_0">released afterburner.fx 1.7.0</a>, which comes with a 'swappable DI mechanism'.</li>
+ 	<li>Speaking of <strong>Adam</strong>, he has also posted the video of his presentation on '<a href="http://www.adam-bien.com/roller/abien/entry/mvc_mvp_ioc_di_or">MVC, MVP, IOC, or a Deeper Dive Into afterburner.fx</a>'.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has created another of his 'Friday Fun Components', and of course <a href="http://harmoniccode.blogspot.co.nz/2016/04/friday-fun-xxviii.html">it looks very cool</a>.</li>
+ 	<li><strong>Gerrit</strong> has also released an updated version of his <a href="https://github.com/HanSolo/Medusa">Medusa gauges library</a>.</li>
+ 	<li><strong>Jens Deters</strong> has announced the <a href="http://www.jensd.de/wordpress/?p=2397">release of FontAwesomeFX 8.11</a>.</li>
+ 	<li><strong>Thomas Nield</strong> has released updates to <a href="https://github.com/ReactiveX/RxJavaFX">RxJavaFX</a> and <a href="https://github.com/thomasnield/RxKotlinFX">RxKotlinFX</a>, which are RXJava bindings</li>
+ 	<li><strong>Carl</strong> has two posts this week. Firstly, he has a post on '<a href="http://bekwam.blogspot.co.nz/2016/04/moving-hedgehog-around-game-board-in.html">Moving a Hedgehog Around a Game Board in JavaFX</a>', and secondly he has a post on '<a href="http://bekwam.blogspot.co.nz/2016/04/javafx-binding-of-step-indicators-in.html">JavaFX Binding of Step Indicators in a Wizard</a>'.</li>
+ 	<li>Recently there was a Virtual Technology Summit hosted by <strong>Oracle</strong>, and one of the presentations at the conference was presented by&nbsp;<strong>Johan Vos</strong>. You can now watch his presentation on <a href="https://community.oracle.com/docs/DOC-996727">Java On Mobile</a> whenever you want.</li>
+ 	<li>Speaking of Java on mobile devices and <strong>Johan</strong>, <strong>Gluon</strong> released <a href="http://gluonhq.com/gluon-mobile-2-2-0-released/">Gluon Mobile 2.2.0</a>, which includes a number of new features and bug fixes.</li>
+ 	<li><strong>Peter Rogge</strong> has put the (very early) code up for his new game, <a href="https://github.com/Naoghuman/SokubanFX/releases/tag/v0.1.0">SokubanFX</a>. It is written in JavaFX with NetBeans, but is at this stage text-only. He has also posted a <a href="https://www.youtube.com/watch?v=Kp1vWjLTIvY">short YouTube video</a> of the game.</li>
+</ul>
+]]></Content>
+	</post>

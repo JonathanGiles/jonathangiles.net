@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3004</ID>
+		<Slug>environment-variables-in-azure-functions-with-java</Slug>
+		<Title>Environment variables in Azure Functions with Java</Title>
+		<Date>2018-03-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Microsoft]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>It is often desirable to extract out secret information from source code for security reasons. This allows code to be published to source code repos without accidentally providing credentials to other developers. This can be achieved simply by using environment variables, both when running Azure Functions locally, and when deploying your functions to Azure.</p>
+
+<p>To easily set environment variables when running Azure Functions locally, you may choose to add these variables to the local.settings.json file. If one is not present in the root directory of your function project, feel free to create one. Here is what the file should look like:</p>
+
+<pre class="code_block"><code class="json">{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "AzureWebJobsDashboard": ""
+  }
+}</code></pre>
+
+<p>Each key / value mapping in the&nbsp;<code>values</code>&nbsp;map will be made available at runtime as an environment variable, accessible by calling&nbsp;<code>System.getenv("&lt;keyname&gt;")</code>, for example,&nbsp;<code>System.getenv("AzureWebJobsStorage")</code>. Adding additional key / value pairs is accepted and recommended practice.</p>
+
+<p><em>Note:</em>&nbsp;If this approach is taken, be sure to consider whether adding the local.settings.json file to your repository ignore file, so that it is not committed.</p>
+
+<p>With your code now depending on these environment variables, you can log in to the Azure Portal to set the same key / value pairs in your function app settings, so that your code functions equivalently when testing locally and when deployed to Azure. Here's a screenshot for reference:</p>
+
+<p><a href="/posts/2018/wp-content/uploads/2018/03/jogiles-short-url_-_Microsoft_Azure-2.png/"><img class="aligncenter size-full wp-image-3006" src="/content/2018/03/jogiles-short-url_-_Microsoft_Azure-2.png" alt="" width="3582" height="2152"></a></p>
+
+<p>Serverless programming makes development of web services and triggers really easy, even for people who are not skilled server-side developers! If you are a Java developer, you&nbsp;should definitely take a look at <a href="https://azure.microsoft.com/services/functions/">Azure Functions</a> today - get started with the <a href="http://java.ms/free">free tier</a> and go from there! As I noted in my first post - the <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-one/">cost of operating these services</a> is extremely minimal (cents per month).</p>
+]]></Content>
+	</post>

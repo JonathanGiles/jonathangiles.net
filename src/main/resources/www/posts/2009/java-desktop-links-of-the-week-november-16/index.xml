@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>639</ID>
+		<Slug>java-desktop-links-of-the-week-november-16</Slug>
+		<Title>Java desktop links of the week, November 16</Title>
+		<Date>2009-11-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome back to another week of Java desktop links. There is a heap of interesting news and articles this week, so I hope you enjoy and learn something new. On with the news!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Rob</strong> blogs about <a href="http://tips4java.wordpress.com/2009/11/08/tooltips-and-scrollpanes/">tooltips and scrollpanes in Swing</a>, and the problem whereby a tooltip is showing and the viewport is moved, resulting in the mouse hovering over a different tooltip-containing component. Ideally, the tooltip would be updated to the new component, but this is not the case. Rob offers a new <a href="http://www.camick.com/java/source/ToolTipListener.java">TooltipListener</a> class to resolve this.</li>
+	<li>With the recent update of Jide components, one of the new features was better handling of JTables. This work was originally implemented, and <a href="http://explodingpixels.wordpress.com/2009/11/09/jide-incorporates-a-better-jtable/">blogged about</a>, by <strong>Ken Orr</strong>.</li>
+	<li>Speaking of <strong>Ken</strong>, he also blogged about '<a href="http://explodingpixels.wordpress.com/2009/11/13/creating-the-itunes-navigation-header/">creating the iTunes navigation header</a>' in Java2D.</li>
+	<li>In another Java2D post, <strong>Jeremy</strong> blogs about <a href="http://javagraphics.blogspot.com/2009/11/gradients-boring-discussion.html">creating efficient gradients</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> posted three blogs on <a href="http://www.fxexperience.com">FXExperience.com</a> this week. They are related to <a href="http://fxexperience.com/2009/11/looping-in-fx/">looping in FX</a>, <a href="http://fxexperience.com/2009/11/function-delegation/">function delegation</a>, and <a href="http://fxexperience.com/2009/11/node-lookup/">seeking feedback on node lookup</a>.</li>
+	<li>JavaFX.com has started a new section covering <a href="http://javafx.com/learn/howto.jsp">JavaFX How-To's</a>. This looks like a great starting point for anyone wanting to get up to speed in a certain aspect of JavaFX.</li>
+	<li><strong>Sungmoon Cho</strong> has published results of the first JavaFX Survey have been <a href="http://blogs.sun.com/sungmoon/entry/first_javafx_survey_oct_2009">published and analysed</a>.</li>
+	<li><strong>Josh Marinacci</strong> posted <a href="http://jfxstudio.wordpress.com/2009/11/10/challenge-five-winners/">the winners of the last JavaFX coding challenge</a>, which had a 30 line (or 3000 character) constraint, and the theme of 'five'. On the same page he announces the new coding challenge theme of 'holiday', which ends December 15th. Get your code on!</li>
+	<li>Speaking of <strong>Josh</strong>, he has announced <a href="http://www.projectmaitai.org">Project Maitai</a>, which he <a href="http://weblogs.java.net/blog/joshy/archive/2009/11/12/announcing-project-maitai">introduces in his blog</a>. In short, MaiTai lets you visually wire up blocks to create interactive graphics.</li>
+	<li>News was released this week that the Java Store is now <a href="http://java.dzone.com/news/paypal-gives-java-store-cash">accepting</a> <a href="http://terrencebarr.wordpress.com/2009/11/12/java-store-now-serving-payments/">payment</a> via PayPal. Of course, this is assuming you can access the Java Store, which is presently limited to the US.</li>
+	<li>If you'd like to learn more about the Java Store, there is a <a href="http://weblogs.java.net/blog/editor/archive/2009/11/11/new-java-warehouse-and-java-store-deep-dive-videocast-series">three-part Deep Dive video interview between Ed Ort and Bernard Traversat</a>.</li>
+	<li><strong>Tor Norbye</strong> published his <a href="http://wikis.sun.com/display/JavaFxCodeConv/Home">coding conventions for the JavaFX language</a>.</li>
+	<li><strong>Stephen Chin</strong> is going to be offering prizes to people attending his session at Devoxx. You can find out <a href="http://steveonjava.com/2009/11/13/learnfx-and-win-at-devoxx/">how you can be in to win at his blog</a>.</li>
+	<li><strong>Carl Dea</strong> published a <a href="http://books.dzone.com/reviews/javafx-action">review of the new 'JavaFX in Action' book</a> written by <strong>Simon Morris</strong>. Speaking of this book, <strong>Simon</strong> has blogged about <a href="http://weblogs.java.net/blog/javakiddy/archive/2009/11/12/javafx-action-pixels-print">taking pixels to print</a>.</li>
+	<li><strong>Sten Anderson</strong> has blogged about the <a href="http://blogs.citytechinc.com/sanderson/?p=241">release of Music Explorer 1.1</a>, his award-winning JavaFX application. This version is mostly about performance and stability improvements and it’s also the first version to be released under JavaFX 1.2. Additionally, it sports a new feature: the “Fame” knob.</li>
+	<li><strong>Rakesh Menon</strong> has blogged about connecting a <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_the_echo_nest">JavaFX application to the Echo Nest digital music REST API</a>.</li>
+</ul>
+<p>Catch you all again next week. Remember to keep on flicking me any links you think relevant, and have a great week!</p>
+]]></Content>
+	</post>

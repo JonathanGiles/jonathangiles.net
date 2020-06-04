@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1104</ID>
+		<Slug>java-desktop-links-of-the-week-september-5</Slug>
+		<Title>Java desktop links of the week, September 5</Title>
+		<Date>2011-09-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Here we go, yet another weeks worth of Java desktop links. There are quite a few interesting links this week - so tuck in and enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>This week <a href="http://www.oracle.com/technetwork/java/javafx/downloads/index.html">JavaFX 2.0 beta b42 was released</a>. We're nearing the general availability release of JavaFX 2.0, so the APIs and functionality are pretty much set in stone now (which means now might be a good time to start exploring JavaFX 2.0 further, as you're less likely to be burnt by the API changes that have been occurring for the last few months).</li>
+	<li>The <strong>JavaFX documentation team</strong> have blogged about some of the <a href="http://blogs.oracle.com/thejavatutorials/entry/changes_in_build_42_that">notable API changes that occurred in JavaFX 2.0 b42</a>.</li>
+	<li>With the latest JavaFX 2.0 beta release, a number of projects have put out new releases to work against the latest APIs. These include <strong>Tom Eugelink</strong> has once again <a href="http://java.net/projects/miglayoutfx2/pages/Home">updated his popular MigPane project</a>, <strong>Jim Clarke</strong> and <strong>Dean Iverson</strong> with <a href="http://groovy.codehaus.org/GroovyFX">GroovyFX</a>, and <strong>Bertrand Goetzmann</strong> with <a href="https://bitbucket.org/bgoetzmann/grezi/wiki/Home">Grezi</a>.</li>
+	<li><strong>Tom Schindl</strong> has <a href="http://tomsondev.bestsolution.at/2011/09/04/efxclipse-0-0-4-released/">released e(fx)clipse 0.0.4</a>, which includes a number of new features around CSS and packaging of apps.</li>
+	<li><strong>Gerrit Grunwald</strong> has released a tool that <a href="http://harmoniccode.blogspot.com/2011/09/groovy-graphics.html">parses Adobe fxg files and returns JavaFX Groups</a> for each layer of the fxg file.</li>
+	<li><strong>Jojorabbit4</strong> has put up <a href="http://jojorabbitjavafxblog.wordpress.com/2011/09/03/javafx-2-0-css-styling-part-2/">part two of his JavaFX 2.0 CSS Styling guide</a>.</li>
+	<li>Another presentation of the '<a href="http://www.parleys.com/#st=5&amp;id=2621">JavaFX in Alternate Languages</a>' talk has come online, this time with <strong>Stephen Chin</strong> presenting on Groovy, Clojure, Scala, Fantom, and Visage, at the Jazoon conference.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Hendrik Ebbers</strong> has put up a <a href="http://www.guigarage.com/?p=153">Gesture Wrapper API</a> to wrap around the Apple multitouch gestures API. With the API you can add multitouch event handling to any swing application.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has been working on getting <a href="http://www.joshondesign.com/2011/08/31/java-sdl-avian-webos-magically-delicious/">Java graphics rendering on WebOS natively</a>.</li>
+	<li><strong>Stephen Chin</strong> has blogged about <a href="http://steveonjava.com/steveonjava-track-at-javaone/">his JavaOne calendar</a>, which may be of interest to others. Of course, he's rudely choosing to attend his own session than one of my sessions, so don't just take his plan without checking out alternatives! :-)</li>
+</ul>
+<p>That'll do for another week I think. Catch you all in a weeks time. Keep up the hard work folks! :-)</p>
+]]></Content>
+	</post>

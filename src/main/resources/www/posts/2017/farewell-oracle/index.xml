@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2495</ID>
+		<Slug>farewell-oracle</Slug>
+		<Title>Farewell Oracle</Title>
+		<Date>2017-10-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client|Life]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p><img class="size-medium wp-image-2564 alignright" src="/content/2017/09/bye-oracle-200x300.png" alt="" width="200" height="300"></p>
+
+<p><strong>tl;dr:&nbsp;</strong>Today is my last day working at Oracle as a Consulting Member of Technical Staff in the Java team. I'm exploring new work opportunities right now and have a few opportunities I'm considering. If you want to employ me,&nbsp;<a href="mailto:jonathan@jonathangiles.net">email me today</a>.</p>
+
+<p><hr></p>
+
+<p>As they say, all good things must come to an end, and today marks the end of a big part of my life for the last nine years - I'm leaving Oracle. I came in to Oracle through the Sun Microsystems acquisition, and I have to say that it feels extremely bittersweet, as I've had the great fortune to work on Java itself with a collection of people from both inside Sun / Oracle, and the wider community of Java developers via <a href="http://www.twitter.com/jonathangiles">Twitter</a>, various conferences, and <a href="mailto:jonathan@jonathangiles.net">my inbox</a>, many of whom became great friends in the process. Everyone I have worked with has been hugely professional and talented, and to say I enjoyed it immensely would be an understatement. Being able to work on Java was a dream come true for me, and&nbsp;I wish my colleagues at Oracle all the best as they continue to improve Java.</p>
+
+<p>I have been working on JavaFX for a <em>very</em> long time - I joined in mid 2009 around the release of JavaFX 1.2, back when it was all written in JavaFX Script. JavaFX has come a long way since then - it's travelled through a language transition from JavaFX Script to Java, the introduction of lambdas, and more recently the introduction of modules. There have also been so many other changes during that time, too numerous to mention.</p>
+
+<p>It's important for me to be clear: my leaving the JavaFX team is in no way a reflection on my lack of love for JavaFX and the Java client ecosystem - I wish it all the very best. I wish I was able to do more and grow JavaFX into what it deserves to be, but from here on out I can only do that from outside of the Oracle team.</p>
+
+<p>I know whenever a person leaves a project there are questions that will be raised about its future. Perhaps one day soon I can write a blog post about JavaFX, but for today I encourage enterprises or individuals concerned to <a href="mailto:jonathan@jonathangiles.net">ping me</a>&nbsp;if they wish to discuss anything.</p>
+
+<p><strong>What is next for me?</strong></p>
+
+<p>I have a few irons in the fire that I want to work on, and a few job offers from companies I have already privately pinged (which explains all the travel I've been doing recently). It has been nice to interact with companies and have them determine the right role for me - I've been considering a few different kinds of career path thanks to this, and so right now I am incredibly excited about what opportunities await, and where I land next.</p>
+
+<p>All of this is to say: if your organisation is looking for a highly-skilled developer / technical lead / engineering manager / trainer / advocate, in a consulting, part-time, or full-time position, I am very&nbsp;keen to <a href="mailto:jonathan@jonathangiles.net">hear from you</a>. On the other hand, for those wondering where I might end up, you might want to prepare yourselves to be surprised - although one consistent fact across all my discussions so far is that they are all heavily Java-focused, fortunately :-)</p>
+
+<p>To learn more about me, you can check out my <a href="/projects.html">projects</a> and <a href="/presentations.html">presentations</a> pages, as well as my <a href="https://www.linkedin.com/in/jonathangiles/">LinkedIn profile</a>. Whilst I am currently based out of New Zealand, this is only my current state and I am happy to relocate with my family for the right projects.</p>
+
+<p><strong>What about my open source projects / blogs?</strong></p>
+
+<p>For now I plan to continue blogging here and at <a href="http://FXExperience.com">FXExperience.com</a>, and to continue the work on my projects like <a href="http://controlsfx.org">ControlsFX</a>, <a href="https://github.com/FXDocs/docs">FXDocs</a>, <a href="http://scenic-view.org">Scenic View</a>, etc. If or when those plans change, I'll be sure to make appropriate announcements.</p>
+
+<p><strong>Summary</strong></p>
+
+<p>That's it. To me leaving Oracle was almost impossible - I always wanted to serve the community and grow Java client however I could. I immensely enjoyed the coding, the bug fixing, the discussions on Twitter and Jira, attending conferences, arranging the Java Desktop Lunch, and all the other things I got to do in my role at Oracle. No day felt like work for me. For now I say goodbye to Oracle, but definitely not to the wonderful Java community :-) So, please, update your address books - jonathan.giles@oracle.com will bounce by the end of Friday, and so from now on, please ping me on <a href="mailto:jonathan@jonathangiles.net">jonathan@jonathangiles.net</a>.</p>
+
+<p>I know that to many people this is surprising and / or disappointing. If you have anything you want to ask or talk about, I will be as transparent as I can be - my email is always open to you.</p>
+
+<p>Expect a few more interesting blog posts to come...</p>
+]]></Content>
+	</post>

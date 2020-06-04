@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>495</ID>
+		<Slug>java-desktop-links-of-the-week-july-13</Slug>
+		<Title>Java desktop links of the week, July 13</Title>
+		<Date>2009-07-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx</Tags>
+		<Content><![CDATA[<p>Here is another weeks fresh Java desktop links, served steaming hot straight to you - just the way I know you like it.</p>
+
+<p>Enjoy.</p>
+<h4>Swing</h4>
+<ul>
+	<li><span><strong>Rémy Rakic</strong> posts on how he achieved <a href="http://lqd.hybird.org/journal/?p=165">hardware accelerated effects in Swing using JXLayer and Decora</a>.</span></li>
+	<li><span><strong>Kirill Grouchnikov</strong> has an <a href="http://www.pushing-pixels.org/?p=1330">interview with Alex Imrie on the topic of UI testing</a>.</span></li>
+	<li><strong>James Clarke</strong> has an article on <a href="http://blogs.sun.com/clarkeman/entry/how_to_use_javafx_in">how to integrate JavaFX into Swing applications</a>. This is a very popular topic and you can find more links in previous Java desktop links of the week posts.</li>
+	<li><strong>Dave Gilbert</strong> emailed me to let me know of a post which shows <a href="http://www.jroller.com/dgilbert/entry/better_looking_charts">how to allow background images to be displayed behind charts</a>.</li>
+	<li><strong>Alex Ruiz</strong> posts on <a href="http://alexruiz.developerblogs.com/?p=160">how to create EDT-safe UI tests in Swing</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> posts an article asking for feedback from people relating to <a href="http://fxexperience.com/2009/07/controls-autosize/">controls 'auto-sizing' when their content changes</a>. Please, if you have any opinions leave a comment on the blog post.</li>
+	<li><strong>Amy Fowler</strong> responded to <a href="/posts/2009javafx-node-bounds-i-dont-get-it/">my questions from last week</a>, with a <a href="http://weblogs.java.net/blog/aim/archive/2009/07/bounds_unleashe.html">detailed blog post explaining layout bounds as they stand in JavaFX 1.2</a>. If you have read anything in the past, I suggest you still read this post as bounds changed considerably betweeen 1.0 and 1.2.</li>
+	<li>Related to Amy's post is the boundsizer JavaFX application, which <a href="http://jfxtras.org/portal/samples">you can find more about here</a>. This is hosted by <strong>Stephen Chin</strong>.</li>
+	<li><strong>Josh Marinacci</strong> posts a <a href="http://projects.joshy.org/jfxstudio/Particles/PrismParticles.jnlp">webstart link</a> to his <a href="http://jfxstudio.wordpress.com/2009/07/10/particle-o-rama/">Particle-O-Rama effects application</a>.</li>
+	<li>The JavaFX coding challenge has wrapped up with the <a href="http://javafx.com/challenge/">winners being announced</a> this week. Congrats to the winners.</li>
+	<li><strong>Osvaldo Pinali</strong> posts an <a href="http://weblogs.java.net/blog/opinali/archive/2009/07/javafx_balls_22.html">updated JavaFX Balls benchmark</a>, and writes a lot of information about this in his latest post.</li>
+	<li><strong>Steven Herod</strong> wants to get your <a href="http://blogs.herod.net/javafx/2009/07/twitterfx-what-next/">thoughts on the future of TwitterFX</a>. Let him know your thoughts, and feel free to give him a hard time for being an Aussie.</li>
+	<li><strong>Jim Weaver</strong> has two posts this week, the first discussing <a href="http://learnjavafx.typepad.com/weblog/2009/07/leveraging-jfxtras-and-freebase-with-javafx-to-create-bandmatesfx.html">using FreeBase to create BandmatesFX</a>, and the second showing off <a href="http://learnjavafx.typepad.com/weblog/2009/07/making-music-and-software-with-my-friends-in-javafx.html">Indaba Console 2.0, which is an internet-based, collaborative recording studio</a>.</li>
+	<li><strong>Rakesh Menon</strong> posts a blog to warn people to <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_bind_with_caution">bind with caution</a>. I believe that for the second point mentioned in this post there really should be some kind of isAdjusting variable in Slider so that triggers bound to slider.value can be a little bit more smart, only running compute-intensive tasks when isAdjusting is false.</li>
+	<li><strong>Rakesh</strong> also posted a <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_combobox">combo box control</a> that might be useful to people whilst they wait for a proper control to be introduced in JavaFX.</li>
+	<li>In <strong>Rakesh</strong>'s third post of the week, he details <a href="http://blogs.sun.com/rakeshmenonp/en_US/entry/javafx_storage">how to use storage functionality in JavaFX</a>.</li>
+	<li>Last week I mentioned <strong>Carl Dea</strong> had written part one in a two part series on linking JavaFX and JavaScript. This week <a href="http://carlfx.wordpress.com/2009/07/09/javafx-to-javascript-and-back-part-2/">he has published part two</a>, and he also <a href="http://jfxtras.org/portal/samples/all/-/asset_publisher/1Bl5/content/12814">made available a demonstration</a>.</li>
+	<li>Additionaly, <span style="text-decoration: line-through;"><strong>Carl</strong> is attempting to maintain a <a href="http://carlfx.wordpress.com/javafx-wishlist/">wishlist of JavaFX features on his blog</a>.</span> Personally I would encourage people to post their (considered) request for enhancements directly to the <a href="http://javafx-jira.kenai.com">JavaFX-jira issues tracker</a>. Having done this, feel free to trade the JavaFX issue urls, rather than attempt to maintain a separate repository of wishes which won't necessarily ever been seen by anyone with any relevance to JavaFX development.</li>
+	<li><strong>Ambika Sukla</strong> emailed me to let me know about '<a href="http://www.namethenote.com/">Name the Note</a>', a JavaFX applet designed to make learning to read music easier.</li>
+	<li><strong>Jan Goyvaerts</strong> posts a code-heavy article on <a href="http://sites.google.com/site/javafxcodesamples/experiments-1/http-file-upload-with-javafx">how to do multipart HTTP file uploads using JavaFX</a>.</li>
+	<li>Finally, some good looking guy wrote a review of the <a href="http://www.projavafx.com">Pro JavaFX Platform</a> book, <a href="http://books.dzone.com/reviews/pro-javafx-platform">which can be read here</a>.</li>
+</ul>
+<h4>Groovy</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> keeps his blog on all things Groovy churning out the hits, this week with two on GfxBuilder. The first post is about <a href="http://www.jroller.com/aalmiray/entry/gfxbuilder_update_custom_nodes">custom nodes</a>, and the second on <a href="http://www.jroller.com/aalmiray/entry/gfxbuilder_update_2_transforms">transforms and plugins</a>.</li>
+</ul>
+<p>That's it for another week. Keep up the good work everyone, but for those of you up in the northern hemisphere, get outside and enjoy the sunshine :-)</p>
+]]></Content>
+	</post>

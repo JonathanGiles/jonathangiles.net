@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2508</ID>
+		<Slug>java-desktop-links-of-the-week-may-22</Slug>
+		<Title>Java desktop links of the week, May 22</Title>
+		<Date>2017-05-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A quiet week this week. I'll be travelling for the next two weeks, so don't expect any posts from me during this time.</p>
+<ul>
+ 	<li><a href="https://github.com/edvin/tornadofx/releases/tag/v1.7.5">TornadoFX 1.7.5 has been released</a>. TornadoFX is a lightweight JavaFX framework for Kotlin.</li>
+ 	<li>Speaking of TornadoFX, <strong>Edvin Syse</strong> has posted a video demonstrating <a href="https://www.youtube.com/watch?v=mlDT1Y1b09M&amp;feature=youtu.be">performance strategies for TornadoFX</a>.</li>
+ 	<li><strong>Almas Baimagambetov&nbsp;</strong>has released an update to <a href="https://github.com/AlmasB/FXGL">FXGL</a> - his JavaFX Game Development Framework.</li>
+</ul>
+]]></Content>
+	</post>

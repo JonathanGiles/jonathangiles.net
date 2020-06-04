@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1986</ID>
+		<Slug>java-desktop-links-of-the-week-october-12</Slug>
+		<Title>Java desktop links of the week, October 12</Title>
+		<Date>2015-10-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Not long to go now until JavaOne! I'm really looking forward to heading&nbsp;over&nbsp;there again - it's always nice to meet old and new friends. If you're going to JavaOne be sure to come up and say hi! :-)&nbsp;There is a&nbsp;heap of interesting links this week - there is not the usual quiet period before JavaOne like in most years! Enjoy.</p>
+<ul>
+	<li>There were a number of <strong>Gluon</strong> open source related posts this week. Firstly, there was the announcement of <a href="http://gluonhq.com/announcing-gluon-ignite-easy-javafx-dependency-injection/">Gluon Ignite</a>, an open source JavaFX dependency injection framework. Secondly, they announced the <a href="http://gluonhq.com/release-schedules-for-javafxports-and-scene-builder/">release schedules</a> for Scene Builder and JavaFXPorts projects. Thirdly, they released&nbsp;<a href="http://gluonhq.com/gluon-javafx-mobile-sdk-8-60-6-for-android-and-ios-released/">Gluon JavaFX Mobile SDK 8.60.6 for Android and iOS</a>. Fourthly, they also released&nbsp;<a href="http://gluonhq.com/gluon-javafx-embedded-arm-sdk-8-60-6-released/">Gluon JavaFX Embedded (ARM) SDK 8.60.6</a>. Finally, there was an interesting blog post about <a href="http://gluonhq.com/handling-android-native-activities-like-a-pro/">writing native activities</a>&nbsp;for Android / iOS using the open source Gluon Charm Down library.</li>
+	<li><strong>Jens Deters</strong> has <a href="http://www.jensd.de/wordpress/?p=2165">released&nbsp;MQTT.fx 0.0.18</a>. As always this comes with a number of new features and bug fixes.</li>
+	<li><strong>Rob Terp</strong> has a small post about some <a href="https://rterp.wordpress.com/2015/10/08/handy-tools-for-javafx-development/">useful tools</a> that people who develop JavaFX software should be familiar with.</li>
+	<li><strong>Hendrik Ebbers</strong> continues to post about the Dolphin Platform project. This week he has posts on&nbsp;the <a href="http://www.guigarage.com/2015/10/dolphin-platform-a-sneak-peek-of-the-model-api/">model API</a> and the <a href="http://www.guigarage.com/2015/10/dolphin-platform-a-sneak-peek-of-the-view-api/">view API</a>.</li>
+	<li><strong>Andres Almiray</strong> has blogged about how the Griffon project has been forked to create the&nbsp;<a href="http://www.jroller.com/aalmiray/entry/and_griffon_beget_basilisk">Basilisk project</a>, which "aims to bring the Griffon experience to mobile/desktop application development".</li>
+	<li><strong>A. Sundararajan</strong> has posted about building a <a href="https://blogs.oracle.com/sundararajan/entry/using_javafx_fxml_with_nashorn">standalone JavaFX FXML app with nashorn</a> scripts for event handling - and no java code!</li>
+	<li><strong>Dirk Lemmermann</strong> has opened the <a href="http://www.calendarfx.com/buy.html">online store for the CalendarFX project</a> (it is <a href="https://www.componentsource.com/product/calendarfx">also available on ComponentSource</a>).</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

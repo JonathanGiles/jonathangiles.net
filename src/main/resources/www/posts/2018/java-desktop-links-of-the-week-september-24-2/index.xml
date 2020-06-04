@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3159</ID>
+		<Slug>java-desktop-links-of-the-week-september-24-2</Slug>
+		<Title>Java desktop links of the week, September 24</Title>
+		<Date>2018-09-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li>The big news from the last week is the release of JavaFX 11. <strong>Kevin Rushforth</strong> <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2018-September/022475.html">announced this on the openjfx-dev mailing list</a>, and linked to the brand new <a href="https://openjfx.io/">OpenJFX.io</a> site produced by <a href="https://gluonhq.com">Gluon</a>. Speaking of Gluon, they also did <a href="https://gluonhq.com/announcing-javafx-11/">a JavaFX 11 release announcement</a> and mentioned the availability of the <a href="https://gluonhq.com/javafx-11-release-and-support-plans/">JavaFX long term support offering</a> for companies seeking backports of fixes, etc.</li>
+ 	<li><strong>Jaxenter</strong> did an interview with four people from the Java / JavaFX community (myself included) about the release of JavaFX 11. The <a href="https://jaxenter.com/javafx-interview-series-part-1-149754.html">first part of the interview series is now online</a>.</li>
+ 	<li><strong>Oshan Mendis</strong> has announced the release of <a href="https://github.com/Oshan96/CustomStage/wiki">CustomStage v1.3.2</a>, with huge CPU usage optimizations and bug fixes.</li>
+ 	<li><strong>GoXr3plus Studio</strong> has published a <strong>tutorial and library for drawing audio amplitudes</strong> like in SoundCloud with JavaFX. They have also published an <a href="https://github.com/goxr3plus/XR3Player">updated release of the open source XR3Player</a>.</li>
+</ul>
+]]></Content>
+	</post>

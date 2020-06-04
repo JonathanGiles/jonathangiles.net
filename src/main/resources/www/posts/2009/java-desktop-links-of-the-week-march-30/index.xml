@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>309</ID>
+		<Slug>java-desktop-links-of-the-week-march-30</Slug>
+		<Title>Java desktop links of the week, March 30</Title>
+		<Date>2009-03-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|javafx|swing|Swing Links</Tags>
+		<Content><![CDATA[<p>Here we go again! A huge number of links this week, but plenty of interesting news, so be sure to check it all out! Thanks to everyone in the community for creating all the news! :-) If there is anything you want me to include, email me or contact me on twitter - my contact details are to the right.</p>
+<h3>General</h3>
+<ul>
+	<li>Want to go to JavaOne? Don't have the cash to fly to San Francisco and buy the JavaOne tickets? You may be in luck, Sun and CodeProject have a competition going where the first prize is tickets (up to $1500USD worth), and a JavaOne conference pass. <a href="http://www.codeproject.com/script/Awards/Competition.aspx?cid=311">All you need to do is write an article about Java (including JavaFX I'm sure), and be the top-rated article (judged by both your peers and Sun)</a> . And if anyone wins and doesn't need the tickets, I'd gladly appreciate them ;-)</li>
+	<li><strong>Fabrizio Giudici</strong> <a href="http://weblogs.java.net/blog/fabriziogiudici/archive/2009/03/lets_fork_beans.html">posts that he has forked the Beans Binding project</a> .</li>
+</ul>
+<h3>Swing</h3>
+<ul>
+	<li><strong>Jan Haderka</strong> has announced that <a href="http://weblogs.java.net/blog/rah003/archive/2009/03/swingx_096_rele.html">SwingX 0.9.6 has been released</a> , which should be the last release before the 1.0 release. There are a number of bug fixes and code cleanups in this release, and even includes my first contribution to the project :-) If you are not using <a href="http://swingx.dev.java.net">SwingX</a> , I seriously recommend that you explore the various components offered by the project.</li>
+</ul>
+<ul>
+	<li><strong>Ken Orr</strong> posts about an <a href="http://explodingpixels.wordpress.com/2009/03/23/swing-can-be-oh-so-sweet/">application developed by Dirk Lemmermann which looks very polished</a> . It makes use of the <a href="http://code.google.com/p/macwidgets/">Mac Widgets for Java project</a> , and the post includes a number of screenshots which should serve as inspiration for many UI developers out there.</li>
+	<li><strong>Christopher Deckers</strong> got in touch with me to let me know that <a href="http://java.dzone.com/announcements/dj-native-swing-098-web">a new version of DJ Native Swing has been released</a> . DJ Native Swing allows for easy integration between some native components and Swing applications, and provides native utilities to enhance Swing's APIs.</li>
+	<li><strong>Alexander Potochkin</strong> (the current leader of the Swing Application Framework project) posts that <a href="http://weblogs.java.net/blog/alexfromsun/archive/2009/03/saf_team_is_loo.html">the project is on the lookout for people to help contribute to it</a> . I have a feeling this request has fallen on deaf ears - the SAF mailing list has been very quiet recently. If you think you can help, please, get in touch with Alexander and/or get on to the SAF mailing list. Perhaps it's just me, but I feel like the SAF project is lacking a vision, so it would be good to have that clarified.</li>
+	<li>The <a href="http://java.dzone.com/announcements/swing-javabuilder-03final">Swing JavaBuilder project has had it's final 0.3 release</a> . This project attempts to make it possible to build Swing user interfaces with a declarative markup language.</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li>JavaFX 1.1.1 has been released, prompting many to believe that the JavaFX versioning scheme is based on binary arithmetic. Despite this, <strong>Danny Coward</strong> has <a href="http://blogs.sun.com/theplanetarium/entry/here_in_the_world_of">posted a quick summary with all the relevant links</a> .</li>
+	<li><strong>Drew</strong> posts about <a href="http://piliq.com/javafx/?p=849">his thoughts on JavaFX, and whether it is right for you</a> .</li>
+	<li>Wanting to do 3D in JavaFX? Following on from last weeks link, <a href="http://www.interactivemesh.org/testspace/j3dmeetsjfx.html">I have a direct link to the people behind the code</a> . On their site is a few demos that you can run as webstart applications/applets.</li>
+	<li><strong>Richard Bair</strong> <a href="http://weblogs.java.net/blog/rbair/archive/2009/03/keep_your_fx_co.html">posts to show how he formats his JavaFX code</a> . This is an odd discussion to have, but given how new the language is, best practises have yet to be worked out.</li>
+	<li>JavaWorld has a <a href="http://www.javaworld.com/community/?q=node/2670">tutorial on how to use a Swing spinner component in JavaFX</a> . Following this tutorial, you should understand how to use other Swing components in JavaFX.</li>
+	<li>Having never used <a href="http://developer.db4o.com/">db4o</a> , I can't offer much insight to the next post. However, according to the db4o developers, <a href="http://developer.db4o.com/blogs/community/archive/2009/03/20/db4o-with-javafx.aspx">JavaFX plays nicely with it, allowing for <em>&lt;insert whatever db4o does&gt;</em> to work</a> .</li>
+	<li><strong>James Connell</strong> posts about how <a href="http://newfoo.net/2009/03/24/game-design-with-javafx-production-suite.html">he made a JavaFX game using the JavaFX production suite</a> . I haven't had a chance to read this indepth yet, but he appears to go into a lot of detail that'll no doubt be invaluable to other JavaFX developers/designers.</li>
+	<li><strong>James Weaver</strong> , as per usual, has been busy promoting JavaFX. He has a <a href="http://learnjavafx.typepad.com/weblog/2009/03/javafx-with-passion-puzzler-1.html">puzzler for people to try to develop</a> (solutions are in the comments) and a link to <a href="http://learnjavafx.typepad.com/weblog/2009/03/try-out-the-javafx-pet-store-demo-thanks-farata-systems.html">a very sad looking JavaFX petstore demo</a> (at least align the components!).</li>
+</ul>
+<h3>Griffon</h3>
+<ul>
+	<li>Last week <strong>Andres Almiray's</strong> (<a href="http://twitter.com/aalmiray">@aalmiray</a> ) website was down, so I held back some of his links until this post. In one post, he <a href="http://www.jroller.com/aalmiray/entry/assorted_griffon_0_1_0">talks about assorted Griffon 0.1.0 features</a> . In another post, <a href="http://www.jroller.com/aalmiray/entry/griffon_plugins_walktrough_builders">he discusses various builders offered that make building Swing-based user interfaces easier</a> .</li>
+	<li><strong>James Williams</strong> (<a href="http://twitter.com/ecspike">@ecspike</a> ) has a post containing a video from his <a href="http://jameswilliams.be/blog/entry/139">presentation in Sydney regarding Griffon and how it relates to Swing</a> . You need to click the 'On Demand' button and select his video from the list.</li>
+</ul>
+<p>That's it - have a great week everyone!</p>
+]]></Content>
+	</post>

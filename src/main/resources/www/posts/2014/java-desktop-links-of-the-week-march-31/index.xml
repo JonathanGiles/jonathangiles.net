@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1703</ID>
+		<Slug>java-desktop-links-of-the-week-march-31</Slug>
+		<Title>Java desktop links of the week, March 31</Title>
+		<Date>2014-03-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A huge number of links this week - people really are having fun with JavaFX these days, which is great to see!! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Hendrik Ebbers</strong> has been very busy! This week there are five links of interest related to <strong>Hendrik</strong>. Firstly, he has a blog post about his upcoming book '<a href="http://www.guigarage.com/javafx-book/">Mastering JavaFX 8 Controls</a>' (in which I was interviewed). Secondly, he has posted some <a href="http://www.guigarage.com/2014/03/javafx-css-utilities/">JavaFX CSS-related utilities</a> (to help reduce the boilerplate when building custom controls). Thirdly, he has a post about <a href="http://www.guigarage.com/2014/03/reactive-programming-javafx/">reactive programming with JavaFX</a>. Fourthly, he has posted a YouTube video of his interview as part of the nighthacking tour, where <a href="http://www.guigarage.com/2014/03/datafx-8-nighthacking/">he talks about DataFX 8</a>. Fifthly, and finally, he was interviewed by Hartmut Schlosser over at jaxenter about '<a href="http://jaxenter.com/the-cutting-edge-of-javafx-49915.html">The cutting edge of JavaFX</a>'.</li>
+	<li><strong>Tomas Mikula</strong> has blogged about <a href="http://tomasmikula.github.io/blog/2014/03/26/monadic-operations-on-observablevalue.html">monadic operations on ObservableValue</a>. As he says in his post, "First of all, don’t get scared by the word <em>monadic</em>—it just means that there are a few more operations that treat <code>null</code> as “<em>value not available.</em>” Anyway, if you have already used <a href="http://docs.oracle.com/javase/8/docs/api/java/util/Optional.html">Optional</a>, this will all look very familiar."</li>
+	<li><strong>Tom Schindl</strong> has posted that e(fx)clipse 0.9.0 has been <a href="http://tomsondev.bestsolution.at/2014/03/28/efxclipse-0-9-0-all-in-one-downloads-updated-to-kepler-sr2/">updated to Kepler&nbsp;SR2</a>. If you're using e(fx)clipse, you should definitely upgrade!</li>
+	<li>Speaking of <strong>Tom Schindl</strong>, he has also posted an update on his work to get <a href="http://tomsondev.bestsolution.at/2014/03/26/eclipse-on-javafx-a-short-video-and-next-steps/">Eclipse running on JavaFX</a>, including a video and a list of the next steps.</li>
+	<li><strong>Sean Phillips</strong> has posted the source code for his <a href="http://birdasaur.github.io/FXyz/">F(X)yz JavaFX 3D visualization library</a>.</li>
+	<li>The <a href="http://www.ankor.io/">Ankor app development framework</a> appeared out of the blue this week. It seems to be a framework in a similar vein to <a href="http://open-dolphin.org/">OpenDolphin</a> and <a href="http://www.javafxdata.org">DataFX</a>.</li>
+	<li><strong>Michael Hoffer</strong> has been working on an open source app called <a href="https://github.com/miho/JavaFXScad">JavaFXScad</a>, a JavaFX 3D Printing IDE based on <a href="https://github.com/miho/JavaCSG">JavaCSG</a>.</li>
+	<li><strong>Tim Yates</strong> has been working on <a href="https://github.com/timyates/ShadowFX">ShadowFX</a>, a Java 8 JavaFX implementation of <a href="http://ncase.github.io/sight-and-light/">http://ncase.github.io/sight-and-light/</a>. He posted a <a href="https://www.youtube.com/watch?v=l_isSA6j1Ng">video of the result</a> - pretty cool!</li>
+	<li><strong>Jens Deters</strong> has posted a <a href="https://www.youtube.com/watch?v=ML-dGVgg7FY&amp;feature=youtu.be">video of his picmodo application</a>, his "free time project to index pictures with JavaFX".</li>
+	<li><strong>Sven Ruppert</strong> has posted part one of his series on <a href="http://www.rapidpm.org/2014/03/java8-completablefuture-for-javafx-and.html">Java8 CompletableFuture for JavaFX and CDI</a>.</li>
+	<li><strong>Steven Schwenke</strong> has open sourced his <a href="http://stevenschwenke.de/javaFXWorkshop">JavaFX workshop tutorial code</a>.</li>
+	<li><strong>Frank Roth</strong> has been working on <a href="https://github.com/frankred/jSona">jSona</a>, an open-source JavaFX-based music player.</li>
+	<li><strong>Tiancheng Hu</strong> has posted a tutorial on "<a href="http://www.codeproject.com/Articles/749481/How-to-make-your-Android-projects-more-portable-to">How to make your Android projects more portable to Windows/MacOS (and vice versa)</a>" where he also talks about JavaFX as a frontend.</li>
+</ul>
+<p>That's all for this week - catch you in a weeks time.</p>
+]]></Content>
+	</post>

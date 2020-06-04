@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1093</ID>
+		<Slug>java-desktop-links-of-the-week-august-8</Slug>
+		<Title>Java desktop links of the week, August 8</Title>
+		<Date>2011-08-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing|swt</Tags>
+		<Content><![CDATA[<p>Welcome to another week of desktop links. This week there are a number of links, so hopefully there might be some that are of interest to you! Let's get right in to it :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><a href="http://fxexperience.com/2011/08/javafx-2-0-beta-build-38-available-now/">JavaFX 2.0 beta build 38</a> came out last week. This release was primarily a bug fix, performance tweak and API clean-up release, although it did also <a href="http://blogs.oracle.com/thejavatutorials/entry/javafx_2_0_beta_packager">include the JavaFX 2.0 Beta Packager Tool</a>.</li>
+	<li>Over on <strong>FX Experience</strong> I reposted an internal <a href="http://fxexperience.com/2011/07/introducing-fxml/">introduction to FXML</a> document. This post introduces FXML to quite some depth. FXML is the scriptable, XML-based markup language for constructing Java object graphs, and in particular is designed for building JavaFX user interfaces.</li>
+	<li><strong>Per Bothner</strong> has blogged about JavaFX 2.0 applications written in Kawa. His first post is an <a href="http://per.bothner.com/blog/2011/JavaFX-using-Kawa-intro/">introduction</a>, with the second post showing <a href="http://per.bothner.com/blog/2011/JavaFX-using-Kawa-animation/">how Kawa would handle JavaFX animations</a>.</li>
+	<li><strong>Tom Eugelink</strong> has put out a <a href="http://java.net/projects/miglayoutfx2/downloads">new release of MigLayoutFX2</a> to get it working with the latest JavaFX 2.0 beta builds.</li>
+	<li><strong>Patrick Champion</strong> has posted a very <a href="http://paddyweblog.blogspot.com/2011/08/very-simple-example-using-fxml-javafx.html">simple example using FXML</a>.</li>
+	<li><strong>Niklas Hofmann</strong> posted about an ImageView Node he wrote for JavaFX that <a href="http://forums.oracle.com/forums/thread.jspa?forumID=1385&amp;threadID=2264379">handles SVG images</a>. Note that it requires Apache Batik.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has two Friday Fun Component posts. The first post is an <a href="http://harmoniccode.blogspot.com/2011/07/friday-fun-component-ix.html">animated progress bar component</a>, the second post is about a <a href="http://harmoniccode.blogspot.com/2011/08/friday-fun-component-x.html">flip-character component</a> that allows for 'airport departure' style signs.</li>
+</ul>
+<h4>SWT</h4>
+<ul>
+	<li><strong>Laurent Caron</strong> has posted an <a href="http://code.google.com/a/eclipselabs.org/p/opal/">update to his opal project</a>, this time including "a miller columns component to browse tree structures 'à la Next'".</li>
+</ul>
+<p>Catch you all in a weeks time.</p>
+]]></Content>
+	</post>

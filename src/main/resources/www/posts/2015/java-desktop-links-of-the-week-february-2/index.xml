@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1864</ID>
+		<Slug>java-desktop-links-of-the-week-february-2</Slug>
+		<Title>Java desktop links of the week, February 2</Title>
+		<Date>2015-02-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week, another round of links. Enjoy.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has announced that <a href="http://tomsondev.bestsolution.at/2015/01/30/efxclipse-1-2-0-released/">e(fx)clipse 1.2.0 has been released</a>. Another feature of this release is that it includes a <a href="http://tomsondev.bestsolution.at/2015/01/29/efxclipse-1-2-0-helper-api-to-call-methods-who-throw-exceptions/">helper API to call methods that throw exceptions</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> has been busy, blogging five separate posts this past week. They were titled '<a href="http://www.guigarage.com/2015/01/concurrency-ui-toolkits-part-1/">Concurrency in UI Toolkits (Part 1)</a>', '<a href="http://www.guigarage.com/2015/02/concurrency-ui-toolkits-part-2/">Concurrency in UI Toolkits (Part 2)</a>', '<a href="http://www.guigarage.com/2015/01/introduction-open-dolphin/">An introduction to Open Dolphin</a>', '<a href="http://www.guigarage.com/2015/01/set-datafx-application/">How to set up a DataFX application</a>', and '<a href="http://www.guigarage.com/2015/01/datafx-tutorial-6/">DataFX Tutorial 6</a>'.</li>
+	<li>It's great to see people making use of JavaFX to create Android applications using the <a href="https://bitbucket.org/javafxports/">JavaFX Ports project</a> by <strong>Johan Vos</strong>. This week I saw a few mentions on twitter, including <strong>William Antônio</strong> <a href="https://twitter.com/William_Antonio/status/561947958170894337">porting his stacker game</a>, <strong>Darryl Ruggles</strong> getting <a href="https://twitter.com/RDarrylR/status/561942843313238016">PekkersLogicSimulator running</a>, and <strong>José Pereda</strong> getting <a href="https://github.com/jperedadnr/15FX">15FX running on Android</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> has posted about some of the <a href="https://pixelduke.wordpress.com/2015/01/30/whats-new-in-java-8u40/">new features coming up in JavaFX 8u40</a>. This is quite a nice release!</li>
+	<li><strong>Jens Deters</strong> has posted three posts. Firstly, '<a href="http://www.jensd.de/wordpress/?p=1810">how to allow users to customize the UI</a>', '<a href="http://www.jensd.de/wordpress/?p=1843">JFXPanel and FX platform thread pitfalls</a>', and finally '<a href="http://www.jensd.de/wordpress/?p=1855">FontAwesomeFX 8.0.13 released</a>'.</li>
+</ul>
+<p>See you next week.</p>
+]]></Content>
+	</post>

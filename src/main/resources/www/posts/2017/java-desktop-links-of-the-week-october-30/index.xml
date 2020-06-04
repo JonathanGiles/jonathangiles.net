@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2605</ID>
+		<Slug>java-desktop-links-of-the-week-october-30</Slug>
+		<Title>Java desktop links of the week, October 30</Title>
+		<Date>2017-10-29</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Due to excessive levels of travel in the past week, I was unable to pull together the links for last week. I have tried to keep track of the links as best as I could, but I apologise if I miss any today. Please, <a href="mailto:jonathan@jonathangiles.net">let me know</a> and I'll be sure to post them next week.</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> remains as productive as ever: he released an <a href="https://github.com/HanSolo/tilesfx">updated TilesFX</a>, he blogged about creating a <a href="https://harmoniccode.blogspot.co.nz/2017/10/simple-countdown-timer.html?m=0">simple countdown timer</a>, he created a library containing <a href="https://github.com/HanSolo/properties">JavaFX-like properties</a> without the bindings / dependencies on JavaFX (useful for example if you want to build Android apps but love the JavaFX API), and he <a href="https://harmoniccode.blogspot.co.nz/2017/10/friday-fun-xlviii-calendar-heatmap.html?m=0">recreated the GitHub commit 'heatmap' control</a> in JavaFX.</li>
+ 	<li><strong>Dirk Lemmermann</strong> <a href="https://github.com/dlemmermann/CalendarFX">open sourced CalendarFX</a>, his&nbsp;Java framework for creating sophisticated calendar views based on JavaFX.</li>
+ 	<li><strong>Markus Falkhausen</strong> has updated his class diagrams for JavaFX to include <a href="http://www.falkhausen.de/JavaFX-9/index.html">JavaFX 9</a>.</li>
+ 	<li><strong>William Antônio Siqueira</strong> has blogged about&nbsp;<a href="http://fxapps.blogspot.co.nz/2017/10/javafx-with-bean-validation-and-cdi-20.html?spref=tw">JavaFX with Bean Validation and CDI 2.0</a>.</li>
+ 	<li>CheerpJ beta 2 was <a href="https://groups.google.com/forum/#!topic/cheerpj-developers/TFtaW4e2i5c">released this week</a>. CheerpJ is a (commercial) compiler that <a href="https://leaningtech.com/cheerpj/">converts Java applications to browser-based web applications</a>.</li>
+</ul>
+]]></Content>
+	</post>

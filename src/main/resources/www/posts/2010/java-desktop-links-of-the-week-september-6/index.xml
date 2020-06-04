@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>907</ID>
+		<Slug>java-desktop-links-of-the-week-september-6</Slug>
+		<Title>Java desktop links of the week, September 6</Title>
+		<Date>2010-09-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Wow, it's September already! This year is flying by, and JavaOne is right on the door step. This week there is a bunch of interesting news, in both the Swing and JavaFX worlds.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> this week announced that he was <a href="http://old.nabble.com/Continuing-development-of-substance,-flamingo-and-others-td29568644.html">suspending support for his Substance, Flamingo, Trident and related projects</a>. He has shifted his spare-time focus in recent months to JavaScript-related projects (he is currently porting Trident to JavaScript).</li>
+	<li><strong>Thorsten Klimpel</strong> let me know about a post by <strong>Illya Yalovyy</strong>, which talks about <a href="http://etfdevlab.blogspot.com/2010/08/migration-to-better-swing-application.html">migrating an application to make use of the Better Swing Application Framework</a>.</li>
+	<li><strong>René Jahn</strong> emailed me about <a href="http://www.sibvisions.com/en/jvx">JVx</a>, an open source framework that appears to <a href="http://www.sibvisions.com/en/jvxmfeatures">abstract away the underlying GUI toolkit</a>, whilst also offering a <a href="http://blog.sibvisions.com/2010/09/02/jvx-swingui-extensions/">number of conveniences</a>.</li>
+	<li><strong>Alexander Pupeikis</strong> has posted an <a href="http://www.apleben.com/2010/09/image-filters-demo-a-part-of-new-project/">images filter demo application</a>, which is apparently part of a new project he is working on. The source code is available, as is a Java Web Start link.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Osvaldo Doederlein</strong> has an article discussing <a href="http://weblogs.java.net/blog/opinali/archive/2010/09/03/dropping-boxes-javafx">how he attempted to solve a DropBox coding challenge using JavaFX</a>. In his usual style this is an interesting and informative read.</li>
+	<li><strong>Irina Filippova</strong> has a detailed article discussing how to <a href="http://netbeans.org/kb/docs/javafx/database-client.html">create a simple database client using the JavaFX Composer</a>.</li>
+	<li>The SmartFaces project is starting to embrace JavaFX, with a <a href="http://smartfaces.org/smartfaces/faces/showcase/spellChecker.xhtml">SpellChecker component</a> being the latest addition to the component suite that is written in JavaFX.</li>
+	<li><strong>Nick Apperley</strong> announced the <a href="http://nick-software.blogspot.com/2010/09/jfx-blocks-gui-03-released.html">release of JFX Blocks 0.3</a>, which includes new controls, and more focus on media playback functionality.</li>
+	<li><strong>siesiek</strong> has a simple tutorial explaining how to use the JavaFX bind functionality to <a href="http://javafxscripting.blogspot.com/2010/09/how-to-centre-nodes-using-bind.html">center nodes in a container or scene</a>.</li>
+	<li>The<strong> JavaFX Cookbook</strong> website has a brief tutorial on <a href="http://www.javafxcookbook.com/tutorials/object-inspection-with-reflection">using the JavaFX reflection API</a>. Note that reflection is slow, so use it sparingly, and only where absolutely necessary.</li>
+</ul>
+<p>That's that for another week. I hope you found a useful link or two. Catch you all again next week :-)</p>
+]]></Content>
+	</post>

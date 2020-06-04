@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2137</ID>
+		<Slug>java-desktop-links-of-the-week-july-18-2</Slug>
+		<Title>Java desktop links of the week, July 18</Title>
+		<Date>2016-07-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A heap of releases this week, and a few good articles too. It's now only two months until JavaOne, so I hope everyone is starting to think about their presentations, projects, and social activities. I can't wait to get over to San Francisco again and see you all - it is always one of the highlights of the year for me, and I hope for you all as well!</p>
+<ul>
+ 	<li>Speaking of JavaOne, for those of you attending JavaOne this year, I am doing my seventh annual Java Desktop lunch during the week. If you are interested in attending, please <a href="https://docs.google.com/a/jonathangiles.net/forms/d/e/1FAIpQLScwsWPyRBdCuHC8z2XLntjC7VSxaTmGpYlwsBjY1EJTbjc77g/viewform">register your interest here</a>, and I'll be in touch in the coming weeks with more details.</li>
+ 	<li><strong>Jeff Martin</strong> has written about <a href="https://reportmill.wordpress.com/2016/07/13/java-desktop-apps-to-javascript/">converting JavaFX applications to JavaScript to run in the browser</a>.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has released a <a href="https://github.com/HanSolo/Medusa">new release of his Medusa gauge library</a>.</li>
+ 	<li><strong>Jens Deters</strong> has released <a href="http://www.jensd.de/wordpress/?p=2476">FontAwesomeFX 8.12</a>.</li>
+ 	<li><strong>Rob Terpilowski</strong> has announced that&nbsp;<a href="https://rterp.wordpress.com/2016/07/08/gmapsfx-2-0-7-released/">GMapsFX 2.0.7 has been released</a>.&nbsp;The main feature in this version is to allow the use of custom marker/pin images, rather than relying on the default Google images.</li>
+ 	<li><strong>Carl Walker</strong> has posted about <a href="https://courses.bekwam.net/public_tutorials/bkcourse_flatwinapp_1.php">creating custom flat windows in&nbsp;JavaFX</a>. This is a three-part series, all of which are available online now.</li>
+ 	<li><strong>Dirk Lemmermann</strong> has two posts this week. Firstly, he has an interview with the developers of the <a href="http://dlsc.com/2016/07/13/javafx-real-world-apps-skedpal/">JavaFX-based SkedPal application</a>. Secondly, he has announced the <a href="http://dlsc.com/2016/07/12/flexganttfx-1-6-released/">release of FlexGanttFX 1.6</a>.</li>
+ 	<li><strong>Adam Carroll</strong> has announced the <a href="http://vocabhunter.github.io/2016/07/17/VocabHunter-v1.0.16-Released.html">release of&nbsp;VocabHunter v1.0.16</a>.&nbsp;VocabHunter is a system to help learners of foreign languages.</li>
+</ul>
+]]></Content>
+	</post>

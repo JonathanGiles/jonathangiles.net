@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2493</ID>
+		<Slug>java-desktop-links-of-the-week-april-10</Slug>
+		<Title>Java desktop links of the week, April 10</Title>
+		<Date>2017-04-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another round of weekly links - enjoy!</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> has done another Friday Fun component, this time an <a href="https://harmoniccode.blogspot.co.nz/2017/04/friday-fun-xlvi-image-matrix.html">image matrix</a> control.</li>
+ 	<li><strong>Gluon</strong> has <a href="http://gluonhq.com/javafxports-8-60-9-released/">released JavaFXPorts 8.60.9</a>.</li>
+ 	<li><strong>Pawe? Gaw?dzki</strong> has posted about '<a href="https://dzone.com/articles/elegant-javafx-example">elegant JavaFX</a>'.</li>
+ 	<li><strong>Adam Carroll</strong> has <a href="https://vocabhunter.github.io/2017/04/02/VocabHunter-v1.0.20-Released.html">released VocabHunter 1.0.20</a>. This release includes a number of usability improvements and new features.</li>
+ 	<li><strong>Carl Dea</strong> has updated his post about <a href="https://carlfx.wordpress.com/2016/04/26/a-javafx-helloworld-using-java-9s-project-jigsaw-in-60-seconds/">building a JavaFX HelloWorld app using Java 9 modules in 60 seconds</a>.</li>
+</ul>
+]]></Content>
+	</post>

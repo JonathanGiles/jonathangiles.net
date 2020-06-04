@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>612</ID>
+		<Slug>java-desktop-links-of-the-week-september-21</Slug>
+		<Title>Java desktop links of the week, September 21</Title>
+		<Date>2009-09-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A quiet week this week, so this post is short and sweet. Remember, feel free to <a href="mailto:jonathan@jonathangiles.net">email me</a> or <a href="http://twitter.com/JonathanGiles">message me on twitter</a> with any links that you may have.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has put up a <a href="http://www.pushing-pixels.org/?p=1405">release candidate for Substance 5.3</a>. It is looking very good, but be sure to test it and provide any bug reports you may have before the final release. There is even a <a href="https://substance.dev.java.net/webstart/test.jnlp">webstart link to play with</a>. To save Kirill some breath - any bug reports should include a small (&lt; 100 line) demo application that shows the bug.</li>
+	<li><strong>Carsten Oland</strong> has a blog on <a href="http://carsten-oland.blogspot.com/2009/09/country-flag-decorations-on-your-swing.html">how to show country flag decorations within Swing components</a>.</li>
+	<li><strong>Peter Karich</strong> has blogged about <a href="http://java.dzone.com/articles/plugable-swing-%E2%80%93-hello-world">using OSGi to create a pluggable Swing application</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> has been working recently on researching and optimising the scenegraph. He has just blogged about his current project, which has <a href="http://fxexperience.com/2009/09/performance-improving-insertion-times/">considerably improved the speed of insertions</a> (from 23 minutes down to 220 milliseconds).</li>
+	<li><strong>Simon Morris</strong>, author of the forthcoming '<a href="http://www.manning.com/morris/">JavaFX In Action</a>' book (which I've already had the opportunity to read and tech review), has published part one of "<a href="http://www.insideria.com/2009/09/the-bluffers-guide-to-javafx-p.html">The Bluffer's Guide to JavaFX</a>". This is a quick introduction to what exactly JavaFX is.</li>
+	<li>At present there is no password field control available in JavaFX, so <strong>Martin Matula</strong> has stepped forward and <a href="http://blog.alutam.com/2009/09/12/javafx-password-field/">made one</a> available.</li>
+	<li><strong>Peter Pilgrim</strong> has posted a <a href="http://www.jroller.com/peter_pilgrim/entry/xenondatagrid_m3_0_nelson_framework">new milestone release of his Nelson Framework and XenonDatagrid M3.0</a>.</li>
+	<li><strong>Mark Macumber</strong> has posted a blog the details <a href="http://markmacumber.blogspot.com/2009/09/javafx-and-rss.html">how to use JavaFX to handle RSS</a>.</li>
+	<li>Speaking of JavaFX and RSS, <strong>Rakesh Menon</strong> has a blog post about doing a <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_custom_feed_parsers">news ticker in JavaFX</a>.</li>
+	<li><strong>Johan Vos</strong> has posted an article on a <a href="http://blogs.lodgon.com/johan/JavaFX_chat_client_with_Comet_server">JavaFX chat client</a>, which uses a comet server for the backend.</li>
+</ul>
+<p>That's it! I told you it was a quiet week :-) Have a good week everyone, and I'll be back in a weeks time.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3166</ID>
+		<Slug>natively-compiling-micronaut-microservices-using-graalvm-for-insanely-faster-startups</Slug>
+		<Title>Natively compiling Micronaut microservices using GraalVM for insanely faster startups</Title>
+		<Date>2018-10-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>The <a href="http://micronaut.io/">Micronaut framework</a> is a microservice framework which would be immediately recognisable to developers familiar with Spring Boot or MicroProfile. It certainly felt that way to me, and this is by design - it makes it easier for developers to consider moving over to this new framework. But why should you? Micronaut takes a different approach to enabling everything we developers take for granted in Spring Boot and MicroProfile. Rather than do runtime annotation processing as Spring Boot and MicroProfile, Micronaut uses annotation processors at compile time to generate additional classes that are compiled alongside your code. This means startup time is reduced due to the substantially lower amount of overhead that is required to scan the classpath of your project. In fact, Micronaut tries to avoid reflection as much as possible, only using it where absolutely necessary.</p>
+
+<p>The benefit of this is obvious. Where Spring Boot and MicroProfile applications can take tens of seconds to start (depending on the complexity of the classpath that must be scanned), Micronaut starts on my machine in less than a second - normally around 650ms in fact.</p>
+
+<p>Despite this, Micronaut offers everything you've come to expect from a microservices framework - dependency injection, convention over configuration, service discovery, routing, etc.</p>
+
+<p>This is cool enough, and it is great for testing - starting a server from a clean build is so much less painful when you're only waiting a second or so. But I wanted to push further, and use <a href="https://www.graalvm.org/">GraalVM</a> to compile the Java code down to a native image. This should give us even better startup, making it even more appealing for serverless use cases where you pay just for the execution time.</p>
+
+<p>So - what is necessary to use GraalVM to compile down a Micronaut application to native code? Here's a quick tutorial on what I had to do:</p>
+
+<p>Firstly, you need to install GraalVM itself. This is essentially JDK 8 with additional tools (such as the one we will use later to create a native image). You can download <a href="https://www.graalvm.org/">GraalVM</a> from the website, or you can use a tool like <a href="https://sdkman.io">SDKman</a> to download it onto your system. Here are the instructions for installing GraalVM with SDKman:</p>
+
+<pre class="code_block"><code class="sh">sdk install java 1.0.0-rc6-graal
+sdk use java 1.0.0-rc6-graal</code></pre>
+
+<p>With GraalVM installed, we need to install the substrateVM library into our local Maven cache. SubstrateVM is a small virtual machine written in Java that GraalVM compiles together with our application code to provide us with GC, memory management, etc.</p>
+
+<pre class="code_block"><code class="sh">mvn install:install-file -Dfile=${JAVA_HOME}/jre/lib/svm/builder/svm.jar \
+                           -DgroupId=com.oracle.substratevm \
+                           -DartifactId=svm \
+                           -Dversion=GraalVM-1.0.0-rc6 \
+                           -Dpackaging=jar</code></pre>
+
+<p>Assuming that we've already installed the Micronaut CLI, we can then create a Graal native microservice using the following command:</p>
+
+<pre class="code_block"><code class="sh">mn create-app hello-world --features graal-native-image</code></pre>
+
+<p>Once that is created we can change into that directory and compile the code and run it with a Micronaut tool that will generate a report in build/reflect.json, with information on the reflection that is occurring within the application. This report is fed into the GraalVM compiler to ensure it knows how to properly compile everything.</p>
+
+<pre class="code_block"><code class="sh">./gradlew assemble
+java -cp build/libs/hello-world-0.1-all.jar io.micronaut.graal.reflect.GraalClassLoadingAnalyzer</code></pre>
+
+<p>With this, we can then use the GraalVM native-image tool to generate a native version of our code. The following command is what ended up working for me:</p>
+
+<pre class="code_block"><code class="sh">native-image --class-path target/hello-world-0.1.jar \ 
+  -H:ReflectionConfigurationFiles=target/reflect.json \ 
+  -H:EnableURLProtocols=http \ 
+  -H:IncludeResources="logback.xml|application.yml|META-INF/services/*.*" \ 
+  -H:Name=hello-world \ 
+  -H:Class=hello.world.Application \ 
+  -H:+ReportUnsupportedElementsAtRuntime \ 
+  -H:+AllowVMInspection \
+  --delay-class-initialization-to-runtime=io.netty.handler.codec.http.HttpObjectEncoder,io.netty.handler.codec.http.websocketx.WebSocket00FrameEncoder</code></pre>
+
+<p>If that completes successfully, you can now run your natively-compiled version of the application as per usual. On my machine, this is what I see:</p>
+
+<pre class="code_block"><code class="sh">~/Code/projects/micronaut/hello-world $ ./hello-world
+15:16:14.827 [main] INFO  io.micronaut.runtime.Micronaut - Startup completed in 22ms. Server Running: http://localhost:8080</code></pre>
+
+<p>I can access my microservices at the specified URL as per usual, but the startup time has dropped to 22ms! That's incredibly fast :-)</p>
+
+<p>I've got a bunch more experiments and cool things underway. I'll talk about those on this blog, but the best way to keep informed is to <a href="http://twitter.com/JonathanGiles">follow me on Twitter</a>.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1694</ID>
+		<Slug>java-desktop-links-of-the-week-march-17</Slug>
+		<Title>Java desktop links of the week, March 17</Title>
+		<Date>2014-03-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A heap of links this week - you've all been very busy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The <strong>JFXtras team</strong> has been busily working on getting JFXtras 8.0 out, this week <a href="http://jfxtras.org/">releasing JFXtras 8.0-r1</a>.</li>
+	<li><strong>Tom Schindl</strong> continues to work on <a href="http://tomsondev.bestsolution.at/2014/03/13/swt-on-javafx-is-now-at-part-of-efxclipse/">enabling Eclipse to render itself using JavaFX</a>, and the results are starting to look really good (especially given <a href="http://tomsondev.bestsolution.at/2014/03/13/eclipse-on-javafx-get-dark-the-power-of-javafx-css/">the power of CSS</a>). It's very cool to see JavaFX being used to render Eclipse!</li>
+	<li><strong>Canoo</strong> has announced the <a href="http://www.canoo.com/blog/2014/03/13/opendolphin-0-9-released-with-push-for-many-devices/">release of OpenDolphin 0.9</a>. This new release includes a new <a title="push capability" href="http://open-dolphin.org/download/guide/guide/demos.html#demo_push" target="_blank">“push” capability</a> for instant, bi-directional updates and a full-featured <a title="OpenDolphin web client" href="http://open-dolphin.org/download/guide/guide/web.html" target="_blank">OpenDolphin web client</a> for use with HTML5 and JavaScript/TypeScript.</li>
+	<li><strong>TESIS DYNAware</strong> has released an <a href="https://github.com/tesis-dynaware/fbx-importer">FBX importer and viewer for JavaFX 8</a>. You can use it to load (binary) FBX files and show the result as a JavaFX 3D mesh.</li>
+	<li><strong>TESIS DYNAware</strong> has also released their '<a href="https://github.com/tesis-dynaware/fancy-chart">fancy-chart</a>' code, which is essentially a JavaFX chart that is linked up with a TableView, such that you can select in one of them to see the relevant information in the other. Very nicely done.</li>
+	<li><strong>Tomo Taka</strong> has posted a very nice post about <a href="http://d.hatena.ne.jp/tomoTaka/20140311/1394493841">JavaFX drag and drop</a>. If you are interested in using drag and drop in&nbsp; your JavaFX application, this is a great summary.</li>
+	<li><strong>Jeffrey Guenther</strong> has a post making clear how event handling is done in JavaFX, particularly in relation to <a href="http://blog.jeffreyguenther.com/post/79480392052/only-the-top-sibling-handles-the-event">overlapping sibling nodes</a>.</li>
+	<li><strong>Jeff Martin</strong> released an updated SnapCode this week with <a href="http://reportmill.wordpress.com/2014/03/15/snapcode-play-sound">new Play Sound functionality</a>.</li>
+	<li><strong>Dirk Lemmermann</strong> continues to refine his (commercial) FlexGanttFX project, this week posting videos of <a href="http://dlemmermann.wordpress.com/2014/03/10/finally-agenda-visualization-in-flexganttfx/">agenda editing</a>, <a href="http://www.youtube.com/watch?v=NPd_zH7DbaM&amp;feature=youtu.be">gantt chart activity linking</a>, and an example using <a href="http://www.youtube.com/watch?v=CqsVS11Ed-8&amp;feature=youtu.be">aircraft / flight scheduling</a>.</li>
+	<li><strong>Vasilis Souvatzis</strong> has been working on a JavaFX application <a href="http://vasouv.blogspot.gr/2014/03/dietonjava-javafx-desktop-app.html">aimed at dietitians</a>.</li>
+</ul>
+<h4>Java2D</h4>
+<ul>
+	<li><strong>Dave Gilbert</strong> has posted a summary of <a href="http://www.jroller.com/dgilbert/entry/orson_charts_1_2">some of the new features</a> in his (commercial) Orson Charts 1.2 release.</li>
+</ul>
+<p>That's all folks. See you next week! :-)</p>
+]]></Content>
+	</post>

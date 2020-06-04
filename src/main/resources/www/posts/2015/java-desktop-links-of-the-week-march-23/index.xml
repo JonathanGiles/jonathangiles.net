@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1893</ID>
+		<Slug>java-desktop-links-of-the-week-march-23</Slug>
+		<Title>Java desktop links of the week, March 23</Title>
+		<Date>2015-03-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A heap of interesting links this week - enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>José Pereda</strong> has posted about getting the <a href="http://jperedadnr.blogspot.com.es/2015/03/javafx-on-mobile-dream-come-true.html">2048FX game running on Android</a> (and into the Google Play Store). It's a detailed post and discusses how to make use of the JavaFX Ports project.</li>
+	<li><strong>Jarek</strong> has announced the <a href="https://groups.google.com/forum/?utm_source=twitterfeed&amp;utm_medium=twitter#!msg/scalafx-dev/rypVsg5h3dU/bvd_pjRVDc0J">release of&nbsp;ScalaFX 8.0.40-R8</a>, which adds support for new features in JavaFX 8u40.</li>
+	<li><strong>Tom Eugelink</strong> has been working on <a href="https://tbeernot.wordpress.com/2015/03/03/enzos-simple-gauge-in-jfxtras/">porting some of the Enzo gauges to JFXtras</a>. He now has a blog post showing the first results of this work.</li>
+	<li><strong>Michael Hoffer</strong> has been working on a project called <a href="http://sonoair.mihosoft.eu/">SonoAir</a>, which is a JavaFX application for&nbsp;adding AirPlay support to Sonos speakers.</li>
+	<li><strong>Timofey Lagutin</strong> has a github repo for a project he calls <a href="https://github.com/lostdj/Jaklin">Jaklin</a>, a "Java/Avian, OpenJDK and JavaFX/OpenJFX web port".</li>
+	<li><strong>Hendrik Ebbers</strong> has announced that he has partnered with Parleys to offer a <a href="http://www.guigarage.com/javafx-training-tutorials/">beginners training course for JavaFX</a>.</li>
+	<li><strong>Florian Brunner</strong> has posted about <a href="http://puces-blog.blogspot.ch/2015/03/drombler-commons-conventions-to.html">conventions to simplify FXML loading</a>.</li>
+	<li><strong>Dirk Lemmermann</strong> has published a website for <a href="http://www.calendarfx.com/">CalendarFX</a>, a commercial library providing a number of useful calendar / scheduling UI controls for JavaFX.</li>
+	<li>Speaking of CalendarFX,&nbsp;<strong>René Jahn</strong> has posted about '<a href="http://blog.sibvisions.com/2015/03/20/javafx-jvx-calendarfx-and-exchange-server/">JavaFX, JVx, CalendarFX and Exchange Server</a>'. In a separate post, <strong>René</strong> has posted about&nbsp;<a href="http://blog.sibvisions.com/2015/03/19/javafx-styled-stage-and-mdi-system/">styled stages and their MDI system</a>.</li>
+	<li><strong>Rahel Lüthy</strong> has posted about <a href="http://netzwerg.ch/blog/2015/03/22/javafx-3d-line/">creating a 3D line in JavaFX</a>.</li>
+</ul>
+<p>That's all folks. Keep up the great work and I'll be back next week to link to it all again :-)</p>
+]]></Content>
+	</post>

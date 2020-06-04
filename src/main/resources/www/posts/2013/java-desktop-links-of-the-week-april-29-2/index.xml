@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1454</ID>
+		<Slug>java-desktop-links-of-the-week-april-29-2</Slug>
+		<Title>Java desktop links of the week, April 29</Title>
+		<Date>2013-04-29</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all, a bunch of good links this week! The community really are putting a lot of effort into blogging about their Java desktop projects, which is great. Keep up the good work! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>Coming up this week is a presentation by <strong>Richard Bair</strong> at the <strong>Silicon Valley JavaFX Users Group</strong> on the topic of <a href="http://www.svjugfx.org/events/64143762/?fromms=1&amp;a=me2_grp&amp;eventId=64143762&amp;action=detail&amp;rv=me2&amp;_af_eid=64143762&amp;_af=event&amp;rv=me2">OpenJFX</a>. The talk is on Wednesday, 1st May, starting at 6:15pm (PDT). As per usual, it will also be broadcast live over the internet for those of you not in the Bay Area (such as myself). The streaming starts at 7:00pm, and I recommend you sign up for a ustream account so that you may join the discussion. The stream is at the <a href="http://www.ustream.tv/channel/silicon-valley-javafx-user-group">usual place</a>.</li>
+	<li><strong>Canoo</strong> have two recent blog posts that may be of interest to you. Firstly, they have posted on <a href="http://www.canoo.com/blog/2013/04/17/dolphin-train-station/">using Dolphin to display a train station schedule</a>. In a second post, they cover their <a href="http://www.canoo.com/blog/2013/04/26/canoonow-an-embedded-room-allocation-dashboard-with-javafx-and-opendolphin/">CanooNow project</a>, which is an embedded room allocation dashboard with JavaFx and OpenDolphin, running on a Raspberry Pi.</li>
+	<li><strong>Claudine Zillmann</strong> continues making excellent progress on developing a <a href="http://www.guigarage.com/2013/04/the-native-ones-are-not-sleeping/">Mac OS X aqua theme for JavaFX</a>. She has just posted another blog post which shows a JavaFX application side-by-side with a native Mac OS X dialog, and the differences are negligible.</li>
+	<li>There appears to be a battle being waged between <strong>Sean Phillips</strong> and <strong>Geertjan Wielenga</strong> over JavaFX integration into the NetBeans platform. There are now five such articles that I'm aware of, all titled along the lines of "How to Integrate JavaFX into the NetBeans Platform X", where X has so far included <a href="http://netbeans.dzone.com/articles/how-embed-javafx-chart-visual">Visual Library Scene</a>, <a href="http://netbeans.dzone.com/articles/how-integrate-javafx-netbeans">MenuBar</a>, <a href="http://netbeans.dzone.com/articles/how-integrate-javafx-netbeans-part2">ToolBar</a>, <a href="http://netbeans.dzone.com/articles/how-integrate-javafx-netbeans-1">Wizard</a>, and <a href="http://netbeans.dzone.com/articles/how-integrate-javafx-netbeans-part4">Explorer View</a>. Keep up the great work guys - lets see how far you can push NetBeans :-)</li>
+	<li>The <strong>Helsinki Scala Club</strong> recently had a presentation on ScalaFX, which is <a href="https://www.dropbox.com/s/kaf316bb60gu2ii/Presentation%20250413.pdf">now posted online</a> (in PDF form).</li>
+	<li><strong>Mirko Sertic</strong> has created a <a href="http://www.mirkosertic.de/doku.php/javastuff/fxdesktopsearch">desktop search engine</a> with a JavaFX frontend. Very nice stuff! :-)</li>
+	<li><strong>August Lammersdorf</strong> has updated his <a href="http://www.interactivemesh.org/models/jfx3dimporter.html">JavaFX 3D model importers</a> to take advantage of the new JavaFX 3D APIs that appeared in JavaFX 8.0 b87.</li>
+	<li><strong>William Antonio</strong> has posted a blog<a href="http://fxapps.blogspot.com.br/2013/04/testing-afterburnerfx-with-crud.html"> detailing the Afterburner.fx library</a> developed by <strong>Adam Bien</strong>. <a href="http://afterburner.adam-bien.com/">Afterburner.fx</a> is a "minimalistic (2 classes) JavaFX MVP framework based on Convention over Configuration."</li>
+	<li><strong>Jörn Hameister</strong> has blogged about <a href="http://www.hameister.org/JavaFX_JFXtrasLib.html">how to use and extend the JFXtras library</a>.</li>
+	<li><strong>Robin Leo Söderström</strong> has a post about <a href="http://www.loop81.com/2013/04/javafx-creating-windows-7-screen-saver.html">creating a Windows 7 screen saver using JavaFX.</a></li>
+	<li><strong>Anton Epple</strong> has a short post on <a href="http://jayskills.com/blog/news/dynamic-tooltip-in-javafx/">how to dynamically populate a JavaFX tooltip</a> just prior to displaying it on screen.</li>
+</ul>
+<p>That's all for this week, and again, keep up the great work folks! :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>602</ID>
+		<Slug>java-desktop-links-of-the-week-september-7</Slug>
+		<Title>Java desktop links of the week, September 7</Title>
+		<Date>2009-09-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Wow, we're already a week into September. The year seems to be flying by, and fortunately for the southern hemisphere readers out there, it's starting to get into nicer weather. My garden is becoming more colourful, and I'm spending more time out there than in my office on the weekends. Bring on Summer (and apologies to all northern hemisphere folk) :-)</p>
+
+<p>There is a heap of news this week, and a lot of it is quite interesting and worth reading. Let's get into it.</p>
+<h4>General</h4>
+<ul>
+	<li>Despite the general pessimism that surrounds Java 7, I am personally quite excited about it. As such, I am very happy to see the <a href="http://java.dzone.com/articles/jdk7-tackles-java-verbosity">changes being made to the language to tackle verbosity</a> (mostly coming from <a href="http://blogs.sun.com/darcy/entry/project_coin_final_five">Project Coin</a>).</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li>For anyone not following the Swing Application Framework (SAF) mailing list, after <a href="http://weblogs.java.net/blog/alexfromsun/archive/2009/08/saf_and_jdk7.html">Alex Potochkin posted that the SAF will not make it into JDK 7</a>, people started talking about forking it to continue its development. At present there are at least two forks (<a href="http://github.com/hamnis/SAFF/tree/master">SAFF</a> and <a href="http://kenai.com/projects/bsaf/">BSAF</a>). If you allow me to jump on my soapbox for a second, this frustrates me to no end. We went from the original SAF project whose requests for help fell on deaf ears (although admittedly there was not much visibly happening on Sun's side either) to two actives forks. If we had offered our time back when it was still JSR-296 we could have had this integrated into JDK 7, but because we waited for it to effectively die, we now have to most probably wait until JDK 8, if ever, before an app framework for Swing can be integrated into a Java release. However, right now I hope very soon everyone can get behind one fork, as there is no point having multiple frameworks with almost precisely the same goals and approach. &lt;/soapbox&gt;</li>
+	<li><strong>Ken Orr</strong> has posted an update to his Mac Widgets for Java so that the <a href="http://explodingpixels.wordpress.com/2009/09/06/mac-widgets-for-java-on-snow-leopard/">components look more integrated in Snow Leopard</a>.</li>
+	<li><span><strong>Rémy Rakic</strong> has posted the second part in his series on <a href="http://lqd.hybird.org/journal/?p=196">hardware accelerating Java2D/Swing/JavaFX</a>. This post covers pixel shaders in particular.</span></li>
+	<li><span><strong>Alex Ruiz</strong> has blogged that <a href="http://alexruiz.developerblogs.com/?p=464">FEST-Swing 1.2a3 has just been released</a>. </span><a onclick="javascript:pageTracker._trackPageview('/outbound/article/fest.easytesting.org');" href="http://fest.easytesting.org/swing/" target="_blank">FEST-Swing</a> is a Java library that provides a <a onclick="javascript:pageTracker._trackPageview('/outbound/article/www.infoq.com');" href="http://www.infoq.com/articles/internal-dsls-java" target="_blank">fluent interface</a> for functional Swing GUI testing. This library provides an easy-to-use API that makes creation and maintenance of GUI tests easy.</li>
+	<li>I received an email in the week regarding <a href="http://www.mindsilver.com/">Mindsilver GUIDE</a>, which is a commercial (yet still in beta) Java GUI builder application. For now they are looking for feedback so please give it a whirl if you are so inclined, and let them know of any issues.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has started a new competition on the JFXStudio blog. The challenge is to write an impressive app in 30 lines (or 3000 characters - it's your choice). The <a href="http://jfxstudio.wordpress.com/2009/08/31/jfxstudio-challenge-small-is-the-new-big/">competition has started now</a>, but the theme will be announced in the next few days. Your application must be based on the given theme topic. The prize will again be a $20 gift certificate to Amazon and a badge to put on your website. Good luck!</li>
+	<li><strong>Henry Zhang</strong> has posted part two of his series on <a href="http://www.javafxgame.com/javafx-online-game-prototype-wish-tree-2/">creating an online JavaFX game: a 'wish tree'</a>. He goes into considerable detail and it is well recommended you give this a read if you're interested in building similar applications.</li>
+	<li><strong>Carl Dea</strong> has posted parts <a href="http://carlfx.wordpress.com/2009/08/29/javafx-forms-framework-part-4/">four</a> and <a href="http://carlfx.wordpress.com/2009/09/04/javafx-forms-framework-part-5/">five</a> of his five part series on a JavaFX Forms Framework he has been investigating. Note: Carl updated his part four post to make use of JavaFX rather than an XML mapping file. This seems a very wise approach in my opinion.</li>
+	<li><strong>Jeff Frieson</strong> has a detailed post discussing the <a href="http://javajeff.mb.ca/cgi-bin/makepage.cgi?javafx/uc/uc">development of a units converter application written in JavaFX 1.2</a>. He details the porting of the application to work in constrained screens by scaling the text size.</li>
+	<li>Speaking of <strong>Jeff</strong>, he was recently interviewed by Reviews Interactive. You can <a href="http://blogs.sun.com/ontherecord/entry/jeff_javajeff_freisen_talks_javafx">hear more of his opinions here</a>.</li>
+	<li><strong>Dmitri Trembovetski</strong> has posted a small demo app that shows how you can use JavaFX to <a href="http://javafx.com/docs/articles/FXImage/">zoom in and out of images using a 'magnifying glass' approach</a>. Have a play with the applet - it actually works very nicely.</li>
+	<li><strong>Simon Brocklehurst</strong> wants to know the likelihood of a JavaFX applet working on a persons machine. So, <a href="http://www.psynixis.com/blog/2009/09/04/testing-javafx-applet-deployment/">check out the blog post and let him know how you get on</a>. Obviously, for readers of this blog, it's highly likely you have the latest JRE already installed :-)</li>
+	<li><strong>Rakesh Menon</strong> is another person interested in deployment issues at the moment. He's keen for you to <a href="http://blogs.sun.com/rakeshmenonp/en_US/entry/javafx_applet_startup#%22">give him feedback on the time it takes for an applet to start from his website</a>. He has instrumented it so that you can easily get this information.</li>
+	<li><strong>Nik Silver</strong> has blogged about his <a href="http://niksilver.com/2009/08/31/discovering-javafx-with-the-guardian-open-platform/">experience discovering JavaFX</a> by using the <a href="http://api.guardianapis.com/docs">Guardian's Open Platform API's</a>.</li>
+	<li><strong>Drew</strong> has posted more <a href="http://piliq.com/javafx/?p=1245">performance benchmarks of JavaFX 1.2</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>John</strong> posts about <a href="http://www.saltwebsites.com/blog/griffon-gui-builder-options">Griffon GUI Builder options</a>.</li>
+</ul>
+<p>That's things for another week. Keep up the good work and I'll see you again soon :-)</p>
+]]></Content>
+	</post>

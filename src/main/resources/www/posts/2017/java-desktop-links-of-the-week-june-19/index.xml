@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2517</ID>
+		<Slug>java-desktop-links-of-the-week-june-19</Slug>
+		<Title>Java desktop links of the week, June 19</Title>
+		<Date>2017-06-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li>There are a bunch of updated libraries / apps this week, including:
+<ul>
+ 	<li><a href="https://github.com/AlmasB/FXGL">FXGL</a> (a JavaFX game library / engine),</li>
+ 	<li><a href="https://github.com/dooApp/FXForm2">FXForm 2</a> (dynamic JavaFX form generation),</li>
+ 	<li><a href="https://github.com/edvin/tornadofx/releases/tag/v1.7.6">TornadoFX</a> (Kotlin framework for JavaFX),</li>
+ 	<li><a href="https://vocabhunter.github.io/2017/06/17/vocabhunter-v1.0.21-released.html">VocabHunter</a> (a foreign language training app), and</li>
+ 	<li><a href="https://github.com/PikaTimer/pikatimer">PikaTimer</a> (a JavaFX race timing app)</li>
+</ul>
+</li>
+ 	<li><strong>William Antonio</strong> has blogged about&nbsp;<a href="http://fxapps.blogspot.co.nz/2017/06/k-means-and-decision-tree-using-weka.html?spref=tw">k-means and decision tree</a> using Weka and JavaFX.</li>
+ 	<li><strong>Oliver Milke</strong> has written about <a href="http://oliver-milke.de/getting-started-with-gluon-mobile.html">getting started with Gluon Mobile</a> - running JavaFX apps on iOS and Android.</li>
+ 	<li><strong>Andres Almiray</strong> has written about <a href="http://andresalmiray.com/writing-javafx-applications-with-kotlin/">writing JavaFX applications with Kotlin.</a></li>
+ 	<li><strong>Christoph Nahr</strong> has posted about <a href="http://news.kynosarges.org/2017/06/18/myriarch-for-java/">Myriarch for Java</a> - which "attempts a precise real-time simulation of pre-gunpowder tactical warfare."</li>
+</ul>
+]]></Content>
+	</post>

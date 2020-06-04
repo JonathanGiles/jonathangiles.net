@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1714</ID>
+		<Slug>java-desktop-links-of-the-week-april-21</Slug>
+		<Title>Java desktop links of the week, April 21</Title>
+		<Date>2014-04-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Hi all. It's a public holiday here in New Zealand today, so I'm going to rush this post out so that I can get back to spending time with my family. Enjoy!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has two posts this week. Firstly, he has ported yet another of his Swing 'SteelSeries' gauges to JavaFX - this time it is the <a href="http://harmoniccode.blogspot.ca/2014/04/airseries.html">altimeter control</a>. Because of this, Gerrit has announced a new small project called <a href="https://bitbucket.org/hansolo/airseries">AirSeries</a>, which are his JavaFX-based gauges for JavaFX. Secondly, he has created a <a href="http://harmoniccode.blogspot.co.nz/2014/04/just-flip-it.html">FlipPanel control</a>, which, as the name suggests, allows for a panel that can have content on both its front and back, and which can be flipped (in an animated fashion) to reveal the other side of the panel.</li>
+	<li><strong>José Pereda</strong> has written RubikFX, which is a JavaFX application that uses the 3D graphics functionality to <a href="http://jperedadnr.blogspot.co.nz/2014/04/rubikfx-solving-rubiks-cube-with-javafx.html">solve the Rubik's Cube puzzle</a>.</li>
+	<li><strong>Johan Vos</strong> has published a YouTube video showing off <a href="https://www.youtube.com/watch?v=dps_00Q84gc">JavaFX on Androi</a>d, using a Nexus 5 phone to read NFC cards. It is great to see all the effort that Johan and others have been putting into JavaFX on Android paying off!</li>
+	<li><strong>Hendrik Ebbers</strong> has announced the <a href="http://www.guigarage.com/2014/04/datafx-8-preview-2/">release of DataFX 8 Preview 2</a>. <a href="https://groups.google.com/forum/#!topic/datafx-dev/k4YiLhmtT5s">Release notes are available</a> to understand the changes.</li>
+	<li><strong>Dirk Lemmermann</strong> has posted his third JavaFX tip, which is to <a href="http://dlemmermann.wordpress.com/2014/04/15/javafx-tip-3-use-callback-interface/">use the JavaFX Callback interface</a> rather than creating your own custom interfaces.</li>
+	<li><strong>Nathan Howard</strong> has a posted on <a href="http://blog.idrsolutions.com/2014/04/tutorial-how-to-setup-key-combinations-in-javafx/">how to set up key combinations in JavaFX</a> to use as accelerators in menus. Personally I prefer to use the form KeyCombination.keyCombination("Shortcut+C"), as it is a little less verbose (and still cross platform - 'shortcut' will map to ctrl on Windows and cmd on Mac.</li>
+	<li><a href="http://www.bredex.de/news_article_en/jubula-and-guidancer-support-javafx.html">Version 8.0 of Jubula and GUIdancer has been released</a> with support for JavaFX applications.</li>
+	<li><strong>Jeff Martin</strong> has updated SnapCode (the IDE and RAD tool for education, entertainment and the enterprise), to <a href="http://reportmill.wordpress.com/2014/04/19/snapcode-update-april-18-added-hit-detection/">add hit detection and more</a>.</li>
+	<li><strong>William Antônio Siqueira</strong> has posted a port of his sentiments app post last week to <a href="http://fxapps.blogspot.co.nz/2014/04/writing-javafx-apps-using-javascript.html">use nashorn and JavaScript this week</a> (as well at JavaFX, of course).</li>
+</ul>
+<p>That's us for another week. Catch you all next week, and keep up the great work folks! :-)</p>
+]]></Content>
+	</post>

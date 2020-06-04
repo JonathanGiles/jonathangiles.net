@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1655</ID>
+		<Slug>java-desktop-links-of-the-week-january-27</Slug>
+		<Title>Java desktop links of the week, January 27</Title>
+		<Date>2014-01-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week of great links - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Johan Vos</strong> has a good blog post summarising the <a href="http://www.lodgon.com/dali/blog/entry/JavaFX_and_Android">current state of the JavaFX on Android</a> work.</li>
+	<li><strong>Hendrik Ebbers</strong> has two posts this week. Firstly, he has blogged about a new feature in DataFX 8.0 called the <a href="http://www.guigarage.com/2014/01/datafx-8-preview-2-processchain/">ProcessChain</a>. His second post discusses how <a href="http://www.guigarage.com/2014/01/javafx-meets-javaee/">JavaFX meets JavaEE</a>.</li>
+	<li><strong>Ryan Cuprak</strong> gave a good presentation at the Silicon Valley JavaFX users group on the topic of '<a href="http://www.youtube.com/watch?v=xdgD7EBX4fw&amp;feature=youtube_gdata">HTML5 and JavaFX</a>'.</li>
+	<li><strong>Laurent Nicolas</strong> has posted part two of his series on <a href="http://www.mrlonee.com/?p=530">building a Nest Thermostat custom control</a> in JavaFX.</li>
+	<li><strong>Sven Ruppert</strong> has posted part two of his series of posts on <a href="http://www.rapidpm.org/2014/01/iot-with-java8-and-tinkerforge-part-2.html">IoT with Java8 and TinkerForge</a>.</li>
+	<li><strong>William Antônio Siqueira</strong> has posted sample code on <a href="http://fxapps.blogspot.co.nz/2014/01/a-generic-handler-for-all-input-events.html">how to build a generic handler</a> to handle all input events in JavaFX. His code could be a little shorter if instead of calling <code>lbl.setOnMouseClicked(eventHandler);</code> for every event type he simply did something along the lines of <code>lbl.addEventHandler(MouseEvent.ANY, eventHandler);</code></li>
+	<li><strong>Tim Yates</strong> has posted a <a href="https://github.com/timyates/GradientExtractorFX">gradient extractor tool for JavaFX</a> that will extract a gradient out of an image.</li>
+	<li><strong>Jeff Martin</strong> has published a <a href="http://www.reportmill.com/javi/gallery/JaviStudio/CustomBackground/">video demo</a> of adding custom JavaFX effects to animations in the free <a href="http://www.reportmill.com/javi/">Java Inventor</a> educational tool.</li>
+	<li><strong>Mark Stephens</strong> has blogged about the development of a (commercial) <a href="http://blog.idrsolutions.com/2014/01/javafx-pdf-viewer-2/">JavaFX PDF viewer library</a>.</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

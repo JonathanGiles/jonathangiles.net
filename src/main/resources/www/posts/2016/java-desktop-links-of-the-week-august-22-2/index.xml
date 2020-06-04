@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2156</ID>
+		<Slug>java-desktop-links-of-the-week-august-22-2</Slug>
+		<Title>Java desktop links of the week, August 22</Title>
+		<Date>2016-08-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>I know I sound like a broken record, but it is now only four weeks until JavaOne. I'm quietly panicking over here in New Zealand about how much more I have to get done, and how little time I have to get it done in! I hope you're all more organised than I am feeling right now! :-)</p>
+<ul>
+ 	<li><strong>Adam Walczak</strong> has created and open sourced <a href="http://pdfdecorator.org/">PDF Decorator</a>, a JavaFX-based tool for adding watermarks and backgrounds to PDF files.</li>
+ 	<li><strong>Tom Eugelink</strong> has posted about <a href="https://tbeernot.wordpress.com/2016/08/16/repeating-appointments/">adding support for repeating appointments</a> in the Agenda control that ships with JFXtras.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has posted yet another of his '<a href="http://harmoniccode.blogspot.co.nz/2016/08/friday-fun-xxxvi.html">Friday Fun Components</a>'.</li>
+ 	<li><strong>Thomas Nield</strong> is writing a free ebook covering <a href="https://www.gitbook.com/book/thomasnield/rxjavafx-guide/details">RxJavaFX and RxKotlinFX in detail</a>.</li>
+ 	<li><strong>Edvin Syse</strong> has posted a video demonstrating '<a href="https://www.youtube.com/watch?v=_iYLNWDJ-a0">zero install JavaFX themes with TornadoFX</a>'.</li>
+ 	<li><strong>Peter Rogge</strong> has <a href="https://github.com/Naoghuman/lib-tile-demo">released Lib-Tile-Demo 0.1.0</a>. As he puts it, "t<span id="yui_3_16_0_ym19_1_1471090471898_133952"><span id="yui_3_16_0_ym19_1_1471090471898_133953">his project is a demonstration application to show the features from the project Lib-Tile with it's included sublibraries".</span></span></li>
+ 	<li>I have a <strong>final</strong> reminder for people attending JavaOne who are part of the Java desktop community - <a href="https://docs.google.com/a/jonathangiles.net/forms/d/e/1FAIpQLScwsWPyRBdCuHC8z2XLntjC7VSxaTmGpYlwsBjY1EJTbjc77g/viewform">register now</a> for the seventh annual Java Desktop Lunch, or you will miss out as numbers are limited and we are close to hitting the limit.</li>
+ 	<li><strong>Jyloo Software</strong> has released <a href="http://www.jyloo.com/news/?pubId=1471542807000">SyntheticaFX 0.8.1</a>, which includes a number of new controls for JavaFX.</li>
+</ul>
+]]></Content>
+	</post>

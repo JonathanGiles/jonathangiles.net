@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1452</ID>
+		<Slug>java-desktop-links-of-the-week-april-22-2</Slug>
+		<Title>Java desktop links of the week, April 22</Title>
+		<Date>2013-04-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A good selection of links this week. Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> mentioned this week that the rest of the JavaFX iOS / Android source code is going to be <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2013-April/007227.html">open sourced this week</a>. Note that this is not a complete implementation - there is still a lot of work left for the community to do!</li>
+	<li><strong>Jarek Sacha</strong> has announced the <a href="https://groups.google.com/d/msg/scalafx-users/KZzQQ-QnwLw/Db5ArATL39oJ">release of ScalaFX 1.0 milestone 3</a>. ScalaFX helps you simplify creation of JavaFX-based user interfaces in Scala. ScalaFX uses a simple, hierarchical pattern for creating new objects and building up the scene graph. ScalaFX supports full interoperability with Java and can run anywhere the Java Virtual Machine (JVM) and JavaFX2 are supported. Current version supports most of the JavaFX 2.2.7 functionality. For more information see <a href="http://code.google.com/p/scalafx/" target="_blank">ScalaFX home page</a>.</li>
+	<li>The JavaFX documentation site now has an article on <a href="http://docs.oracle.com/javafx/scenebuilder/1/use_java_ides/jsbpub-use_java_ides.htm">how to use Scene Builder from NetBeans, Eclipse and IntelliJ IDEA</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> has blogged about how he explored <a href="http://harmoniccode.blogspot.de/2013/04/validate-it.html">showing form validation</a> results using a glasspane-like approach of overlaying images above the UI.</li>
+	<li><strong>Carl Dea</strong> has posted a case study on a <a href="https://carlfx.wordpress.com/2013/04/20/a-case-study-a-javafx-widget-framework-api/">JavaFX Widget Framework&nbsp;API</a> that he is developing. This first post covers the theory, but he plans to post more in the coming weeks to cover the technical aspects.</li>
+	<li><strong>Jens Deters</strong> has posted part two of his JavaFX on Raspberry Pi series, this week focusing on the <a href="http://www.jensd.de/wordpress/?p=332">code required to control things via the Raspberry Pi GPIO pins</a>.</li>
+	<li>Florian Brunner has blogged about how he is <a href="http://puces-blog.blogspot.ch/2013/04/drombler-commons-javafx-controls-for.html">open sourcing his work on 'Drombler Commons'</a>, which is a collection of utility classes and JavaFX controls for the new Date &amp; Time API (JSR-310).</li>
+	<li><strong>Arnaud Nouard</strong> has posted about his new project called iBreed, which is a <a href="http://arnaudnouard.wordpress.com/2013/04/19/ibreed-hybrid-application-framework-for-javafxhtml-part-i/">hybrid application framework for JavaFX/HTML</a>.</li>
+	<li><strong>Danno Ferrin</strong> has started <a href="https://bitbucket.org/shemnon/touchyfxy">Touchy FXy</a>, a project to demonstrate the touch and gesture APIs in JavaFX.</li>
+	<li><strong>mihosoft</strong> have blogged about <a href="http://mihosoft.eu/?p=523">workflow visualization With VWorkflows &amp; JavaFX</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has blogged about how his <a href="http://tomsondev.bestsolution.at/2013/04/17/efxclipse-e4-renderers-go-astray-rendering-swing/">e(fx)clipse e4 renderers can now render Swing</a> (although at present it is a proof of concept, not a full implementation).</li>
+	<li><strong>Geertjan Wielenga</strong> has published part four (of four) of his series on <a href="https://blogs.oracle.com/geertjan/entry/mission_operations_on_the_netbeans3">NASA Mission Operations on the NetBeans Platform</a>.</li>
+	<li><strong>Dhilshuk Reddy Jeeru</strong> has been working on his <a href="http://info2jd.blogspot.in/2012/11/swingjd-project.html">SwingJD project</a>, which is a collection of Swing Components which allows you to "create sleek, polished, modern GUI applications easily. It provides the flexibility to change the theme for each components.This library includes Standard Buttons, Gradient Buttons, Glossy Buttons, Standard Panels, Gradient Panels, Glossy Panels, Titled Panels, Translucent Panels,Collapsable Panel, OutlookBar, and Grids.</li>
+</ul>
+<p>Catch you all next week. In the mean time, keep up the great work folks! :-)</p>
+]]></Content>
+	</post>

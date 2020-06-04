@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1030</ID>
+		<Slug>java-desktop-links-of-the-week-april-11</Slug>
+		<Title>Java desktop links of the week, April 11</Title>
+		<Date>2011-04-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week, another batch of Java desktop links. This week we see a few interesting library updates in the Swing world, further posts about JavaFX 2.0 API, mention of a JavaFX 2.0 talk by Richard Bair, and a new website for the Amino toolkit. Hopefully there is something here for everyone! :-)</p>
+
+<p>JavaFX</p>
+<ul>
+	<li>As I mentioned last week, <strong>Richard Bair</strong> is presenting a '<a href="http://www.svjugfx.org/events/16703135/?eventId=16703135&amp;action=detail">Richard Bair Reveals All on JavaFX 2.0</a>' talk this week. Note: <strong>the location has changed</strong> - it is now at the Googleplex rather than at Oracle HQ. As always, <a href="http://www.ustream.tv/channel/silicon-valley-javafx-user-group">there is a livestream available on ustream</a>, where you can chat with other participants, as well as provide questions via a Google Moderator link. I'll be in the online chat, so I hope to catch many of you in there too! :-)
+<strong></strong></li>
+	<li><strong>Eric Bruno</strong> has blogged about <a href="http://drdobbs.com/blogs/java/229400781">creating a custom control in JavaFX 2.0</a>. Given this is my day job, I should note a few things: 1) this is pre-beta API, 2) I haven't actually reviewed in detail how accurate this code sample is (and whether it is using best practices), and 3) I've challenged Eric to attempt doing the same with just CSS - which in this example should be far simpler.</li>
+	<li>I did a short teaser video of something I was working on recently - <a href="/posts/2011/javafx/2.0/ListView/sortAndFilter/">sorting / filtering in ListView</a> and TableView controls. It's still very primitive, but the primary purpose of the video is to actually show how simple it is to link up this functionality in JavaFX 2.0.</li>
+</ul>
+<p>Swing</p>
+<ul>
+	<li><strong>Danno Ferrin</strong> has announced the <a href="http://shemnon.com/speling/2011/04/insubstantial-62-release.html">release of Insubstantial 6.2</a>, which is a fork of <strong>Kirill Grouchnikovs</strong> Substance library (which has been abandoned / put on the back-burner by Kirill). In this first release by Danno, there are a number of improvements, including Maven support, fixes for null pointer exceptions, and miscellaneous fixes (including support for Java 7).</li>
+	<li><strong>Eugene Ryzhikov</strong> has released <a href="http://eugene.ryzhikov.com/swing-taskdialog-12-release-0">version 1.3 of the Swing TaskDialog library</a>. As always, you can find the changes in the <a href="http://code.google.com/p/oxbow/wiki/ReleaseNotes">release notes</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has blogged about "<a href="http://blogs.sun.com/geertjan/entry/jdesktoppane_on_the_netbeans_platform">JDesktopPane on the NetBeans Platform</a>".</li>
+</ul>
+<p>Miscellaneous</p>
+<ul>
+	<li><strong>Josh Marinacci</strong> has put together a new website for the <a href="http://goamino.org/">Amino toolkit</a>, which is a Java/JavaScript scene graph graphics library (in a similar vein to JavaFX).</li>
+</ul>
+<p>That's all folks! Catch you in a weeks time.</p>
+]]></Content>
+	</post>

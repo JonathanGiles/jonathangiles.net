@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>151</ID>
+		<Slug>how-not-to-obfuscate-email-addresses-sourceforge-edition</Slug>
+		<Title>How Not To Obfuscate Email Addresses - SourceForge Edition</Title>
+		<Date>2008-05-01</Date>
+		<Status>publish</Status>
+		<Categories>Technology</Categories>
+		<Tags>Technology</Tags>
+		<Content><![CDATA[<p>I like to be active in the open source community. I join mailing lists, help where I can, and am of course always on the lookout for interesting topics of conversation. A lot of the mailing lists I subscribe to are run by <a href="http://sf.net">Sourceforge</a>. It's a great site and it fosters a lot of good projects.</p>
+
+<p>The problem is, I don't much like spam, which is why I'm amazed with what I found today. I went to the mailing list page for one of the projects I work on as I wanted to hyperlink to a specific discussion so that people who aren't subscribed to the mailing list can read a specific email discussion.</p>
+
+<p>I was happy to see that SourceForge obfuscates the email addresses in the table shown on screen. For example, my name and email address comes up as 'Jonathan Giles &lt;jo@jo...&gt;' at the start of each email. 'Great', I thought, until I went to click on the url to the email I wanted to bring up. It has the rest of my email as part of the url. To test this out, I went to the SourceForge front page, chose the current 'project of the month' (ehcache), and went to the mailing list. Lo and behold, with the mildest of mental stimulation I could easily ascertain every email address. If I were a little bit unscrupulous, I could quite easily write a spider to crawl SourceForge and build a highly targeted spam list (highly targeted as we know the population is almost entirely developers).</p>
+
+<p>As an example (and all apologies to picking on one person), I offer Jason Novotny's email address, derived as such:</p>
+<ul>
+	<li>Jason Novotny &lt;jnovotny@pi...&gt; is shown as his details attached to any message.</li>
+	<li>The URL to one of his messages is <a href="http://sourceforge.net/mailarchive/forum.php?thread_name=47EA7DB9.6040305%40pinksheets.com&amp;forum_name=ehcache-list">this</a>.</li>
+</ul>
+<p>The important part of that url is this:</p>
+<p>forum.php?thread_name=47EA7DB9.6040305@<strong>pinksheets.com</strong>.</p>
+
+<p>Notice the @pi.... matches up with @pinksheets.com. Poor Jason, and poor anyone who uses SourceForge and doesn't much appreciate spam. It's probably no wonder I receive so much email along the lines of 'Cheap OEM Software!!!1! Photoshop $1!!!' - they know I am a software person.</p>
+
+<p>I wrote this blog post in the hope that the SourceForge people would fix this, but of course, I'm realistic - I'm just one person. If you don't like your email address being so readily gleaned from SourceForge, let them know - link them to this post if you want.</p>
+
+<p>Disclaimers:</p>
+<p><ol></p>
+	<li>Of course, I'm aware of the hypocrisy of this - after all, my email address is pretty well published over there to the right. But the web is not just me - and I'm sure some people want to be a little more guarded than I am.</li>
+	<li>Also, I'm well aware that posting to a public mailing list removes any hope of your email address remaining private, but the ease with which a spider could crawl SourceForge  is quite amazing. Signing up to mailing lists requires a bit more cunning for a spammer to collect.</li>
+<p></ol></p>
+]]></Content>
+	</post>

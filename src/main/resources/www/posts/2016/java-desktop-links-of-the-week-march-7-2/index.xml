@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2060</ID>
+		<Slug>java-desktop-links-of-the-week-march-7-2</Slug>
+		<Title>Java desktop links of the week, March 7</Title>
+		<Date>2016-03-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;">Some nice links this week - enjoy! :-)</span></p>
+<ul>
+	<li><strong>Jens Deters</strong> has created a <a href="http://www.jensd.de/wordpress/?p=1332">TabPaneDetacher library</a> to allow for tabs in a TabPane to be dragged and detached from the original TabPane, into their own separate windows. Very nice :-)</li>
+	<li><strong>Gerrit Grunwald</strong> has posted another&nbsp;Friday Fun Component, a <a href="http://harmoniccode.blogspot.co.nz/2016/03/friday-fun-xxiv.html">nice circular colour selector component</a>.</li>
+	<li><strong>Tom Schindl</strong> has announced that <a href="http://tomsondev.bestsolution.at/2016/03/04/efxclipse-2-3-0-released/">e(fx)clipse 2.3.0 has been released</a>, and it includes a number of very nice improvements. Great work Tom!</li>
+	<li>The <strong>Griffon project</strong> has announced the <a href="http://griffon-framework.org/releasenotes/griffon_2.6.0.html">release of version 2.6.0 of Griffon</a>.</li>
+	<li><strong>Andres Almiray</strong> has announced the <a href="http://aalmiray.github.io/jsilhouette/">release of&nbsp;JSilhouette 0.1.0</a>.&nbsp;JSilhouette provides additional shapes for Java applications.</li>
+</ul>
+]]></Content>
+	</post>

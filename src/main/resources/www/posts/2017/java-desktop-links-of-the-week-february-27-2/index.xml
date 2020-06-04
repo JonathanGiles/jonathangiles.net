@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2245</ID>
+		<Slug>java-desktop-links-of-the-week-february-27-2</Slug>
+		<Title>Java desktop links of the week, February 27</Title>
+		<Date>2017-02-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>I missed last weeks links due to the arrival of my second child, and I've been on paternity leave since then. Therefore,&nbsp;I might have missed some links, but feel free to email me and I'll get them included next week.</p>
+<ul>
+ 	<li><strong>Thomas Nield</strong> has released&nbsp;RxKotlinFX <a href="https://github.com/thomasnield/RxKotlinFX/releases/tag/1.1.0">1.1.0</a> and <a href="https://github.com/thomasnield/RxKotlinFX/releases/tag/2.0.2">2.0.0</a> releases.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has released an <a href="https://harmoniccode.blogspot.co.nz/2017/02/a-little-maptile-update.html">updated TilesFX</a> with improved map tile support.</li>
+ 	<li><strong>Dan Newton</strong> has written about&nbsp;<a href="https://dzone.com/articles/editable-tables-in-javafx">editable tables in JavaFX</a>. Normally I would review these articles for accuracy before linking to them, but time constraints mean I haven't this time around - hopefully it is accurate :-)</li>
+ 	<li><strong>Dan Newton</strong> has also posted about 'Size does matter (in JavaFX)', an article about <a href="https://dzone.com/articles/size-does-matter-in-javafx">configuring JavaFX charts</a>.</li>
+ 	<li><strong>Markus Falkhausen</strong> has finished his <a href="http://www.falkhausen.de/JavaFX/index.html">class diagrams project for JavaFX</a>.</li>
+</ul>
+]]></Content>
+	</post>

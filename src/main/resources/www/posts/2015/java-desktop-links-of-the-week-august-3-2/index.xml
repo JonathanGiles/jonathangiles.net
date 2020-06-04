@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1944</ID>
+		<Slug>java-desktop-links-of-the-week-august-3-2</Slug>
+		<Title>Java desktop links of the week, August 3</Title>
+		<Date>2015-08-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Wow, it's been a really, <span style="font-family: 'Lucida Grande', 'Lucida Sans', 'Lucida Sans Unicode', Verdana, Helvetica, Arial, sans-serif;"><i>really</i>, long time since I last posted. This was because I was away on vacation (twice!), and in between those two vacations I had a lot of catching up to do. Now that things are settling down a little it is time to get these posts back up and running. I should start by saying that I've almost certainly missed a heap of news in the past few weeks, so apologies in advance for not hitting all the important topics - but hopefully most are covered. If I missed something you did, please <a href="mailto:jonathan@jonathangiles.net">email me</a> with the link. With that said, lets get into it!</span></p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has been very busy - he has posted a number of posts, so I will link to them here simply by their titles: '<a href="http://tomsondev.bestsolution.at/2015/07/07/efxclipse-2-0-is-released/">e(fx)clipse 2.0 – Is released</a>', '<a href="http://tomsondev.bestsolution.at/2015/07/08/eclipse-democamp-season-javafx-smart-code-editors-eg-for-google-dart/">Eclipse Democamp Season – JavaFX smart code editors (eg for Google Dart)</a>', '<a href="http://tomsondev.bestsolution.at/2015/07/23/defining-source-editors-with-a-dsl/">Defining source editors with a DSL</a>', '<a href="http://tomsondev.bestsolution.at/2015/07/24/developing-a-source-code-editor-in-javafx-without-e4-and-osgi/">Developing a source code editor in JavaFX (without e4 and OSGi)</a>', and '<a href="http://tomsondev.bestsolution.at/2015/07/27/developing-a-source-code-editor-in-javafx-on-the-eclipse-4-application-platform/">Developing a source code editor in JavaFX (on the Eclipse 4 Application Platform)</a>'.</li>
+	<li><strong>Dirk Lemmermann</strong> posted two new JavaFX tips: one suggesting the <a href="https://dlemmermann.wordpress.com/2015/06/16/javafx-tip-20-a-lot-to-show-use-canvas/">benefits of the JavaFX Canvas</a>, and the other about <a href="https://dlemmermann.wordpress.com/2015/06/18/javafx-tip-21-animate/">making use of animation</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> has blogged about his explorations in <a href="http://www.guigarage.com/2015/07/material-design-in-javafx/">recreating the Google material design in JavaFX</a>. This is something that seems to be getting more popular now - I've heard of a few people working in this area, and of course Gluon is doing similar with the <a href="http://gluonhq.com/details-about-gluon-glisten/">Charm Glisten library</a>.</li>
+	<li><strong>Sébastien Bordes</strong> has announced the <a href="http://blog.jrebirth.org/javafx/releases/jrebirth-application-framework-8-0-2-is-released/">release of JRebirth Application Framework 8.0.2</a>. In addition to this, there is a post on&nbsp;<a href="http://blog.jrebirth.org/javafx/tutorials/how-jrebirth-deploys-to-jcenter-and-maven-central/">how JRebirth deploys to JCenter and Maven Central</a>.</li>
+	<li><strong>Jens Deters</strong> has announced that&nbsp;<a href="http://www.jensd.de/wordpress/?p=2067">MQTT.fx 0.0.16 has been released</a>.</li>
+	<li><strong>Gail Anderson</strong> has posted a <a href="http://asgteach.com/2015/06/using-javafx-in-a-netbeans-application-part-1/">two</a> <a href="http://asgteach.com/2015/06/using-javafx-in-a-netbeans-application-part-2/">part</a> post on&nbsp;using JavaFX in a NetBeans application.</li>
+	<li><strong>Christoph Nahr</strong> has posted about how <a href="http://news.kynosarges.org/2015/06/29/javafx-dpi-scaling-fixed/">DPI scaling is fixed in JavaFX 8u60</a>.</li>
+	<li><strong>Dmitry Leskov</strong> emailed to let me know that&nbsp;<a href="http://www.excelsior-usa.com/blog/news/excelsior-jet-11-beta-1-available/">Excelsior JET 11 beta 1 is available</a>, and with it comes&nbsp;Java SE 8 and JavaFX 8 support.</li>
+	<li><strong>Erel Uziel</strong> emailed me to let me know about B4J, which is&nbsp;a free tool for <a href="http://www.b4x.com/b4j.html">cross platform apps based on JavaFX</a>.</li>
+	<li>The <strong>Gluon</strong> blog (disclaimer: I'm <a href="http://gluonhq.com/jonathan-giles-joins-the-gluon-advisory-board/">involved with Gluon</a>) has a number of posts, with titles such as '<a href="http://gluonhq.com/jose-pereda-joins-gluon/">José Pereda joins Gluon</a>', '<a href="http://gluonhq.com/comments-app-getting-started-with-gluon-charm/">Comments App: Getting started with Gluon Charm</a>', '<a href="http://gluonhq.com/the-new-gluon-plugin-for-intellij-idea/">The new Gluon Plugin for IntelliJ IDEA</a>', and '<a href="http://gluonhq.com/gluon-at-javaone/">Gluon at JavaOne</a>'.</li>
+	<li>The <strong>SIB Visions</strong> blog has three relevant posts. Firstly, the announcement that&nbsp;<a href="http://blog.sibvisions.com/2015/06/22/jvx-javafxui-1-0/">JVx JavaFX UI 1.0 has been released</a>. Secondly, about <a href="http://blog.sibvisions.com/2015/06/29/javafx-ui-and-visionx/">integrating JVx&nbsp;JavaFX UI and VisionX</a>. Finally, about&nbsp;<a href="http://blog.sibvisions.com/2015/07/09/javafxports-with-ios/">JavaFXPorts with iOS</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jyloo Software</strong> has announced the <a href="http://www.jyloo.com/news/?pubId=1435563334000">release of&nbsp;Synthetica V2.20 and SyntheticaAddons V1.10</a>. Additionally, they have blogged about&nbsp;a new feature called&nbsp;<a href="http://www.jyloo.com/news/?pubId=1436357978000">HeaderShadow</a>, which is a new window decoration element.</li>
+</ul>
+<p>Phew! That's that for another week! Catch you all again next week! :-)</p>
+]]></Content>
+	</post>

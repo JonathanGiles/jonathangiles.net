@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>970</ID>
+		<Slug>java-desktop-links-of-the-week-december-6</Slug>
+		<Title>Java desktop links of the week, December 6</Title>
+		<Date>2010-12-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A very quiet week this week, with only four links to talk about. Let's just get into it :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Mark Fortner</strong> blogs about '<a href="http://www.jroller.com/phidias/entry/if_not_swing_then_what">If not Swing, then what?</a>'. In this post he discusses what he believes the necessary features of a UI toolkit are, or as he puts it "So it really boils down to this: How can I create a UI that looks good, but doesn’t require me to exercise the aesthetic part of my brain? &nbsp;What would the basic requirements be for such a framework?"</li>
+	<li><strong>Gerrit Grunwald</strong> recently presented at the Java User Group of Dusseldorf on '<a href="http://harmoniccode.blogspot.com/2010/12/presentation-and-webstart-demo.html">Graphical rich components</a>'. You can view the slidedeck, and he also has a webstart link to start a test app he uses to test his Steel Series library.</li>
+	<li>A number of people emailed me this week about the <a href="http://www.strixcode.com/j7goodies/">J7Goodies</a> product, a commercial library from <strong>Strixcode</strong>. From the webst get into it :-)
+<h4>Swing</h4>
+<ul>
+	<li><strong>Mark Fortner</strong> blogs about '<a href="http://www.jroller.com/phidias/entry/if_not_swing_then_what">If not Swing, then what?</a>'. In this post he discusses what he believes the necessary features of a UI toolkit are, or as he puts it "So it really boils down to this: How can I create a UI that looks good, but doesn’t require me to exercise the aesthetic part of my brain? &nbsp;What would the basic requirements be for such a framework?"</li>
+	<li><strong>Gerrit Grunwald</strong> recently presented at the Java User Group of Dusseldorf on '<a href="http://harmoniccode.blogspot.com/2010/12/presentation-and-webstart-demo.html">Graphical rich components</a>'. You can view the slidedeck, and he also has a webstart link to start a test app he uses to test his Steel Series library.</li>
+	<li>A number of people emailed me this week about the <a href="http://www.strixcode.com/j7goodies/">J7Goodies</a> product, a commercial library from <strong>Strixcode</strong>. From the website: "J7Goodies is a Java library that provides Windows 7 features like jump list, taskbar thumbnails, thumbnail toolbar and more, the Java way. It integrates seamlessly with existing Swing applications by using Java </li></ul></li></ul>
+]]></Content>
+	</post>

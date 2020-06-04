@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1784</ID>
+		<Slug>java-desktop-links-of-the-week-august-18</Slug>
+		<Title>Java desktop links of the week, August 18</Title>
+		<Date>2014-08-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A bunch of good links this week. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has been busy blogging about the new features of e(fx)clipse 1.0, including the ability to <a href="http://tomsondev.bestsolution.at/2014/08/14/efxclipse-1-0-new-features-consume-none-osgi-artifacts-from-a-maven-repository/">consume Non-OSGi-Artifacts from a maven repository</a>, how he has <a href="http://tomsondev.bestsolution.at/2014/08/10/efxclipse-1-0-new-features-the-clever-css-editor-who-got-more-clever/">improved the CSS editor to support JavaFX and third party libraries</a>, the <a href="http://tomsondev.bestsolution.at/2014/08/11/efxclipse-1-0-new-features-styledtext-control-to-build-a-code-editor-framework/">StyledText control</a>, and of course he has blogged that <a href="http://tomsondev.bestsolution.at/2014/08/15/efxclipse-1-0-released/">e(fx)clipse 1.0 has now been released</a>.</li>
+	<li><strong>Felipe Heidrich</strong>, a colleague of mine in the JavaFX team, presented this week on JavaFX text rendering, which I know is a hot-button topic for many people. You will be pleased to know that the <a href="http://nighthacking.com/javafx-text-rendering/">video recording is now available online</a> for you to watch.</li>
+	<li><strong>Niels Gundermann</strong> has updated his JavaFX 3D Editor project to version 9, which <a href="http://javafxstuff.blogspot.de/2014/08/javafx-3d-editor-update-9.html">includes support for animations</a>.</li>
+	<li>I put out a <a href="http://fxexperience.com/2014/08/announcing-scenic-view-8-0-0-developer-preview-5/">new release of Scenic View</a> for JavaFX 8.0 and above - this is likely to be the last (or second to last) developer preview, depending on the bug reports received. Please download it and give it a try.</li>
+	<li><strong>Tomas Mikula</strong> has put out a summary page that compares the <a href="https://github.com/TomasMikula/RichTextFX/wiki/JavaFX-Controls-for-Code-Editing">three main JavaFX controls that are designed for code editing</a>. It is great to see the community working on this, and it would be great to see some coming-together of the projects to perhaps consider working together, rather than duplicating effort. A rich text editor (rather than the existing HTMLEditor) is something that is planned for JavaFX 9, so having a community project that works towards this, with a view to integrating into OpenJFX in the future, would be hugely beneficial!</li>
+	<li><strong>Jens Deters</strong> continues to improve his MQTT.fx project, this week <a href="http://www.jensd.de/wordpress/?p=1375">releasing version 0.0.6</a> which includes a bunch of nice new features.</li>
+	<li><strong>Rob Terp</strong> has posted an interesting blog, and video, on <a href="http://rterp.wordpress.com/2014/08/13/monitoring-real-time-commodity-prices-using-javafx-netbeans-rcp-and-camel/">monitoring real-time commodity prices using JavaFX, NetBeans RCP, and Camel</a>.</li>
+	<li><strong>Yakov Fain</strong> has a post about <a href="http://yakovfain.com/2014/08/11/javafx-event-handling-and-property-binding/">JavaFX event handling and property binding</a>.</li>
+</ul>
+<p>That's all folks! Catch you next week :-)</p>
+]]></Content>
+	</post>

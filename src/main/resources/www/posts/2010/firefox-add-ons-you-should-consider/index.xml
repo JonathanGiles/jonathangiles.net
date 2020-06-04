@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>767</ID>
+		<Slug>firefox-add-ons-you-should-consider</Slug>
+		<Title>Firefox add-ons you should consider</Title>
+		<Date>2010-04-12</Date>
+		<Status>publish</Status>
+		<Categories>Technology</Categories>
+		<Tags>software</Tags>
+		<Content><![CDATA[<p>I'm one of those people that likes to tweak my software to get it to work as well for me as possible. Firefox makes this very easy, as in most cases an add-on exists and it's a simple matter of downloading it and configuring it. This post outlines some of my most favourite firefox add-ons - hopefully they may also be helpful to you. I'll spend an inversely proportionate amount of time on each add-on, relative to how likely it is for you to already know about it. I also don't plan to cover all of them.</p>
+
+<p><strong><a href="http://adblockplus.org/en/">Adblock Plus</a></strong>: Blocks annoying ads. Useful, but I'm waiting for people to tell me I'm cheating the Internet.</p>
+
+<p><a href="https://addons.mozilla.org/en-US/firefox/addon/7166"><strong>Blank Your Monitor + Easy Reading</strong></a>: One thing I really don't like doing is reading white text on a black background (despite it theoretically being better for the planet, e.g. <a href="http://www.blackle.com">blackle</a>). With this plugin, and a teeny bit of configuration, you can easily toggle any site you come across to use alternative colours, for example the more natural black text on a white background (or any other combination depending on what your eyes like to see).</p>
+
+<p><a href="http://downloadstatusbar.mozdev.org/"><strong>Download Statusbar</strong></a>: Moves the download progress bars to the south of your web browser, saving you from having to have a separate window stealing focus / space in the taskbar. You can always bring up your old download window by ctrl-J.</p>
+
+<p><a href="http://echofon.com/"><strong>Echofon</strong></a>: This is my preferred way of interacting with Twitter, given that it's always visible in my browser, and doesn't take up any further system resources. I have tried to use alternative, standalone applications, but I always feel more distracted with them as they pop out of my system tray. At least with Echofon I can ignore it when I'm in my IDE, for example. I imagine this is the exact problem with Echofon for many people, but it works well for me.</p>
+
+<p><a href="https://addons.mozilla.org/en-US/firefox/addon/3780"><strong>FaviconizeTab</strong></a>: Simple Firefox plugin to shrink tabs when double-clicked (or alternatively, but double-click is my preference), such that only the favicon is showing. I find this add-on incredibly useful and constantly have certain tabs set to automatically shrink when loaded. Very highly recommended.</p>
+
+<p><a href="http://fireftp.mozdev.org/"><strong>FireFTP</strong></a>: This is all the FTP client I need, and once again it's one less application I need to have installed on my system.</p>
+
+<p><a href="http://readitlaterlist.com/"><strong>Read It Later</strong></a>: Want to know how I collect my list of Java desktop / JavaFX links of the week? I just store them all on Read It Later and load them all up each Monday morning. This is a great tool for this purpose, as it's quick, does what it needs to, and doesn't get in the way. If you are like me and always coming across interesting sites / articles to read, but don't have the time to read them <em>right now</em>, just store it in Read It Later and load it up when you have a spare minute.</p>
+
+<p><a href="https://addons.mozilla.org/en-US/firefox/addon/10254"><strong>TabGroups Manager</strong></a>: Often times I have a tonne of tabs open, but they are split between bug reports I'm working on, work stuff, news sites, etc, etc. Often there are logical groups, and this add-on allows for exactly this. You basically get another row of tabs in Firefox, within which you can open other tabs. This allows for you to have a tab for bug reports, a tab for news / time wasting, a tab for work stuff, etc. Whilst it does cost you a few extra pixels of vertical chrome at the top of your Firefox window, I think it pays for itself if you're anything like me.</p>
+
+<p><strong><a href="http://trac.arantius.com/wiki/Extensions/TinyMenu"></a></strong></p>
+
+<p>[caption id="attachment_777" align="alignright" width="364" caption="My Firefox Chrome"]<strong><a href="http://trac.arantius.com/wiki/Extensions/TinyMenu"><strong> </strong></a><strong><a><img class="size-full wp-image-777" title="ff-chrome" src="/content/2010/04/ff-chrome1.png" alt="My Firefox Chrome" width="364" height="33"></a></strong></strong>[/caption]</p>
+
+<p><a href="http://trac.arantius.com/wiki/Extensions/TinyMenu"><strong>Tiny Menu</strong></a>: I've rearranged my Firefox chrome quite a bit. In fact, you can see what it looks like to the right. You'll note that rather than have the traditional 'File', 'Edit', 'View', etc, that I instead have collapsed this down into a single 'Menu' menu, which when clicked will show all other menus. I justify this simply by realising how infrequently I need to access these menus. Tiny Menu allows for precisely this functionality, and with a bit of toolbar rejigging, you can easily get back the space taken up by the TabGroups Manager. Of course, if you don't need the TabGroups Manager add-on, you've just got a free ~25 pixels of vertical space that can go towards website content, rather than wasteful browser chrome.</p>
+
+<p><a href="https://addons.mozilla.org/en-US/firefox/addon/313/?src=api"><strong>Stop-or-Reload Button</strong></a>: You'll note in the screenshot I don't have a stop button. This was initially just because I had deleted it from the toolbar entirely, but then I came across this add-on that does the Smart Thing (i.e. what Google Chrome does I believe). This plugin hides the individual stop / reload buttons, and instead has just one button that shows the stop button when the page is loading, and the refresh button when the page has completely loaded. That's one less button to have on the toolbar.</p>
+
+<p>I thought I would end by mentioning that I make use of the <a href="http://tylerc.com/firefox/#chromifoxbasic">Chromifox theme</a>, which is basically a Google Chrome knock-off, but it looks clean and simple.</p>
+
+<p>Finally, for what it's worth, you'll also note in the screenshot above that I've done away with buttons that I don't need from the toolbar as well. You should seriously consider looking into this - you can get to the toolbar options by right-clicking in an empty space and choosing customise. You'll be surprised what you don't actually need.</p>
+
+<p>Well, that's it for now. I hope that this list helps others, and perhaps it's a bit more useful than the all too common "Top 100 Firefox add-ons that you aren't using" lists that seem to pop up all the time. Feel free to leave your thoughts in the comments of other add-ons you like.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>45</ID>
+		<Slug>xpath-and-leopard</Slug>
+		<Title>XPath and Leopard</Title>
+		<Date>2006-01-22</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags/>
+		<Content><![CDATA[<p><span id="BlogViewId"></span></p>
+<p><div>Well, my work on implementing an XPath engine within <a href="http://mandarax.org/">Mandarax</a> is finally looking up. There is only one area that I'm facing big troubles, and I'll start worrying about that later (tomorrow most probably). It's cool what it can do now - you can give a query like "/fact | /rule" to gather all the rules and facts within the knowledge base, or if you want all rules with a certain size, you simply go "/rule[@size='10']". The number of queries is unlimited - I've built a plugin system so people working within Mandarax can easily add further datatypes to the engine, allowing it to then provide results for that data.</div></p>
+<p><div></div></p>
+<p><div>Compare this with having to write your own code each time you want to find something out within the knowledge base, and the benefit becomes hugely obvious. And here is a view on the code repository zoomed in on my XPath code (I admit the code isn't nice right now - it's in debug mode):</div></p>
+<p><div><a href="http://cvs.sourceforge.net/viewcvs.py/mandarax/mandarax/src/org/mandarax/xpath/">http://cvs.sourceforge.net/viewcvs.py/mandarax/mandarax/src/org/mandarax/xpath/</a></div></p>
+<p><div></div></p>
+<p><div>Other than that, I've just been finalising (and bug fixing) Leopard Tutor, my app for a massey associate professor who wants to use it to teach students Java and object-orientation. They basically build up a UML diagram from a source code listing. Hey Microsoft - wouldn't it be cool to get this switched over to a C# teaching tool? It would take very little work, and it's another way to get students to learn .NET over Java. Ask me for more info <img src="http://spaces.msn.com/rte/emoticons/smile_regular.gif">.</div></p>
+<p><div></div></p>
+<p><div>Cheers,</div></p>
+<p><div>Jonathan Giles.</div></p>
+]]></Content>
+	</post>

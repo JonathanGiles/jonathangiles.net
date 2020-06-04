@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1787</ID>
+		<Slug>java-desktop-links-of-the-week-august-25</Slug>
+		<Title>Java desktop links of the week, August 25</Title>
+		<Date>2014-08-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week of links. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>I rolled out <a href="http://fxexperience.com/2014/08/scenic-view-8-0-0-developer-preview-6-now-available">yet another Scenic View 8.0.0 developer preview build</a> to get more feedback. This build included subscene support, hugely improved linux support, and some support for running Scenic View as an agent again (although I'm told it isn't perfect yet). There will probably be another Scenic View developer preview build again this week as I work towards a final release (most probably this side of JavaOne).</li>
+	<li><strong>Matthias Meidinger</strong> has put up a website for <a href="http://www.aerofx.org/">AeroFX</a>, his JavaFX stylesheet that attempts to bring the Windows 7 style to JavaFX. It's looking excellent so far - you can <a href="https://github.com/s1gpwr/aerofx">see screenshots on the github page</a>.</li>
+	<li><strong>Dirk Lemmermann</strong> put up two more tips this week. Tip #13 is to <a href="http://dlemmermann.wordpress.com/2014/08/19/javafx-tip-13-study-modena-css-file/">study the Modena CSS file</a>, and tip #14 is about <a href="http://dlemmermann.wordpress.com/2014/08/19/javafx-tip-14-stackpane-children-hidden-but-not-gone/">StackPane children</a>, or as he puts it, 'hidden but not gone'. I should note that in this case, <strong>Gilberto</strong> has some excellent advice - use the managed property on the children node that you do not want to include in the layout. This is by far the most optimal approach, rather than adding / removing children from the scenegraph.</li>
+	<li><strong>Nick Sabey</strong> has posted about '<a href="http://netbeans.dzone.com/articles/nasa-conjunction-assessment">NASA Conjunction Assessment with JavaFX and the NetBeans Platform</a>'.</li>
+	<li><strong>Jens Deters</strong> has posted a '<a href="http://www.jensd.de/wordpress/?p=1408">poor mans input constraints</a>' implementation. I'm also very happy to note that his main complaint - a lack of a 'JFormattedText' control in JavaFX will be resolved in JavaFX 8u40, as already the TextField control has been improved to support formatted text input (see <a href="https://javafx-jira.kenai.com/browse/RT-14000">RT-14000</a>).</li>
+	<li>The <strong>IDR Solutions</strong> blog has a post on <a href="http://blog.idrsolutions.com/2014/08/mixed-treeview-nodes-javafx/">how to mix TreeView nodes</a> in JavaFX.</li>
+	<li><strong>Niels Gundermann</strong> has posted <a href="http://javafxstuff.blogspot.co.nz/2014/08/javafx-3d-editor-update-10.html">update 10 of his JavaFX 3D editor</a>.</li>
+	<li><strong>William Antônio</strong> has posted <a href="http://fxapps.blogspot.com.br/2014/08/javaee-javafx-and-rfid-part-4-client.html">part four </a>of his series on JavaEE, JavaFX and RFID.</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

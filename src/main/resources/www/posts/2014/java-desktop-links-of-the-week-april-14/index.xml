@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1711</ID>
+		<Slug>java-desktop-links-of-the-week-april-14</Slug>
+		<Title>Java desktop links of the week, April 14</Title>
+		<Date>2014-04-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java2d|javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week, another bunch of links. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Danno Ferrin</strong> has a good post about <a href="http://speling.shemnon.com/blog/2014/04/10/getting-your-java-app-in-the-mac-app-store/">getting your Java 8 app in the Mac App Store</a>. He recently proved the concept by uploading a <a href="http://blog.cryptocrumb.com/2014/04/follow-bitcoin-12-released-now-on-mac.html">bitcoin tracking application</a> that he developed to the app store.</li>
+	<li><strong>Dirk Lemmermann</strong> has two blog posts this week, both of which are tips for fellow JavaFX developers. Firstly, he has posted about <a href="http://dlemmermann.wordpress.com/2014/04/10/javafx-tip-1-resizable-canvas/">creating a resizable canvas</a> in JavaFX, and secondly he has posted a tip about how to <a href="http://dlemmermann.wordpress.com/2014/04/10/javafx-tip-2-sharp-drawing-with-canvas-api/">ensure lines are sharp / non-blurry when drawn in canvas</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> has posted that his Horizon control from the <a href="http://harmoniccode.blogspot.de/2011/03/steelseries-38-slim-down-release.html" target="_blank">SteelSeries Swing library</a> is now also <a href="http://harmoniccode.blogspot.co.nz/2014/04/just-because-you-asked-for-it-part-ii.html">available as a JavaFX 8 control</a>.</li>
+	<li><strong>Tomas Mikula</strong> continues to develop interesting JavaFX libraries. This week he announced <a href="https://github.com/TomasMikula/LiveDirsFX">LiveDirsFX</a>, a directory tree model for JavaFX that watches the filesystem for changes.</li>
+	<li><strong>Jurgen</strong> has a <a href="http://admedfx.blogspot.co.nz/">series of blog posts</a> (currently there are nine of them) covering his work on moving a complex application with a lost of custom code from JavaFX 2.2 to JavaFX 8.0. It's a good read for anyone about to upgrade their software.</li>
+	<li><strong>Sébastien Bordes</strong> has posted about <a href="http://blog.jrebirth.org/javafx/participate-to-jrebirth-roadmap/">how to participate in the JRebirth roadmap</a>.</li>
+	<li><strong>Sven Ruppert</strong> has posted part two of his series of posts on <a href="http://www.rapidpm.org/2014/04/java8-completablefuture-for-javafx-and.html">Java8 CompletableFuture for JavaFX and CDI</a>.</li>
+	<li><strong>William Antônio Siqueira</strong> has posted about having fun creating a JavaFX App to <a href="http://fxapps.blogspot.com.br/2014/04/having-fun-creating-javafx-app-to.html">visualize tweet sentiments</a>.</li>
+	<li><strong>Jeff Martin</strong> has <a href="http://reportmill.wordpress.com/2014/04/11/snapcode-update-april-11-added-showcoords-and-more/">updated SnapCode</a>, his IDE and RAD tool for education, entertainment and the enterprise.</li>
+	<li><strong>Pedro Duque Vieira</strong> <a href="http://pixelduke.wordpress.com/2014/04/12/metro-style-slider-for-java-update-jmetro/">updated his JMetro sliders</a> I linked to last week to fix up the issue where the fill was on the wrong side when vertical.</li>
+</ul>
+<h4>Swing / Java2D</h4>
+<ul>
+	<li><a href="http://www.jfree.org/jfreesvg/index.html">JFreeSVG 1.8</a> is now available to download. This release adds more rendering hint control, improved Stroke handling and an important bug fix regarding character encoding.</li>
+</ul>
+<p>Catch you all next week :-)</p>
+]]></Content>
+	</post>

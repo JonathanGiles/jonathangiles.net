@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>10</ID>
+		<Slug>plugin-software-development</Slug>
+		<Title>Plugin software development</Title>
+		<Date>2006-06-01</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>plugins-research</Tags>
+		<Content><![CDATA[<p>It's been a while since I geeked out, so I thought I best do another round, if merely for the purposes of keeping those interested in my adventures into the land of the software plugin updated. The short summary is:</p>
+
+<p>Progress is good, plugins are a great way to develop software, and I am still very much liking this new development mentality.</p>
+
+<p>To expand on that last point: programming is no longer a matter of trying to design everything at once - you can simply say "I'll make an extension point here, and later on decide on how the stuff happens on the other side of this point". This is great for my programming style, where I tend to get a basic version written up, and then I can go back and go "hey, why not rip this part out into it's own plugin?". Doing this is easy, and allows for easy reconfiguration.</p>
+
+<p>For example, I could have a static logging class that outputs to the console, or to file, email, etc - but how do I configure it on a per-customer basis? Configuration files? Sure, but I believe my solution is even better: drop the plugins you want into the plugins folder, and they'll just work. This is very true - my build script compiles all files in a plugin into a single file, so each plugin truly is one file - making per-customer configuration simply a matter of reading the file names of the plugins.</p>
+
+<p>So how does this work?  I define a logging interface, and a logging extension point. Any plugin that wants to be a logger says it wants to be an extension to the logging extension point, and then simply implements the logging interface. Logging will then work regardless of the number of plugins I have that extend the logging extension point.</p>
+
+<p>Clearly there may be instances where I only want one plugin to extend a certain extension point, such as only allowing one extension to the GUI extension point. This is also easily handled - simply state that the extension point multiplicity for this particular plugin is 'one'. Easy :).</p>
+
+<p>Ah well, That'll do for now,</p>
+<p>Exams soon, so good luck to everyone for that,</p>
+<p>Cheers,</p>
+<p>Jonathan Giles.</p>
+]]></Content>
+	</post>

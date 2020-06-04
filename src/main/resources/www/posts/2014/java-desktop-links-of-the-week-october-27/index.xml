@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1821</ID>
+		<Slug>java-desktop-links-of-the-week-october-27</Slug>
+		<Title>Java desktop links of the week, October 27</Title>
+		<Date>2014-10-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Heaps of links - enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>ControlsFX 8.20.8 was <a href="http://fxexperience.com/2014/10/announcing-controlsfx-8-20-8/">released this week</a>, primarily as a bug fix release, but it also included a few nice new controls - so get downloading if you use ControlsFX in your project!</li>
+	<li><strong>Hendrik Ebbers</strong> and <strong>Johan Vos</strong> have <a href="http://www.guigarage.com/2014/10/datafx-8-released/">announced the release of DataFX 8.0</a>. For anyone doing anything remotely interesting with JavaFX, you should definitely check out DataFX.</li>
+	<li>Speaking of <strong>Johan</strong>, he has put up the JavaFX Ensemble application, with unchanged code, <a href="https://play.google.com/store/apps/details?id=org.javafxports.ensemble8">into the Android Play Store</a>, as a proof of concept of what is now possible based on his hard work.</li>
+	<li><strong>Hendrik Ebbers</strong> <a href="http://www.guigarage.com/2014/10/extreme-gui-makeover-javaone/">extreme gui makeover presentation</a> from JavaOne is now available online at Parleys (along with a bunch of other sessions).</li>
+	<li><strong>Tom Schindl</strong> has pulled out the <a href="http://tomsondev.bestsolution.at/2014/10/23/busy-javafx-autumn-a-head-eclipsecon-europe-democamps-efxclipse-1-1-0/">JavaFX / e(fx)clipse related sessions</a> that are going to be presented at EclipseCon this year - in case you'll be there.</li>
+	<li><strong>Florian Brunner</strong> has announced that <a href="http://puces-blog.blogspot.co.nz/2014/10/drombler-fx-version-05-released.html">Drombler FX 0.5 has been released</a>. Drombler FX is a "modular Rich Client Platform for JavaFX based on OSGi and Maven (POM-first)."</li>
+	<li><strong>Carl Dea</strong> has <a href="https://bitbucket.org/cdea/fxplayground/overview">open sourced the FX Playground project</a> he demonstrated at JavaOne. As he puts it, FX Playground "allows a JavaFX or Html5 developer to run code on the fly without needing to compile a Java project."</li>
+	<li><strong>Adam Bien</strong> has posted a video showing how to create a <a href="http://www.adam-bien.com/roller/abien/entry/javafx_a_composite_view_with">composite view in JavaFX with Scene Builder and dependency injection</a>.</li>
+	<li><strong>Jim Laskey</strong> has posted part one of his series on '<a href="https://blogs.oracle.com/nashorn/entry/porting_from_the_browser_to">porting from the browser to Nashorn/JavaFX</a>'.</li>
+	<li>The <strong>SnapCode</strong> blog has details about a new feature in SnapCode - <a href="http://reportmill.wordpress.com/2014/10/24/snapcode-interactive-exercises/">interactive exercises</a>.</li>
+	<li><strong>Sébastien Bordes</strong> has written tip #3 for the JRebirth library: how to <a href="http://blog.jrebirth.org/javafx/tip-3-never-write-new-thread-again/">never write ‘new Thread()’ again</a>.</li>
+	<li><strong>Michael Simons</strong> has posted about 'getting started with JavaFX 8: <a href="http://info.michael-simons.eu/2014/10/22/getting-started-with-javafx-8-developing-a-rest-client-application-from-scratch/">developing a REST client application from scratch</a>'.</li>
+	<li><strong>Carl</strong> has two posts this week. Firstly, <a href="http://bekwam.blogspot.co.nz/2014/10/tabbed-navigation-in-java-fx.html">tabbed navigation in Java FX</a>, and secondly, the <a href="http://bekwam.blogspot.co.nz/2014/10/the-delegate-pattern-and-javafx.html">delegate pattern and JavaFX</a>.</li>
+</ul>
+<p>Catch you next week :-)</p>
+]]></Content>
+	</post>

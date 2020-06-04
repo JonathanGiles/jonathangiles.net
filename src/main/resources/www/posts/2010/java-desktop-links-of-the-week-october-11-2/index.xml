@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>928</ID>
+		<Slug>java-desktop-links-of-the-week-october-11-2</Slug>
+		<Title>Java desktop links of the week, October 11</Title>
+		<Date>2010-10-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Howdy. Todays post should really be titled 'Java desktop links of the past three weeks', but I'm sure you're aware that I was overseas and unfortunately too busy to do a proper post. Regardless, during that time I was still collecting links as best I could, and have posted them below. Due to the sheer number of links, I have only included the links of most relevance. Apologies if your link wasn't included (although I may have also genuinely missed it). As always, if you want a link included, it's best to <a href="mailto:jonathan@jonathangiles.net">flick me an email</a> and I'll include it in the next weeks post if it's suitable. Right, let's get on with the links!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jan Haderka</strong> announced that <a href="http://weblogs.java.net/blog/rah003/archive/2010/09/21/swingx-162-released">SwingX 1.6.2 was made available at JavaOne</a>.</li>
+	<li><strong>Karl Schaefer</strong> has a post talking about a new component that is being incubated over at SwingX. It's called the <a href="http://weblogs.java.net/blog/kschaefe/archive/2010/09/22/swingx-jxscrollmap-incubator">JXScrollMap</a>, and basically offers an overview of the entire contents of a scrollpane. Try out the webstart demo to see what I mean.</li>
+	<li><strong>Mathieu Bastian</strong> has blogged about <a href="http://netbeans.dzone.com/announcements/gephi-07beta-released-netbeans">Gephi</a>, which is an open source graph visualisation application built with NetBeans and JOGL.</li>
+	<li><strong>Jyloo Software</strong> have continued their series on the TableCellRenderer, with <a href="http://www.jyloo.com/news/?pubId=1286389179000">more advanced cell renderer examples</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> did a <a href="http://harmoniccode.blogspot.com/">tonne of blog posts</a> about his Steel series component set (of guages, etc), and his FXG converter tool.</li>
+	<li>A (commercial) <a href="http://www.javaswingcomponents.com/product/rater">'rater' component has been released</a>. This component lets users rate something by selecting between zero and five stars.</li>
+</ul>
+<h4>JavaFX 2.0</h4>
+<p>The big news at JavaOne for us was obviously the announcement of JavaFX 2.0. I've got a tonne of links below, and it's well worth reading the comment sections of most blog posts for further discussion and clarification.</p>
+<ul>
+	<li>Oracle has published a <a href="http://javafx.com/roadmap/">roadmap</a> that discusses the plans for 2010 and 2011 for JavaFX 2.0. <strong>Stephen Chin</strong> <a href="http://steveonjava.com/javafx-2-0/">summarised this on his blog</a>.</li>
+	<li><strong>Richard Bair</strong> posted about <a href="http://fxexperience.com/2010/09/javafx-2-0/">JavaFX 2.0</a>, and also <a href="http://fxexperience.com/2010/09/swing-integration/">Swing integration with JavaFX 2.0</a>.</li>
+	<li><strong>Amy Fowler</strong> has written up a '<a href="http://amyfowlersblog.wordpress.com/2010/09/21/a-heartfelt-ramble-on-swing-javafx/">heartfelt ramble on Swing &amp; JavaFX</a>'</li>
+	<li><strong>Stephen Chin</strong> and I did a talk at JavaOne to show you early demos of <a href="/posts/2010javafx-your-way-building-javafx-applications-with-alternative-languages/">what JavaFX 2.0 could look like in alternative languages</a> (as well as Java).</li>
+	<li>For those mourning the loss of JavaFX Script, the <a href="http://code.google.com/p/visage/">Visage project</a> has been <a href="http://steveonjava.com/accouncing-visage/">announced</a>. This is basically a fork of the open source JavaFX Script compiler, which will be targeted to work on JavaFX 2.0 once the API becomes available.</li>
+	<li><strong>Alex Ruiz</strong> has covered one of the exciting reasons we're moving back to Java: the <a href="http://alexruiz.developerblogs.com/?p=1598">availability of heaps of tools designed to support Java</a>.</li>
+	<li>A number of blog posts covered the topic of JavaFX 2.0, but to save space I'll just mention the author of each one here. The blogs were written by <a href="http://weblogs.java.net/blog/javakiddy/archive/2010/09/24/javafx-android-and-psychic-octopus">Simon Morris</a>, <a href="http://weblogs.java.net/blog/opinali/archive/2010/09/23/swing-20-coming">Osvaldo Doederlein</a>, <a href="http://java.dzone.com/articles/javafx-rebooted-roadmap">James Sugrue</a>, <a href="http://java.dzone.com/articles/oracle-discontinue-javafx">Mitchell Pronschinske</a>, <a href="http://nick-software.blogspot.com/2010/09/javafx-2-good-bad-and-ugly.html">Nick Apperley</a>, <a href="http://wbillingsley.blogspot.com/2010/09/javafx-script-isnt-in-javafx-20-whats.html">Will Billingsley</a>, <a href="http://mkblog.exadel.com/2010/10/javaone-2010-what-happened-with-javafx-part-2/">Max Katz</a>, and <a href="http://blogs.lodgon.com/johan/My_opinion_about_JavaFX_20">Johan Vos</a>.</li>
+</ul>
+<h4>JavaFX 1.x</h4>
+<ul>
+	<li><strong>Kim Topley</strong> has put out the <a href="http://www.amazon.com/JavaFX-Developers-Guide-Kim-Topley/dp/0321601653">JavaFX Developer's Guide</a>, which is now available from Amazon and other bookstores.</li>
+	<li><strong>Johan Vos</strong> presented a few sessions at JavaOne, and has <a href="http://www.lodgon.com/lodgon/NEWS/Artikelen/2010/9/22_Our_CTO_presented_a_JavaOne_session_on_JavaFX.html">put up the code</a> for your edutainment.</li>
+	<li>Speaking of <strong>Johan</strong>, <a href="http://blogs.sun.com/arungupta/entry/redfx_javafx_widget_library_for">here is an interview</a> he did whilst at JavaOne about <a href="http://redfx.org/">RedFX</a>.</li>
+	<li><strong>Stephen Chin</strong> has posted the <a href="http://steveonjava.com/javaone-enterprise-javafx-and-jfxtras-presentations/">slides from his two other talks from JavaOne</a> on his blog. These cover JFXtras and 'Building Enterprise Applications with JavaFX'.</li>
+	<li><strong>Pedro Duque Vieira</strong> has <a href="http://pixelduke.wordpress.com/2010/10/10/modellus-5-beta-1-release/">just released Modellus 5 beta 1</a>. The interesting thing about this application is that it combines Swing and JavaFX very nicely.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has released his own <a href="http://weblogs.java.net/blog/joshy/archive/2010/10/09/announcing-amino-new-ui-toolkit-desktop-java">UI Toolkit called Amino</a>. This forms the foundation of his <a href="http://leonardosketch.org/">Leonardo Sketch</a> application.</li>
+	<li><strong>Mitchell Pronschinske</strong> has posted a blog talking about how <a href="http://java.dzone.com/articles/metawidget-10-coming-soon">MetaWidget 1.0 is coming soon</a>.</li>
+</ul>
+<p>Well, there's a tonne of links in there - hopefully you found something interesting or useful! Now that I've spent the last two hours reading and writing these links, it's time to get to work :-) Catch you all in a weeks time, where things will return to normal.</p>
+]]></Content>
+	</post>

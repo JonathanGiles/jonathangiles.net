@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>323</ID>
+		<Slug>java-desktop-links-of-the-week-april-13</Slug>
+		<Title>Java desktop links of the week, April 13</Title>
+		<Date>2009-04-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|javafx|Programming|Swing Links</Tags>
+		<Content><![CDATA[<p>Welcome to the very first Easter edition of Java desktop links of the week :-)</p>
+
+<p>I hope you all had a great easter, had a chance to spend time with family, and didn't eat too much chocolate. Perhaps because of the short week, there has been far less news this week than normal. Let's get started:</p>
+
+<p>Swing</p>
+<ul>
+	<li>The <strong>Limewire blog</strong> has a post on <a href="http://blog.limewire.org/?p=337">how to create thumbnails of images faster than the generally recommended getFasterScaledInstance() approach</a> by firstly sub-sampling the image to strip out some data. As they state, subsampling is a process of reading every nth pixel in every nth line. I integrated this code into some of my projects, and whilst I don't have any exact values, it does feel faster.</li>
+	<li><strong>Kirill Grouchnikov</strong> (<a href="http://twitter.com/kirillcool">@kirillcool</a> ) notes that <a href="http://www.pushing-pixels.org/?p=1172">recently the Nimbus designer was moved into the OpenJDK trunk</a> . However, following this there was <a href="http://mail.openjdk.java.net/pipermail/swing-dev/2009-April/000469.html">discussion around the inclusion of some binary jar files that are not allowed</a> , and so <a href="http://mail.openjdk.java.net/pipermail/swing-dev/2009-April/000473.html">at this point the commit has been reversed</a> .</li>
+</ul>
+<p>JavaFX</p>
+<ul>
+	<li><strong>Danny Coward</strong> (<a href="http://twitter.com/theplanetarium">@theplanetarium</a> ) has an<a href="http://blogs.sun.com/theplanetarium/entry/planet_cast_three_what_tor"> interview with Tor Norbye, discussing Tor's thoughts regarding JavaFX</a> . Tor recently shifted into the JavaFX team, so it is good to hear his thoughts from a newbies perspective.</li>
+	<li><strong>Danny Coward</strong> posts about <a href="http://blogs.sun.com/theplanetarium/entry/javafx_faster_faster">work going on to improve the performance of JavaFX</a> , and includes links to tips that you can use to improve your JavaFX applications.</li>
+	<li>Following on from this, <strong>Jim Connor</strong> has a blog post about <a href="http://blogs.sun.com/jtc/entry/node_count_and_javafx_performance">reducing the node count in JavaFX applications as a means of improving performance</a> .</li>
+	<li>Another performance article, this time by <strong>Jeff Frieson</strong> , offers a means to <a href="http://www.javaworld.com/community/?q=node/2754">reduce memory footprint by using a CustomNode alternative</a> .</li>
+	<li>Another post by <strong>Jeff Frieson</strong> continues his series of <a href="http://www.javaworld.com/javaworld/jw-04-2009/jw-04-jump-into-jfx-4.html">posts exploring the JavaFX API</a> . This post focuses on the JavaFX media, GUI construction, and effects APIs.</li>
+	<li><strong>Jim Weaver</strong> (<a href="http://twitter.com/javaFXpert">@JavaFXpert</a> ) has a post about <a href="http://learnjavafx.typepad.com/weblog/2009/04/javafx-tips-and-tricks-using-singleton-pattern-to-share-a-model.html">using the singleton design pattern in JavaFX to share a model</a> .</li>
+	<li>Additionally, <strong>Jim Weaver</strong> has a <a href="http://learnjavafx.typepad.com/weblog/2009/04/javafx-tips-and-tricks-invoking-javafx-functions-from-java.html">post about invoking JavaFX functions from Java</a> .</li>
+	<li><strong>Alexandr Scherbatiy</strong> has a post that <a href="http://blogs.sun.com/alexsch/entry/simple_function_plotter">demonstrates how he has created a simple function plotter in JavaFX</a> . Given the simplicity of the code, this is an impressive demo!</li>
+	<li><strong>Rakesh Menon</strong> has a <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_loading_images">post detailing how to load images in JavaFX</a> .</li>
+</ul>
+<p>That's it for another week. Have a great week and keep up the hard work in whatever you're passionate about! :-)</p>
+]]></Content>
+	</post>

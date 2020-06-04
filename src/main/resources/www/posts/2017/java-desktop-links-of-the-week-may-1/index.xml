@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2502</ID>
+		<Slug>java-desktop-links-of-the-week-may-1</Slug>
+		<Title>Java desktop links of the week, May 1</Title>
+		<Date>2017-04-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>It's May already. Crazy. Time seriously needs to slow down.</p>
+<ul>
+ 	<li><strong>Eric Canull</strong> has <a href="https://github.com/EricCanull/fxexperience-2">forked the FX Experience Tools</a> and got the code working under JavaFX 8 / 9. For a reminder of what the FX Experience Tools are, refer to <a href="http://fxexperience.com/2012/03/announcing-fx-experience-tools/">this blog post from 2012</a>!</li>
+ 	<li><strong>Carl Walker</strong> has posted about&nbsp;<a href="http://bekwam.blogspot.co.nz/2017/04/kotlin-radiobuttons-and-enumerated.html">Kotlin RadioButtons and enumerated types</a> in TornadoFX.</li>
+ 	<li><strong>GOXR3PLUS STUDIO</strong> has developed a <a href="https://github.com/goxr3plus/XR3Player">media player in JavaFX</a>.</li>
+ 	<li><strong>Jason Lee</strong> posted about <a href="http://www.jasondl.ee/posts/2017/getting-javafx-listviews-to-honor-container-width.html">getting JavaFX ListViews to honour container width</a>.</li>
+ 	<li>Recently at Devoxx US, <strong>Gluon</strong> presented on '<a href="https://www.youtube.com/watch?v=1I38pmEnfVQ&amp;list=PLy7t4z5SYNaRN2IDmjq_SSCrb9Sph4zAC&amp;index=12">Building the MyDevoxx App with JavaFX and Gluon</a>'.</li>
+</ul>
+]]></Content>
+	</post>

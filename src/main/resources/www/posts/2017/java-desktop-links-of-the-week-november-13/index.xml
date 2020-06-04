@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2624</ID>
+		<Slug>java-desktop-links-of-the-week-november-13</Slug>
+		<Title>Java desktop links of the week, November 13</Title>
+		<Date>2017-11-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Firstly, a thank you to everyone who pinged me after my <a href="/posts/2017/farewell-oracle/">announcement that I was leaving Oracle</a> - I received a huge number of emails of appreciation. My ego is now sufficiently inflated - thanks everyone :-) Anyway - it's the start of another week, so here is another batch of links for you to enjoy! :-)</p>
+<ul>
+ 	<li><strong>David Gilbert</strong> has&nbsp;released a new project called <a href="https://github.com/jfree/jfreechart-fx">JFreeChart-FX</a> that contains the JavaFX extensions for JFreeChart, and alongside this a new version of <a href="https://github.com/jfree/jfreechart">JFreeChart</a> (v1.5.0) that aligns with this new project as a dependency. This improves the JavaFX support in JFreeChart. Simultaneously, David has made a new release of <a href="https://github.com/jfree/FXGraphics2D">FXGraphics2D</a> (a small API that allows Java2D code to be reused with the JavaFX Canvas) that removes some private API calls so that it can be used with JDK9.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has posted about <a href="https://harmoniccode.blogspot.co.nz/2017/11/smooth-charts.html">smoothed charts in JavaFX</a>. Very nice.</li>
+ 	<li><strong>Renato Athaydes</strong> has updated <a href="https://github.com/renatoathaydes/LogFX">LogFX</a>,&nbsp;a simple Log reader supporting color highlighting and able to handle giant files.</li>
+ 	<li><strong>yWorks</strong>&nbsp;has a new release of <a href="https://www.yworks.com/blog/yfilesjavafx31">yFiles for JavaFX</a>. This is a commercial diagramming framework.</li>
+</ul>
+]]></Content>
+	</post>

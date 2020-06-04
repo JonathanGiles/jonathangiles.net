@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>616</ID>
+		<Slug>java-desktop-links-of-the-week-october-5</Slug>
+		<Title>Java desktop links of the week, October 5</Title>
+		<Date>2009-10-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Here's all the latest news that you may have missed in the last week. Enjoy!</p>
+<h4>General</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has posted a heap of documentation about Trident, the animation library for Java that he has developed. Topics include <a href="http://www.pushing-pixels.org/?p=1443">interpolating properties</a>, <a href="http://www.pushing-pixels.org/?p=1446">extension points</a>, <a href="http://www.pushing-pixels.org/?p=1449">custom pulse sources</a>, <a href="http://www.pushing-pixels.org/?p=1452">custom property interpolation</a>, and <a href="http://www.pushing-pixels.org/?p=1455">supporting Java-based UI toolkits</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> announced the <a href="http://www.pushing-pixels.org/?p=1417">official release of Substance 5.3</a>. This release includes new skins, improved usability, overlay painters and fraction-based painters.</li>
+	<li><strong>Rob Camick</strong> posts some code that allows for <a href="http://tips4java.wordpress.com/2009/09/27/component-border/">buttons to be embedded in text fields</a>. This allows for the button to more obviously show that it is related to the text field. This solution is generic and he encourages you to try to do similar things with other components.</li>
+	<li><strong>Charles Humble</strong> posted an <a href="http://www.infoq.com/news/2009/09/java7_m5">opinion piece on Sun dropping the Swing Application Framework</a>.</li>
+	<li><strong>Carsten Zerbst</strong> emailed me to let me know of his work on <a href="http://www.jroller.com/cz/entry/craftsmann_s_guide_to_swing">documenting the JGoodies libraries</a>. His <a href="http://www.jroller.com/cz/entry/craftsmann_s_guide_to_swing1">first</a> <a href="http://www.jroller.com/cz/entry/craftsmann_s_guide_to_swing2">two</a> articles cover JGoodies Forms, but he plans to also detail Binding, Validation and how to use actions.</li>
+	<li><strong>Ken Orr</strong> posted that he and <strong>Kathryn Huxtable</strong> are working on a <a href="http://explodingpixels.wordpress.com/2009/10/01/sea-glass-look-and-feel/">new (and very good looking) look and feel for Swing called Sea Glass</a>. A day later, Kathryn posted a <a href="http://www.kathrynhuxtable.org/blog/2009/10/02/more-back-story-on-sea-glass/">bit more information about their plans</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>The JFXStudio challenge of writing a 30 line (or 3000 character) application with the theme of 'time' is <span style="text-decoration: line-through;">heating up</span> <a href="http://jfxstudio.wordpress.com/2009/10/04/challengetime-winner-announced/">now over, and the winner has been announced</a>.. A number of people have posted their code for the challenge, including <a href="http://steveonjava.com/2009/09/29/30-lines-of-javafx/">Stephen Chin</a>, <a href="http://carlfx.wordpress.com/2009/10/01/30-lines-of-javafx-coding-challenge-theme-time/">Carl Dea</a>, <a href="http://jfxstudio.wordpress.com/2009/09/30/yet-another-simple-javafx-time-based-animation/">Muhammad Hakim</a>, <a href="http://jfxstudio.wordpress.com/2009/09/30/time-forward/">Sergey Surikov</a>, <a href="http://javalan.blogspot.com/2009/10/jfxstudio-small-is-new-big-challenge.html">Vinu</a> and <span><a href="http://phi.lho.free.fr/serendipity/index.php?/archives/23-JavaFX-3000-Chars-for-a-Crystal-Clock.html">Philippe Lhoste</a>.</span></li>
+	<li><span><strong>Dean Iverson</strong>, one of the four authors of Pro JavaFX Platform, was <a href="http://blogs.sun.com/chhandomay/entry/interview_with_javafx_developer_dean">recently interviewed by Reviews Interactive</a>. You can listen to or read the interview to hear Dean's thoughts on a number of issues.</span></li>
+	<li><span>You can watch <strong>Sten Anderson</strong> be <a href="http://www.citytechinc.com/en/home/company/News/Videos.html">interviewed on the topics of JavaFX and Music Explorer FX</a>, his winning entry into the JavaFX coding competition earlier this year.</span></li>
+	<li><span>Speaking of <strong>Sten</strong>, he just released the animated chart library that he has previously blogged about. You can check out the <a href="http://blogs.citytechinc.com/sanderson/?p=134">bottom of this blog post to download the code</a>.
+</span></li>
+	<li><span><strong>Jeff Frieson</strong> has written an <a href="http://javajeff.mb.ca/cgi-bin/makepage.cgi?javafx/ejfxsbc/ejfxsbc">article on the JavaFX scrollbar control</a>.</span></li>
+	<li><strong>SoftDevTube.com</strong> has posted a video titled "<a href="http://www.softdevtube.com/2009/10/01/javafx-rich-internet-applications-connected-to-glassfish-java-ee-5-services/">JavaFX Rich Internet Applications Connected to GlassFish Java EE 5 services</a>".</li>
+</ul>
+<p>Have a great week everyone. Please keep posting me any news you might have, and I'll see you all again in a weeks time.</p>
+]]></Content>
+	</post>

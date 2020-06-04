@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>663</ID>
+		<Slug>java-desktop-links-of-the-week-december-14</Slug>
+		<Title>Java desktop links of the week, December 14</Title>
+		<Date>2009-12-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome back to another week of Java desktop links. This week saw the final release of <a href="http://www.netbeans.org">NetBeans 6.8</a>, and a fair bit of interesting news, so without further ado, let's get into it.</p>
+<h4>Swing</h4>
+<ul>
+	<li><span><strong>Geertjan Wielenga</strong> recently spoke to </span><strong>Miguel García López</strong> about another <a href="http://netbeans.dzone.com/news/commercial-digital-video">NetBeans RCP application tasked with the management and exploitation of data recorded by their digital video based people counting system</a>. Sound odd? Read the post to make better sense of their approach :-)</li>
+	<li><strong>Tony Weston</strong> contacted me a few weeks ago wanting to let people know about his <a href="http://www.totspics.com/bizwiz/BizWiz.html">bizwiz application</a>, which is freeware contact management/workflow software built for photo businesses. I suggested he start blogging about the technology behind it, and he's just <a href="http://totspics.com/blog/">started it recently</a>. Give his software a run, it's not earth shattering, but does have a few interesting things - for example modal dialogs (preferences, etc) are done interestingly.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>Apparently a <a href="http://www.developer.com/java/other/article.php/3852851/News-Brief-JavaFX-Set-to-Get-RAD.htm">preview release of the NetBeans RAD tool is due out this coming week</a>. This tool is a NetBeans plugin similar to the Matisse GUI Builder for Swing, but for JavaFX.</li>
+	<li><strong>Stuart Marks</strong>, one of my fellow team mates in the JavaFX controls team, continues his series on '<a href="http://stuartmarks.wordpress.com/2009/12/04/that-infernal-scene-graph-warning-message-ii/">that infernal scene graph warning message</a>'. It's a must read if you want a glimpse into the thought process that goes on within the JavaFX team.</li>
+	<li>The <a href="http://jfxstudio.wordpress.com/2009/12/08/holiday-challenge-is-almost-over/">JFXStudio holiday coding challenge is nearly over</a> - so get your entries in if you are working on something!</li>
+	<li>After <strong>Richard Bair</strong> recently <a href="http://fxexperience.com/2009/12/silicon-valley-javafx-jug/">presented to the Silicon Valley JavaFX Users Group</a>, <strong>Sten Anderson</strong> has announced that <a href="http://blogs.citytechinc.com/sanderson/?p=313">he is talking this week to the Chicago Java Users Group</a>. Similarly, I'll be presenting to the <a href="/posts/2009javafx-at-the-auckland-java-users-group/">Auckland Java Users Group this week</a>.</li>
+	<li><strong>Richard Bair</strong> also let us know that the <a href="http://fxexperience.com/2009/12/vancouver-olympics-choses-javafx/">Vancouver Olympics chose to use JavaFX in an application on their website</a>.</li>
+	<li>The <strong>Exadel blog</strong> shows <a href="http://mkblog.exadel.com/tools/running-javafx-sdk-examples-with-eclipse/">how to run JavaFX SDK examples</a> using their JavaFX plugin for Eclipse.</li>
+	<li>A new JavaFX book appeared on the scene this week somewhat unexpectedly (i.e. no one at <a href="http://www.fxexperience.com">fxexperience.com</a> knew about it, which is odd given we've all been involved in the reviewing of earlier JavaFX books). The book is titled ' <a href="http://apress.com/book/view/1430226234">JavaFX Special Effects</a>: Taking Java RIA to the Extreme with Animation, Multimedia, and Game Elements', and <a href="http://learnjavafx.typepad.com/weblog/2009/12/special-effects-in-javafx-a-book-by-lucas-jordan.html"><strong>Jim Weaver</strong> recently spoke to the author, <strong>Lucas Jordan</strong></a>.</li>
+	<li><strong>Alex Ruiz</strong> has created a <a href="http://alexruiz.developerblogs.com/?p=725">new JavaFX Maven plugin</a>. Give it a whirl and let Alex know what you think.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has reposted the <a href="http://www.jroller.com/aalmiray/entry/building_rich_swing_applications_with3">fourth and final part of his series</a> titled 'Building Rich Swing Applications with Groovy'.</li>
+</ul>
+<p>And that's us for another week. Keep up the good work, and I'll catch you all next week.</p>
+]]></Content>
+	</post>

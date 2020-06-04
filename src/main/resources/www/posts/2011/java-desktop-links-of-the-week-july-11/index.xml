@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1078</ID>
+		<Slug>java-desktop-links-of-the-week-july-11</Slug>
+		<Title>Java desktop links of the week, July 11</Title>
+		<Date>2011-07-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome to another week of Java desktop links! :-) This week is relatively quiet, but there are some very useful links if you're making use of JavaFX 2.0. Let's get right into it.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>There was a <a href="http://www.oracle.com/technetwork/java/javafx/downloads/index.html">new beta build of JavaFX 2.0 put out this week</a> - b34 includes drag and drop support, as well as a Java to JavaScript bridge for WebView among the numerous bug fixes, API tweaks and performance improvements.</li>
+	<li>The <strong>Silicon Valley JavaFX Users Group</strong> is <a href="http://www.svjugfx.org/events/17427244/">planning another meeting this week</a>, but I'm not sure what the topic is. It is on Wednesday, July 13, 2011, 6:00 PM at the Oracle Conference Center.</li>
+	<li><strong>Tom Schindl</strong> has <a href="http://tomsondev.bestsolution.at/2011/07/06/efxclipse-0-0-2/">released e(fx)clipse 0.0.2</a>, which includes improved CSS editing support, as well as the start of better JavaFX integration into Eclipse in the form of JavaFX library specification in projects, a 'New JavaFX Project' wizard and JavaDoc integration.</li>
+	<li><strong>jojorabbit4</strong> has <a href="http://jojorabbitjavafxblog.wordpress.com/2011/06/23/javafx-2-0-custom-combobox/">updated his ComboBox control</a> to allow for more customisation.</li>
+	<li><strong>Narayan Gopal Maharjan</strong> has put up a <a href="http://blog.ngopal.com.np/2011/07/04/autofill-textbox-with-filtermode-in-javafx-2-0-custom-control/">AutoFill TextBox</a> with support for as-you-type filtering and auto-complete.</li>
+	<li>The <strong>GroovyFX</strong> project is continuing to get noticed - this week <strong>hideaki-t</strong> put up a <a href="https://gist.github.com/1061852">custom browser using GroovyFX</a> to demonstrate the power of GroovyFX and JavaFX.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Geertjan Wielenga</strong> has posted three blog posts about customising a NetBeans application by setting a background image behind <a href="http://blogs.oracle.com/geertjan/entry/customizable_corporate_menu_bar_for">menu bars</a> and <a href="http://blogs.oracle.com/geertjan/entry/tabbed_toolbar_with_corporate_image">toolbars</a>. Also, Geertjan blogged about <a href="http://blogs.oracle.com/geertjan/entry/custom_swing_menu_bar_with">creating a custom Swing menu bar</a> with a web-like appearance and behaviour.</li>
+</ul>
+<p>I hope you all found something useful in this weeks link roundup. Keep up all the hard work folks, and I'll be back in a weeks time to link to you all over again.</p>
+]]></Content>
+	</post>

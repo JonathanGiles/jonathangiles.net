@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>644</ID>
+		<Slug>java-desktop-links-of-the-week-november-23</Slug>
+		<Title>Java desktop links of the week, November 23</Title>
+		<Date>2009-11-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>In a week where Devoxx happened, and closures were announced for a delayed Java 7 (now due for September 2010), there has been seemingly little news to report. This week JavaFX-related news surges ahead, which, despite it being my job, is certainly not due to any bias from me. So, if you have Swing (or any other Java desktop related) news, please fire it my way. My contact details, as always, can be found to the right, and I appreciate your emails.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Geertjan Wielenga</strong> writes about how <a href="http://netbeans.dzone.com/news/nasa-adopts-netbeans-platform">NASA has adopted the NetBeans platform</a> as the foundation to their Java Swing applications.</li>
+	<li>Given the recent floundering of the official Swing Application Framework, <strong>Alexander Potochkin</strong> has welcomed the <a href="http://weblogs.java.net/blog/alexfromsun/archive/2009/11/16/other-swing-frameworks">active development of alternative implementations of Swing application frameworks</a> that I have discussed in the past.</li>
+	<li><strong>Wolfgang </strong><span><strong>Zitzelsberger</strong> let me know that </span>Synthetica V2.9 (Swing Look and Feel) comes along with a new theme called <a href="http://wzberger.wordpress.com/2009/11/22/synthetica-blackeye-highlights/">Synthetica BlackEye Look and Feel</a>, which looks very nice.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>Special message to those in or near London on the 24th of November: <strong>Neil Bartlett</strong> is talking at <a href="http://wiki.eclipse.org/Eclipse_DemoCamps_November_2009/London">Eclipse Demo Camp</a>, where he will be showing the latest JavaFX support for Eclipse, in addition to other new Eclipse features. The talk is free, but you need to register beforehand.</li>
+	<li>Speaking of Eclipse plugins for JavaFX, the Exadel blog has posted about '<a href="http://mkblog.exadel.com/ria/javafx-ria/more-new-features-in-exadel-javafx-version-plug-in-for-eclipse/">more new features in Exadel JavaFX</a>' for Eclipse. Frankly, I'm wishing the JavaFX plugins for Eclipse all the best, as I'm so eager to return home to the comfort of Eclipse. I miss it dearly.</li>
+	<li>With Devoxx this week, <strong>Richard Bair</strong> and <strong>Jasper Potts</strong> developed a game titled 'Dueling Dudes' in a few spare moments. You can <a href="http://fxexperience.com/2009/11/gaming-javafx/">read more about it (and have a play)</a>, and you can also <a href="http://fxexperience.com/2009/11/dueling-dudes-physics-demos-source-devoxx/">download the source code</a>.</li>
+	<li><strong>Josh Marinacci</strong> has put out a <a href="http://www.projectmaitai.org/2009/11/22/new-release-is-out/">new version of his Project MaiTai</a> project. Project Maitai, as mentioned last week, lets you <a href="http://www.projectmaitai.org/about/">visually wire up blocks to create interactive graphics</a>.</li>
+	<li><strong>Stephen Chin</strong>, another speaker at Devoxx, <a href="http://steveonjava.com/2009/11/18/devoxx-university-slides/">posted his slides online</a> for you to peruse.</li>
+	<li><strong>Josh Marinacci</strong>, filling the gap until official controls are released in future JavaFX releases, has offered up a '<a href="http://jfxstudio.wordpress.com/2009/11/20/proportional-transparent-scrollbars/">proportional transparent scrollbars' control</a>, which allows for you to scroll around a container that is larger than the viewport into it.</li>
+	<li><strong>Sergey Malenkov</strong> has posted <a href="http://weblogs.java.net/blog/malenkov/archive/2009/11/20/along-river">his entry</a> for the next <a href="http://jfxstudio.wordpress.com/2009/11/10/challenge-five-winners/">JFXStudio coding challenge</a> (with the theme of 'holidays'). It is quite an interesting scrollbar/slider that slides a large image around.</li>
+	<li><strong>Rakesh Menon</strong> has two blog posts this week. Firstly he has blogged about creating a <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_picasa_viewer">Picasa web viewer application</a> in JavaFX, and secondly about <a href="http://blogs.sun.com/rakeshmenonp/en_US/entry/javafx_text_effects">text effects in JavaFX</a>.</li>
+	<li>The JavaFX documentation team has put up a new article on how to '<a href="http://javafx.com/docs/articles/Transformer/transform.jsp">enhance your application by applying transforms</a>'. This continues to clarify and (hopefully) demystify the numerous transformations that are natively supported by all JavaFX Nodes.</li>
+	<li><strong>Drew</strong> has a post asking for people to <a href="http://piliq.com/javafx/?p=1327">vote on the controls they most want to see in future releases of JavaFX</a>. In my opinion he's missing a whole heap of controls from his list, but then he does encourage suggestions. So get voting - I let everyone in the JavaFX controls team know about it, so I'm sure we'll be keeping an eye on it.</li>
+	<li>Even though the Java Store is still only available to US citizens, it is <a href="http://java.sun.com/warehouse/overview/locations.jsp">now possible</a> for people in the UK, Australia, India, China, Sweden, Brazil and Russia to sign up to the Java Warehouse and submit their applications. This enables you to <span style="text-decoration: underline;">give</span> (your software must be free for now) your software to US citizens.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has blogged about <a href="http://www.jroller.com/aalmiray/entry/griffon_visualizing_an_object_graph">visualising an object graph using Griffon and the JUNG visualisation library</a>.</li>
+</ul>
+<p>That's another week of Java desktop links behind us. Whilst you're here, I thought I'd mention that Java Desktop links of the week is undergoing some changes in the next few weeks, so please, leave comments about what you like and don't like so that I can be sure to keep moving in the right direction. No feedback means you lose the right to complain :-)</p>
+]]></Content>
+	</post>

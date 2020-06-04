@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1403</ID>
+		<Slug>java-desktop-links-of-the-week-february-4</Slug>
+		<Title>Java desktop links of the week, February 4</Title>
+		<Date>2013-02-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all - welcome to another weeks worth of links - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java 7 7u13 was released this week</a>, and along with this release comes JavaFX 2.2.5. It is highly recommended that everyone upgrade to the latest release as soon as possible.</li>
+	<li><strong>Jasper Potts</strong> has posted a blog about <a href="http://fxexperience.com/2013/01/modena-new-theme-for-javafx-8/">Modena</a>, the new theme for JavaFX 8.x. I must say that having been watching it develop over the last few months (and giving my 2 cents of feedback) that it is a huge improvement over Caspian, the theme used in JavaFX 1.x and 2.x. Leave your feedback on the blog post about what you like and dislike - it is impossible to please everyone but there is still time to improve things (indeed, there are still things I would like to see changed too!) :-)</li>
+	<li><strong>Danno Ferrin</strong> has noted (via his excellent OpenJFX mirror over at bitbucket) that a few very nice new features are starting to appear in the JavaFX 8.0 repositories, including <a href="https://bitbucket.org/openjfxmirrors/openjfx-8-graphics-rt/commits/883cf5301bec6c00d6829a6f1897a1e0">printing API</a> and <a href="https://bitbucket.org/openjfxmirrors/openjfx-8-graphics-rt/commits/1444a737ab40db93f4fee4f13d712285">improved API granularity for embedded support</a>.</li>
+	<li>Speaking of <strong>Danno</strong>, he has blogged about how he has added support for <a href="http://speling.shemnon.com//blog/2013/01/28/adding-icons-with-the-gradle-javafx-plugin/">adding application icons with the Gradle JavaFX plugin</a>.</li>
+	<li><strong>Dierk König</strong> has posted <a href="http://www.canoo.com/blog/2013/02/01/javafx-abacus-tutorial-part-iv/">part four</a> of his JavaFX abacus tutorial.</li>
+	<li>The <strong>Panemu blog</strong> has announced the <a href="http://tiwulfx.panemu.com/v1-1-final-release/">TwiulFX 1.1 is now available for download</a>. TiwulFX provides <a href="http://tiwulfx.panemu.com/">custom JavaFX components</a> specially designed to work with Java POJO objects. It has 2 main components: TableControl, Form; and also customized column and input components to display a specific data type.</li>
+	<li><strong>Patrick Martin</strong> has posted Dex Tutorial #7: <a href="https://www.youtube.com/watch?v=kpX_JG0-Y8A">Java Garbage Collection Analysis</a>. Dex is a <a href="http://dexvis.wordpress.com/">visualization application</a> written using JavaFX.</li>
+	<li><strong>Arnaud Nouard</strong> has blogged about his '<a href="http://arnaudnouard.wordpress.com/2013/02/02/undecorator-add-a-better-look-to-your-javafx-stages-part-i/">undecorator</a>' tool, which allows you to easily 'add a better look to your JavaFX stages'.</li>
+	<li><strong>Johan Vos</strong> is <a href="http://java.net/projects/datafx/lists/users/archive/2013-02/message/0">seeking feedback</a> regarding API design in <a href="http://www.javafxdata.org/">DataFX</a>.</li>
+	<li><strong>Andy Till</strong> has posted code to allow for <a href="http://andrewtill.blogspot.co.nz/2012/12/dragging-to-resize-javafx-region.html">easy Region resizing by mouse click and drag</a>. Whilst he states this doesn't work for UI Controls (as in JavaFX 2.x UI controls didn't extend from Region), this should work in JavaFX 8.x as UI controls do extend from Region from this release onwards.</li>
+	<li><strong>Leon Atherton</strong> has blogged about <a href="http://blog.idrsolutions.com/2013/01/mouseevents-in-javafx/">mouse events in JavaFX</a>. This is a good read for anyone new to the event handling system in JavaFX.</li>
+	<li><strong>noxxxxo</strong> has posted a <a href="http://www.youtube.com/watch?v=h4nkqJ5RT7M&amp;feature=youtu.be">YouTube video</a> showing a Raspberry Pi running the&nbsp;JME C64 emulator using JavaFX as the rendering technology. You can see the <a href="http://www.youtube.com/redirect?q=https%3A%2F%2Fgithub.com%2Fnoxo%2Fjmec64-javafx&amp;session_token=ddc9SVmGgtI-s0ZbOVT_E4CjPXZ8MTM1OTkzNzEyNEAxMzU5OTIyNzI0">code over at GitHub</a>.</li>
+</ul>
+<p>Catch you all in a weeks time :-)</p>
+]]></Content>
+	</post>

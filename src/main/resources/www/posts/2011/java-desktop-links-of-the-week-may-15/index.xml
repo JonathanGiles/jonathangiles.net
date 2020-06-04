@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1044</ID>
+		<Slug>java-desktop-links-of-the-week-may-15</Slug>
+		<Title>Java desktop links of the week, May 15</Title>
+		<Date>2011-05-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Howdy folks. I'm on vacation this week, so I'm just going to jump right into the links. I hope you enjoy them!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Leonid Bogdanov</strong> emailed me about his '<a href="http://code.google.com/p/bit-of-swing/">bit-of-swing</a>' project that contains an example of creating Skype-like text fields   (button to clear field's content will appear when the field isn't empty) and a Cocoa based PDF component (works under   MacOS X 10.6 Intel arch, but a native library can be compiled for MacOS X 10.5 too).</li>
+	<li><strong>Dirk Lemmerman</strong> has blogged about what he believes is <a href="http://dlemmermann.wordpress.com/2011/05/10/the-best-swing-look-feel-bizlaf/">the best Swing look and feel: BizLaf</a>, which is a commercial library.</li>
+	<li><strong>Penkov Vladimir</strong> has released <a href="http://code.google.com/p/swinghtmltemplate/">version 0.5 of swinghtmltemplate</a>. The new version includes i18n support, placeholder resolution for  attributes, and some new tags. There is also <a href="http://code.google.com/p/swinghtmltemplate/wiki/Documentation_0_5">updated documentation</a>.<a href="http://code.google.com/p/swinghtmltemplate/wiki/Documentation_0_5"></a></li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Geertjan Wielenga</strong> has blogged about <a href="http://netbeans.dzone.com/javafx-2-in-netbeans-rcp">integrating JavaFX 2.0 applications inside the NetBeans RCP</a>.</li>
+	<li><strong>Michael Heinrichs</strong>, a member of the JavaFX team at Oracle, has blogged about <a href="http://blog.netopyr.com/2011/05/13/javafx-properties/">JavaFX 2.0 properties</a>. A good read if you are gearing up to explore JavaFX 2.0 beta when it hits soon.</li>
+	<li><strong>Stephen Chin</strong> and <strong>Kevin Nilson</strong> have put up their slide deck for '<a href="http://www.slideshare.net/steveonjava/moving-to-the-client-javafx-and-html5">Moving to the Client - JavaFX and HTML5</a>'.</li>
+</ul>
+<p>That's us for another week. Now.....back to my vacation! :-) Catch you in a week.</p>
+]]></Content>
+	</post>

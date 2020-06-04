@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>514</ID>
+		<Slug>java-desktop-links-of-the-week-july-19</Slug>
+		<Title>Java desktop links of the week, July 19</Title>
+		<Date>2009-07-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Well, no surprises this week with the news that the Oracle acquisition of Sun has been approved by shareholders. With the next step being Government consideration, we can only wonder how much longer Sun will be around. All I hope is that Oracle does it's best to continue developing relevant Java technologies, and keeps Java pretty much on the path it is on now.</p>
+
+<p>This week has been oddly quiet in the Java desktop world. Regardless, here are the most important Java desktop links of the week.</p>
+
+<p>P.S. For anybody out there interested in hearing more Java desktop news, <a href="http://twitter.com/JonathanGiles">remember to follow me on twitter</a>.</p>
+<h4>General</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> <a href="http://www.pushing-pixels.org/?p=1333">announced version 1.0 of the Trident timing framework / animation library</a>. Trident aims to simplify the development of rich animation effects in Java based UI applications, addressing both simple and complex scenarios.</li>
+	<li><strong>Alex Ruiz</strong> posts his <a href="http://alexruiz.developerblogs.com/?p=257">thoughts on a couple of lessons he has learnt in API design</a>, with particular reference to the FEST testing framework he develops.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Michael Schnell</strong> emailed me to let me know about a <a href="http://javadeveloperslife.wordpress.com/">'zoomable' Swing layout which allows for components to shrink and grow</a> as per the users requirements (like in web browsers with ctrl+/ctrl-). You can <a href="http://84.23.65.233/utils4swing/examples/scalable-layout-example.swf.html">watch a video of it</a>.</li>
+	<li><strong>Dave Gilbert</strong> posts that <a href="http://www.jroller.com/dgilbert/entry/more_interactive_charts">JFreeChart is getting more interactive</a>, with features like zooming via mouse wheel and panning via mouse drag.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Stephen Chin</strong>, along with other members of the JavaFX community (myself included in a very minor way) have begun <a href="http://jfxtras.org/">a new website to help publicise JavaFX</a>. It is hoped that it will become a helpful resource to help developers learn JavaFX.</li>
+	<li>Speaking of <strong>Stephen</strong>, he also responded to Andres Almiray who posted an example of drawing a sphere in Griffons GfxBuilder (see the Griffon links below). <a href="http://jfxstudio.wordpress.com/2009/07/14/fun-with-spheres/">Stephen's JavaFX version of the sphere</a> was better than Andres' JavaFX attempt, so it's worth looking at it to more completely compare the Griffon and JavaFX approaches.</li>
+	<li>Finally from <strong>Stephen</strong> (for now), he presented about WidgetFX and JFXtras at the Oakland Java SIG. You can <a href="http://steveonjava.com/2009/07/17/nabaztag-visits-the-oakland-java-sig/">download the PDF's from his blog</a>.</li>
+	<li><strong>Jeff Frieson</strong> posts an article on Java.net letting you know <a href="http://today.java.net/pub/a/today/2009/07/14/custom-cursors-javafx.html">how to show custom cursors in JavaFX</a>.</li>
+	<li><strong>Mark</strong> posts about how he used the <a href="http://markmacumber.blogspot.com/2009/07/javafx-graphing-and-charting-with.html">new charting API in JavaFX 1.2 to download and display information from Hudson</a> (a continuous build server).</li>
+	<li><strong>Exadel</strong> have released an <a href="http://mkblog.exadel.com/tools/exadel-studio-javafx-plug-in-for-eclipse-new-version-101/">update to the JavaFX plugin for Eclipse</a>.</li>
+	<li>DevX.com has an <a href="http://www.devx.com/Java/HTML/42278" target="_blank">excerpt of "Chapter 2: A Taste of JavaFX"</a> from Essential JavaFX, one of the new JavaFX books released at JavaOne.</li>
+	<li><strong>Rakesh Menon</strong> posts <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_splash_screen">how to create custom splash screens in JavaFX</a> (for when the application is initially loading).</li>
+	<li>The <a href="http://projavafx.com">Pro JavaFX Platform</a> book that I have mentioned / reviewed a few times has had it's hard-copy version finally released. Even people from Sun <a href="http://weblogs.java.net/blog/aim/archive/2009/07/even_before_i_s.html">have written glowing praise for it</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><a href="http://docs.codehaus.org/display/GRIFFON/Griffon+0.1.2">Griffon 0.1.2 was released this week</a>. Because of this, <a href="http://www.jroller.com/aalmiray/entry/announcing_swingpad_0_3">SwingPad 0.3 was updated and released</a>.</li>
+	<li><strong>Andres Almiray</strong> posts the news that <a href="http://www.jroller.com/aalmiray/entry/griffon_trident_and_fx_builders">Trident and FX Builders have been released</a>. These a builders which make using Trident and JavaFX features within Griffon easier.</li>
+	<li><strong>Andres Almiray</strong> posts an example of what is possible in Griffon using GfxBuilder. In this example <a href="http://www.jroller.com/aalmiray/entry/griffon_gfxbuilder_fxbuilder_side_by">he has created a 3D sphere in both Griffon and JavaFX</a>, to prove how succinct and complete Griffon is.<strong> Stephen Chin</strong> responded to this in a link above in the JavaFX section.</li>
+</ul>
+<p>That's us for another week. As always, feel free to email me any links you think are relevant. Have a great week!</p>
+]]></Content>
+	</post>

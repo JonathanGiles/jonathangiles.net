@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1867</ID>
+		<Slug>java-desktop-links-of-the-week-february-9</Slug>
+		<Title>Java desktop links of the week, February 9</Title>
+		<Date>2015-02-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Some really cool links this week. Enjoy!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The big news this week was the announcement that <strong>Trillian Mobile</strong> and <strong>LodgON</strong> have formed a partnership to <a href="https://www.voxxed.com/blog/2015/02/writing-javafx-mobile-levels-trillian-mobile-lodgon-partnership/">bring JavaFX to iOS</a> (on top of the RoboVM software). It already runs on Android, so that means the two major mobile operating systems can now both run JavaFX. Very cool!</li>
+	<li>In a separate post, <strong>Johan Vos</strong> from <strong>LodgON</strong> cryptically alludes to more work being done in this area to create "<a href="http://www.lodgon.com/dali/blog/entry/LodgON_and_RoboVM_delivering_JavaFX_on_Mobile">visually attractive and business-friendly mobile applications</a>".</li>
+	<li><strong>Jens Deters</strong> has announced that <a href="http://www.jensd.de/wordpress/?p=1905">MQTT.fx 0.0.14 has been released</a>.</li>
+	<li>Speaking of JavaFX and MQTT, <strong>Pete Scargill</strong> has a post about <a href="http://tech.scargill.net/ds18b20-and-mqtt-graphs/">how he uses mqtt-spy</a> (another MQTT app written in JavaFX). Very interesting!</li>
+	<li><strong>Hendrik Ebbers</strong> has posted a video on his blog of <strong>Sven Ruppert</strong> and himself presenting on the topic '<a href="http://www.guigarage.com/2015/02/test-driven-development-youtube/">how to test your JavaFX application</a>'.</li>
+	<li><strong>Dirk Lemmermann</strong> has posted JavaFX Tip 17: '<a href="https://dlemmermann.wordpress.com/2015/02/06/javafx-tip-17-animated-workbench-layout-with-anchorpane/">animated workbench layout with AnchorPane</a>'.</li>
+	<li><strong>Tomas Mikula</strong> has a post on <a href="http://tomasmikula.github.io/blog/2015/02/08/measuring-fps-with-reactfx.html">measuring FPS with ReactFX</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> has posted that he has added <a href="https://pixelduke.wordpress.com/2015/02/04/contextual-ribbon-tabs-for-the-ribbon/">contextual ribbon tabs to his JavaFX Ribbon control</a>. Very nice.</li>
+	<li><strong>Mark Stephens</strong> has posted about <a href="https://blog.idrsolutions.com/2015/02/converting-swing-application-javafx-listeners-fast-scrolling/">converting a Swing application to JavaFX</a>, in particular with listeners and fast scrolling.</li>
+</ul>
+<p>That's all for this week. Catch you all next week!</p>
+]]></Content>
+	</post>

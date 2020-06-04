@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2104</ID>
+		<Slug>java-desktop-links-of-the-week-may-16</Slug>
+		<Title>Java desktop links of the week, May 16</Title>
+		<Date>2016-05-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Edvin Syse</strong> has added <a href="https://github.com/edvin/tornadofx/wiki/Forms">support for forms</a> in his TornadoFX library, which is a lightweight JavaFX framework for Kotlin.</li>
+ 	<li><strong>Heiko Rupp</strong> has a blog post <a href="http://pilhuhn.blogspot.co.nz/2016/05/introducing-hawkfx.html">introducing HawkFX</a>,&nbsp;an inventory browser for Hawkular.</li>
+ 	<li><strong>Peter Rogge</strong> has published <a href="https://github.com/Naoghuman/articles/blob/master/SokubanFX/02_Create-first-prototype.md">part two</a> in his series on creating a SokubanFX game.</li>
+ 	<li><strong>Rob Terp</strong> has announced the <a href="https://rterp.wordpress.com/2016/05/13/gmapsfx-2-0-5-released/">release of GMapsFX 2.0.5</a>.&nbsp;GMapsFX is a "Java library that makes it extremely easy to add a Google Map to a JavaFX application".</li>
+ 	<li><strong>Dirk Lemmermann</strong> has updated his websites to gather them all <a href="http://dlsc.com/">under one domain now</a>, for his commercial products, services, and blog.</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1110</ID>
+		<Slug>java-desktop-links-of-the-week-september-19</Slug>
+		<Title>Java desktop links of the week, September 19</Title>
+		<Date>2011-09-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week, and a lot of good links. Not long now until JavaOne, when I'm sure there will be plenty of interesting news coming out. Let's get into the news.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JavaFX 2.0 beta b45 came out this week. <a href="http://www.oracle.com/technetwork/java/javafx/downloads/index.html">Grab it</a> while it's hot.</li>
+	<li>The <strong>JavaFX documentation team</strong> is doing a great job of tracking what is changing between beta builds, and keeping you in the loop. Find out <a href="http://blogs.oracle.com/thejavatutorials/entry/changes_in_builds_44_and">what changed in b44 and b45</a> over at the JavaFX documentation blog.</li>
+	<li>The <strong>Silicon Valley JavaFX Users Group</strong> has a session the week following JavaOne, on Thursday, October 13. This month the presentation is by <strong>Peter Pilgrim</strong>, repeating a presentation he is also giving at JavaOne. The talk is titled "<a href="http://www.svjugfx.org/events/22355481/">Progressive JavaFX 2.0 Custom Components</a>". For the first time, I'll be able to attend in person, and given that this session talks about custom controls, it's right up my alley. For those of you who can't&nbsp; be there in person, remember it is also <a href="http://www.ustream.tv/channel/silicon-valley-javafx-user-group">live-streamed via UStream</a>.</li>
+	<li><strong>Dean Iverson</strong> tweeted that <a href="http://twitter.com/#!/deanriverson/statuses/114061962039656448">he has released version 0.2</a> of the Griffon JavaFX 2.0 plugin.</li>
+	<li>The in-development NetBeans 7.1 contains <a href="http://wiki.netbeans.org/NewAndNoteworthyNB71#JavaFX_2_Support">much greater support for JavaFX 2.0</a>, including support for FXML, CSS3, preloaders, and project configuration.</li>
+	<li><strong>Randahl Fink Isaksen</strong>, a frequent and valuable reporter of JavaFX 2.0 bugs, has written a post titled "<a href="http://weblogs.java.net/blog/randahl/archive/2011/09/18/javafx-eats-html-uis-breakfast">JavaFX eats HTML UIs for breakfast</a>".</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Hendrik Ebbers</strong> has put up a <a href="http://www.guigarage.com/2011/09/jgrid-tutorial-1/">number</a> of <a href="http://www.guigarage.com/2011/09/jgrid-tutorial-2/">posts</a> about his <a href="http://www.guigarage.com/2011/09/jgrid-tutorial-3/">JGrid</a> <a href="http://www.guigarage.com/2011/09/jgrid-tutorial-4/">component</a>. <strong>Hendrink</strong> also <a href="http://www.guigarage.com/2011/09/jgrid-talk/">presented about the JGrid component</a> at the NetBeans Platform Certified Training course in Münster.</li>
+	<li><strong>Jyloo Software</strong> have put up a Swing quicktip on <a href="http://www.jyloo.com/news/?pubId=1315817317000">redispatching mouse events</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has <a href="http://harmoniccode.blogspot.com/2011/09/fxgconverter-20.html">released FxgConverter 2.0</a>, which now supports converting FXG files to Java2D, JavaFX 2.0, GroovyFX, Canvas, Android and GWT.</li>
+	<li>Related to <strong>Gerrit's</strong> work, <strong>Geertjan Wielenga</strong> has blogged two posts about <a href="http://blogs.oracle.com/geertjan/entry/from_adobe_fxg_to_java">integrating FxgConverter</a> with <a href="http://blogs.oracle.com/geertjan/entry/from_adobe_fxg_to_java1">NetBeans</a>.</li>
+</ul>
+<p>That's that for another week. Hope you all found something useful! :-)</p>
+]]></Content>
+	</post>

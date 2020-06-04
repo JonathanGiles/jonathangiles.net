@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>31</ID>
+		<Slug>thoughts-on-things-semantic-y</Slug>
+		<Title>Thoughts on things Semantic-y</Title>
+		<Date>2006-11-05</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>plugins-research|semantic-web-research</Tags>
+		<Content><![CDATA[<p>My current area of work is very much in improving my research project by replacing its current data layer and visualisation layers. In their place I will be writing a significantly more comprehensive layer, built atop rising standards, particularly OWL (the 'web ontology language'). Therefore, my focus is very broad at the moment, as I must focus on the following things:</p>
+<ul>
+	<li>Connecting to the current databases.</li>
+	<li>Allowing for new and additional databases to be merged.</li>
+	<li>Abstracting all databases using a simple server that allows SPARQL queries, and automatically maps these queries to SQL, (see <a href="http://sites.wiwiss.fu-berlin.de/suhl/bizer/d2r-server/">D2R Server</a>).</li>
+	<li>Allowing for the project to query these databases, and to build up an internal OWL ontology, (see <a href="http://jena.sf.net">Jena</a>).</li>
+	<li>Allowing for this OWL ontology to be visualised using a new visualisation engine, (see <a href="http://www.prefuse.org">prefuse</a>).</li>
+	<li>Allowing plugin writers to tap into the new OWL ontology to make more powerful plugins.</li>
+	<li>Allowing for the user to easily make use of this new functionality.</li>
+</ul>
+<p>The main work is in linking these three technologies together. A layer between my project and the server will need to be written to allow SPARQL queries to be generated 'on-demand' and sent to the server. Server responses will need to be added into the clients OWL ontology. The prefuse visualisation will need an adapter written so that it can use the Jena data model natively, instead of having to duplicate its data wastefully.</p>
+
+<p>Once this is done, writing plugins will be relatively easy. It is my goal to achieve this, and a few 'to-be-announced' plugins as my masters project next year.</p>
+
+<p>More later.</p>
+]]></Content>
+	</post>

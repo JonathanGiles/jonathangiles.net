@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2582</ID>
+		<Slug>congratulations-controlsfx</Slug>
+		<Title>Congratulations ControlsFX</Title>
+		<Date>2017-10-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p><img class="alignright size-medium wp-image-2583" src="/content/2017/10/Oracle-Java-DukesChoice-RGB_1-223x300.jpg" alt="" width="223" height="300">Whilst I was unable to attend JavaOne this year, I am incredibly proud to say that <a href="http://controlsfx.org">ControlsFX</a> won one of the nine Dukes Choice awards for 2017. ControlsFX is a project that I kicked off&nbsp;a long time ago, but these days has really taken on a life of its own. I always envisioned ControlsFX to be a project for really high quality JavaFX UI controls, and always placed a really high importance on ensuring that not only were the controls great, but that they were well documented and felt like a cohesive set of controls that could easily be dropped into JavaFX itself.</p>
+
+<p>Over time the number of users of ControlsFX has grown dramatically. When I last looked at the stats, I was amazed to see the number of downloads for just a single release, and I tweeted as much:</p>
+
+<p>https://twitter.com/JonathanGiles/status/889977428256243714</p>
+
+<p>Because of this level of use, there are frequent pull requests and bug reports coming in. I also hear frequently from companies using ControlsFX in their development, and I know some companies have chosen to fund continued development of various extensions to ControlsFX.</p>
+
+<p>One thing I'm particularly proud of is the fact that developers who are skilled enough to speak multiple languages have helped to translate ControlsFX into over 25 languages. This is an amazing achievement.</p>
+
+<p>Finally, and most recently, ControlsFX recently made the jump to supporting Java 9. This is still a tentative step in that direction, and there is still much to be done to return to feature parity - but the fact that the community has driven this largely themselves is incredibly pleasing to me.</p>
+
+<p>I think all developers who have helped make ControlsFX what it is should feel very rewarded by this recognition today. This isn't a reward for me, it is a reward for every one of you - coders, translators, bug reporters, and users.</p>
+
+<p>Personally, this is an award that I will remember, and be very proud of, for a very long time.</p>
+]]></Content>
+	</post>

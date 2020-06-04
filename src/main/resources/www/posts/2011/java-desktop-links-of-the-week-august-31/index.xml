@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1100</ID>
+		<Slug>java-desktop-links-of-the-week-august-31</Slug>
+		<Title>Java desktop links of the week, August 31</Title>
+		<Date>2011-08-31</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome to another (somewhat delayed) Java desktop links of the week. Things have been hectic around here so apologies for the delay in getting this post together! Lets get straight into the round up.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Laurent Nicolas</strong> has posted an upgrade to his <a href="http://www.mrlonee.com/?p=287">JavaFx 2.0 Presenter application</a> that now take into account Node rotation and scale.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Michael Bar-Sinai</strong> has released <a href="http://kenai.com/projects/panelmatic/pages/Home">version 1.0 of PanelMatic</a>, a library that allows building common UI panels easily. Changes from the beta include better customization options, a new way of grouping components, minor API changes and some bug fixes.</li>
+	<li><strong>Harsh Raval</strong> has blogged about <a href="http://harryjoy.wordpress.com/2011/08/21/different-button-shapes-in-swing/">different button shapes in Swing</a> (using Java2D).</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> put up a <a href="http://projects.joshy.org/Amino2x/daily/">new release of the Amino Java UI toolkit</a>.</li>
+</ul>
+<p>That's all for this week - it seems like it was a very quiet week. However, it always seems to get this way in the month leading up to JavaOne, so I'm not surprised that things are getting quieter again now. I'll catch you again sometime next week :-)</p>
+]]></Content>
+	</post>

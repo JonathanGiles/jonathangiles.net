@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1679</ID>
+		<Slug>java-desktop-links-of-the-week-february-17</Slug>
+		<Title>Java desktop links of the week, February 17</Title>
+		<Date>2014-02-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week, another batch of links. Enjoy!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Martin Sladecek</strong>, one of my colleagues in the JavaFX team at Oracle, has posted about <a href="https://blogs.oracle.com/jfxprg/entry/dynamical_layouts_in_fx">dynamic layouts in JavaFX</a>.</li>
+	<li><strong>Tim Heng </strong>has been working on a visualisation written in JavaFX for <a href="http://timheng.com/movie_ratings.html">better understanding movie ratings</a>.</li>
+	<li><strong>Steven Schwenke</strong> has two posts this week. Firstly, he has an <a href="http://stevenschwenke.de/extendableSearchPaneInJavaFX">extendable search pane</a>, and secondly, an <a href="http://stevenschwenke.de/extendableNavigationPaneInJavaFX">extendable navigation pane</a>.</li>
+	<li><strong>Jens Deters</strong> has posted a video of his <a href="http://www.youtube.com/watch?v=mC_8tViSYWI&amp;feature=youtu.be">picmodo setup software</a>. I think it would be great to extract out of this installer a wizards library!</li>
+	<li><strong>Tom Schindl</strong> has an interesting blog post on <a href="http://tomsondev.bestsolution.at/2014/02/10/embedding-swing-into-swt-on-java8/">embedding Swing into SWT</a> by making use of changes in Java 8.0 to make better allowances for JavaFX.</li>
+	<li><strong>Sébastien Bordes</strong> has announced that <a href="http://blog.jrebirth.org/releases/jrebirth-application-framework-7-7-0-is-released/">JRebirth Application Framework 7.7.0 has been released</a>.</li>
+	<li><strong>Narayan G. Maharjan</strong> has posted on how to do <a href="http://blog.ngopal.com.np/2014/02/14/tableview-data-selection-mouse/">TableView multiple selection using mouse press</a>.</li>
+	<li><strong>andrewsw</strong> has posted a tutorial on <a href="http://www.dreamincode.net/forums/topic/339799-swing-to-javafx/">moving from Swing to JavaFX</a>.</li>
+	<li><strong>IDR Solutions</strong> has written part eight of their series on writing a JavaFX PDF viewer plugin for Netbeans, this time focusing on <a href="http://blog.idrsolutions.com/2014/02/writing-javafx-pdf-viewer-plugin-netbeans-8-opening-encrypted-pdfs/">opening encrypted PDFs</a>.</li>
+</ul>
+<p>That's all folks! Catch you again next week.</p>
+]]></Content>
+	</post>

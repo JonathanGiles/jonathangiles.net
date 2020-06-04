@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1074</ID>
+		<Slug>java-desktop-links-of-the-week-july-4</Slug>
+		<Title>Java desktop links of the week, July 4</Title>
+		<Date>2011-07-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>July already?! I know I say this often, but man, where does time go?! Also, happy Independence Day to the American readers out there (even though it's technically not until tomorrow in your part of the world).</p>
+
+<p>There are a heap of links, so lets jump right into it! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> blogged about one of the changes coming up in the next beta release of JavaFX 2.0 (build 34), namely <a href="http://fxexperience.com/2011/07/worker-threading-in-javafx-2-0/">new threading APIs</a>.<strong></strong></li>
+	<li><strong>Antoine Mischler</strong> let me know about the <a href="http://blog.dooapp.com/javafx-20-forms-and-bean-validation-fxform2-i">JavaFX 2.0 release of FXForm2</a>, which is a library for building user interface forms. It looks very full-featured for such an early release, and there is some <a href="https://github.com/dooApp/FXForm2/wiki/Get-started">good documentation to get started with</a>.</li>
+	<li><strong>Tom Schindl</strong> was <a href="http://jaxenter.com/eclipse-tooling-for-javafx-project-36642.html">interviewed by JAXenter about his E(fx)clipse project</a>, which aims to provide tooling for JavaFX development inside Eclipse. He talks about where the project currently is, and discusses a few areas of research he is considering pursuing.</li>
+	<li><strong>Jeff Friesen</strong> has posted <a href="http://tutortutor.ca/cgi-bin/makepage.cgi?/tutorials/ct/jfx20bgsp2">part two</a> of his 'JavaFX 2.0 Beta Getting Started' series. You can also <a href="http://tutortutor.ca/cgi-bin/makepage.cgi?/tutorials/ct/jfx20bgsp1">read the first part</a> if you want to catch up.</li>
+	<li><strong>Lawrence PremKumar</strong> has two blog posts: <a href="http://lawrencepremkumar.wordpress.com/2011/06/19/custom-specialpopup-using-javafx-2-0/">a custom SpecialPopup class</a> (that isn't actually extending Popup), and an example of<a href="http://lawrencepremkumar.wordpress.com/2011/07/03/getting-percentage-of-image-loading-in-javafx-2-0/"> how to load images in the background</a> whilst showing the loading progress.</li>
+	<li><strong>Benny&nbsp;Gächter</strong> has posted a <a href="http://blog.bgaechter.ch/2011/06/javafx-20-red-balls.html">port of his 'avoid the red balls' JavaFX Script game</a>, now written using JavaFX 2.0.</li>
+	<li><strong>Bertrand Goetzmann</strong> has posted a short video of <a href="http://www.screenr.com/99Ns">Grezi</a>, a simple Zooming User Interface that he implemented with GroovyFX.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Danno Ferrin</strong> has announced the <a href="http://shemnon.com/speling/2011/07/insubstantial-63-release.html">release of Insubstantial 6.3</a>, a fork of the Substance project. He also discusses his plans for future releases.</li>
+	<li><strong>Jens Schauder</strong> blogged about <a href="http://blog.schauderhaft.de/2011/06/26/clean-code-with-swing-and-scala/">creating Swing-based user interfaces with Scala</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li>Griffon continues on its slow path to 1.0 with the <a href="http://www.dzone.com/links/r/griffon_093beta2_released.html">release of 0.9.3-beta-2</a>. This release includes a <a href="http://docs.codehaus.org/display/GRIFFON/Griffon+0.9.3-beta-2">number of new features</a>, but breaks binary compatibility.</li>
+</ul>
+<p>That's all for another week. I hope you all found something useful! Until next week - keep up the hard work folks :-)</p>
+]]></Content>
+	</post>

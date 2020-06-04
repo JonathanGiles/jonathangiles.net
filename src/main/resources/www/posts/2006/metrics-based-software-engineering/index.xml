@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>19</ID>
+		<Slug>metrics-based-software-engineering</Slug>
+		<Title>Metrics-based software engineering</Title>
+		<Date>2006-04-27</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>For those out there that know of software engineering methodologies, I doubt you  know of metrics-based development. That is understandable, it's not something that we are really taught, in fact for me personally it's something I made up just these last few months. I don't claim that it is anything profound or earth-shattering (even to like-minded software geeks), it's merely what it is: a way to develop software that puts emphasis on the improvement of certain code-level metrics.</p>
+
+<p>Clearly, the ultimate program in this metrics-based methodology is an empty one. That is also clearly not a very good program, so I don't propose that this methodology be the core development methodology. A better idea would be to use this as a 'guiding light', to get an idea of how a project is progressing over it's development lifecycle.</p>
+
+<p>To aid in this understanding, it is suggested that the metrics be run at least daily (which can be automated). Each day numerous calculations will then be made, resulting in plenty of graphs being generated dynamically every day.</p>
+
+<p>On top of this, a number is calculated between 0.0 and 1.0 that states the 'health' of the project, as calculated by these metrics.</p>
+
+<p>The metrics performed include:</p>
+<p>* Unit testing (JUnit)</p>
+<p>* Unit test coverage (Clover)</p>
+<p>* Static source code analysis for code smells / antipatterns (PMD and CheckStyle)</p>
+<p>* Source code dependency analysis (JDepend)</p>
+
+<p>The real value in this methodology is in two key areas:</p>
+<p>* The ability to get rapid feedback on the introduction of good or poor code.</p>
+<p>* The ability to easily see improvements and deprovements of code quality in a visual manner.</p>
+
+<p>Visually seeing change is far better than the old solution: reading 100's of pages of automatically generated logs on a daily basis, assuming the code was being built daily. This is clearly impossible, and thus the ability to track project change at this detail is also impossible. Metrics-based software developments opens up this ability, in a very simple graphical way that anyone can understand (in fact, every graph explains the ideal direction for the values to go).</p>
+
+<p>To make it clear, this exists: I am running this methodology as part of my research this year, and it improves visibility hugely.</p>
+
+<p>What else can developers do to make their own lives easier?</p>
+<p>Cheers,</p>
+<p>Jonathan Giles</p>
+]]></Content>
+	</post>

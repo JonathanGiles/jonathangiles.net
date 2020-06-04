@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2141</ID>
+		<Slug>java-desktop-links-of-the-week-july-25-2</Slug>
+		<Title>Java desktop links of the week, July 25</Title>
+		<Date>2016-07-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A quick post today as I battle without internet and an overflowing todo list. Enjoy! :-)</p>
+<ul>
+ 	<li><strong>Thomas Nield</strong> has written about <a href="https://github.com/ReactiveX/RxJavaFX/blob/0.x/README.md#compositeobservable">CompositeObservables</a>, a feature in RxJavaFX.</li>
+ 	<li><strong>Edvin Syse</strong> has posted a screencast on&nbsp;<a href="https://www.youtube.com/watch?v=V-fNIOLYv88&amp;feature=youtu.be">TornadoFX SwitchView/ViewModel/Validation</a>.</li>
+ 	<li>Speaking of&nbsp;<strong>Edvin</strong>, he has also released <a href="https://github.com/edvin/tornadofx/releases/tag/v1.5.2">TornadoFX 1.5.2.</a></li>
+ 	<li><strong>Thomas Künneth</strong> has posted about an upcoming workshop he is working on for <a href="http://kuennetht.blogspot.co.nz/2016/07/my-upcoming-workshop-java-on-mobile.html">Java on mobile devices</a>.</li>
+</ul>
+]]></Content>
+	</post>

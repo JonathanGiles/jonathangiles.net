@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1291</ID>
+		<Slug>java-desktop-links-of-the-week-august-20</Slug>
+		<Title>Java desktop links of the week, August 20</Title>
+		<Date>2012-08-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx</Tags>
+		<Content><![CDATA[<p>Welcome to another week of Java desktop links! Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The big news this week is that <a href="http://www.oracle.com/us/corporate/press/1735645">Java 7u6 was released</a>, which now includes the <a href="https://blogs.oracle.com/javafx/entry/what_s_new_in_javafx">final release of JavaFX 2.2</a>. In addition to this, <a href="http://www.oracle.com/technetwork/java/javafx/tools/index.html">Scene Builder 1.0</a> was released as well.</li>
+	<li>With the release of JavaFX 2.2 comes a whole bunch of <a href="https://blogs.oracle.com/thejavatutorials/entry/javafx_2_2_documentation">new JavaFX documentation</a> to cover the new features.</li>
+	<li>Now that JavaFX 2.2 has been released, <strong>Richard Bair</strong> has blogged about <a href="http://fxexperience.com/2012/08/javafx-2-2-is-here-and-javafx-8-0-is-on-its-way/">the next release - JavaFX 8.0</a>!</li>
+	<li><strong>Adam Bien</strong> has written out part three of his '<a href="http://www.oracle.com/technetwork/articles/java/1735081">The enterprise side of JavaFX</a>' series.</li>
+	<li><strong>Ander Ruiz</strong> and I announced the release of <a href="http://fxexperience.com/2012/08/scenic-view-1-1-0-is-now-available-for-download/">Scenic View 1.1.0</a> and <a href="http://fxexperience.com/2012/08/scenic-view-1-1-1-now-available/">Scenic View 1.1.1</a> this week. This was a major update to Scenic View 1.0.x, so it is highly recommended that you upgrade to the latest release.</li>
+	<li><strong>Simon Ritter</strong> has put up a short YouTube video showcasing the <a href="http://www.youtube.com/watch?v=vaXuK-RsT6E&amp;feature=plcp">Canvas Node in JavaFX 2.2</a>.</li>
+	<li>In a separate post Simon Ritter has blogged about his Raspberry Pi project that <a href="https://blogs.oracle.com/speakjava/entry/javafx_interface_for_power_control">provides a JavaFX interface for power control</a>.</li>
+	<li><strong>Jim Weaver</strong> has a post titled '<a href="http://learnjavafx.typepad.com/weblog/2012/08/javafx-for-science.html">JavaFX for Science</a>', which is a guest post by <strong>Dr. James Thompson</strong>, who is using JavaFX to develop scientific applications.</li>
+	<li>The NetBeans website has a <a href="http://netbeans.org/community/articles/javaone/2012/index.html">list of sessions</a> at JavaOne related to NetBeans, including a lot of JavaFX sessions.</li>
+	<li><strong>Pedro Duque Vieira</strong> has announced that a <a href="http://pixelduke.wordpress.com/2012/08/14/modellus-x-0-1-release-candidate/">version 0.1 release candidate of his Modellus X project</a> is now available.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has announced that <a href="http://www.dzone.com/links/r/griffon_102_released.html">Griffon 1.0.2 has been released</a>. He notes that 'this is mostly a bug-fix release with only two minor features added. The new features are the ability to specify additional source and resources paths. These paths may contain sources/resources that are of private nature are may be excluded from SCM. Also plugins like the mybatis plugin make use of this feature to specify mapping classes.'</li>
+</ul>
+<p>Catch you all next week.</p>
+]]></Content>
+	</post>

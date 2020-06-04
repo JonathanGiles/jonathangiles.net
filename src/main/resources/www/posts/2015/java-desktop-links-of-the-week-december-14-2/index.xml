@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2015</ID>
+		<Slug>java-desktop-links-of-the-week-december-14-2</Slug>
+		<Title>Java desktop links of the week, December 14</Title>
+		<Date>2015-12-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;">Another round of links for everyone - enjoy :-)</span></p>
+<ul>
+	<li>The <strong>Gluon</strong> blog has an article on&nbsp;'<a href="http://gluonhq.com/scanning-bluetooth-low-energy-beacons-charm/">scanning Bluetooth Low Energy beacons with Charm Down</a>'.</li>
+	<li><strong>Tom Schindl</strong> has two posts related to e(fx)clipse 2.2.0 this week. Firstly, a post on <a href="http://tomsondev.bestsolution.at/2015/12/06/efxclipse-2-2-0-maximize-an-ui-component/">maximising UI components</a>, and secondly a post on <a href="http://tomsondev.bestsolution.at/2015/12/11/efxclipse-2-2-0-typesafe-eventbus/">typesafe event buses</a>.</li>
+	<li><strong>Rob Terpilowski</strong> has released&nbsp;<a href="https://rterp.wordpress.com/2015/12/11/version-1-1-2-of-javafxpropertyhelper-netbeans-plugin-released/">version 1.1.2</a> of the NetBeans JavaFxPropertyHelper plugin.</li>
+	<li><strong>Dirk Lemmermann</strong> has two posts this week. Firstly, he has a <a href="https://dlemmermann.wordpress.com/2015/12/10/survey-javafx-8-missing-features/">survey on JavaFX missing features</a> - you should go fill it in. Secondly, he has a tip on how to <a href="https://dlemmermann.wordpress.com/2015/12/10/javafx-tip-22-autosize-tree-table-columns/">autosize table columns</a> in the TableView and TreeTableView controls.</li>
+	<li><strong>Ken Fogel</strong> has posted on how to make <a href="https://jaxenter.com/netbeans/making-custom-javafx-controls-available-in-the-scene-builder">custom JavaFX controls available in the JavaFX Scene Builder</a>.</li>
+	<li><strong>Arnaud Blouin</strong> has posted about&nbsp;GUI testing, in particular 'how to <a href="http://torgen-engineering.blogspot.fr/2015/12/gui-testing-how-to-compare-javafx-gui.html">compare JavaFX GUI snapshots to assess their graphical rendering</a>'.</li>
+</ul>
+<p>Catch you all next week.</p>
+<h1 class="entry-title " style="margin: 10px 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 200; line-height: 48px; color: #5a5a5a; text-rendering: optimizeLegibility; font-size: 38px; text-shadow: #ffffff 0px 1px 0px; display: inline-block; width: 1170px;"></h1>
+<h1 class="entry-title " style="margin: 10px 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 200; line-height: 48px; color: #5a5a5a; text-rendering: optimizeLegibility; font-size: 38px; text-shadow: #ffffff 0px 1px 0px; display: inline-block; width: 1170px;"></h1>
+]]></Content>
+	</post>

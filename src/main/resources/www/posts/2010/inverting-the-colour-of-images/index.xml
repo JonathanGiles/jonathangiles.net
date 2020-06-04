@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>702</ID>
+		<Slug>inverting-the-colour-of-images</Slug>
+		<Title>Inverting the colour of images</Title>
+		<Date>2010-01-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags>java</Tags>
+		<Content><![CDATA[<p>Today I was asked by a family member if I could help. They had purchased some hardware that scans in all their photo negatives, which whilst cool, has the unfortunate side-effect of resulting in images with inverted colours. Not exactly what you want to see in the (virtual) photo album!</p>
+
+<p>It turns out that in the last year or so I've had a lot to do with image manipulation and editing in Java, so after having a brief look for a tool that they could use to batch invert their photos, I just jumped straight into Java to develop a solution. This was particularly fun as it's been about six months since I've had to cut any Swing/Java2D Java code (I'm fairly fulltime JavaFX these days), so it was nice to just refresh myself after the time away.</p>
+
+<p>The code below is what I ended up writing. There is almost certainly a better way to do it, but this runs perfectly well for the family member, so I didn't go any further than that. It doesn't have any dependencies on external libraries, and should probably run on most recent Java releases (probably 1.4+, but possibly even earlier). I've only tested it on my Java 6 install however. I thought I'd post it here in case anyone else is interested in batch inverting their images. For those not inclined to compile the code, you can also <a href="/posts/2010/java/imageColourInverter.jar/">download the application and run it on your local machine</a> (normally by double clicking on the file).</p>
+
+<p><b>Warning:</b> This code is certainly not good enough for a proper production system, as all the image processing is taking place within the user interface thread (i.e. on the Event Dispatch Thread as it's known in Java). I was weary of posting too much code on this blog, and also the wrapping would get even worse than what is seen below. Because of this, if the code below is used in a 'proper' application, the user interface will freeze up whilst the images are being inverted. If you want to use this code in a proper application, please be sure to move the ImageIO stuff off onto a separate thread (e.g. by using a <a href="http://java.sun.com/developer/technicalArticles/javase/swingworker/">SwingWorker</a>). This is very trivial, but if you have any questions please feel free to leave a comment.</p>
+
+<p>Here's the source code:</p>
+
+
+<pre class="code_block"><code class="java">import java.awt.event.ActionEvent;
+import java.awt.image.BufferedImage;
+import java.awt.image.BufferedImageOp;
+import java.awt.image.LookupOp;
+import java.awt.image.ShortLookupTable;
+import java.io.File;
+import java.io.FilenameFilter;
+import java.io.IOException;
+
+import javax.imageio.ImageIO;
+import javax.swing.AbstractAction;
+import javax.swing.JButton;
+import javax.swing.JFileChooser;
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.SwingUtilities;
+import javax.swing.UIManager;
+import javax.swing.UnsupportedLookAndFeelException;
+
+public class ImageColourInverter extends JPanel {
+	private static final short[] invertTable;
+
+	private File selectedDir;
+
+	static {
+		invertTable = new short[256];
+		for (int i = 0; i &lt; 256; i++) {
+			invertTable[i] = (short) (255 - i);
+		}
+	}
+
+	private BufferedImage invertImage(final BufferedImage src) {
+		final int w = src.getWidth();
+		final int h = src.getHeight();
+		final BufferedImage dst = new BufferedImage(w, h, BufferedImage.TYPE_INT_RGB);
+
+		final BufferedImageOp invertOp = new LookupOp(new ShortLookupTable(0, invertTable), null);
+		return invertOp.filter(src, dst);
+	}
+
+	private JPanel getUIPanel() {
+		final JButton selectFolderBtn = new JButton(new AbstractAction("Select Folder") {
+
+			@Override
+			public void actionPerformed(final ActionEvent e) {
+				System.out.println("Select Folder");
+
+				final JFileChooser chooser = new JFileChooser();
+				chooser.setCurrentDirectory(new java.io.File("."));
+				chooser.setDialogTitle("Select folder to process");
+				chooser.setFileSelectionMode(
+				    JFileChooser.DIRECTORIES_ONLY);
+
+				chooser.setAcceptAllFileFilterUsed(false);
+				if (chooser.showOpenDialog(ImageColourInverter.this) == JFileChooser.APPROVE_OPTION) {
+					System.out.println("Selected folder: " + chooser.getSelectedFile());
+					selectedDir = chooser.getSelectedFile();
+				}
+			}
+		});
+
+		final JButton processBtn = new JButton(new AbstractAction("Process!") {
+
+			@Override
+			public void actionPerformed(final ActionEvent e) {
+				if (selectedDir != null) {
+					final File[] files = selectedDir.listFiles(new FilenameFilter() {
+						@Override
+						public boolean accept(final File dir, final String name) {
+							if (! name.contains(".") {
+								return;
+							}
+							String ext = name.substring(name.lastIndexOf("."));
+							return ext.equalsIgnoreCase(".jpg");
+						}
+					});
+
+					for (final File file : files) {
+						BufferedImage orig;
+						BufferedImage inverted;
+						try {
+							System.out.println("processing file " + file);
+							orig = ImageIO.read(file);
+							inverted = invertImage(orig);
+							ImageIO.write(inverted, "jpg", file);
+						} catch (final IOException e1) {
+							e1.printStackTrace();
+						} finally {
+							orig = null;
+							inverted = null;
+						}
+					}
+
+					JOptionPane.showMessageDialog(null, "Done!");
+
+					selectedDir = null;
+				}
+			}
+		});
+
+		final JPanel panel = new JPanel();
+		panel.add(selectFolderBtn);
+		panel.add(processBtn);
+		return panel;
+	}
+
+	public static void main(final String[] args) {
+		SwingUtilities.invokeLater(new Runnable() {
+			@Override
+			public void run() {
+				try {
+					UIManager.setLookAndFeel(
+						UIManager.getSystemLookAndFeelClassName());
+				} catch (final ClassNotFoundException e) {
+					e.printStackTrace();
+				} catch (final InstantiationException e) {
+					e.printStackTrace();
+				} catch (final IllegalAccessException e) {
+					e.printStackTrace();
+				} catch (final UnsupportedLookAndFeelException e) {
+					e.printStackTrace();
+				}
+
+				final JFrame f = new JFrame("Image Colour Inverter");
+				f.setResizable(false);
+				f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+				f.add(new ImageColourInverter().getUIPanel());
+				f.setSize(250, 70);
+				f.setLocationRelativeTo(null);
+				f.setVisible(true);
+			}
+		});
+	}
+}
+</code></pre>
+
+]]></Content>
+	</post>

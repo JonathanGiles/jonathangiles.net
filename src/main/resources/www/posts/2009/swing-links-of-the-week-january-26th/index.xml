@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>198</ID>
+		<Slug>swing-links-of-the-week-january-26th</Slug>
+		<Title>Swing links of the week, January 26th</Title>
+		<Date>2009-01-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|Programming|swing|Swing Links</Tags>
+		<Content><![CDATA[<p>Another week, another Swing links. Thanks to everyone sending me links - please keep it up! Also, at the end of this post I have a request for everyone to help me out, so please be sure to read it!</p>
+
+<p>Here are some links regarding Swing and Java GUI's you may have missed in the last week:</p>
+<h3>Swing:</h3>
+<ul>
+ 	<li><strong>Ken Orr</strong> at Exploding Pixels continues his series on <a href="http://explodingpixels.wordpress.com/2009/01/18/skinning-a-scroll-bar-part-3/">skinning the scroll bar</a> in Swing applications. This is part three, and whilst quite code-heavy, it shows how to plug into the Swing UI delegation framework via an extension of BasicScrollBarUI. For more context on this series, see parts <a href="http://explodingpixels.wordpress.com/2008/12/08/skinning-a-scroll-bar-part-1/">one</a> and <a href="http://explodingpixels.wordpress.com/2008/12/29/skinning-a-scroll-bar-part-2/">two</a>.</li>
+ 	<li>Not content with one post, <strong>Ken Orr</strong> blogs about allowing <a href="http://explodingpixels.wordpress.com/2009/01/21/tracking-another-components-size/">one component to track the size of another component</a>. His post includes easy to follow code that I recommend other Swing developers take a look at for future reference&nbsp; (if you haven't already worked out how to do this).</li>
+ 	<li><strong>Kirill Grouchnikov</strong> blogs about<a href="http://www.pushing-pixels.org/?p=1065"> improved support in his Substance L&amp;F for very large fonts</a>. He has screenshots which show his progress in this area.</li>
+ 	<li><strong>Wolfgang Zitzelsberger</strong> writes a blog post trying to <a href="http://weblogs.java.net/blog/wzberger/archive/2009/01/swing_internals_1.html">clarify Z-ordering of components when painting in Swing</a>.</li>
+ 	<li><strong>Elliot Hughes</strong> has a blog post explaining how to <a href="http://elliotth.blogspot.com/2009/01/swing-tip-binding-action-to-jlist.html">bind an action (such as pressing the enter key) to a JList</a>. This is very useful, as there are a number of ways to do it, but this way seems the best and cleanest.</li>
+ 	<li><strong>Swing-FX blog</strong> has <a href="http://swing-fx.blogspot.com/2009/01/jrating-jtagcloud-and-gui-colorization.html">updated the fake application</a> that has been a feature of a number of <a href="http://swing-fx.blogspot.com/2008/10/highlight-search-results-with-jxlayer.html">blog</a> <a href="http://swing-fx.blogspot.com/2008/09/jgrid-folder-like-view-enhanced-with.html">posts</a> <a href="http://swing-fx.blogspot.com/2008/08/sexy-desktop-application-part-2.html">recently</a>. This application is Swing-based with a focus on usability and design. In this update, a number of new components have been integrated, including <a href="https://colorchooser.dev.java.net/">color choosers</a>, tag clouds, star ratings, '<a href="http://javagraphics.blogspot.com/2008/06/customize-toolbar-implementing-mac-like.html">customize toolbars</a>', etc. The source code is on display, as well as a downloadable project to get all source code.</li>
+ 	<li><strong>Lobo Browser 0.98.4</strong> <a href="http://lobobrowser.wordpress.com/2009/01/19/lobo-browser-0984-released/">has been announced</a>. The major news of this release is that it updates Lobo’s support of <a href="http://lobobrowser.org/non-html/javafx-browser.jsp">direct rendering of JavaFX source code</a>, such that it is up to date with JavaFX 1.0.</li>
+ 	<li>In other web browser related news, the <strong>Chrome Browser for Java (CB4J)</strong> <a href="http://www.jroller.com/myeclipseblog/entry/chromius">has been announced</a>. This is planned to be available for both Swing and SWT, and as stated on the linked post, "the licensing model of CB4J has not been fully defined, we are considering an open source version of CB4J as well as a low-cost, advanced version".</li>
+</ul>
+<h3>JavaFX:</h3>
+<ul>
+ 	<li><strong>Charles Humble</strong> wrote in to let me know that he has an <a href="http://www.infoq.com/news/2009/01/widgetfx">interview with Stephen Chin regarding WidgetFX</a>. I mentioned WidgetFX in last weeks post, but this is another interview, and is a little more in-depth.</li>
+ 	<li>Announced this week is that <a href="http://code.google.com/p/jsilhouette/">jSilhouette</a> has joined the JFXtras project. The JFXtras project is an open effort to fill in the gaps in the current JavaFX library, whereas jSilhouette provides a collection of Java2D shapes that can be used in several modes, and now that it is part of JFXtras, these shapes can also be used in JavaFX. To allow for this immediately, both projects announced <a href="http://www.jroller.com/aalmiray/entry/jsilhouette_0_3_released">new</a> <a href="http://steveonjava.com/2009/01/23/jfxtras-02-release-shapes-shapes-and-more/">releases</a>.</li>
+ 	<li>Swing links regular <strong>Alex Ruiz</strong> made a number of announcements regarding his FEST Java library that provides a <a href="http://martinfowler.com/bliki/FluentInterface.html" target="_blank" rel="noopener">fluent interface</a> for functional Swing GUI testing. These include a post on how to <a href="http://www.jroller.com/alexRuiz/entry/testing_drag_n_drop_in">test drag and drop in JavaFX using FEST</a>, as well as announcements that the FEST developer team <a href="http://www.jroller.com/alexRuiz/entry/juhos_csaba_zsolt_and_simeon">is</a> <a href="http://www.jroller.com/alexRuiz/entry/ted_young_joins_fest">growing</a>.</li>
+ 	<li><strong>Jasper Potts</strong> has posted a blog <a href="http://www.jasperpotts.com/blog/2009/01/devoxxparleyscom-intro-video/">discussing how he made the video for Devoxx/Parleys.com using JavaFX</a>.&nbsp; This post is a good tutorial to anyone wanting to get an understanding of animation in JavaFX, with a lot of code, diagrams, and a Java Web Start link.</li>
+ 	<li><strong>Osvaldo Pinali Doederlein</strong> has posted <a href="http://weblogs.java.net/blog/opinali/archive/2009/01/javafx_first_pr_1.html">his first impressions of working with JavaFX</a>, in terms of the language, and the performance of programs written in JavaFX. He writes JavaFX Balls: the JavaFX version of the <a href="http://bubblemark.com/" target="_blank" rel="noopener">Bubblemark</a> RIA benchmark, and makes available all related source code.</li>
+ 	<li>Coming in just before I posted this weeks Swing links, <span style="text-decoration: line-through;">Jim Weaver</span><strong>Dean Iverson</strong> posted about <a href="http://learnjavafx.typepad.com/weblog/2009/01/spotlight-effects-with-javafx.html">how to do spotlight effects in JavaFX</a>. As usual, he has included a lot of code samples.</li>
+</ul>
+<p>That's it for another week. Three weeks down, who knows how many more to go! Now that you have an idea of how Swing links is working under my direction, I'd love to hear your thoughts. Am I being too thorough, or not thorough enough? Do I include all the posts you've come across, or do I post too many links? Is my analysis too long or too short? I'd love your thoughts, as it'll let me refine things.</p>
+
+<p>Thanks, and have a great week!</p>
+]]></Content>
+	</post>

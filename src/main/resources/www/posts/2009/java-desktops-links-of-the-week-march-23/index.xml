@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>305</ID>
+		<Slug>java-desktops-links-of-the-week-march-23</Slug>
+		<Title>Java desktops links of the week, March 23</Title>
+		<Date>2009-03-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing|Swing Links</Tags>
+		<Content><![CDATA[<p>There is a huge number of links this week, so let's get straight into it.</p>
+<h3>Swing</h3>
+<ul>
+	<li>The <strong>Limewire</strong> blog has a <a href="http://blog.limewire.org/?p=331">post about creating floating panels using the MigLayout</a> .</li>
+	<li>A number of people got in touch with me regarding the <a href="http://www.chartle.net/">Chartle project</a> , which allows for charts to be created using a webapp. The user interface is partially built using Swing.</li>
+	<li><strong>James Strachan </strong> (@<a href="http://twitter.com/jstrachan">jstrachan</a> ) <a href="http://macstrac.blogspot.com/2009/03/i-met-james-gosling-last-night-more-on.html">posts that he met James Gosling</a> , and in the course of the discussion <a href="http://blogs.sun.com/jag/">James Gosling</a> notes that he is very keen to get JWebPane into the JDK.</li>
+	<li>A few weeks back, <strong><span class="url">Željko</span> </strong> <a href="http://revolucionlibrary.wordpress.com/2009/02/22/begin-the-revolucion/">got in touch with me regarding his Swing project</a> , <a href="http://revolucionlibrary.wordpress.com">Revolucion Library</a> , which is an awesome looking media player for Java. He has clearly put a lot of effort into it, and is now sharing with you some of the tricks he learnt. He has two posts, <a href="http://revolucionlibrary.wordpress.com/2009/03/20/how-it%e2%80%99s-made-cover-gallery/">one about the cover gallery he created</a> , and the other about <a href="http://revolucionlibrary.wordpress.com/2009/03/04/how-its-made-youtube-player-in-java/">creating a Java-based YouTube video player</a> .</li>
+	<li>I was contacted earlier this week by <strong>Tim Mouradian</strong> regarding his software <a href="http://www.mthbuilt.com/index.html">My Money</a> , which is a commercial project but built entirely using Swing.</li>
+	<li><strong>Kirill Grouchnikov</strong> (@<a href="http://twitter.com/kirillcool">kirillcool</a> ) has created a <a href="http://www.pushing-pixels.org/?p=1141">new skin for his Substance look and feel project, called Dust</a> .</li>
+	<li>In addition to the skin, <strong>Kirill</strong> has also posted <a href="http://www.pushing-pixels.org/?p=1133">Amber, an application which analyses social trends in various networks</a> (Digg, Twitter, etc), and animates the information using his Trident animation library mentioned last week. This is only very weakly related to Swing, but you should definitely check it out.</li>
+	<li>Finally, just before this post went out, <strong>Kirill</strong> announced he has <a href="http://www.pushing-pixels.org/?p=1154">done a mini-review of the latest release</a> of <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.woopra.com/');" href="http://www.woopra.com/">Woopra client</a> , which is a web analytics tool. Kirill's mini-review, as with any UI enthusiast, focuses on the polish that this application has in its user interface.</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li>It's competition time! <strong>Joshua Marinacci</strong> (@<a href="http://twitter.com/joshmarinacci">joshmarinacci</a> ), with the backing of Sun, has <a href="http://weblogs.java.net/blog/joshy/archive/2009/03/a_tale_of_two_c.html">announced two JavaFX competitions</a> . There are cash prizes, ranging for $1000 up to $25,000, as well as advanced copies of JavaFX books. Stop reading this post and get coding! :-)</li>
+	<li><strong>Ken Orr</strong> , never failing to impress, <a href="http://explodingpixels.wordpress.com/2009/03/17/tray-component-in-javafx/">has created a simple JavaFX tray component</a> , which oozes polish.</li>
+	<li><strong>Rakesh Menon</strong> posts about <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_light_effect">lighting effects in JavaFX</a> , and has a simple webstart application to let you play with various effects.</li>
+	<li><strong>Rakesh</strong> , busy as usual, also poses the rhetorical question 'can JavaFX speak my language', and then proceeds to answer this by showing <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_custom_fonts">how you can get JavaFX to show custom fonts</a> .</li>
+	<li><strong>Sergey Malenkov</strong> has posted a <a href="http://weblogs.java.net/blog/malenkov/archive/2009/03/sidebarfx_1.html">JavaFX-based fullscreen application that mimics the sidebars</a> offered by Microsoft, Google, etc.</li>
+	<li><strong>Jim Conner</strong> <a href="http://blogs.sun.com/jtc/entry/avoiding_unnecessary_bindstorms">posts about bindstorming</a> , that is, the issue with using too much binding in a JavaFX script application. He also highlights how it is possible to reduce the use of binding, whilst still retaining the same end result.</li>
+	<li><strong>Ravi Dharnikota</strong> , on the JavaFX blog, shows <a href="http://blogs.sun.com/javafx/entry/give_your_javafx_apps_a">how to improve the startup performance of your webstarted JavaFX application</a> .</li>
+	<li><strong>Eric</strong> <a href="http://ericonjavafx.com/?p=240">posts a JavaFX Bubble Breaker game</a> , including code and a <a href="http://ericonjavafx.com/bubblebreaker/bubblebreaker_browser.jnlp">webstart link</a> .</li>
+	<li><strong>Jim Weaver</strong> <a href="http://learnjavafx.typepad.com/weblog/2009/03/java-3d-meets-javafx-thanks-to-interactivemeshorg.html">posts about including Java3D in your JavaFX application</a> .</li>
+	<li>Somewhere I come across the <a href="http://code.google.com/p/memefx/">memefx JavaFX controls project</a> . Just a pointer, if you're going to watch the YouTube video on that page, mute the audio.</li>
+</ul>
+<p>That's it for another Java Desktop links of the week. I have kept the details of each item shorter given the number of links - I hope that is alright with everyone! Have a great week, and keep up the good work progressing the Java desktop!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1442</ID>
+		<Slug>java-desktop-links-of-the-week-april-8</Slug>
+		<Title>Java desktop links of the week, April 8</Title>
+		<Date>2013-04-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all - welcome to another weeks worth of links. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JDK 8 Early Access Developer Preview b84 has <a href="http://jdk8.java.net/download.html">been released</a>, which of course includes the latest JavaFX 8.0 developer preview build.</li>
+	<li><strong>JetBrains</strong> have announced that <a href="http://blogs.jetbrains.com/idea/2013/04/intellij-idea-121-with-javafx-2-support-is-available-for-download/">IntelliJ IDEA 12.1 is now available</a>, and it comes with great JavaFX 2.x support, including "complete support for FXML markup, custom CSS, code completion, navigation and search, refactorings, packaging tools, and integration with SceneBuilder." This means that the three main Java IDEs (IntelliJ, Eclipse and NetBeans) all have great support for JavaFX. Personally I've moved back to using Eclipse (which I used for many years), and it is a joy to return to my 'home' IDE.</li>
+	<li><strong>Philipp Dörfler</strong> has been working on a project he calls sbt-fxml, which generates <a href="https://bitbucket.org/phdoerfler/sbt-fxml">Scala-based controller classes for a given FXML file</a>. I'm not a huge user of FXML, but I wonder if similar tooling could be developed for Java and other language controllers?</li>
+	<li><strong>Jim Laskey</strong> has a blog post exploring <a href="https://blogs.oracle.com/nashorn/entry/to_shell_or_not_to">how to use Java FX from Nashorn</a> (the Java-based JavaScript engine coming up in Java 8).</li>
+	<li><strong>Sébastien Bordes</strong> has announced the <a href="http://blog.webeo.fr/post/2013/04/04/JRebirth-073-is-released">release of JRebirth 0.7.3</a>. From the <a href="http://www.jrebirth.org/">JRebirth website</a>: "JRebirth JavaFX 2 Application Framework provides a really simple way to write sophisticated and powerful RIA's applications. By leveraging the best of previous RIA framework, we can deliver the ultimate one to work cleanly and efficiently with this awesome API".</li>
+	<li>Speaking of JavaFX application frameworks, <strong>Adam Bien</strong> has been working on <a href="http://afterburner.adam-bien.com/">Afterburner.fx</a>, a "minimalistic (2 classes) JavaFX MVP framework based on Convention over Configuration."</li>
+	<li><strong>Jens Deters</strong> has updated his <a href="http://www.jensd.de/wordpress/?p=274">SelectableTitledPane</a> blog post I linked to last week.</li>
+	<li><strong>Jens Deters</strong> has updated his <a href="http://www.jensd.de/wordpress/?p=228">earlier JavaFX on Raspberry Pi</a> script to be <a href="http://www.jensd.de/wordpress/?p=301">even better</a>.</li>
+	<li><strong>Jorn Hameister</strong> has posted another JavaFX fractal application, this time the <a href="http://www.hameister.org/JavaFX_Fractal.html">Mandelbrot and Julia fractals</a>.</li>
+	<li><strong>Paul Leahy</strong> has posted a few articles over on <strong>about.com</strong> about <a href="http://java.about.com/b/2013/03/31/javafx-controls.htm">JavaFX UI controls</a>, covering Label, Button, TextField and ChoiceBox.</li>
+</ul>
+<p>Catch you all next week! :-)</p>
+]]></Content>
+	</post>

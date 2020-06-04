@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1510</ID>
+		<Slug>java-desktop-links-of-the-week-july-22</Slug>
+		<Title>Java desktop links of the week, July 22</Title>
+		<Date>2013-07-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Hi all - welcome to another weeks worth of links! Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>There is another <a href="http://fxexperience.com/2013/07/javafx-2013-survey/">JavaFX survey</a> that you should definitely consider filling in if you have a spare two minutes. Your input goes straight to the relevant people inside Oracle to help with decision making, etc.</li>
+	<li><strong>Gerrit Grunwald</strong> continues to play with JavaFX, Nashorn (JavaScript on the JVM) and XMPP. This week he has implemented support such that he can essentially <a href="http://harmoniccode.blogspot.co.nz/2013/07/give-nashorn-some-pi.html">talk to his Raspberry Pi via XMPP and send it JavaScript code</a>, which it will then compile and run. This JavaScript could in fact be a JavaFX application, given that JavaFX applications can be written in JavaScript (or any JVM-based language).</li>
+	<li><strong>Carl Dea</strong> has a post about the <a href="http://carlfx.wordpress.com/2013/07/15/introduction-by-example-javafx-8-printing/">printing support</a> coming up in JavaFX 8.0.</li>
+	<li><strong>Benjamin Gale</strong> has a post about <a href="http://programmingwithpassion.wordpress.com/2013/07/21/creating-a-simple-javafx-mvp-example/">creating a simple JavaFX MVP&nbsp;example application</a>.</li>
+	<li><strong>Martin Andersson</strong> has a very long blog post (spanning 11 pages!) that details his thoughts on the <a href="http://blog.martinandersson.com/the-enterprise-side-of-javafx-the-missing-part/">enterprise side of JavaFX</a>.</li>
+	<li><strong>Heiko Rupp</strong>, who works at Red Hat in the Java area on systems management with RHQ and JBoss ON, has written a <a href="http://pilhuhn.blogspot.co.nz/2013/07/javafx-ui-for-rhq-plugin-generator.html">front end in JavaFX for a RHQ plugin generator</a>.</li>
+	<li><strong>Antoine Mischler</strong> has blogged about <a href="http://blog.dooapp.com/2013/07/natural-language-search-in-fxml.html">natural language search in FXML</a>. As stated in the blog post, "This plugin is the result of a collaboration between dooApp and the INRIA (French public science and technology institution). We investigated a new way to automatically recover traceability links between specifications and code elements." Further on in the post they go on to say "In our work, we introduced a new approach based on the analyze of the UI labels. Our idea is that the specifications lead most of the time to texts displayed to the user in the user interface and that these texts will use a precise domain terminology. Then it's possible to retrieve the UI label usage in the code, to identify the pieces of code you are looking for!"</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Mario Torre</strong> has started investigating the <a href="http://neugens.wordpress.com/2013/07/21/javafx-look-and-feel-for-swing/">feasibility of a (modena) style for Swing</a>.</li>
+</ul>
+<p>That's all for this week - catch you all again in a weeks time! :-)</p>
+]]></Content>
+	</post>

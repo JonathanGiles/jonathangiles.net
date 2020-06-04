@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1747</ID>
+		<Slug>java-desktop-links-of-the-week-june-16</Slug>
+		<Title>Java desktop links of the week, June 16</Title>
+		<Date>2014-06-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week rolls around, and with it another weeks worth of links. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tomas Mikula</strong> has two posts this week. Firstly, a post titled '<a href="http://tomasmikula.github.io/blog/2014/06/06/detecting-when-the-mouse-stays-still-over-a-node.html">detecting when the mouse stays still over a node</a>'. Secondly, he has a post on 'separation of View and Controller in JavaFX Controls', which is an interesting read, especially for me as JavaFX needs to have more public API around third party controls. The <a href="https://javafx-jira.kenai.com/browse/RT-21598">JavaFX Jira issue tracking this</a> is the best place to discuss this further.</li>
+	<li><strong>Hendrik Ebbers</strong> has posted a sneak peak of some work currently being undertaken, to create a Windows 7-esque JavaFX style that is being called <a href="http://www.guigarage.com/2014/06/sneak-peek-aerofx/">AeroFX</a>. Already it looks very promising! This is a follow-on from the very successful <a href="http://aquafx-project.com/index.html">AquaFX</a> look developed previously.</li>
+	<li><strong>Tom Eugelink</strong> has posted on his <a href="http://tbeernot.wordpress.com/2014/06/09/circle-popup-menu/">circle popup menu progress</a>, which is available for download as part of JFXtras-8.0-SNAPSHOT-r2.</li>
+	<li><strong>Jens Deters</strong> has <a href="http://www.jensd.de/wordpress/?p=1195">released MQTT.FX 0.0.3</a>. This is an application for publishing and subscribing to MQTT topics, which is commonly used in IOT projects.</li>
+	<li><strong>Sébastien Bordes</strong> has announced the release of <a href="http://blog.jrebirth.org/releases/jrebirth-application-framework-7-7-2-is-released/">JRebirth Application Framework 7.7.2</a>. This new version "fixes some troubles experienced with demo applications like bad image loading (by presentation engine) or animation failure that lead to an empty slide."</li>
+	<li>The <strong>ReportMill</strong> blog has two posts this week. Firstly, they have announced that SnapCode, their IDE, is the '<a href="http://reportmill.wordpress.com/2014/06/11/snapcode-is-the-first-and-only-pure-javafx-ide/">first and only pure JavaFX IDE</a>'. Secondly, they have posted some sample code for <a href="http://reportmill.wordpress.com/2014/06/11/getting-node-visible-bounds/">getting the visual bounds of a node</a>. There is a <a href="https://javafx-jira.kenai.com/browse/RT-37509">Jira issue for this functionality</a>, and as I posted in there, I really wish someone would develop the code to make it possible to have a general-purpose glasspane in JavaFX (especially one that supports knowing the visual bounds of a node after scrolling, clipping, effects, etc).</li>
+	<li><strong>Arnaud Nouard</strong> has posted that he has updated his <a href="http://arnaudnouard.wordpress.com/2014/06/15/undecorator-for-java-8/">Undecorator library for JavaFX 8.0</a>, and that he has used this library in the development (and now release) of his <a href="http://arnaudnouard.wordpress.com/2014/06/11/alive-is-alive/">aLive application</a>, intended to "help music bands to organize rehearsals".</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>JIDE Software</strong> announced the <a href="http://www.jidesoft.com/history/">release of version 3.6.0</a> of their suite of libraries. There are backward compatibility breakages, along with a bunch of enhancements and bug fixes.</li>
+</ul>
+<p>That's all folks. Catch you next week!</p>
+]]></Content>
+	</post>

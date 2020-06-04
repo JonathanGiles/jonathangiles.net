@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1501</ID>
+		<Slug>java-desktop-links-of-the-week-july-8</Slug>
+		<Title>Java desktop links of the week, July 8</Title>
+		<Date>2013-07-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A heap of new source code and news this week - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The big news this week was the progress that the open source community around JavaFX (and OpenJFX in particular) has made with getting JavaFX code to run on iOS devices. <strong>Tobias Bley</strong> has a blog post detailing <a href="http://blog.software4java.com/?p=41">what has been achieved</a>.</li>
+	<li><strong>Daniel Zwolenski</strong> has released the 2.0 version of <a href="http://www.zenjava.com/2013/07/01/javafx-maven-plugin-2-0-released/">the JavaFX maven plugin</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> has made available a useful <a href="http://harmoniccode.blogspot.de/2013/07/need-some-notification.html">notification popup API for JavaFX applications</a>. This notification panel opens up in the corner of the screen like many other software applications do to notify of new emails, etc. This was something I was planning to work on for <a href="http://www.controlsfx.org">ControlsFX</a>, but <strong>Gerrit</strong> beat me to it (although ControlsFX does have a NotificationPane for in-app notification, if you'd rather notify within your application)! :-)</li>
+	<li><strong>Robert Ladstätter</strong> has a cool blog post about a <a href="http://ladstatt.blogspot.co.nz/2013/07/sudoku-solver-with-scala-javafx-and.html">sudoku solving JavaFX application</a> written in ScalaFX. What's even more impressive is that you just feed the application a photo of the unsolved sudoku puzzle! Watch the video to see it in action.</li>
+	<li><strong>JIDESoft</strong> has <a href="http://www.jidesoft.com/blog/2013/07/05/jidefx-beta-open-source/">released more JideFX source code</a> as open source. The newly open sourced projects are JideFX Decoration, JideFX Validation, and JideFX Fields.</li>
+	<li><strong>Andreas Billmann</strong> has posted about <a href="http://www.billmann.de/2013/07/03/javafx-custom-listcell/">creating custom ListCells</a> for the ListView control in JavaFX (although the same concept applies for all cell-based UI controls such as TreeView, TableView, TreeTableView and ComboBox).</li>
+	<li><strong>Benjamin</strong> has blogged about <a href="http://programmingwithpassion.wordpress.com/2013/07/07/creating-a-reusable-javafx-custom-control/">creating reusable JavaFX custom controls</a> which are built using FXML descriptions.</li>
+	<li>As mentioned last week, <strong>Angela Caicedo</strong> <a href="http://www.meetup.com/svjugfx/events/124595592/?a=ea2_grp&amp;rv=ea2">is presenting</a> this week at the Silicon Valley JavaFX Users Group on July 10. As per usual it is streamed live online so even if you aren’t in Silicon Valley you can join in. Angela is presenting on “Beyond Beauty: JavaFX, Parallax, Touch, Raspberry Pi, Gyroscopes, and Much More”.</li>
+	<li><strong>Sean Phillips</strong> has a blog about introducing the <a href="http://netbeans.dzone.com/articles/jfxtras-radialmenu-netbeans-part2">JFXtras RadialMenu control into the NetBeans RCP</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>David Gilbert</strong> has released <a href="http://www.jfree.org/jfreechart/">JFreeChart 1.0.15</a>. This is an open source chart library for Swing. If you find it useful I highly encourage you to consider buying the <a href="http://www.jfree.org/jfreechart/devguide.html">JFreeChart developer guide</a> to help fund future development.</li>
+</ul>
+<p>That's all this week. Catch you all again next week.</p>
+]]></Content>
+	</post>

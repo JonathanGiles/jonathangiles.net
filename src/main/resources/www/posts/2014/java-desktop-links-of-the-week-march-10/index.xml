@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1689</ID>
+		<Slug>java-desktop-links-of-the-week-march-10</Slug>
+		<Title>Java desktop links of the week, March 10</Title>
+		<Date>2014-03-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java2d|javafx</Tags>
+		<Content><![CDATA[<p>Another week rolls around, and so do a bunch more of your links. Enjoy!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>A colleague of mine in the JavaFX team at Oracle, <strong>David Grieve</strong>, has started up a new blog. His first post is titled '<a href="http://dgrieve.blogspot.co.nz/2014/03/lambda-to-rescue.html">lambda to the rescue</a>', and it covers how, with the help of lambdas in Java 8, he is able to write better code in JavaFX.</li>
+	<li><strong>Juergen Kress</strong> has a post about there now being <a href="https://blogs.oracle.com/emeapartnerweblogic/entry/netbeans_support_for_javafx_for">NetBeans support for JavaFX on iOS</a>.</li>
+	<li>I announced, on behalf of the <a href="http://www.controlsfx.org">ControlsFX project</a>, that <a href="http://fxexperience.com/2014/03/announcing-controlsfx-8-0-5/">version 8.0.5 was released</a>. This release is a major release with a number of new and useful controls. If you are unfamiliar with ControlsFX, be sure to <a href="http://www.controlsfx.org/features">check out the features page</a> for a high-level summary of all the cool stuff available in ControlsFX.</li>
+	<li>There have been new releases of <a href="https://code.google.com/p/scalafx/">ScalaFX</a> for both JavaFX 2.x and 8.x. If you're a Scala fan, then you should definitely check this library out.</li>
+	<li><strong>Pedro Duque Vieira</strong> has blogged about adding <a href="http://pixelduke.wordpress.com/2014/03/03/metro-style-progressbar-for-java-jmetro/">ProgressBar support</a> in his JavaFX Metro stylesheet.</li>
+	<li><strong>Geertjan Wielenga</strong> has interviewed <strong>Walter Nyland</strong> and <strong>Jason Wexbridge</strong> on their new book titled 'NetBeans Platform for Beginners', and <a href="http://jaxenter.com/what-s-the-relevance-of-the-java-desktop-in-a-world-that-s-tilting-towards-mobile-49696.html">the relevance of the Java desktop</a>.</li>
+	<li><strong>Jeff Martin</strong> posted an update to SnapCode this week with new&nbsp;<a href="http://reportmill.wordpress.com/2014/03/07/snapcode-mouse-and-keyboard-sensing/">Mouse and Keyboard sensing</a>&nbsp;features, new&nbsp;<a href="http://reportmill.wordpress.com/2014/03/07/snapcode-pen-drawing/">pen graphics features</a>&nbsp;and numerous improvements and fixes.</li>
+</ul>
+<h4>Java2D</h4>
+<ul>
+	<li><strong>Dave Gilbert</strong> has <a href="http://www.jroller.com/dgilbert/entry/orson_pdf_1_5">released version 1.5</a> of <a href="http://www.object-refinery.com/orsonpdf">Orson PDF</a>, a (commercial) fast and small PDF generator for Java.</li>
+	<li><strong>Dave Gilbert</strong> has also just <a href="http://www.object-refinery.com/orsoncharts/index.html">released Orson Charts 1.2</a>, a 3D chart library for Java. This is a significant feature release that includes a new logarithmic axis, new value and range markers for both category and XYZ plots, additional axis labelling options (tick label orientation, and stepped labelling for category axes), localisation support, chart themes, JPEG export, rendering engine efficiency improvements and numerous bug fixes.</li>
+</ul>
+<p>That's that for another week. Catch you all next week! :-)</p>
+]]></Content>
+	</post>

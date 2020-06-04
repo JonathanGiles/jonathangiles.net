@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>313</ID>
+		<Slug>java-desktop-links-of-the-week-april-6</Slug>
+		<Title>Java desktop links of the week, April 6</Title>
+		<Date>2009-04-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|javafx|Programming|Swing Links</Tags>
+		<Content><![CDATA[<p>Here are your Java desktop links of the week. It's been an interesting week to be a Java developer, given the rumours swirling around a potential acquisition of Sun as soon as this week. Who knows, next weeks post might be SWT links of the week ;-)</p>
+
+<p>Regardless of what happens, have a great week, and don't work too hard.</p>
+<h3>General</h3>
+<ul>
+	<li><strong>Danny Coward</strong> (<a href="http://twitter.com/theplanetarium">@theplanetarium</a> ) put up his <a href="http://blogs.sun.com/theplanetarium/entry/planet_cast_two_james_gosling">second Planet Cast, this time he interviewed James Gosling</a> . To quote Danny, "From <a href="http://blogs.sun.com/theplanetarium/entry/java_vm_trying_a_new">Garbage First</a> , through <a href="http://openjdk.java.net/projects/jigsaw/">modularity in Java</a> , <a href="http://openjdk.java.net/projects/mlvm/">multiple languages</a> , <a href="http://java.sun.com/javase/technologies/desktop/">Swing</a> and <a href="http://javafx.com/">JavaFX</a> , this is a must listen episode from the man who started it all." I agree.</li>
+	<li>As mentioned last week, <strong>Fabrizio Giudici</strong> has continued with his 'better beans bindings' project. He has <a href="http://weblogs.java.net/blog/fabriziogiudici/archive/2009/03/beansbinding_be.html">announced</a> a <a href="http://kenai.com/projects/betterbeansbinding/">project kenai project</a> .</li>
+	<li><strong>Jeff Martin</strong> asked me a few weeks ago to mention the (apparently commercial) <a href="http://www.reportmill.com/dbox/">DataBox project</a> , which <a href="http://java.dzone.com/news/instant-java-application">appears to be a Java project for creating RIA, but which does not use JavaFX</a> .</li>
+</ul>
+<h3>Swing</h3>
+<ul>
+	<li><strong>Eric Burke</strong> (<a href="http://twitter.com/burke_eric">@burke_eric</a> ) let me know that the company he works for has put up a document detailing <a href="http://www.ociweb.com/jnb/jnbApr2009.html">how to skin Eclipse/SWT applications using Swing look and feels</a> .</li>
+	<li><strong>Ruben</strong> has a post outlining <a href="http://ruben42.wordpress.com/2009/03/30/catching-all-runtime-exceptions-in-swing/">how he believes you should catch Swing runtime exceptions</a> . Basically his suggestion is to provide a wrapper around the event queue such that every event is wrapped in a try-catch block.</li>
+	<li>Following up quickly from last weeks post about SwingX 0.9.6 being released, a <a href="http://weblogs.java.net/blog/rah003/archive/2009/04/swingx_097_rele_1.html">bug-fix release has been quickly put out for SwingX</a> . This is important if you use the calendar components. The new release is version 0.9.7.</li>
+	<li>Do you want native file dialogs in Swing? DJ Native Swing looks like making this a reality. <strong>Christopher Deckers</strong> has a <a href="http://java.dzone.com/news/native-dialogs-swing-little">post detailing how to show native file dialogs</a> .</li>
+	<li><strong>Jacek Furmankiewicz</strong> has a post outlining <a href="http://java.dzone.com/articles/making-gui-builders-obsolete">how to use his Swing JavaBuilder project to declaratively build Swing user interfaces</a> .</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li>The '<a href="http://javafx.com/learn/">learn</a> ' page on <a href="http://www.javafx.com">JavaFX.com</a> is being frequently updated, as alluded to by <a href="http://blogs.sun.com/javafx/entry/get_your_tech_tips_here">this blog post, which includes links to a number of tech tips for JavaFX programmers of all skill levels</a> .</li>
+	<li><strong>Sergey Malenkov</strong> posts <a href="http://weblogs.java.net/blog/malenkov/archive/2009/03/java_from_javaf_1.html">an interesting revelation when calling certain Java code from JavaFX</a> . In particular, JavaFX has a number of keywords that are not in Java, such as 'insert', 'delete', etc. Because these are keywords, you can not call a method such as obj.delete(), without first wrapping the delete method call with &lt;&lt; and &gt;&gt;, for example: obj.&lt;&lt;delete&gt;&gt;(). I hope that sooner (rather than later) this can be resolved - the JavaFX compiler surely should be able to discern between the two use cases and remove the need for this.</li>
+	<li><strong>Josh Marinacci</strong> (<a href="http://twitter.com/joshmarinacci">@joshmarinacci</a> ) <a href="http://jfxstudio.wordpress.com/2009/04/04/microchallengeorange-winners/">posts the winners of the first JavaFX micro-challenge</a> . Not surprisingly, the 3 prizes went to the 3 entrants.</li>
+	<li><strong>Jeff Frieson</strong> posts <a href="http://www.javaworld.com/community/?q=node/2720">how to create a skinnable button in JavaFX</a> .</li>
+	<li>JavaFX.com has a <a href="http://javafx.com/docs/articles/media/index.jsp">tutorial on how to create a media player in JavaFX</a> .</li>
+	<li>DevX.com has an <a href="http://www.devx.com/Java/Article/41395">article on how to get started with creating JavaFX applications for mobile devices</a> .</li>
+	<li><strong>Jim Weaver</strong> (<a href="http://twitter.com/javaFXpert">@javaFXpert</a> ) posted <a href="http://learnjavafx.typepad.com/weblog/2009/03/javafx-with-passion-puzzler-2-animation.html">another JavaFX puzzler</a> , as well as his <a href="http://learnjavafx.typepad.com/weblog/2009/03/solution-to-javafx-puzzler-2.html">recommended solution to the puzzler</a> . This puzzler focuses on animation in JavaFX.</li>
+</ul>
+<h3>Groovy</h3>
+<ul>
+	<li><strong>Andres Almiray</strong> (<a href="http://twitter.com/aalmiray">@aalmiray</a> ) posts that <a href="http://www.jroller.com/aalmiray/entry/3_2_1_griffon_in">a Griffon book is in the works</a> .</li>
+</ul>
+]]></Content>
+	</post>

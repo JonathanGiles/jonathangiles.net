@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1055</ID>
+		<Slug>java-desktop-links-of-the-week-june-6</Slug>
+		<Title>Java desktop links of the week, June 6</Title>
+		<Date>2011-06-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing|swt</Tags>
+		<Content><![CDATA[<p>Now that JavaFX 2.0 beta has been out for a week or two, and a refresh build already published, the number of links we're starting to see covering what is going on in that world is definitely increasing, as you can see below. As always, feel free to email me any links you want to have included. Right, this is a big post, so let's get into it!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>A <a href="http://fxexperience.com/2011/06/javafx-2-0-beta-build-30-available-now/">new JavaFX 2.0 beta build came out this week</a>. I'd recommend to everyone that they update as soon as possible. Just as a heads-up, we're on a two-weekly cycle for public beta builds, so keep an eye out for new builds as they always include new features, bug fixes and improved performance.</li>
+	<li><strong>Nandini Ramani</strong>, Vice President of Development at Oracle (a.k.a my bosses boss), has been <a href="http://blogs.oracle.com/javaspotlight/entry/java_spotlight_episode_32_nandini">interviewed by the Java Spotlight podcast</a>, where she talks about the JavaFX 2.0 beta release.</li>
+	<li><strong>Richard Bair</strong>, <strong>Jasper Potts</strong> and I have been busy over at our FX Experience website. We've talked about <a href="http://fxexperience.com/2011/05/maps-in-javafx-2-0/">Maps in JavaFX 2.0</a> (using WebView), and introduced the <a href="http://fxexperience.com/2011/06/indeterminate-checkbox/">indeterminate CheckBox</a> and <a href="http://fxexperience.com/2011/06/splitpane-in-javafx-2-0/">SplitPane</a> controls. We've also been posting important links immediately, rather than hold them off for the weekly links roundup.</li>
+	<li><strong>Amy Fowler</strong> has blogged about the <a href="http://amyfowlersblog.wordpress.com/2011/06/02/javafx2-0-layout-a-class-tour/">JavaFX 2.0 layout APIs</a>, giving a great introduction to what has changed since JavaFX 1.3. Layout APIs are always a tough nut to crack, but once you do it makes your user interfaces so much easier to build. I highly recommend reading this blog post!</li>
+	<li><strong>Artem Ananiev</strong> has posted a <a href="http://weblogs.java.net/blog/ixmal/archive/2011/06/02/using-javafx-20-inside-swing-applications">good introduction</a> to the JFXPanel component, which allows for embedding JavaFX nodes into a Swing application.</li>
+	<li><strong>Tom Eugelink</strong> has published his <a href="http://java.net/projects/miglayoutfx2">MigLayout port for JavaFX 2.0</a> to Java.net, where it is published under the Apache 2.0 license. Note that in addition to this MigLayout project, JavaFX 2.0 includes a <a href="http://download.oracle.com/javafx/2.0/api/index.html?javafx/scene/layout/GridPane.html">GridPane layout</a> that is also very functional.</li>
+	<li>The <strong>Silicon Valley JavaFX users group</strong> is running another session this week: '<a href="http://www.svjugfx.org/events/17296652/?a=ce1p_grp&amp;eventId=17296652&amp;action=detail&amp;rv=ce1p&amp;rv=ce1p">Hands-on JavaFX Coding in Alternative Languages</a>'. This talk is being hosted at Oracle HQ on Wednesday, 8th June at 6:00pm. As usual they will be <a href="http://www.ustream.tv/channel/silicon-valley-javafx-user-group">hosting the session online</a> for those of us who can't attend in person.</li>
+	<li><strong>Jeff Friesen</strong> has blogged about '<a href="http://www.javaworld.com/community/?q=node/7733">Rebooting JavaFX, Part 1</a>'.</li>
+	<li>A number of people have posted their first impressions of JavaFX 2.0 this week, including <a href="http://blog.xebia.com/2011/05/javafx-2-0-beta/"><strong>Gerbrand van Dieijen</strong></a> and <strong><a href="http://etfdevlab.blogspot.com/2011/06/javafx-vs-java-swing-vs-awt.html">Illya Yalovyy</a></strong>.</li>
+	<li><strong>Lawrence Premkumar</strong> has blogged about <a href="http://lawrencepremkumar.wordpress.com/2011/06/01/dynamically-setting-the-side-of-tabpane-in-javafx-2-0/">dynamically setting the side of a TabPane</a>. TabPane is another of the new controls in JavaFX 2.0, which I plan to blog about in more depth sometime over at <a href="http://www.fxexperience.com">FX Experience</a>.</li>
+	<li><strong>jVel</strong> has blogged about <a href="http://translate.google.co.uk/translate?hl=en&amp;sl=es&amp;u=http://tecno-aspirinas.blogspot.com/2011/06/uso-de-cellfactory-en-java-fx-2.html&amp;ei=fA3sTY2VBoX4vwO0q73LDw&amp;sa=X&amp;oi=translate&amp;ct=result&amp;resnum=6&amp;ved=0CEMQ7gEwBQ&amp;prev=/search%3Fq%3Djavafx%26hl%3Den%26safe%3Doff%26sa%3DX%26biw%3D1917%26bih%3D1024%26tbs%3Dqdr:w,sbd:1%26tbm%3Dblg">using custom cell factories in JavaFX 2.0</a> (Google translate is used). This is another important topic that I intend to cover in more depth over at <a href="http://www.fxexperience.com">FX Experience</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has posted another Friday Fun Component that <a href="http://harmoniccode.blogspot.com/2011/05/friday-fun-component-viii.html">draws bubbles inside a Swing JPanel.</a></li>
+</ul>
+<h4>SWT</h4>
+<ul>
+	<li><strong>Laurent Caron</strong> has put up a <a href="http://code.google.com/a/eclipselabs.org/p/opal/">new release of the Opal project</a>, which includes two new components: An image selector (a port of the CD Shelf by <strong>Romain Guy</strong>), and a dialog box builder (roughly a port of the <a href="http://code.google.com/p/oxbow/">DialogBox</a> by <strong>Eugene Ryzhikov</strong>).</li>
+</ul>
+<p>As always, keep up the great work blogging folks, and I'll catch you again in a weeks time.</p>
+]]></Content>
+	</post>

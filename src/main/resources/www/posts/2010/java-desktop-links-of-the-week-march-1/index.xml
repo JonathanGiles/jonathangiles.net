@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>744</ID>
+		<Slug>java-desktop-links-of-the-week-march-1</Slug>
+		<Title>Java desktop links of the week, March 1</Title>
+		<Date>2010-02-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Wow. March 1st, already?! Time flies when you're cutting code!</p>
+
+<p>For whatever reason, there aren't so many links this week. Perhaps you all are still digesting last weeks links :-)</p>
+
+<p>I should note again - the <a href="https://www28.cplan.com/cfp_prod/CFPLogin.jsp?wId=268225">call for papers for JavaOne 2010</a> is rapidly approaching! It closes when the clock strikes midnight on March 14th. I'm looking forward to finding out what submissions get proposed and accepted, but for that to happen, you have to get your submmissions in within the next two weeks! Get cracking :-)</p>
+
+<p>Right, that's way too much intro, so let's get into the news. Enjoy</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Eugene Ryzhikov</strong> posts about his <a href="http://mcoj.wordpress.com/2010/02/26/swinging-task-dialog-part-1/">Swing Task Dialog</a>, which tries to recreate the look and feel of the Windows Task Dialog component, and I think he has done a nice job at it.</li>
+	<li><strong>Geertjan Wielenga</strong> carries on his series of posts identifying applications built atop the NetBeans RCP. This week it is a <a href="http://netbeans.dzone.com/healthcare-quality-assurance-on-nb">healthcare quality assurance application</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>The JavaFX community is a nice tight-knit group of enthusiasts and developers. Whilst we mostly <a href="http://twitter.com/steveonjava/javafx">keep in touch via twitter</a>, we all worry about the people who aren't part of the twitter community, and who may feel lost and isolated when learning JavaFX. Well, now that JavaFX is an Oracle product, <a href="http://mix.oracle.com/groups/20213">we also mingle in Oracle Mix</a>. Join us if you want to ask questions or just discuss JavaFX.</li>
+	<li>The <strong>JavaFX Composer team</strong> (a NetBeans plugin developed at Sun/Oracle which makes building JavaFX-based graphical forms easier) have <a href="http://blogs.sun.com/javafxcomposer/">started a new blog</a> to publicise their progress as they work towards a final release. Everything I've heard from people using it is that it is a great tool, and very, very useful for building quality JavaFX-based software.</li>
+	<li><strong>Simon Morris</strong> has posted the second tutorial on his website, covering <a href="http://www.jfxia.com/JFXTutorials/Tutorial2/">FXD manipulation</a>.</li>
+	<li><strong>Rakesh Menon</strong> has blogged about some <a href="http://rakeshmenonp.wordpress.com/2010/02/22/javafx-performance-optimization/">recommended performance optimisations</a> when developing JavaFX applications. These are all very good tips, so do take a moment to make sure you're aware of them. He plans to maintain this post with similar advice for JavaFX 1.3.</li>
+	<li>In another blog post, <strong>Rakesh</strong> shows off <a href="http://rakeshmenonp.wordpress.com/2010/02/25/javafx-yahoo-weather/">his results from using the JavaFX Composer tool</a> to build a JavaFX-based user interface.</li>
+	<li><strong>Drew</strong> continues his work on a JavaFX game using Phys2D. This week he <a href="http://piliq.com/javafx/?p=1514">updated the graphics</a>, and also added some <a href="http://piliq.com/javafx/?p=1519">effects to his game</a>.</li>
+	<li>I happened upon this website recently, which is just a single (but rather long) page outlining <a href="http://jarfiller.com/reference/javafxscript/">all of the JavaFX Script syntax</a>. It seems like a very good reference for anyone new to the language.</li>
+</ul>
+<p>That's us for another week. Keep up the good work folks, and I look forward to seeing you all again in a week&nbsp; :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2028</ID>
+		<Slug>java-desktop-links-of-the-week-january-18-2</Slug>
+		<Title>Java desktop links of the week, January 18</Title>
+		<Date>2016-01-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+	<li><strong>Gerrit Grunwald</strong> continues to rapidly iterate on his <a href="https://github.com/HanSolo/Medusa">medusa gauge library for JavaFX</a>. By the time you read this it might be out of date, but the last recorded release I saw was for 1.0.</li>
+	<li>Speaking of <strong>Gerrit</strong>, he has also done a small blog post on some code he wrote for <a href="http://harmoniccode.blogspot.de/2016/01/colors.html">making colour selection a little easier</a>: he now has created enums for a number of popular colour sets (e.g. Material Design, Flat UI, etc).</li>
+	<li><strong>Robert Ladstätter</strong> has blogged about how he used the <a href="http://www.gluonhq.com">Gluon JavaFX tooling</a> to port his&nbsp;<a href="http://ladstatt.blogspot.co.nz/2016/01/fx-tictactoe-tictactoe-javafx.html">fx-tictactoe game to Android</a>.</li>
+	<li>Speaking of <strong>Gluon</strong>, there is now a <a href="http://gluonhq.com/gluon-release-schedule-now-public/">public release schedule</a> for the various projects being developed (e.g. JavaFXPorts, Gluon Charm, Gluon Particle, Scene Builder, and Gluon Cloud). You can go straight to the <a href="http://gluonhq.com/products/release-schedule/">release schedule page here</a>.</li>
+	<li><strong>Voxxed</strong> has posted an article about '<a href="https://www.voxxed.com/blog/2016/01/android-on-openjdk-the-developer-impact/">Android on OpenJDK: The Developer Perspective</a>', which gives a good overview of the possible changes due to Androids recent change from Apache Harmony to OpenJDK.</li>
+	<li><strong>Hendrik Ebbers</strong> has an interesting read on the amount of work he and <strong>Michael Heinrichs</strong> had to go through to <a href="http://www.guigarage.com/2016/01/the-javaone-voting-machine/">build the JavaOne voting machines</a>.</li>
+</ul>
+]]></Content>
+	</post>

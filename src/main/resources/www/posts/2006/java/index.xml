@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>36</ID>
+		<Slug>java</Slug>
+		<Title>Java?</Title>
+		<Date>2006-01-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>You may wonder, what's up with all these posts about Java? The answer is simple: I have thousands of lines of code in Java, and I'm not about to sit down and take the time to rewrite them in C# (in my opinion perhaps the only interesting language of Visual Studio).</p>
+
+<p>This probably doesn't bode well for the student ambassador for Microsoft at Massey I guess, but here's something I said to <a href="http://blogs.msdn.com/smcbreen/">Sean</a> and <a href="http://spaces.msn.com/members/paullohao">Paul</a> when I met them in Wellington a while back:</p>
+<p><blockquote dir="ltr">Don't sell to students.</blockquote></p>
+<p>We don't want to know that C# is 67% better than Java. It doesn't <em>really </em>matter to us. What follows from this is the second point I made:</p>
+<p><blockquote dir="ltr">Do tell us about your cool <em>'feature x' </em></blockquote></p>
+<p><p dir="ltr">This understanding was discovered after a recent presentation made to students at Massey in Palmy North - we left full of stats, but not really knowledgeable about the cool new features that we should take note of.</p>
+
+<p><blockquote dir="ltr"></p>
+<p><p dir="ltr">It is these features that make us <strong>want </strong>to switch to Microsoft solutions.</p>
+<p></blockquote></p>
+<p><p dir="ltr">You all probably know that I'm a programmer - I don't really care about the management and business aspects of things as much as I care about the beauty of the code (this coming from a managing director of his own business). I make no attempts to hide my desire to find the best tool for the job, as do many of my friends who left the presentation that day. Sadly, many of us left the presentation disappointed - we were effectively being sold to, and being sold to means percentages, misleading graphs, and 'studies'. We are smart, we generally know what is happening in the world of IT, and we are students, we have the future ahead of us to use your products. We come to presentations open-minded, but we really don't want to be told stats, and just as important:</p>
+
+<p><blockquote dir="ltr"></p>
+<p><p dir="ltr">Don't speak negatively of your competition - we may just like / use them now, and mentally switch off (or worse, form a negative opinion of yourselves and your product) once the slagging begins.</p>
+<p></blockquote></p>
+<p><p dir="ltr">Sorry for the long blog, I thought I would get something off my chest. I'm not inherently negative, I just want to save us wasting students, and consequently our, times. So, to return to the start: I use Java because thats what I have used, what I have all my code in, and what the people I work for want me to work in. I'm willing to change to a tool that makes my life easier / more enjoyable, but features, not stats, are going to convince me.</p>
+
+<p><blockquote dir="ltr"></p>
+<p><p dir="ltr"><em>What is my feature x?</em> Thats what we should all be asking whoever has the answers, and for those of us with the answers, that's what we should be answering in the clearest way possible.</p>
+<p></blockquote></p>
+<p><p dir="ltr">Cheers.</p>
+]]></Content>
+	</post>

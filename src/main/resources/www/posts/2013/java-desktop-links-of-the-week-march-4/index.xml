@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1420</ID>
+		<Slug>java-desktop-links-of-the-week-march-4</Slug>
+		<Title>Java desktop links of the week, March 4</Title>
+		<Date>2013-03-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A heap of links this week, so let's get right into it. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> posted a YouTube video of <a href="http://www.youtube.com/watch?v=cXZhnqRJYPY">how to build OpenJFX on a Mac with JDK 8 b78</a>.</li>
+	<li>This week I interviewed <strong>Felipe Heidrich</strong> in relation to <a href="http://fxexperience.com/2013/02/interview-with-felipe-heidrich/">his work on text in JavaFX</a> (most notably rich text). This follows on from the interview I published the week prior with <strong>Tom Schindl</strong> covering <a href="http://fxexperience.com/2013/02/interview-with-tom-schindl-2/">his styled text editor work</a>.</li>
+	<li><a href="http://www.canoo.com/blog/2013/03/01/opendolphin-0-7-released-maven-central-server-events-faster/">OpenDolphin 0.7 has been released</a>, with support for Maven, server events and much better performance.</li>
+	<li>IntelliJ IDEA 12.1 has been released recently, and it includes a bunch <a href="https://www.jetbrains.com/blogs/idea/2013/02/support-for-javafx-2-in-intellij-idea-121/">more support for JavaFX</a>. If this is your chosen IDE then I would highly recommend you upgrade!</li>
+	<li>Speaking of IDEs,<strong> Nicolas Lorain</strong> has blogged about the <a href="https://blogs.oracle.com/javafx/entry/improved_support_for_javafx_in">improved support for JavaFX in the top IDEs</a> (namely NetBeans, Eclipse and IntelliJ IDEA).</li>
+	<li>I released a <a href="http://fxexperience.com/2013/02/announcing-scenic-view-8-0-0-developer-preview-2/">second developer preview release of Scenic View 8.0.0</a> that starts to improve startup and discovery of running applications (but there is still much to do). Please leave any comments on whether or not it works for you in the comments section - this kind of app is truly a finicky one to get right! :-)</li>
+	<li><strong>Claudine Zillmann</strong> posted an update on her work to develop a <a href="http://www.guigarage.com/2013/03/update-for-the-native-ones/">Mac OS X stylesheet for JavaFX</a>. So far the progress looks good (but then I'm not all that familiar with the nuances of Mac OS X). All I can say is good luck - I look forward to reading more progress reports :-)</li>
+	<li><strong>Hendrik Ebbers</strong> has written about <a href="http://www.guigarage.com/2013/03/global-stylesheet-for-your-javafx-application/">how to set a global stylesheet</a> in your application so that you don't need to set it per scene.</li>
+	<li><strong>Mark Heckler</strong> has blogged about <a href="https://blogs.oracle.com/javajungle/entry/how_to_pretty_up_your">how to pretty up your JavaFX TableViews</a> (something obviously near and dear to my heart). Some good advice here that anyone working with TableView should read (especially the updates at the end related to performance tuning!).</li>
+	<li><strong>Gerrit Grunwald</strong> has ported his <a href="http://harmoniccode.blogspot.de/2013/03/just-for-fun-of-it.html">Swing version of the QlockTwo to JavaFX</a>.</li>
+	<li><strong>Angela Caicedo</strong> has posted the second part in her series on <a href="https://blogs.oracle.com/acaicedo/entry/managing_multiple_screens_in_javafx">how to manage multiple screens in JavaFX</a>.</li>
+	<li><strong>Robert Ladstätter</strong> has ported his Conway's Game of Life implementation to use <a href="http://ladstatt.blogspot.de/2013/02/conways-life-using-javafx-3d.html">the JavaFX 3D APIs that are coming up in JavaFX 8.0</a>.</li>
+	<li><strong>mihosoft</strong> has a blog up about making it possible to <a href="http://mihosoft.eu/?p=446">easily drag nodes in a JavaFX application</a>.</li>
+	<li><strong>Rob Terpilowski</strong> has done another '<a href="http://rterp.wordpress.com/2013/02/25/javafx-is-eye-candy-and-i-have-a-sweet-tooth-another-extreme-ui-makeover/">extreme JavaFX gui makeover</a>'.</li>
+	<li><strong>Arnaud Nouard</strong> has released the <a href="http://arnaudnouard.wordpress.com/2013/02/27/undecorator-final-stage/">1.0 release of his Undecorator library</a> for styling the stage 'chrome' of your application.</li>
+	<li><strong>Farrukh Obaid</strong> has posted <a href="http://farrukhobaid.wordpress.com/2013/02/26/mistsilver-skin-for-javafx/">more screenshots</a> and a <a href="https://github.com/farrukh-obaid/javafx-skins">link to the source code</a> for his MistSilver skin for JavaFX.</li>
+	<li><strong>Gianluca Costa</strong> has posted <a href="http://gianlucacosta.info/software/graphsj/">GraphsJ 3.0</a>, "a modern didactic application dedicated to interactively execute graph algorithms; it features both a visual user interface and an <abbr title="Scenario Development Kit">SDK</abbr> to develop custom scenarios."</li>
+</ul>
+<p>Catch you all next week.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>20</ID>
+		<Slug>software-plugins-part-ii</Slug>
+		<Title>Software Plugins Part II</Title>
+		<Date>2006-04-21</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>plugins-research</Tags>
+		<Content><![CDATA[<p>Got a good query from Carl in an earlier post, where he asks:</p>
+
+<p>So considering "plug-ins" are fundamentally just modular design blocks and have user definable interfacing what processes are in place to preserve overall look-and-feel, and usablitilty.  And to reduce the mass of configuable parameters.  That is to say, Microsoft products have been winners for two decades because someone can sit down and use them (knowing that most of the fiddly unimportant bits are preset to something out-of-the-box usable) and that the human-interface will behave in a somewhat predictable pattern every time the package is used.  How does this plug-in system preserve that advantage?</p>
+
+<p>I thought that this was a good question, and so in an attempt to make it more visible, I will now reply to it here as well:</p>
+
+<p>Hey Carl, great question. I'll keep my thoughts quick as it's 12:30 am and I've been up since 7:30am yesterday in a meeting.</p>
+
+<p>Plugins can not enforce usability requirements or maintain consistent look and feels.</p>
+
+<p>But, neither can non-plugin solutions: it takes a team development mentality that requires these areas to be considered.</p>
+
+<p>A point to note is that in my world view of plugins, they are not apparent to users - the end result is a program entirely the same as any other program. In fact, it is the same to developers as any other program - it's just that unimportant sub-plugin code is encapsulated such that it becomes invisible and the effective code base reduces to the base API (Seeing as everything else - the fluff - disappears).</p>
+
+<p>Hope that answers your question.</p>
+<p>Cheers,</p>
+<p>Jonathan.</p>
+]]></Content>
+	</post>

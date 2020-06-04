@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3202</ID>
+		<Slug>java-desktop-links-of-the-week-december-3-3</Slug>
+		<Title>Java desktop links of the week, December 3</Title>
+		<Date>2018-12-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A quiet week this week:</p>
+<ul>
+ 	<li><strong>Don Laiquit</strong> has open sourced <a href="https://github.com/donlaiq/cryptofxwallet">Crypto FX Wallet</a> - "a layer working above the command line wallet of a crypto node. It handles just a limited subset of all the available commands."</li>
+ 	<li><strong>Adam Carroll</strong> has published an article showing how to use the <a href="https://medium.com/@adam_ carroll/java-packager-with-jdk11-31b3d620f4a8">Java Packager with JDK 11 to package up a JavaFX application</a>.</li>
+</ul>
+]]></Content>
+	</post>

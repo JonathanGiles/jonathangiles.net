@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1272</ID>
+		<Slug>java-desktop-links-of-the-week-july-16</Slug>
+		<Title>Java desktop links of the week, July 16</Title>
+		<Date>2012-07-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx</Tags>
+		<Content><![CDATA[<p>Hi all - welcome to another weeks worth of links. I really hope you find something new and enjoyable that you can learn from! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>I can't direct link to it, but the latest<a href="http://www.oracle.com/technetwork/java/javamagazine/index.html"> Java Magazine</a> issue has a number of interesting articles related to JavaFX. You really should consider subscribing (it's free!).
+<strong></strong></li>
+	<li><strong>Gerrit Grunwald</strong> has posted a good post about <a href="http://harmoniccode.blogspot.co.nz/2012/07/pushing-pixels-with-pixelwriter.html">pushing pixels with the new (in JavaFX 2.2) PixelWriter class</a>. With JavaFX 2.2 there is a lot more support in the API for working at a lower-level than what was previously available with the retained-mode scenegraph. This has been something people have been asking for for a very long time, and personally I'm very excited to see what people can do with it! :-)
+<strong></strong></li>
+	<li><strong>Stephen Chin</strong> has written a <a href="http://refcardz.dzone.com/refcardz/javafx-20">DZone Ref Card for JavaFX 2</a>. If you're new to JavaFX, this will be very useful for you, I would imagine.</li>
+	<li>The <strong>Canoo blog</strong> has posted about <a href="http://www.canoo.com/blog/2012/07/10/javafx-recipes-css-vs-code/">styling your JavaFX user interface using CSS vs Java code</a>.</li>
+	<li>I <a href="http://fxexperience.com/2012/07/interview-with-tom-schindl/">interviewed Tom Schindl</a> (the developer behind <a href="http://efxclipse.org/">e(fx)clipse</a> - the JavaFX tooling for Eclipse project). Obviously the main purpose of the discussion was to get a good understanding of the e(fx)clipse project, and I imagine it might be useful for many readers who like to use the Eclipse IDE for their development.</li>
+	<li><strong>IDR solutions</strong> have created a JavaFX-specific page for their <a href="http://www.idrsolutions.com/javafx/">JavaFX PDF viewer library</a>. Note that this is a commercial library, but I think it is cool enough to mention in these link roundups.</li>
+	<li><strong>Narayan Maharjan</strong> has created a blog post detailing how to <a href="http://blog.ngopal.com.np/2012/07/11/customize-scrollbar-via-css/">customise the JavaFX ScrollBar control using CSS</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has blogged about <a href="https://blogs.oracle.com/geertjan/entry/new_tutorial_integrating_javafx_charts">integrating JavaFX Charts into the NetBeans RCP</a>.</li>
+	<li><strong>kamiltoszek</strong> has blogged about controlling when the <a href="http://kamiltoszek.tumblr.com/post/27076634205/javafx-2-x-controlling-when-fxml-controller-is">FXML controller class is instantiated</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has announced the <a href="http://groovy.dzone.com/announcements/griffon-101-released">release of Griffon 1.0.1</a>, which is the first maintenance release of the 1.0.x series.</li>
+	<li>In a separate post, <strong>Andres</strong> has blogged about <a href="http://www.jroller.com/aalmiray/entry/the_griffon_trove_dialogs_and">creating dialogs in JavaFX (using Griffon)</a>.</li>
+</ul>
+<p>Now, it's back to work for me! Catch you all in a weeks time :-)</p>
+]]></Content>
+	</post>

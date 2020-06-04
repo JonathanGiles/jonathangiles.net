@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>61</ID>
+		<Slug>intro-to-my-research</Slug>
+		<Title>Intro to my research</Title>
+		<Date>2006-03-23</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>plugins-research</Tags>
+		<Content><![CDATA[<p>This year my degree, as Rowan said, has basically changed from 'Software Engineering' to 'Software Documentation'. I am living within my preferred text editor, writing case precis/analysis, reports on programming languages, work reports about my summer work, and research proposals.</p>
+
+<p>On the topic of research, I found an article online yesterday that is really cool. It's here:</p>
+
+<p><a href="http://www.marketcontours.com/techblog/plugin-architecture">http://www.marketcontours.com/techblog/plugin-architecture</a></p>
+
+<p>Yes, it is a rather geeky topic, but if anyone wants to understand what I'm doing, that gives a relatively good introduction, if you know the basics of eclipse or the RCP aspect of eclipse. The document gives all the benefits of why I'm doing this for my research.</p>
+
+<p>My research is titled "Refactoring Centruflow Into Patterns". So, Centruflow is an application I develop, refactoring means making changes whilst still maintaining the same public interface (generally), but what does the "into patterns" part mean?</p>
+
+<p>It means presently the Centruflow code base is using very few of them, and I want more and better. Right now Centruflow is like MS Word in code design - it's one gigantic system. I want it to become a plugin system, looking more like the Eclipse application, which is entirely built up of separate bundles of code, or plugins.</p>
+
+<p>Once again, the benefits are listed on the articles page, but for me it seems to be a way to improve code quality, and that's very important if I want this system to work into the future.</p>
+
+<p>Ah well, I think my discussions my be getting a bit outside the scope of what spaces.msn is for <img src="http://jogiles.spaces.live.com/rte/emoticons/smile_regular.gif">, so I think I'll leave it there.</p>
+]]></Content>
+	</post>

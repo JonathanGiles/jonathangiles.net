@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1326</ID>
+		<Slug>java-desktop-links-of-the-week-september-24</Slug>
+		<Title>Java desktop links of the week, September 24</Title>
+		<Date>2012-09-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi folks - and welcome to yet another Java desktop links of the week. As per usual I've got a selection of interesting and informative posts for you to peruse this week, and I hope you all enjoy!</p>
+
+<p>Whilst I'm writing this I realise that, rather obviously, we're a week out from JavaOne in San Francisco. I will be there, and of course look I'm really looking forward to catching up with plenty of you. However, the flipside of this is that I will be traveling for the next two weeks, and <del>unless someone wants to step up and be the guest editor for the next two weeks (<a href="mailto:jonathan@jonathangiles.net">email me</a> for details), things may be a little quiet around here</del> so now I have a guest editor filling in for me. You'll find out who it is next week! <del>I will try my best to get some posts out covering all the news, but don't hold me to it!</del> Anywho - on with the links! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> and I both blogged about how, given our JavaOne sessions <a href="/posts/2012custom-javafx-ui-controls-at-javaone/">cover exactly</a> the <a href="http://harmoniccode.blogspot.de/2012/09/java-one-2012-information.html">same content</a>, we've decided to shuffle the content a little, to make things more useful to you, the audience of our talks.</li>
+	<li>Speaking of <strong>Gerrit</strong>, he has blogged over at the Canoo RIA blog, about <a href="http://www.canoo.com/blog/2012/09/21/take-care-of-the-javafx-scene-graph/">taking care of the JavaFX scenegraph</a> (i.e. options for rendering inside the scenegraph, in particular, node-based vs canvas-based).</li>
+	<li><strong>Benjamin Jung</strong> has started working on an '<a href="https://github.com/cathive/fx-guice">fx-guice</a>' project that aims to provide 'Google Guice integration for FXML-based JavaFX 2 applications'.</li>
+	<li><strong>Rob Terpilowski</strong> has blogged about adding <a href="http://rterp.wordpress.com/2012/09/17/add-a-javafx-component-built-with-scene-builder-and-fxml-to-a-netbeans-rcp-app/">JavaFX components built with Scene Builder / FXML to a NetBeans RCP application</a>.</li>
+	<li><strong>Laurent Nicolas</strong> has created a <a href="http://www.mrlonee.com/?p=362">JavaFX radial menu</a>.</li>
+	<li><strong>Narayan Maharjan</strong> has two posts this week. Firstly, he talks about his <a href="http://blog.ngopal.com.np/2012/09/10/javafx-liveview/">JavaFX 'live view' functionality</a>, that is, taking a screenshot of the users desktop windows, etc (note that this uses AWT / Java2D API). Secondly, he has a post talking about his '<a href="http://blog.ngopal.com.np/2012/09/17/feather-edit-v-1-0-released/">Feather Edit</a>' project, which makes use of his live view functionality to take screenshots of playing movies.</li>
+	<li><strong>Mark Anro Silva</strong> has created the classic '<a href="http://glyphsoft.wordpress.com/2012/09/23/javafx-game-connect-four/">connect four' game in JavaFX</a>.</li>
+	<li>The <strong>Excelsior JET</strong> folks have announced (to their surprise) that <a href="http://www.excelsior-usa.com/blog/excelsior-jet/javafx-2-already-supported/">Excelsior JET already works with JavaFX 2 based applications</a>.</li>
+	<li>The <strong>Oracle Technical Network</strong> website has a short whitepaper up on a JavaFX user: <strong><a href="http://www.oracle.com/technetwork/java/javafx/celer-tech-1844342.html">Celer Technologies</a></strong>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jyloo Software</strong> has announced the <a href="http://www.jyloo.com/news/?pubId=1347956956000">release of Synthetica 2.16 and SyntheticaAddons 1.7.1</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> was interviewed on the <a href="http://grailspodcast.com/blog/id/256"><strong>Grails Podcast</strong> about Griffon</a>.</li>
+</ul>
+<p>That's all for this week. Once again, I look forward to catching up with as many of you as possible at JavaOne. Please come up and say hello - it'll make my day :-)</p>
+]]></Content>
+	</post>

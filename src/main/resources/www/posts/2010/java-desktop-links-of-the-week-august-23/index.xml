@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>889</ID>
+		<Slug>java-desktop-links-of-the-week-august-23</Slug>
+		<Title>Java desktop links of the week, August 23</Title>
+		<Date>2010-08-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week has started, so it must be time for another batch of Java desktop links. As per usual there are some very good links this week, so enjoy :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> pointed me to AreaX, an <a href="https://javagraphics.dev.java.net/areax/">optimised replacement for the java.awt.geom.Area class</a> that appears to have some good performance improvements.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Srikanth Shenoy</strong> has released FxContainer 1.0, which is an <a href="http://weblogs.java.net/blog/srikanth/archive/2010/08/21/fxcontainer-ioc-container-written-javafx-javafx-applications">IoC container written in JavaFX, for JavaFX applications</a>. You can learn more about FxContainer as a <a href="https://fxobjects.dev.java.net/files/documents/11182/152371/file_152371.dat/JavaFX%20Dependency%20Injection%20with%20FxContainer.pdf">PDF</a> (or an <a href="http://objectsource.com/blogs/2010/08/understand-fxcontainer-in-10-minutes/">embedded PDF</a> if you prefer).</li>
+	<li><strong>Exadel</strong> have <a href="http://mkblog.exadel.com/2010/08/exadel-javafx-plug-in-for-eclipse-version-1-3-5-now-available/">released the 1.3.5 release</a> of their free JavaFX Plugin for Eclipse. The two major features of this release are 'setting VM parameters for JavaFX application' and 'option to specify custom JNLP arguments'.</li>
+	<li><strong>Osvaldo Doederlein</strong> has continued his deep dive series of posts, this time covering '<a href="http://weblogs.java.net/blog/opinali/archive/2010/08/21/jdk-6u21-javafx-131-and-deployment">JDK 6u21, JavaFX 1.3.1 and Deployment</a>'.</li>
+	<li>In another post, Exadel have announced that <a href="http://mkblog.exadel.com/2010/08/exadel-flamingo-now-supports-cdi-and-bean-validation-for-javafx/">Exadel Flamingo now supports CDI and Bean Validation for JavaFX</a>.</li>
+	<li><strong>William Antônio</strong> has blogged about an application he created to <a href="http://fxapps.blogspot.com/2010/08/app-to-search-images.html">retrieve images from various web services</a>, and to manipulate them locally.</li>
+	<li><strong>Yücel Ünlü</strong> has blogged about <a href="http://gergerconsulting.blogspot.com/2010/08/using-code-optimization-software-to.html">using code optimization software to reduce the size of JavaFX applications</a>.</li>
+	<li><strong>Henrik Samuelsson</strong> has created a JavaFX application for <a href="http://javafxexploration.blogspot.com/2010/08/first-real-application.html">people wanting to improve their poker skills</a>.</li>
+	<li><strong>Richa Singhal</strong> has provided a JavaFX <a href="http://xebee.xebia.in/2010/08/16/javafx-text-animations-marquee-effect-auto-scrolling-text-down-to-up-and-left-to-right/">Marquee effect</a>. Use with caution (because no one likes marquees :-) ).</li>
+</ul>
+<p>That's it for another week. Thanks to everyone for emailing links to include. I'll catch you all again in a weeks time :-)</p>
+]]></Content>
+	</post>

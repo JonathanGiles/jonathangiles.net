@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>118</ID>
+		<Slug>what-is-the-semantic-web-or-turning-data-into-information</Slug>
+		<Title>What is the Semantic Web (or, Turning Data Into Information)</Title>
+		<Date>2007-10-07</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>Centruflow|semantic-web-research</Tags>
+		<Content><![CDATA[<p>I'm working on my thesis at the moment, and am writing a bit of an introductory section about the semantic web. As soon as I started writing it, I thought it would be good to include on this blog. Because of this it is not overly formal, but I think it gives a good impression of what the semantic web is, in my opinion. Attached below is the entire section, copied as-is.</p>
+<p><blockquote>In our opinion and understanding of the semantic web, the goal is simple to describe, but complex to successfully implement. We believe the semantic web enables the intelligent and automated reuse of the masses of data that is available on our computers and networks for our benefit. Data is not valuable in and of itself, and it is through the conversion to <em>information</em> that we as humans can actually proceed to be better informed as to the availability of options and the consequences of our actions.</p>
+
+<p>Before this is possible, the groundwork must be put into place, and that is the current state of the semantic web. RDF and OWL are slowly becoming more stable as standards definitions for the means of semantically marking up data, SPARQL is becoming the de facto means to query such data, and more frequently are we encountering situations where, visibly or not, applications (and this includes web applications) are using a solid semantic web foundation to not only give themselves a 'foot up', but to also be more interoperable in the long term.</p>
+
+<p>Once this groundwork is in place, the varied ideas that have been floated by the visionaries behind the semantic web (notably Tim Berners-Lee) become a lot more realistic. We are of the belief that this is no longer a matter of 'if', but 'when', and perhaps most importantly, depends now only on the uptake of the W3C standards by the large software vendors such as Microsoft, IBM, Oracle, and SAP. This has already begun.</p>
+
+<p>To be clear, the semantic web will not make websites any prettier than they are now (thanks to the Web 2.0 emphasis on design), but it'll allow them to be smarter, and more connected. People have reserved the term 'Web 3.0' for many things (including the semantic web faction), so we will avoid confusing this any further, but suffice to say, the semantic web will be the next (or the next next) big thing for the internet.</blockquote></p>
+<p>This section of my thesis very closely ties to a piece of software I'm involved with called <a href="http://www.centruflow.com" target="_blank">Centruflow</a>. It's goal is to turn data into information by transforming any data source it is pointed at into a visual graph that may be clicked around and explored in real time. If you're drowning in data, you should definitely check it out!</p>
+
+<p>If anyone has any questions, feel free to ask. I have over 30,000 additional words I could copy in here if anyone cares :-P</p>
+]]></Content>
+	</post>

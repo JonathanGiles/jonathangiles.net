@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1394</ID>
+		<Slug>java-desktop-links-of-the-week-january-22</Slug>
+		<Title>Java desktop links of the week, January 22</Title>
+		<Date>2013-01-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>Hi all - welcome to another weeks worth of links! There are a heap of links, so lets get straight into it! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>Scene Builder 1.1 Developer Preview Build 17 is <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">now available for download</a>!</li>
+	<li><strong>Hendrik Ebbers</strong> has blogged about how he is working with a student on possibly <a href="http://www.guigarage.com/2013/01/this-is-for-the-native-ones/">implementing a Mac OS X native look for JavaFX</a>. He has posted a video of their proof of concept, and it looks very good already.</li>
+	<li>Speaking of new CSS styles for JavaFX, <strong>Alex Davies-Moore</strong> has announced the beginning of a port of the <a href="http://foundation.zurb.com/">Zurb Foundation</a> style <a href="https://github.com/devork/golan">to JavaFX</a>.</li>
+	<li><strong>Dierk König</strong> has posted part <a href="http://www.canoo.com/blog/2013/01/14/javafx-abacus-tutorial-part-ii/">two</a> and <a href="http://www.canoo.com/blog/2013/01/21/javafx-abacus-tutorial-part-iii/">three</a> of his JavaFX abacus tutorial. In addition, he has posted a YouTube video demonstrating how Open Dolphin can be used to <a href="http://www.youtube.com/watch?v=OoOaC0vMFW8">back client applications written in Swing and JavaFX</a>, and how easy it is to port between the two client libraries.</li>
+	<li>The <strong>TiwulFX blog</strong> has <a href="http://tiwulfx.panemu.com/v1-1rc1-release/">announced the release of version 1.1 RC 1</a> of their improvements to the JavaFX TableView control.</li>
+	<li><strong>Steven Schwenke</strong> has blogged about <a href="http://stevenschwenke.de/javaFXSeriesThreadingIssues">threading issues in JavaFX</a>, related to the game he is developing.</li>
+	<li><strong>Pedro Duque Vieira</strong> has posted a <a href="http://pixelduke.wordpress.com/2013/01/14/java-calendar-with-a-metro-style/">mockup of a JavaFX calendar styled using JMetro</a>. He is seeking feedback on the design before implementing it. On a side note, a DatePicker control is <a href="http://javafx-jira.kenai.com/browse/RT-27480">currently under development</a> for JavaFX 8.0.</li>
+	<li><strong>Robert Ladstätter</strong> has two posts this week. Firstly, he shows how easy it is to support <a href="http://ladstatt.blogspot.co.nz/2013/01/native-drag-drop-with-javafx.html">native drag and drop in JavaFX</a>. Secondly, he has a post about ScalaFX - a <a href="http://ladstatt.blogspot.co.nz/2013/01/scalafx-dsl-for-javafx-in-scala.html">DSL for JavaFX in Scala</a>. ScalaFX is actively being developed at <a href="http://scalafx.org/">scalafx.org</a>.</li>
+	<li>Whilst at Devoxx <strong>Johan Vos</strong> was <a href="https://blogs.oracle.com/java/entry/javafx_and_java_ee_with">interviewed about JavaFX and Java EE integration</a> (his area of expertise). In particular, he highlighted projects such as <a href="http://redfx.org">RedFX</a> and <a href="http://www.javafxdata.org">DataFX</a>.</li>
+	<li><strong>Leon Atherton</strong> has announced the availability of a <a href="http://blog.idrsolutions.com/2013/01/announcing-the-pageflow-pdf-viewer-mode-in-javafx/">PageFlow PDF viewer mode</a> in their PDF viewing library.</li>
+</ul>
+<h4>JavaFX &amp; Raspberry Pi</h4>
+<ul>
+	<li><strong>Simon Ritter</strong> has blogged about <a href="https://blogs.oracle.com/speakjava/entry/building_an_sd_card_image">how to&nbsp;build an SD Card Image For a Raspberry Pi Java Hands On Lab</a> (based on his experience setting up for such a lab at Devoxx last year).</li>
+	<li><strong>René Jahn</strong> has two posts this week. Firstly, he has blogged about <a href="http://blog.sibvisions.com/2013/01/10/raspberrypi-javafx-sound/">how to get sound working from Java on a Raspberry Pi</a>. Secondly, he posted about how he uses Java and a Raspberry Pi to <a href="http://blog.sibvisions.com/2013/01/21/control-your-window-shutters-with-javafx/">control the window shutters in his house</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>JIDE Software</strong> has announced the <a href="http://www.jidesoft.com/history/">release of version 3.5.1</a> of their library of software.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has blogged about <a href="http://www.jroller.com/aalmiray/entry/griffon_resource_injection_themes">resource injection and themes</a> in Griffon.</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

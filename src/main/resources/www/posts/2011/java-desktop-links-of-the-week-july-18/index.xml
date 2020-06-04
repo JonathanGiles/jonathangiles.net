@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1081</ID>
+		<Slug>java-desktop-links-of-the-week-july-18</Slug>
+		<Title>Java desktop links of the week, July 18</Title>
+		<Date>2011-07-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A relatively quiet week in the world of desktop Java, but hopefully you can find a link or two of interest! :-) Let's jump into them...</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>I <a href="http://fxexperience.com/2011/07/interview-with-the-developers-behind-groovyfx/">interviewed <strong>Jim Clarke</strong> and <strong>Dean Iverson</strong></a> over on my other blog (<a href="http://fxexperience.com">FX Experience</a>). These two are the developers behind the <a href="http://groovy.codehaus.org/GroovyFX">GroovyFX project</a>, and give a good insight into what GroovyFX offers over-and-above programming with JavaFX 2.0 in Java.</li>
+	<li><strong>jojorabbit4</strong> has put up <a href="http://jojorabbitjavafxblog.wordpress.com/2011/07/11/javafx-2-0-css-styling-part-1/">part one of his series on JavaFX 2.0 CSS styling</a>. This is a long and detailed read - well worth doing if you want to alter the looks of your JavaFX applications.</li>
+	<li>Two few weeks ago I linked to a video of a <a href="http://www.screenr.com/99Ns">zoomable user interface written in JavaFX</a>. This week <strong>Bertrand Goetzmann</strong> has <a href="https://bitbucket.org/bgoetzmann/grezi/wiki/Home">opened up the source code on his Grezi project</a>. Of note is that Grezi is built using GroovyFX, and is already being <a href="https://twitter.com/#!/JavaFXpert/status/92584238951563264">used by people to public presentations</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li>
+<div><strong>Michael Bar-Sinai</strong> has open sourced (and put into public beta) his <a href="http://kenai.com/projects/panelmatic/pages/Home">PanelMatic project</a>. As he put it in an email to me "It is a library that helps creating panels common to forms &nbsp;(say, labeled fields, tables, all resizable) using fluent and intuitive syntax and minimal ( O(# of components) ) code. I've used it in production for some time now, and I'm confident it will make life easier for other developers as well."</div></li>
+	<li><strong>Geertjan Wielenga</strong> has two blog posts of note this week. The first one gives a small code snippet to <a href="http://blogs.oracle.com/geertjan/entry/decreasing_the_height_of_the1">reduce the height of the Flamingo JRibbon component</a>. The second post is a sample of an <a href="http://blogs.oracle.com/geertjan/entry/sample_of_embedded_database_in">embedded database inside of a Swing application</a>.</li>
+	<li><strong>Wolfgang Zitzelsberger</strong> has announced the <a href="http://java.dzone.com/announcements/synthetica-v213-and">release of Synthetica 2.13 and SyntheticaAddons 1.5</a>. There are a number of new features in this release, including <a href="http://netbeans.dzone.com/nb-plugin-synthetica-v213">Synthentica support for NetBeans (and NetBeans-based client applications)</a>.</li>
+</ul>
+<p>That's that for another week. As always, feel free to email me links you want included - I appreciate the hints you all give me! Anywho, catch you all again in a weeks time :-)</p>
+]]></Content>
+	</post>

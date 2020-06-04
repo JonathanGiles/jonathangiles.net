@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2601</ID>
+		<Slug>java-desktop-links-of-the-week-october-16</Slug>
+		<Title>Java desktop links of the week, October 16</Title>
+		<Date>2017-10-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Sorry about the lack of links last week. With everyone returning from JavaOne there wasn't a great deal of news, so I decided to carry it over a week. But, here we go - enjoy :-)</p>
+<ul>
+ 	<li>I was very pleased to share the news that ControlsFX <a href="/posts/2017/congratulations-controlsfx/">won a Dukes Choice award</a> at JavaOne.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has returned to the land of UIs :-) and has a blog post about another of his <a href="https://harmoniccode.blogspot.co.nz/2017/10/friday-fun-xlvii-back-to-life.html">'Friday Fun' components.</a>&nbsp;<strong>Gerrit</strong> has also updated his <a href="https://github.com/HanSolo/tilesfx">TilesFX dashboard project</a>, and posted a <a href="https://www.youtube.com/watch?v=kKN4mhJHtS8&amp;feature=youtu.be">video of the current offering</a> - it's very nice.</li>
+ 	<li><strong>Mario Ivankovits</strong> has posted a build of <a href="https://copy-con.blogspot.co.nz/2017/10/java-9-with-javafx-for-raspberry-pi.html">Java 9 with JavaFX for Raspberry Pi</a>.</li>
+ 	<li><strong>Renato Athaydes</strong> has two things this week: firstly, a post on '<a href="https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication">Say no to Electron!</a> Using JavaFX to write a fast, responsive desktop application.' He also has updated <a href="https://github.com/renatoathaydes/LogFX">LogFX</a>,&nbsp;a "simple log reader supporting color highlighting and able to handle giant files".</li>
+ 	<li>I came across&nbsp;<a href="https://agrosense.eu/">AgroSense</a> this past week - an "open source&nbsp;farm managament and precision agriculture solution" written with JavaFX.</li>
+</ul>
+]]></Content>
+	</post>

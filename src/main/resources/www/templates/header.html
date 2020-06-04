@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>${title}</title>
+
+<!--    <link rel="canonical" href="https://jonathangiles.net/java-desktop-links-of-the-week-april-1-2/" />-->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="${title}" />
+    <meta property="og:description" content="Personal website of Jonathan Giles" />
+<!--    <meta property="og:url" content="https://jonathangiles.net/java-desktop-links-of-the-week-april-1-2/" />-->
+    <meta property="og:site_name" content="Jonathan Giles" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@JonathanGiles" />
+    <meta name="twitter:domain" content="jonathangiles.net" />
+    <meta name="twitter:title" content="${title}" />
+    <meta name="twitter:image" content="/jonathan-small-square.jpg" />
+
+    <link rel='stylesheet' id='parent-style-css' href='/css/primer.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='jonathangiles-net-css' href='/css/jonathangiles.net.css' type='text/css' media='all' />
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/darcula.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+    <link rel='stylesheet' id='bootstrap-cdn-css-css' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css?ver=5.4.1' type='text/css' media='all' />
+    <style id='jonathangiles-net-inline-css' type='text/css'>
+        .site-header{background-image:url(/images/header.jpeg);}
+        .site-title a,.site-title a:visited{color:#blank;}.site-title a:hover,.site-title a:visited:hover{color:rgba(, 0.8);}
+        .site-description{color:#ffffff;}
+        .hero,.hero .widget h1,.hero .widget h2,.hero .widget h3,.hero .widget h4,.hero .widget h5,.hero .widget h6,.hero .widget p,.hero .widget blockquote,.hero .widget cite,.hero .widget table,.hero .widget ul,.hero .widget ol,.hero .widget li,.hero .widget dd,.hero .widget dt,.hero .widget address,.hero .widget code,.hero .widget pre,.hero .widget .widget-title,.hero .page-header h1{color:#ffffff;}
+        .main-navigation ul li a,.main-navigation ul li a:visited,.main-navigation ul li a:hover,.main-navigation ul li a:focus,.main-navigation ul li a:visited:hover{color:#ffffff;}.main-navigation .sub-menu .menu-item-has-children > a::after{border-right-color:#ffffff;border-left-color:#ffffff;}.menu-toggle div{background-color:#ffffff;}.main-navigation ul li a:hover,.main-navigation ul li a:focus{color:rgba(255, 255, 255, 0.8);}
+        h1,h2,h3,h4,h5,h6,label,legend,table th,dl dt,.entry-title,.entry-title a,.entry-title a:visited,.widget-title{color:#606060;}.entry-title a:hover,.entry-title a:visited:hover,.entry-title a:focus,.entry-title a:visited:focus,.entry-title a:active,.entry-title a:visited:active{color:rgba(96, 96, 96, 0.8);}
+        body,input,select,textarea,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="number"]:focus,input[type="tel"]:focus,input[type="range"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="week"]:focus,input[type="time"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="color"]:focus,textarea:focus,.navigation.pagination .paging-nav-text{color:#252525;}hr{background-color:rgba(37, 37, 37, 0.1);border-color:rgba(37, 37, 37, 0.1);}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="number"],input[type="tel"],input[type="range"],input[type="date"],input[type="month"],input[type="week"],input[type="time"],input[type="datetime"],input[type="datetime-local"],input[type="color"],textarea,.select2-container .select2-choice{color:rgba(37, 37, 37, 0.5);border-color:rgba(37, 37, 37, 0.1);}select,fieldset,blockquote,pre,code,abbr,acronym,.hentry table th,.hentry table td{border-color:rgba(37, 37, 37, 0.1);}.hentry table tr:hover td{background-color:rgba(37, 37, 37, 0.05);}
+        blockquote,.entry-meta,.entry-footer,.comment-meta .says,.logged-in-as,.wp-block-coblocks-author__heading{color:#686868;}
+        .site-footer .widget-title,.site-footer h1,.site-footer h2,.site-footer h3,.site-footer h4,.site-footer h5,.site-footer h6{color:#353535;}
+        .site-footer .widget,.site-footer .widget form label{color:#252525;}
+        .footer-menu ul li a,.footer-menu ul li a:visited{color:#686868;}.site-info-wrapper .social-menu a{background-color:#686868;}.footer-menu ul li a:hover,.footer-menu ul li a:visited:hover{color:rgba(104, 104, 104, 0.8);}
+        .site-info-wrapper .site-info-text{color:#686868;}
+        a,a:visited,.entry-title a:hover,.entry-title a:visited:hover{color:#007eb5;}.navigation.pagination .nav-links .page-numbers.current,.social-menu a:hover{background-color:#007eb5;}a:hover,a:visited:hover,a:focus,a:visited:focus,a:active,a:visited:active{color:rgba(0, 126, 181, 0.8);}.comment-list li.bypostauthor{border-color:rgba(0, 126, 181, 0.2);}
+        button,a.button,a.button:visited,input[type="button"],input[type="reset"],input[type="submit"],.wp-block-button__link,.site-info-wrapper .social-menu a:hover{background-color:#ff6663;border-color:#ff6663;}button:hover,button:active,button:focus,a.button:hover,a.button:active,a.button:focus,a.button:visited:hover,a.button:visited:active,a.button:visited:focus,input[type="button"]:hover,input[type="button"]:active,input[type="button"]:focus,input[type="reset"]:hover,input[type="reset"]:active,input[type="reset"]:focus,input[type="submit"]:hover,input[type="submit"]:active,input[type="submit"]:focus{background-color:rgba(255, 102, 99, 0.8);border-color:rgba(255, 102, 99, 0.8);}
+        button,button:hover,button:active,button:focus,a.button,a.button:hover,a.button:active,a.button:focus,a.button:visited,a.button:visited:hover,a.button:visited:active,a.button:visited:focus,input[type="button"],input[type="button"]:hover,input[type="button"]:active,input[type="button"]:focus,input[type="reset"],input[type="reset"]:hover,input[type="reset"]:active,input[type="reset"]:focus,input[type="submit"],input[type="submit"]:hover,input[type="submit"]:active,input[type="submit"]:focus,.wp-block-button__link{color:#ffffff;}
+        body{background-color:#f5f5f5;}.navigation.pagination .nav-links .page-numbers.current{color:#f5f5f5;}
+        .hentry,.comments-area,.widget,#page > .page-title-container{background-color:#ffffff;}
+        .site-header{background-color:#0183aa;}.site-header{-webkit-box-shadow:inset 0 0 0 9999em;-moz-box-shadow:inset 0 0 0 9999em;box-shadow:inset 0 0 0 9999em;color:rgba(1, 131, 170, 0.00);}
+        .main-navigation-container,.main-navigation.open,.main-navigation ul ul,.main-navigation .sub-menu{background-color:#0183aa;}
+        .site-footer{background-color:#0b3954;}
+        .site-footer .widget{background-color:#ffffff;}
+        .site-info-wrapper{background-color:#f5f5f5;}
+        .site-info-wrapper .social-menu a,.site-info-wrapper .social-menu a:visited,.site-info-wrapper .social-menu a:hover,.site-info-wrapper .social-menu a:visited:hover{color:#f5f5f5;}
+        .has-primary-color{color:#03263b;}.has-primary-background-color{background-color:#03263b;}
+        .has-secondary-color{color:#0b3954;}.has-secondary-background-color{background-color:#0b3954;}
+        .has-tertiary-color{color:#bddae6;}.has-tertiary-background-color{background-color:#bddae6;}
+        .has-quaternary-color{color:#ff6663;}.has-quaternary-background-color{background-color:#ff6663;}
+        .has-quinary-color{color:#ffffff;}.has-quinary-background-color{background-color:#ffffff;}
+
+        .jetpack_widget_social_icons ul {
+            display: block;
+            margin: 0 0 1.5em;
+            padding: 0;
+        }
+        .jetpack_widget_social_icons li,
+        .jetpack_widget_social_icons ul {
+            list-style: none;
+        }
+
+        .jetpack_widget_social_icons ul li {
+            border: 0;
+            display: inline-block;
+            line-height: 1;
+            margin: 0;
+            padding: 0;
+        }
+        .jetpack_widget_social_icons li, .jetpack_widget_social_icons ul {
+            list-style: none;
+        }
+
+        .jetpack_widget_social_icons ul.size-medium a {
+            height: 32px;
+            width: 32px;
+        }
+        .jetpack_widget_social_icons a {
+            border: 0;
+            box-shadow: none;
+            display: block;
+            height: 24px;
+            text-decoration: none;
+            width: 24px;
+        }
+
+        .jetpack_widget_social_icons svg {
+            color: inherit;
+            fill: currentColor;
+            height: inherit;
+            vertical-align: middle;
+            width: inherit;
+        }
+
+        pre.code_block {
+            padding: 0em;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+
+        p code {
+            padding: 0px;
+            border: none;
+            background-color: white;
+        }
+    </style>
+
+    <link rel='stylesheet' id='social-logos-css' href='/css/social-logos.min.css' type='text/css' media='all' />
+
+    <script type='text/javascript' src='/js/jquery.js'></script>
+    <script type='text/javascript' src='/js/jquery-migrate.min.js'></script>
+
+    <!-- media page JS and CSS -->
+    <link rel='stylesheet' id='__EPYT__style-css' href='/css/ytprefs.min.css' type='text/css' media='all' />
+    <style id='__EPYT__style-inline-css' type='text/css'>
+        .epyt-gallery-thumb {
+            width: 33.333%;
+        }
+    </style>
+    <script type='text/javascript' src='/js/ytprefs.min.js'></script>
+</head>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>451</ID>
+		<Slug>javafx-thick-textbox-borders</Slug>
+		<Title>JavaFX: Thick TextBox Borders</Title>
+		<Date>2009-06-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Being the UI geek that I am, I wanted to look at borders in JavaFX, as I had noticed that there seemed to be some inconsistencies. It turns out that I shouldn't have been too worried - it appears that only one control looks bad, and it is the TextBox control. Shown below is a screenshot of a demo application I wrote, which has a number of controls placed in it.</p>
+
+<p><img class="size-full wp-image-452 alignleft" title="borders" src="/content/2009/06/borders.png" alt="borders" width="187" height="368"></p>
+
+<p>Note that the borders of all controls look pretty similar - a single pixel width and all a dark grey. Swing suffered from border abuse and inconsistent border colours, so I am happy to see JavaFX is much better.</p>
+
+<p>As mentioned, the only exception is the TextBox, which in the screenshot says 'Original'. I think it's probably agreeable to most people that this control has a border which is too thick (and a font which is not consistent with the font used in other controls). To fix the border inconsistency is actually quite simple, as shown in the TextBox directly beneath the original which shows 'Fixed'. I think it's probably agreeable that this fits it better with the other controls.</p>
+
+<p>Finally, beneath the 'Fixed' TextBox is the text 'Invisible', which is actually also a TextBox with no border being shown. I include this for a reason, which will become clear soon.</p>
+
+<p>Anyway, on to the fix - it's simply a matter of changing the style by adding a line of CSS. The code for the three text boxes is shown below, in the same order as shown in the screenshot.</p>
+
+
+<pre class="code_block"><code class="java">TextBox {
+    text: "Original"
+    columns: 12
+}
+
+TextBox {
+    text: "Fixed"
+    columns: 12
+    style: "border-width:0;"
+}
+
+TextBox {
+    text: "Invisible"
+    columns: 12
+    style: "border-width:-1;"
+}
+</code></pre>
+
+
+<p>In otherwords, to fix the border problem, you need to set the border-width to 0, which doesn't seem correct - you'd expect a control with a <code>border-width</code> of 0 to have an invisible border. In fact, to get an invisible border is shown in the last TextBox - you have to set <code>border-width</code> to be -1.</p>
+
+<p>So, perhaps this is a bug, or perhaps it's a design choice. I thought I would document it here so that people searching Google for answers might discover it without having to do trial and error. Perhaps this might be fixed in a future JavaFX release.</p>
+
+<p>Additionally, the TextBox font also seems to be inconsistent, but I won't bother to discuss this as I would hope anyone reviewing this post will also realise they need to fix the font. Perhaps this may be fixed in a future JavaFX release too.</p>
+]]></Content>
+	</post>

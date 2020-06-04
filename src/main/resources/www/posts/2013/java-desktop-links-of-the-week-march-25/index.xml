@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1434</ID>
+		<Slug>java-desktop-links-of-the-week-march-25</Slug>
+		<Title>Java desktop links of the week, March 25</Title>
+		<Date>2013-03-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all - here's this weeks links - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JavaFX Scene Builder b22 is available for Linux. Download it (along with versions for Mac and Windows) from the <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">usual place</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> has two posts this week. Firstly a blog post about <a href="http://www.guigarage.com/2013/03/use-native-aqua-icons-in-javafx">how to use native Aqua icons in JavaFX</a> (when running on Mac OS X). Secondly Hendrik has blogged about <a href="http://www.guigarage.com/2013/03/assertions-and-rules-in-marvinfx/">assertions and rules in MarvinFX</a>. MarvinFX is a <a href="http://www.guigarage.com/2013/03/introducing-marvinfx/">testing framework for JavaFX</a> is that Hendrik is currently developing.</li>
+	<li><strong>InteractiveMesh.org</strong> have released a <a href="http://www.interactivemesh.org/models/jfx3dimporter.html">3D model importer</a> for JavaFX 8.0 (using the new 3D capabilities that are included in JavaFX 8.0). At present it appears that source code is not available, but it would be great to see it.</li>
+	<li>Speaking of 3D, as I mentioned last week, <strong>John Yoon</strong> from the JavaFX team at Oracle will be <a href="http://www.svjugfx.org/events/58444072/?fromms=1&amp;a=ea2_grp&amp;eventId=58444072&amp;action=detail&amp;rv=ea2&amp;rv=ea2">presenting at the Silicon Valley JavaFX Users Group</a> on March 27. As per usual you can attend in person or virtually. What’s cool is that <strong>John</strong> studied animation at the UCLA Film School, where he received his Master of Fine Arts in Animation/Film. Prior to working at Oracle, <strong>John</strong> worked in the animation industry as a Character Technical Director at Disney Animation and DreamWorks Animation on such films as “Chicken Little”, “Meet the Robinsons”, “Shrek Forever After”, and “How to Train Your Dragon”.</li>
+	<li>ScalaFX 1.0.0 M2 was <a href="http://code.google.com/p/scalafx/">released recently</a>. If you're interested in building JavaFX-based user interfaces in Scala, then you should definitely check out this library.</li>
+	<li><strong>Yennick Trevels</strong> has two posts this week as he continues his 'JavaFX: Structuring your application' series. Firstly, he posts about the <a href="http://jedicoder.blogspot.co.nz/2013/03/javafx-structuring-your-application_18.html">application logic layer</a>, and secondly about the <a href="http://jedicoder.blogspot.co.nz/2013/03/javafx-structuring-your-application_22.html">service and application state layer</a>.</li>
+	<li><strong>Russel Winder</strong> has put up a slide deck for his talk on '<a href="http://www.slideshare.net/Russel_Winder/presentation-17413979">GroovyFX: or how to program JavaFX easily</a>'.</li>
+	<li><strong>Jorn Hameister</strong> <strong></strong>has posted code that <a href="http://www.hameister.org/JavaFX_MandelbrotSet.html">generates the Mandelbrot fractal</a> using JavaFX Canvas.</li>
+	<li><strong>mihosoft</strong> have announced that they have ported the <a href="http://mihosoft.eu/?p=474">JFXtras Window Control (VFXWindows) to JavaFX 8.0</a>. They say the main motivation was to gain retina support, but note that performance is also significantly improved in JavaFX 8.0.</li>
+	<li><strong>tomo taka</strong> has blogged about <a href="http://d.hatena.ne.jp/tomoTaka/20130323/1364040196">creating a file system browser</a> in JavaFX using the TreeView control.</li>
+	<li><strong>Pierre Jansen</strong> has released an app he calls <a href="http://www.kvraudio.com/forum/viewtopic.php?t=376864">ZebraBlender</a>. As he puts it, it is designed to "assist in the creation of more accurate Geo &amp; SpectroBlend waves for Zebra2 &amp; Zebralette." He goes on to say "Besides allowing you to precisely specify the value of each point in the wave, it also includes a Javascript interpreter which allows you to programatically specify the wave shape and/or wave set." In short, it uses charts, embedded JavaScript and the new graphics APIs in an interesting way.</li>
+</ul>
+<p>That's all folks. Catch you all next week.</p>
+]]></Content>
+	</post>

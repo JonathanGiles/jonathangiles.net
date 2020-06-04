@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>984</ID>
+		<Slug>java-desktop-links-of-the-week-january-17</Slug>
+		<Title>Java desktop links of the week, January 17</Title>
+		<Date>2011-01-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|swing</Tags>
+		<Content><![CDATA[<p>Well, after skipping last weeks post due to lack of news, this week is looking a little better, but things are still quiet on the Java desktop front. As always, I appreciate any email pointers you may have for me - my contact details are always to the right. Let's get into the links of the past two weeks :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jean-Francois Poilpret</strong> has put out the 1.7 release of his <a href="https://designgridlayout.dev.java.net/">DesignGridLayout Swing LayoutManager</a>. This release allows layouts to be more dynamic by giving the ability to hide or show entire rows. This makes it very easy to implement panels with collapsible/expandable zones.</li>
+	<li><strong>Gerrit Grunwald</strong> has continued work on the Steel series of gauges, with a lot of <a href="http://harmoniccode.blogspot.com/2011/01/mavenized-steel.html">code cleanups and API improvements</a>. In his latest blog post he has announced that the library will be available in Maven.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Stephen Chin</strong> has put up another <a href="http://steveonjava.com/visage-android-cleaner-apis-cleaner-uis/">blog post about the Visage project</a>, showing off how he used Visage (which resembles JavaFX Script) to create a simple Android application.</li>
+	<li><strong>Laurent Caron</strong> let me know about his Opal project, which is a umbrella project for a <a href="http://code.google.com/a/eclipselabs.org/p/opal/">number of SWT components</a>.</li>
+	<li><strong>Alex Ruiz</strong>, author of the FEST testing library and a recent member of the JavaFX controls team, has announced that he has decided to <a href="http://alexruiz.developerblogs.com/?p=1809">leave Oracle to join Google</a>. Before joining the JavaFX controls team (with me), he worked in other areas of Oracle for around four years. It's a shame to see him leave our team, but I want to wish him all the best at his new job.</li>
+	<li><strong>James Sugrue</strong> picked up on a tweet by <strong>Kirill Grouchnikov</strong>, asking <a href="http://java.dzone.com/articles/did-anyone-notice-java">what has happened to the Java App Store</a> that was promoted around JavaOne 2009.</li>
+</ul>
+<p>That's all folks - I warned you it has been quiet. I'll catch you again in a weeks time...</p>
+]]></Content>
+	</post>

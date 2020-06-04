@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1900</ID>
+		<Slug>java-desktop-links-of-the-week-april-13-2</Slug>
+		<Title>Java desktop links of the week, April 13</Title>
+		<Date>2015-04-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>I missed last weeks post due to it falling on Easter Monday and not being around my computer. Therefore, this week there are a heap of links. Enjoy!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jim Conners</strong> has posted an update to his '<a href="https://blogs.oracle.com/jtc/entry/update_to_javafx_sockets_and">Update to JavaFX, Sockets and Threading: Lessons Learned</a>' blog post, to cover JavaFX 8.</li>
+	<li><strong>René Jahn</strong> has two posts this week. Firstly, he has been playing around with <a href="http://blog.sibvisions.com/2015/04/08/jvx-javafx-ui-with-javafxports/">JavaFX on Android</a> (using the <a href="http://www.javafxports.org">JavaFXPorts</a> and <a href="http://www.gluonhq.com">Gluon</a> libraries / tooling). The second post talks about <a href="http://blog.sibvisions.com/2015/04/04/javafx-jvx-and-data-binding/">data binding UI controls and charts</a>, using the JVx library.</li>
+	<li>Speaking of Gluon,&nbsp;<strong>Jens Deters</strong> has posted a YouTube video showing how he used the Gluon NetBeans plugin to <a href="https://www.youtube.com/watch?v=LL1gNZRJPz8&amp;feature=youtu.be">create a iOS port of the 2048FX game</a> (originally written in JavaFX for desktop, but since also made to work on Android and iOS). Very impressive!</li>
+	<li><strong>Andres Almiray</strong> has posted <a href="http://griffon-plugins.github.io/griffon-glazedlists-plugin/">version 1.2.0 of his Griffon GlazedLists plugin</a>, which now supports JavaFX.</li>
+	<li><strong>Christoph Keimel</strong> has posted on migrating an <a href="http://www.kware.net/?p=64">E4 RCP application from&nbsp;SWT to JavaFX using SWTonJavaFX</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has <a href="https://blogs.oracle.com/geertjan/entry/javafx_in_javascript">two posts</a> <a href="https://blogs.oracle.com/geertjan/entry/combining_nashorn_scripting_with_javafx">this week</a>, both related to writing JavaFX applications in JavaScript (using Nashorn).</li>
+	<li><strong>Michael Simons</strong> has posted about his <a href="http://info.michael-simons.eu/2015/03/31/javaland-2015-result-javafx-3d-mosaic-for-dailyfratze-de/">JavaFX 3d mosaic app</a>, which looks very cool :-)</li>
+</ul>
+<p>That's all folks. Catch you next week! :-)</p>
+]]></Content>
+	</post>

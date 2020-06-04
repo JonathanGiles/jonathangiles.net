@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1998</ID>
+		<Slug>java-desktop-links-of-the-week-november-16-2</Slug>
+		<Title>Java desktop links of the week, November 16</Title>
+		<Date>2015-11-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;">Some great links this week - enjoy! :-)</span></p>
+<ul>
+	<li><strong>Dirk Lemmerman</strong> has two additional 'JavaFX Real-World Apps' posts that I missed during JavaOne. Firstly, '<a href="https://dlemmermann.wordpress.com/2015/10/23/javafx-real-world-apps-eizo-curator-caliop/">EIZO CuratOR Caliop</a>', and secondly, '<a href="https://dlemmermann.wordpress.com/2015/10/22/javafx-real-world-apps-emirates-airlines-network-capacity-optimization/">Emirates Airlines Network Capacity Optimization</a>'.</li>
+	<li><strong>Hendrik Ebbers</strong> has announced the <a href="http://www.guigarage.com/2015/11/dolphin-platform-has-been-released/">release of 'Dolphin Platform'</a>. You can learn more about this project from the <a href="http://www.dolphin-platform.io/">Dolphin Platform website</a>.</li>
+	<li>Speaking of the Dolphin Platform, <strong>Sven Reimers</strong> <a href="https://www.youtube.com/watch?v=_AoHizQpJZ8">interviewed</a> <strong>Michael Heinrichs</strong> and <strong>Hendrik Ebbers</strong> about this project recently whilst at Devoxx.</li>
+	<li>Speaking of Devoxx, the <strong>Gluon</strong> blog has an <a href="http://gluonhq.com/gluon-at-devoxx-2015/">overview of Gluon activities at Devoxx</a>, including an hour-long presentation by <strong>Johan Vos</strong>, as well as a shorter interview with him.</li>
+	<li>Speaking of <strong>Gluon</strong>, there is also a blog post from there about <a href="http://gluonhq.com/gluon-supports-multiple-jvms/">the recent RoboVM closed-sourcing of their library</a>, and the implications of this on Gluon and the <a href="http://www.javafxports.org">JavaFXPorts open source project</a>.</li>
+</ul>
+]]></Content>
+	</post>

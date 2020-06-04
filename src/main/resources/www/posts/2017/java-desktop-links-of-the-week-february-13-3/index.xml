@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2241</ID>
+		<Slug>java-desktop-links-of-the-week-february-13-3</Slug>
+		<Title>Java desktop links of the week, February 13</Title>
+		<Date>2017-02-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Gerrit Grunwald</strong> is doing awesome work on TilesFX, this week <a href="https://harmoniccode.blogspot.co.nz/2017/02/tilesfx-with-new-sizing-strategy.html">improving the sizing strategy</a> to not waste space as the tiles area is resized.</li>
+ 	<li><strong>Tom Schindl</strong> has added <a href="https://tomsondev.bestsolution.at/2017/02/10/efxclipse-support-for-java9/">support in e(fx)clipse for Java 9</a> - great work!</li>
+ 	<li><strong>Dirk Lemmermann</strong> has posted about the <a href="http://dlsc.com/2017/02/01/custom-layouts/">benefits of writing custom layouts</a> in JavaFX for performance and flexibility reasons. As the JavaFX UI controls tech lead, one of the core things I spend a huge amount of my time on is custom layouts, and I agree that it is an incredibly useful skill for people to have. It opens up a world of possibilities to getting exactly what you want, and often times is a far quicker way of creating the look you want, compared with using multiple nested layout containers!</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1875</ID>
+		<Slug>java-desktop-links-of-the-week-february-23</Slug>
+		<Title>Java desktop links of the week, February 23</Title>
+		<Date>2015-02-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A huge number of very interesting posts this week, so lets just get straight into it!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has been extraordinarily busy, working on a very interesting code editor project called <a href="http://tomsondev.bestsolution.at/2015/02/17/compensator-a-code-editor-and-a-code-dev-environment-written-in-javafx/">Compensator</a>.</li>
+	<li>The <strong>F(x)yz project</strong> has released a <a href="https://github.com/FXyz/FXyz/releases">sampler application</a> that demonstrates all their 3D goodness.</li>
+	<li><strong>Jens Deters</strong> has announced&nbsp;<a href="http://www.jensd.de/wordpress/?p=1933">FontAwesomeFX 8.1</a>.</li>
+	<li><strong>Dirk Lemmerman</strong> has a post on&nbsp;<a href="https://dlemmermann.wordpress.com/2015/02/18/javafx-tip-18-path-clipping/">JavaFX path clipping</a>.</li>
+	<li><strong>Johan Vos</strong> has published an article on <a href="https://www.voxxed.com/blog/2015/02/cloud-based-monitoring-of-iot-devices/">cloud based monitoring of IoT devices</a> (using JavaFX).</li>
+	<li><strong>Chris Joakim</strong> has posted a new project on GitHub called <a href="https://github.com/cjoakim/fxml2j">fxml2j</a> that sounds pretty neat. Quoting the website: "The 'fxml2j' library will BOTH generate an implementation of the Java Controller class, as well as show you ongoing "diffs" between your FXML and Controller class as each of these two code artifacts evolves. The library will discover the fx:id elements, and #-prefixed action methods, and generate the appropriate @FXML annotated Java code."</li>
+	<li><strong>Dirk Fauth</strong> has published '<a href="https://blog.codecentric.de/en/2015/02/swt-javafx-migration-eclipse-rcp-cookbook/">SWT to JavaFX migration</a>'.</li>
+	<li><strong>Timothy Baldridge</strong> has posted a project to GitHub called&nbsp;<a href="https://github.com/halgari/fn-fx">fn(fx)</a>. From the website: "This library provides a functional, declarative wrapper around JavaFX. The goals are to provide a "Virtual DOM" like interface over the OOP mutability JavaFX embraces."</li>
+	<li><strong>René Jahn</strong> has posted about the&nbsp;<a href="http://blog.sibvisions.com/2015/02/17/jvx-and-javafx-fasten-your-seat-belts/">JVx framework and how it is utilising JavaFX</a>.</li>
+	<li><strong>J.Zimmermann</strong> has created a <a href="http://comtel2000.github.io/jfxvnc/">JavaFX-based VNC client</a>.</li>
+	<li><strong>Lukas Eder</strong> has posted about how to '<a href="https://www.voxxed.com/blog/2015/02/transform-sql-data-charts-using-jooq-javafx/">transform your SQL data into charts using jOOQ and JavaFX</a>'.</li>
+</ul>
+<p>I think you'll agree that this is a great batch of links. Keep up the great work folks - it's great to see! :-)</p>
+]]></Content>
+	</post>

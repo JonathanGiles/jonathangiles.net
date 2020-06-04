@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1390</ID>
+		<Slug>java-desktop-links-of-the-week-january-14</Slug>
+		<Title>Java desktop links of the week, January 14</Title>
+		<Date>2013-01-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Here we go with another weeks worth of links! Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Danno Ferrin</strong> has released <a href="http://speling.shemnon.com//blog/2013/01/08/javafx-gradle-plugin-0-dot-1-0-released/">0.1.0 of the JavaFX Gradle plugin</a>. This release includes improved <a href="http://www.scenic-view.org">Scenic View</a> support.</li>
+	<li><strong>Gerrit Grunwald</strong> has begun hacking on <a href="http://harmoniccode.blogspot.de/2013/01/fun-with-preview-releases.html">controls for JavaFX 8.0</a> (based on the in-development APIs available in the developer preview). You can see his work in his <a href="https://github.com/HanSolo/Enzo">Enzo</a> project.</li>
+	<li>Speaking of custom controls, <strong>Hendrik Ebbers</strong> has put up part three of his '<a href="http://www.guigarage.com/2013/01/custom-ui-controls-with-javafx-part3/">Custom UI Controls with JavaFX</a>' tutorial.</li>
+	<li><strong>Dierk König</strong> has posted a good tutorial to help people <a href="http://www.canoo.com/blog/2013/01/08/learning-javafx-by-example/">new to JavaFX learn the basics</a>.</li>
+	<li>Speaking of <strong>Dierk</strong>, he has also posted a YouTube video that demonstrates the <a href="http://www.youtube.com/watch?v=W-LCvTa5MQQ">OpenDolphin portfolio demo application</a>.</li>
+	<li><strong>Marco Jakob</strong> has two blog posts this week. Firstly, he has posted about <a href="http://edu.makery.ch/blog/2013/01/07/javafx-date-picker/">slight improvements he has made to a DatePicker control</a> (originally built by <strong>Christian Schudt</strong>). Secondly, he highlights the <a href="http://edu.makery.ch/blog/2013/01/04/javafx-snapshot-as-png-image/">very useful snapshot feature of JavaFX</a> to take screenshots of a running application.</li>
+	<li>The <strong>Java Source</strong> blog has posted <a href="https://blogs.oracle.com/java/entry/spotlight_on_javafx1">three video interviews</a> with <strong>Jim Weaver</strong>, <strong>Gerrit Grunwald</strong>, and <strong>Martin Gunnarsson</strong> / <strong>Pär Sikö</strong>.</li>
+	<li><strong>Pedro Duque Vieira</strong> has added CSS styling for the JavaFX <a href="http://pixelduke.wordpress.com/2013/01/10/metro-style-combo-box-for-java-jmetro/">ComboBox</a> and <a href="http://pixelduke.wordpress.com/2013/01/13/metro-style-toggle-button-for-java-jmetro/">ToggleButton</a> controls as part of his JMetro project.</li>
+	<li>The <strong>TiwulFX blog</strong> has posted on how to provide <a href="http://tiwulfx.panemu.com/provide-more-colors-for-chart-series/">different colours to CSS charts</a>.</li>
+	<li><strong>Anton Epple</strong> has a long post about <a href="http://jayskills.com/blog/2013/01/09/writing-a-tile-engine-in-javafx/">writing a tile engine in JavaFX</a>.</li>
+	<li><strong>Andy Till</strong> continues to improve his <a href="https://bitbucket.org/atill/estimate">EstiMate software estimation tool</a>.</li>
+	<li><strong>Leon Atherton</strong> has blogged about <a href="http://blog.idrsolutions.com/2013/01/setting-affinetransform-and-font-in-fxml-vs-javafx/">setting AffineTransform and Font in JavaFX and FXML</a>.</li>
+	<li><strong>Thierry Wasyl</strong> has shown the <a href="http://thierrywasyl.wordpress.com/2013/01/05/drawfx-the-text-tool/">text tool</a> he has added to his DrawFX application</li>
+	<li><strong>Steven Schwenke</strong> has posted about <a href="http://stevenschwenke.de/javaFXSeriesHoverPanes">creating hover panes</a> in JavaFX applications for context-specific actions.</li>
+	<li><strong>Robert Ladstätter</strong> has a number of posts that may be of interest to readers, including '<a href="http://ladstatt.blogspot.co.nz/2012/12/scala-javafx-archetype-last-week-ive.html">Scala JavaFX Archetype</a>', '<a href="http://ladstatt.blogspot.co.nz/2013/01/testing-with-jemmyfx-javafx-and.html">Testing with JemmyFX, JavaFX and ScalaTest</a>', '<a href="http://ladstatt.blogspot.co.nz/2013/01/a-sine-wave-with-javafx-and-scala.html">A sine wave with JavaFX and Scala</a>', '<a href="http://ladstatt.blogspot.co.nz/2013/01/2d-water-effects-with-javafx-and-scala.html">2D Water Effects with JavaFX and Scala</a>', '<a href="http://ladstatt.blogspot.co.nz/2013/01/lets-go-green-and-plant-some-trees.html">Lets go green and plant some trees</a>' and '<a href="http://ladstatt.blogspot.co.nz/2013/01/javafx-tree-visualisation-part-2.html">JavaFX Tree Visualization Part 2</a>'.</li>
+</ul>
+<h4>JavaFX and Raspberry Pi</h4>
+<ul>
+	<li><strong>José Pereda</strong> has posted about <a href="http://jperedadnr.blogspot.co.nz/2013/01/nxtbeefx-javafx-based-app-for-raspberry.html">NXTBeeFX</a>: "A JavaFX based app for Raspberry Pi to control a Lego NXT robot wirelessly".</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

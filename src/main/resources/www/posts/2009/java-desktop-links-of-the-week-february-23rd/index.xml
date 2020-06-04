@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>263</ID>
+		<Slug>java-desktop-links-of-the-week-february-23rd</Slug>
+		<Title>Java desktop links of the week, February 23rd</Title>
+		<Date>2009-02-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|javafx|swing|Swing Links</Tags>
+		<Content><![CDATA[<p>Another quiet week, and one in which I have been somewhat distracted with SCJP study (exam on Wednesday!). Despite this, below is the important news for the Java desktop that has occured in the last week.</p>
+<h3>Swing</h3>
+<ul>
+	<li><strong>Jean-Francois Poilpret</strong> has been very busy in the last week, <a href="http://jfpoilpret.blogspot.com/2009/02/announce-designgridlayout-11-released.html">releasing version 1.1 of his DesignGridLayout layout manager for Swing</a>. This release brings the <a href="http://jfpoilpret.blogspot.com/2009/01/designgridlayout-row-span-support-soon.html">multiple rows span components feature</a> he has discussed in the past, as well as a number of bug fixes and enhancements.</li>
+	<li>Another post by <strong>Jean-Francois</strong> relays his experience with Swings JInternalFrame and JDesktopPane components, and the <a href="http://jfpoilpret.blogspot.com/2009/02/jinternalframe-lesson-learned.html">special requirements he discovered for handling them properly</a> to ensure the user experience is up to Swings normal high quality.</li>
+	<li><strong>Mark Graybill</strong> has posted a simple and clear example of how to <a href="http://beginwithjava.blogspot.com/2009/02/rotating-image-with-java.html">rotate an image in Java2D</a>.</li>
+	<li><a href="http://swing2.kenai.com">Swing 2.0</a> continues to move along. Swing 2.0 now has a clear vision of the direction of the project, and after a bit of discussion its focus is now on refactoring a fork of the current Swing codebase.</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li><strong>Michael Galpin</strong>, a software architect at eBay, has posted an article on IBMs developerWorks site that <a href="http://www.ibm.com/developerworks/web/library/wa-javafx/index.html">discusses how to create mashups with JavaFX</a>. I would say that this would be very useful for JavaFX developers out there wanting to get their head around connecting to web services, and parsing the data coming from them.</li>
+	<li><strong>Josh Marinacci</strong>, of Sun Microsystem, has set up a new website, <a href="http://jfxstudio.wordpress.com/">JFXStudio</a>, that aggregates a number of blogs related to JavaFX development. Its focus is on showing demonstration programs and the associated code. This will be a good resource for JavaFX developers!</li>
+	<li>Speaking of <strong>Josh Marinacci</strong> (his ears must be burning), <a href="http://www.riaweekly.com/2009/02/21/riaweekly044/">RIA Weekly had him as a phone-in guest on their latest show</a>, where he discusses the current and future state of JavaFX. It's worth listening to if you have a moment.</li>
+	<li><strong>Stephen Chin</strong> has announced <a href="http://steveonjava.com/2009/02/17/jfxtras-03-release/">JFXtras 0.3 has been released</a>. This release adds support for JavaFX 1.1, plus includes a JavaFX version of MigLayout for doing layout of JavaFX Nodes.&nbsp; Because JavaFX 1.1 is not binary compatible with JavaFX 1.0, you will have to upgrade to this release if you want to use JFXtras for JavaFX 1.1 development.</li>
+	<li>There is an article on Wikia that discusses <a href="http://jfx.wikia.com/wiki/SwingComponents">how to add Swing components into JavaFX applications</a>. This is very good and clear, focusing on the necessary code required for each component.</li>
+</ul>
+<p>That's it for this week! Now, back to my study - two more days to go :-) Have a great week!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1458</ID>
+		<Slug>java-desktop-links-of-the-week-may-6</Slug>
+		<Title>Java desktop links of the week, May 6</Title>
+		<Date>2013-05-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all. Welcome to another weeks worth of links. There is, as is becoming all too frequent, a great number of links this week, spanning new downloads, 3D investigations, embedded discussions and interesting new tools and libraries being developed by people in the community. Keep up the great work! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JavaFX 8.0 b88 is <a href="https://jdk8.java.net/download.html">available for download</a>, which includes the normal bug fixes, etc, but also JavaFX 3D support on Mac and Linux (it actually appeared in b87, I just forgot to mention it).</li>
+	<li>Also newly released this week in <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">Scene Builder 1.1 b25</a>.</li>
+	<li><strong>Danno Ferrin</strong> has blogged about his touch / gesture test application <a href="http://speling.shemnon.com/blog/2013/05/03/a-touch-and-gesture-javafx-demonstration/">Touchy FXy</a>. As he says in the post, "One of the main reasons I wrote this is to get a feel for some of the quirks on the various platforms that JavaFX runs on. Already I have some issues in mind, but I want to get a good survey of the problem space before I propose anything."</li>
+	<li><strong>Philipp Dörfler</strong> has a guest post over at guigarage about his <a href="http://www.guigarage.com/2013/05/sbt-fxml-the-missing-link-between-fxml-and-your-code/">sbt-fxml project</a>. sbt-fxml is, as Philipp puts it, a tool that "scans for <a href="http://docs.oracle.com/javafx/2/fxml_get_started/jfxpub-fxml_get_started.htm">FXML</a> files – either hand written or created by <a title="JavaFX Scene Builder" href="http://www.oracle.com/technetwork/java/javafx/tools/index.html">Scene Builder</a> – parses them and creates controller classes with a proper name, package structure, imports, declarations and types. That’s right: types! So now your FXML files suddenly type check thus allowing you to find mistakes almost instantly. And because of SBT, you don’t even have to manually start the build for it. It happens as soon as you save your files."</li>
+	<li><strong>Jasper Potts</strong> has posted a video and some code demonstrating how he hacked together <a href="http://fxexperience.com/2013/05/3d-spacenavigator-with-javafx/">support for the 3D SpaceNavigator input device</a>.</li>
+	<li>Speaking of <strong>Jasper</strong> and 3D, he has made available the code to render 3D models from various apps. You can get it by cloning the <a href="https://wikis.oracle.com/display/OpenJDK/Building+OpenJFX">openjfx mercurial repo</a> and browsing into rt/apps/experiments/3DViewer. He tweeted a <a href="http://img.ly/uxKp">screenshot of the application</a>.</li>
+	<li><strong>Angela Caicedo</strong> has a long and detailed post called "<a href="https://blogs.oracle.com/acaicedo/entry/beyond_beauty_javafx_i2c_parallax">Beyond Beauty: JavaFX, I2C, Parallax, Touch, Raspberry Pi, Gyroscopes and Much More</a>."</li>
+	<li><strong>mihosoft</strong> has published part two of the series of posts on <a href="http://mihosoft.eu/?p=564">workflow visualization with VWorkflows &amp; JavaFX</a>.</li>
+	<li><strong>Sean Phillips</strong> has posted part two of how to <a href="http://netbeans.dzone.com/articles/how-integrate-javafx-netbeans-part5">integrate JavaFX into the NetBeans platform wizard</a>.</li>
+	<li><strong>Jason Lee</strong> has started to develop an <a href="http://blogs.steeplesoft.com/posts/2013/04/30/javafx-asciidoctor-a-qnd-hack/">AsciiDoc editor in JavaFX</a>. You can <a href="https://bitbucket.org/jdlee/doctorfx">check out the project over at bitbucket</a>.</li>
+	<li><strong>Andy Moncsek</strong> has a post about <a href="http://www.javacodegeeks.com/2013/04/using-jacpfx-clients-with-jsr-356-websockets.html">using JacpFX clients with JSR 356 WebSockets</a>.</li>
+	<li><strong>Jim Weaver</strong> and <strong>Thierry Wasylczenko</strong> were interviewed at Devoxx France, and the video is <a href="https://www.java.net/community/javafx/video/jim-weaver-and-thierry-wasylczenko-interviewed-devoxxfrance-2013-0">now available online for you to view</a>.</li>
+	<li><strong>Robert Ladstätter</strong> has two posts this week. Firstly, he has posted part three on&nbsp; how to "<a href="http://ladstatt.blogspot.co.nz/2013/05/use-your-webcam-with-javafx-and-opencv.html">use your webcam with JavaFX and OpenCV</a>". Secondly, he has a post on "<a href="http://ladstatt.blogspot.co.nz/2013/05/using-scala-futures-opencv-together.html">using Scala Futures and OpenCV together with JavaFX</a>".</li>
+	<li><strong>Froglogic Squish</strong> (a commercial tool for UI test automation) has received an update that <a href="http://www.froglogic.com/news-events/index.php?id=squish-java-supports-javafx.html">now adds support for JavaFX UI testing</a>. I should note I've not used or even had access to this tool, but I am pleased that UI test automation is being worked on for JavaFX, hence the mention.</li>
+</ul>
+<p>See - I told you it was a great list of links! :-) Catch you all next week, and keep up the great work.</p>
+
+<p><span class="vcard author"><span class="fn"><a title="Posts by Andy Moncsek" href="http://www.javacodegeeks.com/author/andy-moncsek" rel="author">Andy Moncsek</a></span></span></p>
+]]></Content>
+	</post>

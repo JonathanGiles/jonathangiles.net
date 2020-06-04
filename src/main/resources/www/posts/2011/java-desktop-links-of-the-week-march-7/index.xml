@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1009</ID>
+		<Slug>java-desktop-links-of-the-week-march-7</Slug>
+		<Title>Java desktop links of the week, March 7</Title>
+		<Date>2011-03-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>It's March already?! It seems time is flying past these days, yet there is never enough time in the day to get everything done. For those of you too busy to scour the web for Java desktop links then, I hope I can be of some help! :-) This week we have some blog posts on what people are finding out about JavaFX 2.0. As always, feel free to email me any links you may have!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Alan O'Leary</strong> blogged about the <a href="http://a1o1.posterous.com/java-fx20-embedding-webview-in-swing">WebView component in JavaFX 2.0 EA</a>, and integrating it within a Swing application. This has long been a request of developers in the Swing world - and so this may be a viable option for many projects.</li>
+	<li>Following up on this, <strong>Aljoscha Rittner</strong> blogged about <a href="http://www.aljoscha-rittner.de/blog/archive/2011/03/04/javafxdev-netbeans-platform-with-javafx-2-0ea/">integrating JavaFX 2.0 EA with the NetBeans Platform</a> to get the best of both worlds. His example embeds the WebView inside a NetBeans-based application. I wish I'd see someone take the time to create a fully JavaFX-based application framework :-)</li>
+	<li><strong>Steven Herod</strong>, author of the TwitterFX application, has blogged about his <a href="http://blogs.herod.net/javafx/2011/03/javafx-2-0-first-impressions/">first impressions of JavaFX 2.0 EA</a>. He has spent the last few weeks working on a new JavaFX 2.0-based TwitterFX client, and seems impressed by what is coming in JavaFX 2.0.</li>
+	<li>I picked up on an example <strong>Adam Bien </strong><a href="http://www.adam-bien.com/roller/abien/entry/hello_javafx_2_a_tableview">gave of TableView</a>, slightly tweaking it to show an <a href="/posts/2011a-simple-javafx-2-0-tableview-example/">alternative means of populating the cells</a> of the TableView.</li>
+</ul>
+<p>That's us for another week - see you in a weeks time!</p>
+]]></Content>
+	</post>

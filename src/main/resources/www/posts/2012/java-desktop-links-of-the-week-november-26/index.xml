@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1363</ID>
+		<Slug>java-desktop-links-of-the-week-november-26</Slug>
+		<Title>Java desktop links of the week, November 26</Title>
+		<Date>2012-11-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hey everyone - welcome to yet another week of links! Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Daniel Zwolenski</strong> has been working hard on improved Maven tooling for JavaFX. You can check out his <a href="https://github.com/zonski/javafx-maven-plugin/wiki">JavaFX Maven plugin source code over at Github</a>, and he has also blogged about <a href="http://www.zenjava.com/2012/11/24/from-zero-to-javafx-in-5-minutes/">how to use it</a> on his website.</li>
+	<li>Speaking of Maven, thanks to a <a href="http://www.guigarage.com/2012/11/maven-support-for-datafx/">huge amount of help</a> from <strong>Hendrik Ebbers</strong> we now have released DataFX 1.0 on Maven! If you're interested, <a href="http://www.javafxdata.org/download/">check out the Maven instructions</a> over at the DataFX website. The DataFX 1.0 release is the first release where a lot of the cell factories have been removed (due to being duplicated in JavaFX 2.2), but to make up for that <strong>Johan Vos</strong> has done a huge amount of work on the data sources. If you don't use Maven you can also <a href="http://www.javafxdata.org/download/">download DataFX 1.0 from the DataFX website</a>.</li>
+	<li>Speaking of <strong>Hendrik</strong>, he has continued to develop his excellent GridView JavaFX control. This week he has added in <a href="http://www.guigarage.com/2012/11/gridfx-pagination/">support for pagination</a> using the Pagination control that shipped in JavaFX 2.2.</li>
+	<li><strong>Tom Schindl</strong> has a code snippet to <a href="http://tomsondev.bestsolution.at/2012/11/21/animating-the-javafx-piechart-a-bit/">animate the slices of the JavaFX pie chart</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> continues his exploration of the embedded features of Java and JavaFX. He has put up a very detailed blog post about <a href="http://harmoniccode.blogspot.de/2012/11/gimme-some-pi-part-i.html">his current research</a> using a Raspberry Pi and a BeagleBoard, and a <a href="http://www.youtube.com/watch?v=kLWz0RV-btc&amp;feature=plcp">video showing his home setup</a>.</li>
+	<li><strong>Jerome Cambon</strong> has blogged about <a href="https://blogs.oracle.com/jeromec/entry/using_the_new_css_analyzer">the new CSS analyser</a> built into the Scene Builder 1.1 release (which is currently in developer preview).</li>
+	<li>Speaking of Scene Builder, <strong>Mark Heckler</strong> has contributed an article to OTN on "<a href="http://www.oracle.com/technetwork/articles/java/javafxfast-1873375.html">How to Get Started (FAST!) with JavaFX 2 and Scene Builder</a>".</li>
+	<li>Over at Dr Dobbs, <strong>Eric Bruno</strong> has posted part one of his <a href="http://www.drdobbs.com/jvm/a-javafx-text-editor-part-1/240142297/">JavaFX text editor project</a>.</li>
+	<li><strong>Leon Atherton</strong> has a post detailing <a href="http://blog.idrsolutions.com/2012/11/adding-a-window-resize-listener-to-javafx-scene/">how to listen to window resize events in JavaFX</a>.</li>
+</ul>
+<p>That's all for this week. Catch you again next week folks, and keep up the amazing work! :-)</p>
+]]></Content>
+	</post>

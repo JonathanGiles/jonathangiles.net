@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1151</ID>
+		<Slug>java-desktop-links-of-the-week-december-4</Slug>
+		<Title>Java desktop links of the week, December 4</Title>
+		<Date>2011-12-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Ok, this post is slightly early, but I'm not going to be around much for the next three days, so I thought I'd sneak it out a few hours early rather than make you all wait. Also, because I have very, very little time to write this post, it's going to be a little more succinct than usual. All will return to usual next week, but for now, please enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The big news of the week is that the <a href="http://fxexperience.com/2011/12/its-alive-openjfx-is-kicking-off/">first code drop of JavaFX 2.0 source code was finally made public</a> as <a href="http://openjdk.java.net/projects/openjfx/">OpenJFX</a>. The source code is for the UI controls (which is something I work on). If you are interested in learning more about UI controls, or helping to make them better, you should definitely sign up to the mailing lists.
+<strong></strong></li>
+	<li><strong>Adam Bien</strong> posted a quick blog post on how to go about <a href="http://www.adam-bien.com/roller/abien/entry/getting_the_source_code_for">getting and compiling the JavaFX 2 UI controls source code</a>.
+<strong></strong></li>
+	<li><strong>Tom Eugelink</strong> has announced that the MigLayoutFX2 / MigPane project has moved to become a <a href="http://java.net/projects/miglayoutfx2/pages/Home">module of MigLayout itself</a>.
+<strong></strong></li>
+	<li><strong>Dierk Koenig</strong> has mentioned that <a href="https://plus.google.com/u/0/117890567170892500727/posts">Oracle and Canoo are offering to write a rich JavaFX client application</a> for your needs, free of charge.</li>
+	<li><strong>Niklas Hoffman</strong> posted recently to the JavaFX Forums introducing a project he has been working on: a '<a href="https://forums.oracle.com/forums/thread.jspa?forumID=1385&amp;threadID=2315455">JavaFX property compiler</a>'. You can find out more at the <a href="http://code.google.com/p/java-property-compiler/">Google Code project site</a>.</li>
+	<li>In a separate Google Code project, <strong>Niklas</strong> has also showed off a <a href="http://code.google.com/p/javafx-treechart/wiki/TreeChart">TreeChart component for JavaFX</a>.</li>
+	<li><strong>Jim Weaver</strong> posted a sample '<a href="http://learnjavafx.typepad.com/weblog/tweetbrowser.html">TweetBrowser</a>' application.</li>
+	<li>In another post, <strong>Jim Weaver</strong> <a href="http://learnjavafx.typepad.com/weblog/rich-client-java.html">made available the JavaFX application</a> he is using to present at JavaOne Brazil, titled "The Return of Rich-Client Java".</li>
+	<li><strong>Mario Torre</strong> posted a <a href="http://jroller.com/neugens/entry/pathfinding_javafx">JavaFX pathfinding application</a>.</li>
+	<li><strong>Roman Kennke</strong> has blogged about <a href="http://rkennke.wordpress.com/2011/12/03/how-the-swingview-works-painting/">how the SwingView works</a>. SwingView is a component Roman and colleagues are working on to enable embedding Swing inside a JavaFX application.</li>
+	<li><strong>Pedro Duque Vieira</strong> has blogged some <a href="http://pixelduke.wordpress.com/2011/12/03/migrating-from-javafx-1-3-to-javafx-2-0/">tips about migrating from JavaFX 1.3 to 2.0</a>.</li>
+	<li><strong>The Register</strong> has written a <a href="http://www.theregister.co.uk/2011/11/28/javafx_2_point_0_part_three/">three-page post on JavaFX 2.0</a>. Personally, I'm pleased they found the TableView control to be so performant :-)</li>
+	<li>Related to the article at <strong>The Register</strong>, <strong>Tom Schindl</strong> has blogged to clarify <a href="http://tomsondev.bestsolution.at/2011/11/29/relation-between-fxgraph-and-fxml/">the relationship between fxgraph (his own DSL) and FXML</a>.</li>
+	<li><strong>Narayan Maharjan</strong> has blogged an <a href="http://blog.ngopal.com.np/2011/11/27/javafx-has-fxml-as-flexible-xml/">introduction to FXML</a>.</li>
+	<li>I did a post to show how to <a href="http://fxexperience.com/2011/11/alternate-row-highlighting-in-empty-tableview-and-listview-rows/">disable alternate row highlighting</a> in TableView and ListView controls when the rows contain no content.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>David Gilbert</strong> has blogged about some of the <a href="http://www.jroller.com/dgilbert/entry/jfreechart_1_0_14_new">new features in the latest release</a> of JFreeChart.</li>
+	<li><strong>René Jahn</strong> let me know that <a href="http://www.sibvisions.com/visionx">VisionX 1.0 has been released</a>. VisionX is a commercial "tool that allows database application creation without developer skills, but it is great for developers too." For people interested in giving it a trial run, try <a href="http://visionx.sibvisions.com/">logging in</a> with the username 'desktop' and the password 'links'. I can assure you I get no kick-backs from this.....although I really wish I did :-)</li>
+</ul>
+<p>That's that for another week. I'll catch you back here in a weeks time.....</p>
+]]></Content>
+	</post>

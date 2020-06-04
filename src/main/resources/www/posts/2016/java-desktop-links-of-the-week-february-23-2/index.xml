@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2053</ID>
+		<Slug>java-desktop-links-of-the-week-february-23-2</Slug>
+		<Title>Java desktop links of the week, February 23</Title>
+		<Date>2016-02-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A day late this week - I was out of action yesterday (and over the weekend) with a head cold. Now that I'm getting back on my feet, here are the links from the past week - enjoy!</p>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> continues relentlessly on his Medusa gauge library for JavaFX. Has has a post on <a href="http://harmoniccode.blogspot.co.nz/2016/02/add-some-interactivity-to-your-medusa.html">how to add interactivity to the gauges</a>, and <a href="http://harmoniccode.blogspot.co.nz/2016/02/areas-and-sections-in-medusa.html">areas and sections</a>.</li>
+	<li><strong>Edvin Syse</strong> has posted about his new JavaFX launcher library that handles automatic updates of applications: <a href="https://dzone.com/articles/native-javafx-apps-with-automatic-updates-fxlaunch">FXLauncher</a>.</li>
+	<li><strong>Robert Ladstätter</strong> has posted about <a href="http://ladstatt.blogspot.co.nz/2016/02/fx-tictactoe-deploy-javafx-app-into.html">deploying a JavaFX application to the Google Play Store</a>.</li>
+	<li><strong>Rob Terpilowski</strong> has interviewed <strong>Alexander Casall</strong> about '<a href="https://rterp.wordpress.com/2016/02/16/javafx-vs-swing-vs-html5-my-interview-with-alexander-casall/">JavaFX vs. Swing vs. HTML5, Who Wins?</a>'.</li>
+	<li><strong>Andreas Liebelt</strong> has a post about a '<a href="https://jaxenter.com/fresh-breeze-enterprise-javafx-123230.html">fresh breeze by Enterprise JavaFX</a>'. This is a very interesting read!</li>
+	<li><strong>Patrick Martin</strong> has posted about <a href="https://dexvis.wordpress.com/2016/02/21/graphing-in-3d-with-dex-and-vis-js/">graphing in 3D with Dex and Vis.js</a>.</li>
+	<li><strong>Carl</strong> has posted a&nbsp;<a href="http://bekwam.blogspot.co.nz/2016/02/getting-around-javafx-tableview.html">workaround for the JavaFX TableView Constrained Resize Policy</a>, so that all remaining space goes to the right-most column</li>
+</ul>
+]]></Content>
+	</post>

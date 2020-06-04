@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>216</ID>
+		<Slug>swing-links-of-the-week-february-2nd</Slug>
+		<Title>Swing links of the week, February 2nd</Title>
+		<Date>2009-02-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|swing|Swing Links</Tags>
+		<Content><![CDATA[<p>Another week, another Swing links.....A fair bit happened this week, in both the Swing and JavaFX camps, so let's get into the news:</p>
+<h3>Swing:</h3>
+<ul>
+ 	<li>I started a <a href="/posts/2009/swing-20/">Swing 2.0 discussion</a> that garnered a huge amount of discussion (thanks to everyone!). It had the desired effect of capturing the attention of <a href="http://blogs.sun.com/theplanetarium/entry/java_se_language_still_swinging">people at Sun</a> - I have heard from a few internally that a response is due to be released this week. We'll wait and see what they have to say - I'll make a special post as soon as I find out.</li>
+ 	<li><strong>Jesse Wilson</strong> announced, after 2.5 years of development, that <a href="http://www.nabble.com/Announcing-Glazed-Lists-1.8-to21661653.html#a21661653">Glazed Lists has reached version 1.8.0</a>. The <a href="http://publicobject.com/glazedlists/glazedlists-1.8.0/">release notes are also available</a> for more detail.</li>
+ 	<li><strong>Kirill Grouchnikov</strong> announced new <a href="http://www.pushing-pixels.org/?p=1070">release</a> <a href="http://www.pushing-pixels.org/?p=1073">candidates</a> for both his <a href="http://substance.dev.java.net">Substance</a> and <a href="http://flamingo.dev.java.net">Flamingo</a> projects. These releases are now ready for use in Swing applications, and so if you're keen to help Kirill out, give these projects a run through on your projects, and send feedback to the appropriate mailing list.</li>
+ 	<li><strong>Antonio Santiago</strong> wrote in his blog about how he has achieved <a href="http://theballoonproject.blogspot.com/2009/01/swingannotations-on-wwj.html">mixing heavyweight and lightweight components</a> in the latest early access release of Java 6 (update 12).</li>
+ 	<li><strong>Ken Orr</strong> posts a blog about <a href="http://explodingpixels.wordpress.com/2009/01/29/drawing-text-about-its-visual-center/ ">drawing text around its visual centre</a>. As per usual this post is very helpful, and I recommend anyone doing text layout in Swing (I would say most people) to give this article a read.</li>
+ 	<li>The <strong>LimeWire blog</strong> has a <a href="http://blog.limewire.org/?p=310">discussion on the benefits of using MigLayout</a>. It's a very good introduction to the layout manager, and might be reason enough to many readers to switch to MigLayout for their next project.</li>
+</ul>
+<h3>JavaFX:</h3>
+<ul>
+ 	<li><span class="fn"><strong>Rémy Rakic</strong> posts about his <a href="http://lqd.hybird.org/journal/?p=4">Scenile project</a> which </span>integrates scenario (the scenegraph powering the JavaFX runtime) with project nile (the JavaFX production suite). It loads fxd/fxz files and creates the appropriate scenario objects, fills the properties, creates the scenegraph and returns it to you. After that, its work is done and scenario takes over to render, animate, etc.</li>
+ 	<li><strong>Jasper Potts</strong> posts in his blog a video of <strong>Richard Bair</strong> and <strong>Martin Brehovsky</strong> presenting an hour long <a href="http://http://www.jasperpotts.com/blog/2009/01/devoxx-2008-javafx-10-sdk-talk/">overview of JavaFX, including the JavaFX Language, Scene Graph and Animation</a>.</li>
+ 	<li><strong>Stephen Chin</strong> posts in his blog a <a href="http://steveonjava.com/2009/01/27/widgetfx-calendar-tutorial/">tutorial on using the Calendar widget</a> (which comes as part of <a href="http://code.google.com/p/widgetfx/">WidgetFX</a>).</li>
+ 	<li><strong>Geertjan Wielenga</strong> posts an <a href="http://java.dzone.com/news/animated-javafx-meets-netbeans">example of integrating JavaFX into the NetBeans platform</a>. This example can be extended trivially to demonstrate how to integrate JavaFX into Java-based applications.</li>
+ 	<li><strong>Inyoung Cho</strong> and <strong>Cindy Church</strong>, in video form, <a href="http://netbeans.tv/screencasts/Understanding-the-JavaFX-Scene-Graph-437/">describe the JavaFX Scene Graph and demonstrate how it is used</a> by running a sample JavaFX application in NetBeans for JavaFX.</li>
+ 	<li>After <strong>Yakov Fain</strong> posted that he intends to post code samples of <a href="http://flexblog.faratasystems.com/?p=390">JavaFX being used to create proper applications</a> (instead of cute demos), <strong>Jim Weaver</strong> posts a <a href="http://learnjavafx.typepad.com/weblog/2009/01/yakov-fain-getting-my-hands-dirty-with-javafx.html">demo of such an application built using JavaFX</a>. Despite this, in my opinion Jim has not proven that JavaFX can be used to create proper applications - what I see in his demo is still a cute application that does in no way really resemble a traditional application. So, I'll put out the call - can anyone create a JavaFX application that looks and feels like an enterprise application? I say enterprise because the last thing enterprise customers want in many circumstances is cute - they want consistency and visual integration with other applications.</li>
+ 	<li>New comer to JavaFX blogging, <strong>Eric</strong> has put up two code-heavy blog posts. His first post is about <a href="http://ericonjavafx.com/?p=1">perspective transforms with JavaFX</a>. This post is taken a step further with the image being transformed by a drag handle bounded to a slider. His second post is about <a href="http://ericonjavafx.com/?p=54">supporting drag and drop in JavaFX</a>. His demo code allows for a user to drop a txt file into the view to render the text onscreen.</li>
+</ul>
+<h3>Other:</h3>
+<ul>
+ 	<li><strong>James Britt</strong>, a developer on the <a href="http://ww.monkeybars.org/">Monkeybars project</a> is <a href="http://www.infoq.com/news/2009/01/monkeybars-gui-mvc">interviewed about the release of version 1.0 of Monkeybars</a>. To quote James, "Monkeybars is a JRuby MVC framework that sits on top of Swing. It doesn't wrap Swing per se, but instead presents view logic (encapsulated in Swing classes) separate from controller and model logic (in Ruby). In that sense it exploits the freely available, high-quality WYSIWYG Swing UI design tools while freeing you to develop in Ruby".</li>
+</ul>
+<p>That's it for another week! Hope you are keeping well, and for all you people on the other side of the world, I won't remind you that here in New Zealand, the summer weather is lovely. Until next week - happy swinging :P</p>
+]]></Content>
+	</post>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>253</ID>
+		<Slug>java-desktop-links-of-the-week-february-16th</Slug>
+		<Title>Java Desktop links of the week, February 16th</Title>
+		<Date>2009-02-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>Desktop Links|java|Programming|swing|Swing Links</Tags>
+		<Content><![CDATA[<p>Another week, another Swing links of the week, from now on known as Java Desktop links of the week to more properly encapsulate anything Java and GUI related. If you don't like the new name, let me know what you'd rather have it known as! As always, send me your news if you have any. All my contact details are to the right. This week was relatively quiet on all fronts other than JavaFX, given the release of JavaFX 1.1. Anyway, on with the news.</p>
+<h3>Swing</h3>
+<ul>
+	<li><strong>Ken Orr</strong> has <a href="http://explodingpixels.wordpress.com/2009/02/15/mac-widgets-for-java-094/">announced the release of Mac Widgets for Java 0.9.4</a>. You can check out <a href="http://code.google.com/p/macwidgets/wiki/Whats_Changed">the full list of enhancements and fixes</a>, or just <a href="http://exploding-pixels.com/google_code/javadoc_0.9.4/index.html">browse the API</a>. Also, you can see <a href="http://code.google.com/p/macwidgets/wiki/Examples?ts=1234719873&amp;updated=Examples">examples that use these new widgets</a>.</li>
+	<li><strong>Alex Ruiz</strong> <a href="http://www.jroller.com/alexRuiz/entry/fest_reflect_1_1_fluent">announced the release of FEST-Reflect 1.1</a>, a fluent interface based API for simplifying the usage of <a href="http://java.sun.com/docs/books/tutorial/reflect/" target="_blank">Java Reflection</a>, resulting in improved readability and type safety. It supports class loading, access to static inner classes constructors, methods and fields, and more!</li>
+	<li><strong>Kirill Grouchnikov</strong> has been very busy, announcing new releases for his <a href="http://www.pushing-pixels.org/?p=1085">Substance look and feel project</a>, his <a href="http://www.pushing-pixels.org/?p=1087">Flamingo components project</a><a href="http://www.pushing-pixels.org/?p=1087"> (including Ribbon component)</a> and the <a href="http://www.pushing-pixels.org/?p=1090">new release of an animation library called Trident</a>, which evolved out of his work for Substance.</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li>Of course, as mentioned already, <a href="http://www.javafx.com/launch/">JavaFX 1.1 was released this week</a>. The primary improvement in this release is <a href="http://java.dzone.com/articles/javafx-goes-mobile">support for mobile devices</a>, but there are a number of changes that you'll need to be aware of. Read the <a href="http://java.sun.com/javafx/1/reference/releasenotes/javafx-sdk-release-notes-1-1.html">release notes for more details</a>.</li>
+	<li>Because of the changes, <strong>Stephen Chin</strong> posts about <a href="http://steveonjava.com/2009/02/14/migrating-to-the-javafx-11-release/">how to migrate your JavaFX applications from previous releases onto the latest 1.1 release</a>. This document will be invaluable to JavaFX developers wondering how to migrate, so give it a read!</li>
+	<li>An interview (by the <strong>Java Posse</strong>) with <a href="http://www.parleys.com/display/PARLEYS/Home#slide=2;title=Interview%20with%20the%20JavaFX%20team;talk=24903698">members of the JavaFX team has been posted</a> on Parleys.com which was recorded at Devoxx. It's a very good overview of JavaFX and lets you see the thinking behind it by some of the Sun developers.</li>
+	<li><strong>Jim Weaver</strong> has been very busy in the past week, posting twice about JavaFX bindings and KeyEvents. His first <a href="http://learnjavafx.typepad.com/weblog/2009/02/a-simple-binding-example-in-javafx-mobile.html">post gives examples for <span style="text-decoration: underline;">JavaFX 1.0</span></a>, and then he subsequently updates the <a href="http://learnjavafx.typepad.com/weblog/2009/02/javafx-11-mobile-example-using-binding-and-key-events.html">post for <span style="text-decoration: underline;">JavaFX 1.1</span></a>.</li>
+	<li><strong>Yakov Fain</strong> posts about <a href="http://java.sys-con.com/node/840021">his impressions of JavaFX, and in the process builds a demo Pet Store application</a>, <a href="http://myflex.org/demos/petstore/petstore.html">complete with video demonstration</a>, although I can't see any mention of the code being available.</li>
+	<li>A new part of the 'Jump into JavaFX' series has been released. In <a href="http://www.javaworld.com/javaworld/jw-02-2009/jw-02-jump-into-jfx-3.html">part 3, the focus is on the basic APIs</a>. Previous parts focussed on <a href="http://www.javaworld.com/javaworld/jw-11-2008/jw-11-jump-into-jfx-1.html">setting up NetBeans and understanding the SDK</a>, and a <a href="http://www.javaworld.com/javaworld/jw-12-2008/jw-12-jump-into-jfx-2.html">guide to scripting in JavaFX, from language fundamentals to data binding</a>.</li>
+	<li><strong>Carl Dea</strong> <a href="http://carlfx.wordpress.com/2009/02/09/javafx-sequences-and-predicates/">posts about JavaFX sequences and predicates</a>. His post is clear but very code-heavy, so for those of you that learn by reading code, dive right in!</li>
+	<li><strong>Piliq.com</strong> has an interesting blog in general for people interested in JavaFX. The posts mostly <a href="http://piliq.com/javafx/">centre around discussions about physics in JavaFX</a>, so if you're interested in adding physics to your JavaFX demos/programs(?), please check out that blog.</li>
+</ul>
+<h3>SWT</h3>
+<ul>
+	<li><strong>Ted Patrick</strong> has posted about <a href="http://onflash.org/ted/2009/02/publish-swt-to-flash-player.php">using Eclipse e4 to compile SWT user interfaces into AS3 for running within the Flash player</a>. There are a number of screenshots included for your enjoyment.</li>
+</ul>
+]]></Content>
+	</post>

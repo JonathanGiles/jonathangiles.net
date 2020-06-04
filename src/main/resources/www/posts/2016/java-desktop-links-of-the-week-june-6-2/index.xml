@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2115</ID>
+		<Slug>java-desktop-links-of-the-week-june-6-2</Slug>
+		<Title>Java desktop links of the week, June 6</Title>
+		<Date>2016-06-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A quieter week this week, which suits me just fine as I'm supposed to be on holiday today! Anyway - keep up all the hard work folks and enjoy the links from the community :-)</p>
+<ul>
+ 	<li><strong>Alexander&nbsp;Kouznetsov</strong> from Oracle and <strong>José Pereda</strong> from Gluon have published a long article on <a href="https://community.oracle.com/docs/DOC-917746">converting an existing OpenJFX application to a mobile application</a> using Gluon.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has posted yet another of his <a href="http://harmoniccode.blogspot.co.nz/2016/06/friday-fun-xxxi.html">Friday Fun Components</a>.</li>
+ 	<li><strong>Christoph Nahr</strong> has been working on a <a href="http://news.kynosarges.org/2016/04/16/class-diagrammer-for-java/">Java class diagram drawing tool</a> that I some how missed. He has just recently released <a href="http://news.kynosarges.org/2016/05/01/diagrammer-fixes-samples/">another update</a> to resolve some bugs.</li>
+</ul>
+]]></Content>
+	</post>

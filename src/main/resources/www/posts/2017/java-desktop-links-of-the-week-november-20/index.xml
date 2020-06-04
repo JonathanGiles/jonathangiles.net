@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2628</ID>
+		<Slug>java-desktop-links-of-the-week-november-20</Slug>
+		<Title>Java desktop links of the week, November 20</Title>
+		<Date>2017-11-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A small list of links this week, but I hope you enjoy nonetheless :-)</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> has another 'Friday Fun Component' - this time <a href="https://harmoniccode.blogspot.co.nz/2017/11/friday-fun-li-horizon-charts.html?m=1">horizon charts written in JavaFX</a> - very cool!&nbsp;<strong>Gerrit</strong> also put out a new release of <a href="https://github.com/HanSolo/tilesfx">tilesfx</a>.</li>
+ 	<li><strong>David Gilbert</strong>&nbsp;has made a <a href="https://jfree.github.io/orson-charts/">new release of Orson Charts</a> (a 3D chart library for the Java platform) along with a separate project Orson Charts FX for the extensions required to run the code in JavaFX.</li>
+ 	<li><strong>J. Toiviainen</strong> has written about <a href="https://toivjon.wordpress.com/2017/11/12/javafx-pong/">writing Pong in JavaFX</a>.</li>
+</ul>
+]]></Content>
+	</post>

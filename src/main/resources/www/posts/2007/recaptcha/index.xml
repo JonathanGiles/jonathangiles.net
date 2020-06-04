@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>129</ID>
+		<Slug>recaptcha</Slug>
+		<Title>Recaptcha</Title>
+		<Date>2007-11-16</Date>
+		<Status>publish</Status>
+		<Categories>Technology</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Yes, I know, I'm a bit slow and behind the times, but I have now implemented recaptcha on my website for comments to blog posts. I don't do it to overly burden you, my loyal readers, but I do like the cause and the technological approach to helping solve it.</p>
+
+<p>It short, and to plagiarise directly, "reCAPTCHA asks commenters to read two words from a book. One of these words proves 	   that they are a human, not a computer. The other word is a word that a computer couldn't read. 	   Because the user is known to be a human, the reading of that word is probably correct. So you don't 	   get comment spam, and the world gets books digitized. Everybody wins! For details, visit 	   the <a href="http://recaptcha.net/">reCAPTCHA website</a>".</p>
+
+<p>So, commenting on this blog is now good for the world - so get commenting :-)</p>
+]]></Content>
+	</post>

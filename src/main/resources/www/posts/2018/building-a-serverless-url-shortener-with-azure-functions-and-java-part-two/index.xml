@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2985</ID>
+		<Slug>building-a-serverless-url-shortener-with-azure-functions-and-java-part-two</Slug>
+		<Title>Building a serverless url shortener with Azure Functions and Java, part two</Title>
+		<Date>2018-03-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java|Programming>Microsoft]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>This is the second post in a series of blog posts on building a serverless url shortener in Java and Azure Functions. Here's a list of all the posts I (may) publish eventually (links will be added as the posts are published):</p>
+<ul>
+ 	<li>Part one: <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-one/">Introduction to project and development of shortcode and redirect functions</a></li>
+ 	<li>Aside One: <a href="/posts/2018/creating-custom-routes-in-azure-functions/">Creating custom routes in Azure Functions</a></li>
+ 	<li>Part two: <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-two/">Using queues and integrating realtime Slack notifications of events</a></li>
+ 	<li>Aside Two: <a href="/posts/2018/environment-variables-in-azure-functions-with-java/">Environment variables in Azure Functions with Java</a></li>
+ 	<li>Part three: Integrating Application Insights to learn more about performance bottlenecks, etc</li>
+ 	<li>Part four: Configuring proxies and custom domains</li>
+ 	<li>Part five: Building a static HTML user interface to easily create short links, and hosting it as an Azure Function</li>
+ 	<li>Part six: Focusing on performance - lets pay as little as possible by making our code as performant as possible</li>
+</ul>
+<p>In this post, I wanted to cover the additional code required to use Azure Storage Queues as part of a function app, to reduce the amount of time that your users must wait before a function returns by offloading work that can be done asynchronously into a queue (which is triggered by a separate Azure Function).</p>
+
+<p>My use case is simple: I'd like to do analysis on the use of my URL shortener - which links are popular, when are they popular, who refers them, etc. This analysis involves looking at various request headers, storing data into data storage, and maybe doing some number crunching. Additionally, I wouldn't mind being pinged on a Slack channel whenever my URL shortener is used, just for fun... The thing is - all these tasks take time, and while I'm happy to pay Azure to do them, I don't want them done while my users are waiting to be redirected to their desired URL.</p>
+<h3>Adding Elements to the Queue</h3>
+<p>This is a perfect use case for the queues support baked into Azure Functions. What we can do is use a queue in the&nbsp;<code>redirect</code> function that <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-one/">we discussed in the last post</a>, and add into the queue the relevant data (as a string). This enables the <code>redirect</code>&nbsp;function to focus on its core task and responding to the user as soon as possible. I can then define another Azure Functions function that, instead of being triggered by an HTTP request, is triggered by a queue having an item added to it. First of all, lets update the <code>redirect</code>&nbsp;function code <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-one/">from the last blog post</a> to have the queue provided as a function argument, so that we can write to it:</p>
+
+<pre class="code_block"><code class="java">@FunctionName("redirect")
+public HttpResponseMessage&lt;String&gt; redirect(
+        @HttpTrigger(name = "req", methods = {"get"}, authLevel = AuthorizationLevel.ANONYMOUS) HttpRequestMessage&lt;Optional&lt;String&gt;&gt; request,
+        @QueueOutput(name = Util.PROCESSING_QUEUE_NAME, queueName = Util.PROCESSING_QUEUE_QUEUE_NAME, connection = "AzureWebJobsStorage") OutputBinding&lt;String&gt; queue,
+        final ExecutionContext context) {
+
+    ...
+
+    // we don't want to process the request details now, so we put the data into the processing queue and have
+    // a separate function deal with that. This enables this function to return more quickly and the user get
+    // to their intended destination.
+    String referrer = request.getHeaders().getOrDefault("referrer", "Unknown");
+    String userAgent = request.getHeaders().getOrDefault("user-agent", "Unknown");
+    String payload = Stream.of(shortCode, url, host.getHost(), System.currentTimeMillis() + "", referrer, userAgent)
+            .map(str -&gt; str.replace("|", "^"))
+            .collect(Collectors.joining("|"));
+    queue.setValue(payload);
+
+    ...
+}</code></pre>
+
+<p>Note that new line in the method arguments starting with <code>@QueueOutput.</code>&nbsp;This is the queue that we will write to later in the function. To actually have this queue setup, you should refer to the <a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-storage-queue-triggered-function#create-the-queue">Azure Functions queue documentation</a>. The <code>name</code> attribute is an internal name, whereas <code>queueName</code>&nbsp;is the name the queue has been given in Azure. The <code>connection</code>&nbsp;value is a connection string - in my case I am using the standard Azure Storage that is provisioned as part of my Azure Functions deployment (in the same way I use the standard Azure Storage that is part of the Azure Functions deployment for table storage also, for every short code mapping).</p>
+
+<p>Further down the redirect function code I extract out a few useful headers, then I simply concatenate all the values I want into a single string (with the pipe character as a separator), and then I call <code>queue.setValue(...)</code>&nbsp;to add this element to the queue. As far as this function is concerned, this task is now offloaded into the queue, and is no longer its concern.</p>
+<h3>Queue Processing</h3>
+<p>Now we move over to the other side of the queue, which I call the <code>processing</code>&nbsp;function. I won't include the actual data analytics discussion here (because I haven't done much with it, and so I will cover it at a later date when I have more to say), but what I will cover is getting the trigger, and sending notification out to Slack.</p>
+
+<pre class="code_block"><code class="java">@FunctionName("processing")
+public void processUrlClick(
+        @QueueTrigger(name = Util.PROCESSING_QUEUE_NAME, queueName = Util.PROCESSING_QUEUE_QUEUE_NAME, connection = "AzureWebJobsStorage") String request,
+        final ExecutionContext context) {
+
+    Analytics analytics = Analytics.parse(request);
+    context.getLogger().info("Received on queue: " + analytics);
+
+    SlackUtil.sendMessage("Shortlink visited: " + analytics, SlackUtil.CHANNEL_GENERAL);
+}</code></pre>
+
+<p>In this code you can see that instead of <code>@QueueOutput</code>&nbsp;we now have a <code>@QueueTrigger</code>&nbsp;annotation. This tells Azure that we are expecting this method to be triggered whenever the specified queue has elements added to it, with the new value that was added to the queue being set as the value of the <code>request</code>&nbsp;string argument. When this queue value is received, you can see we have some analytics code (to be covered in a future post) that takes the pipe-delimited string from earlier and turns it back into separate values, and then logs it and sends a notification to Slack.</p>
+
+<p>That is remarkably simple! We've offloaded time-intensive work to a separate function, unblocking our <code>redirect</code>&nbsp;function and enabling it to be more responsive to visitors. At the same time, the complexity of the code is kept to a minimum.</p>
+
+<p>This approach to integrating queues into Azure Functions is really useful, but you can also use queues outside of functions as well. There is a good tutorial on <a href="https://docs.microsoft.com/en-us/azure/storage/queues/storage-java-how-to-use-queue-storage">how to use the queues API in Java</a>.</p>
+<h3>Sending to Slack</h3>
+<p>I like Slack a lot, and I use it for both communications and notifications. I like that it is really easy to setup and integrate with external systems. Because Slack supports incoming webhooks, I simply added a dependency in my <a href="https://azure.microsoft.com/en-us/services/functions/">Azure Functions</a> to <a href="https://github.com/OpenFeign/feign">Feign</a>, and wrote a few lines of code to allow for me to send messages to my account. Here's the Slack interface I wrote:</p>
+
+<pre class="code_block"><code class="java">public interface Slack {
+
+    @RequestLine("POST /services/{webhookUrl}")
+    void sendMessage(@Param("webhookUrl") String webhookUrl, @Param("text") String text, @Param("channel") String channel);
+}</code></pre>
+
+<p>I then wrote a <code>SlackUtil</code>&nbsp;class to make consuming this interface even simpler:</p>
+
+<pre class="code_block"><code class="java">public class SlackUtil {
+
+    public static final String CHANNEL_GENERAL = "#general";
+
+    private static final String webhookUrl = System.getenv("slack-webhook-url");
+
+    private static final Slack slackClient;
+    static {
+        slackClient = Feign.builder()
+                .encoder(new JacksonEncoder())
+                .target(Slack.class, "https://hooks.slack.com");
+    }
+
+    public static void sendMessage(String text, String channel) {
+        slackClient.sendMessage(webhookUrl, text, channel);
+    }
+}</code></pre>
+
+<p>To use this code, you can refer back to the processing function earlier: it's a single line call to send a message directly to the #general channel in my Slack account. The only external element in the webhook URL, which I added as an application setting in Azure, so that it isn't part of the source code that I ship into GitHub (so people can't spam me) :-) To learn more about how to bring in application settings (both when developing Azure Functions locally and also when deployed to the web), I've posted a <a href="/posts/2018/environment-variables-in-azure-functions-with-java/">separate article explaining best practices</a>.</p>
+<h3>Summary</h3>
+<p>As with my first post on this topic - serverless programming makes server-side development really easy, even for people who are not skilled server-side developers! If you are a Java developer, you&nbsp;should definitely take a look at <a href="https://azure.microsoft.com/services/functions/">Azure Functions</a> today - get started with the <a href="http://java.ms/free">free tier</a> and go from there! As I noted in my last post - <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-one/">the cost of operating these services</a> is extremely minimal (cents per month).</p>
+]]></Content>
+	</post>

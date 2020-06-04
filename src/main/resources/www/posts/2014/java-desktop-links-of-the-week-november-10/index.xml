@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1830</ID>
+		<Slug>java-desktop-links-of-the-week-november-10</Slug>
+		<Title>Java desktop links of the week, November 10</Title>
+		<Date>2014-11-09</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A few good links this week means I can get the post out quickly and back to my day job! :-) Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has announced the <a href="http://tomsondev.bestsolution.at/2014/11/05/efxclipse-1-1-0-released/">release of e(fx)clipse 1.1.0</a>. His post details all the improvements in this release - it sounds like an excellent update!</li>
+	<li><strong>Arnaud Nouard</strong> has blogged about the <a href="http://arnaudnouard.wordpress.com/2014/11/06/threedom-is-dead-long-live-to-threedom-in-scenicview/">shuttering of his ThreeDOM project</a>......and the resurrection of ThreeDOM inside Scenic View! Go and watch the video - what he has done is very cool!</li>
+	<li><strong>Jens Deters</strong> has posted about <a href="http://www.jensd.de/wordpress/?p=1650">property extractors</a>, which he says is the 'best way to get the ListView instantly updating its elements'.</li>
+	<li><strong>Hendrik Ebbers</strong> has blogged about <a href="http://www.guigarage.com/2014/11/responsive-design-javafx/">ResponsiveFX</a>, his library for creating responsive layouts in JavaFX.</li>
+	<li>The <strong>JacpFX project blog</strong> has a post titled '<a href="http://jacpfx.org/2014/11/03/JacpFX_DataFX_a_perfect_match.html">JacpFX and DataFX-flows, a perfect match for JavaFX</a>'.</li>
+	<li><strong>Sylwia Dorota Kedzia</strong> has posted an article on '<a href="https://blog.idrsolutions.com/2014/11/write-media-player-javafx-using-netbeans-ide/">How to write a Media Player in JavaFX using NetBeans IDE</a>'.</li>
+	<li><strong>Micha Kops</strong> has a post on '<a href="http://www.hascode.com/2014/11/creating-different-websocket-chat-clients-in-java/">creating different websocket chat clients in Java</a>'.</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

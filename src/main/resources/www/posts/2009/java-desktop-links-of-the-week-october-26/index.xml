@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>626</ID>
+		<Slug>java-desktop-links-of-the-week-october-26</Slug>
+		<Title>Java desktop links of the week, October 26</Title>
+		<Date>2009-10-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A pretty good news week this one, but because it's a public holiday here in New Zealand, and I'd rather be enjoying the sun, I'm cutting straight to it. Enjoy!</p>
+<h4>General</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has blogged about an important topic in user interface design - <a href="http://www.joshondesign.com/?p=54">Colour</a> (although he unfortunately calls it 'color' :-) ). He goes into the background and science of colour, and it's well worth a read for anyone tasked with building compelling user interfaces.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li>Coming out of left field this week was <a href="http://pureswing.advel.cz/">PureSwing</a>, which looks to be the best contender for the Swing 2.0 that <a href="/posts/2009swing-20/">I discussed earlier in the year</a>. This looks to be a very interesting project, and one which I hope to see further discussion around in the coming days as people explore it.</li>
+	<li><strong>Kirill Grouchnikov</strong> clearly had Flamingo on his mind this week, with two blog posts discussing how he has <a href="http://www.pushing-pixels.org/?p=1475">enhanced the ribbon application menu in Flamingo 4.2</a>, and improvements to the command buttons in Flamingo to <a href="http://www.pushing-pixels.org/?p=1473">support buttons with no text and/or graphic</a>.</li>
+	<li>IBM developerWorks has an article on <a href="http://www.ibm.com/developerworks/java/library/j-monkeybars/index.html">writing Swing user applications with JRuby</a>.</li>
+	<li>Java.net <a href="http://today.java.net/article/2009/10/17/interview-andr%C3%A9-van-kouwen-and-gmvc-project">interviewed</a> <strong>André van Kouwen</strong>, founder of a new java.net project, <a href="https://gmvc.dev.java.net/">GMVC</a>. GMVC claims to expedite Swing application development and best practices by using Generic Views, Models and Generic Controllers.</li>
+	<li>The <a href="http://kenai.com/projects/bsaf">Better Swing Application Framework</a> announced the <a href="http://kenai.com/projects/bsaf/pages/190M2">milestone 2 release of BSAF 1.9</a>. As noted on their website, BSAF is a fork of the Swing Application Framework (JSR 296). Primary goals for the upcoming release: improve stability, keep backward compatibility with last public release of the SAF (1.03), bug fixing, documentation update (javadoc, introduction), unit tests update, examples update.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>Having just popped up before putting this post out, I haven't watched this yet, but <strong>Peter Pilgrim</strong> has given a talk titled '<a href="http://www.infoq.com/presentations/Java-FX-Peter-Pilgrim">Enterprise JavaFX for the web platform</a>' that may be interesting to people out there.</li>
+	<li>IDE support is starting to improve for JavaFX, with both Eclipse and NetBeans getting newer / beta plugin releases. For NetBeans, it is <a href="http://www.netbeans.org/community/releases/68/">6.8 beta</a>, which includes improved code completion, editor hints and navigation. The beta is available now, with the final release due in December. Additionally, the <a href="http://mkblog.exadel.com/tools/exadel-javafx-studio-1-1-now-available/">Exadel JavaFX Studio 1.1 plugin for Eclipse</a> has been released, which includes much of the same functionality, but obviously for Eclipse. Now that I'm developing for Sun, I use NetBeans, but man do I miss Eclipse. Perhaps when I start reading some good reviews for either of the two Eclipse plugins, I'll give them a try again.</li>
+	<li>Some guy called <strong>James Gosling</strong> posted a <a href="http://blogs.sun.com/jag/entry/map_browser_on_kenai">JavaFX-based map browser</a> that he used when presenting at Oracle OpenWorld recently. You can <a href="http://kenai.com/projects/osmbrowser/pages/Home">find out more at the Kenai project page</a>.</li>
+	<li><strong>Sten Anderson</strong> blogged about <a href="http://blogs.citytechinc.com/sanderson/?p=168">Music Explorer FX Mobile Edition</a>, which is a port of his award-winning Music Explorer FX to work on JavaFX-enabled mobile devices.</li>
+	<li><strong>Stephen Chin</strong> announced a <a href="http://steveonjava.com/2009/10/24/widgetfx-1-2-4-released-happy-halloween/">new release of WidgetFX</a>, which includes a new slideshow widget, improved support for 64-bit and international operating systems, and of course bug fixes.</li>
+	<li><strong>Eric Wendelin</strong> blogged about <a href="http://eriwen.com/programming/the-tech-behind-cheqlist/">the technology behind Cheqlist</a>, which I referred to last week. Cheqlist is a JavaFX application that connects to the online Remember The Milk web service.</li>
+</ul>
+<h4>Special Bonus Link</h4>
+<ul>
+	<li>Because I'm feeling generous and because it's a public holiday here in New Zealand, here's a <a href="http://blog.jayway.com/2009/10/22/google-collections/">special bonus link</a> that isn't directly desktop related, but you really should go to it anyway. It's one of many overviews of the <a href="http://code.google.com/p/google-collections/">Google Collections library</a>, which you should all be using as it is an absolutely great library.</li>
+</ul>
+<p>As always, have a great week everyone, and keep up all the hard work.</p>
+]]></Content>
+	</post>

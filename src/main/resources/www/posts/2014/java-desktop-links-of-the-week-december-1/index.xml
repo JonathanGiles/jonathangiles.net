@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1840</ID>
+		<Slug>java-desktop-links-of-the-week-december-1</Slug>
+		<Title>Java desktop links of the week, December 1</Title>
+		<Date>2014-11-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>It's already December (at least here in New Zealand)! This year will soon be over - time is absolutely flying. Here's the links from the last week - enjoy.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has been working on a <a href="http://tomsondev.bestsolution.at/2014/11/26/texteditor-framework-with-e4-and-javafx-including-jdt-and-nashorn/">TextEditor Framework with e4 and JavaFX</a> (including jdt and nashorn). It looks very promising.</li>
+	<li><strong>Paul Bakker</strong> has posted a very interesting post (and video) showing <a href="http://paulonjava.blogspot.nl/2014/11/making-javafx-better-with-osgi.html">JavaFX working in an OSGi environment</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> has written another of his 'Friday Fun Components', this time a gauge that shows the <a href="http://harmoniccode.blogspot.co.nz/2014/11/friday-fun-component-xx.html">current heart rate and the average heart rate in one gauge</a>.</li>
+	<li><strong>Matthieu Brouillard</strong> has posted about how <a href="http://blog.matthieu.brouillard.fr/2014/11/25/cssfx-pushed-to-scenicview/">CSSFX is making its way into Scenic View</a>.</li>
+	<li><strong>Ken Fogel</strong> has posted on NetBeans in the classroom, in particular his thoughts on '<a href="http://netbeans.dzone.com/nb-class-javafx-jdbc">JavaFX and JDBC -- A Winning Combination</a>'.</li>
+	<li><strong>Efrain Bergillos</strong> has posted a code snippet for <a href="http://www.efrainbergillos.com/clojure/css-javafx-clojure/">setting CSS styles for a JavaFX application written in Clojure</a>.</li>
+</ul>
+<p>That's all folks. Catch you next week :-)</p>
+]]></Content>
+	</post>

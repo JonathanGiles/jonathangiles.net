@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1309</ID>
+		<Slug>java-desktop-links-of-the-week-september-10</Slug>
+		<Title>Java desktop links of the week, September 10</Title>
+		<Date>2012-09-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all! Sorry for the delay in this weeks post - I've been snowed under with work (as per usual it seems!). Please pardon the brevity this week :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> posted some <a href="http://fxexperience.com/2012/09/preliminary-performance-numbers-in-javafx-8/">performance numbers</a> based on our work on JavaFX 8.0 performance. A large number of JavaFX team members have been solely focusing on performance for JavaFX 8.0, and we have some very pleasing numbers to show for it.
+<strong></strong></li>
+	<li><strong>Mark Heckler</strong> has done another post on his <a href="https://blogs.oracle.com/javajungle/entry/dialogfx_a_new_approach_to">DialogFX&nbsp; project</a>.</li>
+	<li><strong>Danno Ferrin</strong> has blogged about <a href="http://shemnon.posterous.com/javafx-groovy-and-griffon">JavaFX, Groovy and Griffon</a>, which talks about the newly-updated <a href="http://artifacts.griffon-framework.org/plugin/javafx">JavaFX plugin for Griffon</a>.</li>
+	<li><strong>Carl Dea</strong> has <a href="http://carlfx.wordpress.com/book-code/">updated the examples</a> for his 'Introduction to JavaFX 2' book to work better with JavaFX 2.2.</li>
+	<li><strong>Andy Till</strong> has blogged about <a href="http://andrewtill.blogspot.co.uk/2012/09/reusable-fxml-controls-with-guice.html">reusable FXML controls using Google Guic</a>e.</li>
+	<li><strong>Pedro Duque Vieira</strong> has posted o<strong></strong>n <a href="http://pixelduke.wordpress.com/2012/09/09/style-a-stage-in-a-minimalist-way/">minimalistic styling for JavaFX Stages</a>.</li>
+	<li><strong>Wichit Sombat</strong> has posted an applet that is a <a href="http://privatewww.essex.ac.uk/~wsomba/ParticleFx.html">simple particle system</a> written in JavaFX 2.2 (presumably using the new Canvas API).</li>
+	<li>Among many others, I would like to say that <a href="http://www.devoxx.com/display/DV12/Jonathan+Giles">I will definitely</a> be at Devoxx this year, giving three talks. I'm looking forward to it!</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li style="text-align: left;"><strong>Roger Brinkley</strong> has a video on YouTube that covers 8 things you might not know that are <a href="http://www.youtube.com/watch?v=a6w6qHNtgZc">new in Java 7 UI APIs</a>. Topics covered included Nimbus, JLayer, mixing AWT and Swing, translucent windows, and a few more!</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1041</ID>
+		<Slug>java-desktop-links-of-the-week-may-9</Slug>
+		<Title>Java desktop links of the week, May 9</Title>
+		<Date>2011-05-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>swing</Tags>
+		<Content><![CDATA[<p>A number of good links this week, particularly with further progress in a few interesting projects. Thanks to the people who email me links and suggestions, they're always appreciated! Let's get on with the show :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has released <a href="http://harmoniccode.blogspot.com/2011/05/steelseries-39.html">SteelSeries 3.9</a>, an incompatible release including a bunch of new features. SteelSeries is a great (free) library for people needing to include gauges and similar visualisations into their applications.</li>
+	<li>In another post, <strong>Gerrit</strong> has shown <a href="http://harmoniccode.blogspot.com/2011/05/grinded-steel-plate-effect.html">how to create a 'grinded steel plate' effect in Java2D</a>.</li>
+	<li><strong>Alexander Potochkin</strong> continues his series of 'Swing in a better world', this time talking about '<a href="http://weblogs.java.net/blog/alexfromsun/archive/2011/05/05/swing-better-world-generics-and-arrays">generics and arrays</a>'.</li>
+	<li><strong>Penkov Vladimir</strong> let me know about his <a href="http://code.google.com/p/swinghtmltemplate/">swinghtmltemplate project</a>, which allows for declaring Swing user interfaces using HTML and CSS. There are plenty of examples in the previous link, and also more on the <a href="http://code.google.com/p/swinghtmltemplate/w/list?q=label:example">samples page</a>.</li>
+	<li>For people interested in <a href="http://platform.netbeans.org/tutorials/nbm-porting-basic.html">porting their Swing apps to the NetBeans platform</a>, there is an updated porting tutorial available now that NetBeans 7.0 has been released.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has released <a href="http://leonardosketch.org/2011/05/185/">beta 2 of Leonardo 1.0</a>, which is an open source drawing tool written using <a href="http://www.goamino.org">Amino</a>, his open source Java UI toolkit.</li>
+</ul>
+<p>That's that for another week. Keep up the hard work folks, it's always pleasing to see what everyone is up to! Catch you in a weeks time.</p>
+]]></Content>
+	</post>

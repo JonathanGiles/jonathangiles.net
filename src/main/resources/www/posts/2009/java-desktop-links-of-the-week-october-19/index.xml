@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>623</ID>
+		<Slug>java-desktop-links-of-the-week-october-19</Slug>
+		<Title>Java desktop links of the week, October 19</Title>
+		<Date>2009-10-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Wow - this is perhaps the most balanced post in the last four - five months. Between the various sections, we have news this week on Swing, JavaFX, Griffon, NetBeans RCP and a general animation library (commonly used for Swing and SWT). There must be a little bit of news for everyone this week! :-)</p>
+<h4>General</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has announced the <a href="http://www.pushing-pixels.org/?p=1465">official release of Trident 1.1</a>. Trident is a Java animation library that can work generally with any GUI toolkit to add animation to your applications. It includes a number of new features over earlier releases, so make sure you update if at all possible.</li>
+	<li><strong>Antonio Santiago</strong> has posted a blog about <a href="http://netbeans.dzone.com/tips/how-create-multiplatform">creating a cross-platform application using the NetBeans RCP</a> that uses Nasa's WorldWind library.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill</strong> also posted a <a href="http://www.pushing-pixels.org/?p=1467">roadmap for Substance 6.0</a>. The main goals are to <strong></strong>remove deprecated methods / classes, restructure the code base, (including renaming packages), and moving animations to use the Trident animation library. In other words, get ready to complain that Substance doesn't immediately work for you in version 6.0 :-)</li>
+	<li><strong>Anthony Goubard</strong> posted an <a href="http://java.dzone.com/articles/new-color-chooser-jdk-7">overview of the new color chooser in JDK7</a>. The comments quickly devolve to the point where people are suggesting improvements and alternatives. I would have to agree - the color chooser in JDK 7 isn't the nicest looking at all.</li>
+	<li>I came across a 'new' LGPL docking framework for Swing this week, after it was discussed on twitter. It is called <a href="http://dock.javaforge.com/index.html">DockingFrames</a>, and may be of some interest to people evaluating the various Swing docking frameworks out there.</li>
+	<li><a href="http://support.teamdev.com/community/miscellaneous/announcements/blog/2009/10/09/jxbrowser-20-early-access-program">JxBrowser 2.0 was announced this week</a>, and it is now at the point where an Early Access Program is underway. JxBrowser is a cross-platform library that allows integrating Mozilla Firefox, Apple Safari (WebKit) and Microsoft Internet Explorer browsers into Java AWT/Swing applications on Windows, Linux and Mac OS X platforms. Note that it is <strong>not</strong> a free library.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>Responding to last weeks announcement of the <a href="http://learnjavafx.typepad.com/weblog/2009/10/announcing-the-javafxpert-ria-exemplar-challenge.html">JavaFX RIA exemplar challenge</a>, <strong>Jasper Potts</strong> (of the JavaFX Controls team) posted a lot of <a href="http://fxexperience.com/2009/10/win-2000-in-ria-exemplar-challenge/">additional information / Photoshop files related to the Caspian theme</a> currently being used in JavaFX. If you're thinking of entering this competition, don't miss out on this information!</li>
+	<li><strong>Stuart Marks</strong>, another guy in the JavaFX Controls team with me, post about '<a href="http://stuartmarks.wordpress.com/2009/10/12/that-infernal-scene-graph-warning-message/">that infernal scene graph warning</a>' that almost certainly all JavaFX developers have come across at one point or another.</li>
+	<li><strong>Eric Wendelin</strong> blogged about his <a href="http://eriwen.com/tools/cheqlist-remember-the-milk-app/">Cheqlist application</a>, which is a free, open-source JavaFX application for <a href="http://www.rememberthemilk.com/">Remember The Milk</a>.</li>
+	<li><strong>Jeff Frieson</strong> has <a href="http://javajeff.mb.ca/cgi-bin/makepage.cgi?javafx/stasol/stasol">blogged about the JavaFX ScrollBar control</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>James Williams</strong> posts a Griffon tip: How to <a href="http://jameswilliams.be/blog/entry/160">toggle an application window between normal and full screen modes</a>.</li>
+	<li><strong>Josh Reed</strong> has published two blog posts. Firstly he has a Griffon tip of his own: A couple of&nbsp; '<a href="http://josh-in-antarctica.blogspot.com/2009/10/griffon-tip-silly-swingbuilder-tricks.html">silly swingbuilder tips</a>'. Secondly, he has a more comprehensive post on <a href="http://josh-in-antarctica.blogspot.com/2009/10/multi-document-griffon-applications.html">multi-document Griffon applications</a>.</li>
+	<li><strong>Andres Almiray</strong> has blogged about a <a href="http://www.jroller.com/aalmiray/entry/griffon_adding_rest">new REST plugin for Griffon</a>, to make it easy for Griffon applications to communicate RESTfully with remote servers. Additionally, he also blogged about <a href="http://www.jroller.com/aalmiray/entry/griffon_new_plugin_additions">two other new plugins for Griffon</a>, a 'busy component' overlay, and a coverflow plugin to make it trivial to have coverflow style user interfaces in Griffon applications.</li>
+</ul>
+<p>That's another week down. Keep firing me your links if you think you've found something useful - it's always much appreciated. Keep up the good work everyone. Until next week - stay classy! :-)</p>
+]]></Content>
+	</post>

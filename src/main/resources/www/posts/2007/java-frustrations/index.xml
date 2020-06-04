@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>98</ID>
+		<Slug>java-frustrations</Slug>
+		<Title>Java Manifest Frustrations</Title>
+		<Date>2007-06-29</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>I am a fan of the Java programming language. Tonight was a rare example of when I was not a Java fan. I want to quickly detail what I was doing, and what I needed to do to fix my problem, so that others will not waste the hours that I did.</p>
+
+<p><strong>In summary</strong>: I wanted my program to start. Not a big ask, and a somewhat important feature of my application.</p>
+
+<p>My program started fine in my dev environment (so it must be alright!), but when starting from a command line batch script, it failed miserably.</p>
+
+<p><strong>Problem:</strong> My classpath was too long. This basically means I was making use of so many external libraries that my command going into the dos-prompt was considerable. So considerable in fact that Windows would not run it.</p>
+
+<p><strong>Mission:</strong> To make my command line shorter.</p>
+
+<p><strong>Approach:</strong> Simple - simply move my classpath references to external libraries into the manifest of my application .jar file (similar to an .exe file really). This is simple, you write a bit of code like this into the ANT build script, and it's done automagically:</p>
+<p><code></p>
+<p>&lt;manifestclasspath property="jar.classpath" jarfile="${web-inf.dir}/libs/${jarFile}"&gt;</p>
+<p>&lt;classpath refid="classpath" /&gt;</p>
+<p>&lt;/manifestclasspath&gt;</p>
+<p>&lt;jar destfile="${web-inf.dir}/libs/${jarFile}" index="yes"&gt;</p>
+<p>&lt;fileset dir="${build.dir}"/&gt;</p>
+<p>&lt;manifest&gt;</p>
+<p>&lt;attribute name="Class-Path" value="${jar.classpath}"/&gt;</p>
+<p>&lt;attribute name="Main-Class" value="...main class..."/&gt;</p>
+<p>&lt;/manifest&gt;</p>
+<p>&lt;/jar&gt;</p>
+<p></code></p>
+<p>Excellent. I go to run the program....not so excellent, in fact, it simply couldn't find any external libraries. Of course, I had gotten past the 'line too long' windows 'feature'.</p>
+
+<p>The manifest file being created looked fine, but just to be sure I tried dozens of slight permutations. None worked. I started trawling the internet, for hours, and then I found <a href="http://forum.java.sun.com/thread.jspa?forumID=22&amp;start=0&amp;threadID=568620&amp;range=15#2811377">this</a>. Long story short - that index="yes" above had to be a index="no" for <u>any</u> external library to be discovered and loaded from my manifest. This index option essentially speeds up class loading, so in all regards it seems like a feature most people would have on in their build scripts by default. Surely this means that a large number of people will encounter this problem. I can't see why Sun can't get this right...</p>
+
+<p>Anyway, let this be a lesson to everyone - and especially the future me, when I invariably trip up on this again.</p>
+]]></Content>
+	</post>

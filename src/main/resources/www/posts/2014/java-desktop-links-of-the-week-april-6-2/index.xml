@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1706</ID>
+		<Slug>java-desktop-links-of-the-week-april-6-2</Slug>
+		<Title>Java desktop links of the week, April 6</Title>
+		<Date>2014-04-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>I'm going to be away from my computer for all of tomorrow, so here's the Java desktop links from the past week, roughly 12 hours early! Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has posted twice in the past week. Firstly, he created a new gauge called '<a href="http://harmoniccode.blogspot.co.nz/2014/04/just-because-you-asked-for-it.html">AirCompass</a>', which he ported (quickly) from his Swing SteelSeries library. Secondly, he has created a 'poor mans live editor' by <a href="http://harmoniccode.blogspot.co.nz/2014/04/poor-mans-live-editor.html">combining the JavaFX WebView component with the Nashorn JavaScript engine</a>.</li>
+	<li><strong>Amrullah</strong> has a post about a beta release of TiwullFX 2.0 (for JavaFX 8.0) being <a href="http://tiwulfx.panemu.com/tiwulfx-2-0-beta-for-java8/">available for download and testing</a>. This library is a very good one if you're doing heavy table-related work (although I've not used it myself, I just think the feature set sounds cool).</li>
+	<li><strong>Pedro Duque Vieira</strong> continues to improve his JMetro style for JavaFX, this time <a href="http://pixelduke.wordpress.com/2014/03/30/metro-style-slider-for-java-jmetro/">focusing on the Slider control</a>. I've not really looked into Metro styling at all, but it seems to me that the slider fill colour on the vertical sliders appear to be coming out from the wrong side (the top rather than the bottom)? I guess it is hard to judge as the horizontal sliders are all at their zero position, so you can't see what the fill colour is to the left of the thumb.</li>
+	<li><strong>Jens Deters</strong> has blogged about <a href="http://www.jensd.de/wordpress/?p=1029">using Swing and JavaFX in a single application</a> by using JFXPanel.</li>
+	<li><strong>Jeff Martin</strong> has updated his SnapCode project to include <a href="http://reportmill.wordpress.com/2014/04/04/snapcode-update-april-4-console-io/">support for console i/o</a>.</li>
+	<li><strong>Simon Lissack</strong> has a blog post detailing the many ways in which <a href="http://blog.idrsolutions.com/2014/04/use-external-css-files-javafx/">external stylesheets can be loaded in JavaFX</a>.</li>
+	<li><strong>Frank Roth</strong> has a blog post about his <a href="http://blog.mynotiz.de/allgemein/jsona-simple-javafx-based-music-player-2223/">jSona project</a> mentioned last week (a JavaFX-based music player).</li>
+	<li><strong>Bruno Borges</strong> has a blog post about his <a href="http://blog.brunoborges.com.br/2014/03/javafx-version-of-2048-game.html">JavaFX version of the 2048 game</a>. The source code is available, and as he notes, he used this project to better learn about a number of things, including lambda expressions, the Stream API, JavaFX 8, JavaFX CSS basics and JavaFX animations.</li>
+	<li><strong>Sébastien Bordes</strong> has a post about JRebirth (his JavaFX application framework) <a href="http://blog.jrebirth.org/javafx/jrebirth-running-on-equinox">running on Equinox</a>.</li>
+</ul>
+<p>Keep up the great work folks! Catch you all next week! :-)</p>
+]]></Content>
+	</post>

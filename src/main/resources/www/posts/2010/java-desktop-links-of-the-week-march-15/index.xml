@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>755</ID>
+		<Slug>java-desktop-links-of-the-week-march-15</Slug>
+		<Title>Java desktop links of the week, March 15</Title>
+		<Date>2010-03-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>I thought I'd start todays post with a quote that Kirill proviously linked to. The quote is from <a onclick="javascript:pageTracker._trackPageview('/outgoing/mattgemmell.com/2010/03/09/engineer-thinking');" href="http://mattgemmell.com/2010/03/09/engineer-thinking">“Engineer  Thinking”</a> by <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.twitter.com/mattgemmell');" href="http://www.twitter.com/mattgemmell">Matt Legend Gemmell</a>:</p>
+<p><blockquote>If you’ve exposed underling complexity or unnecessary  choice in your software because you see those things as inevitable, it’s  because your job isn’t finished. If you’re going to write GUI software  for other people to use, do it properly, and treat those people like  human beings instead of software engineers. If you want to expose  complexity to the user and wash your hands of it, write command-line  tools – or utilities that are used exclusively by other machine  processes.</p>
+
+<p>You can’t have it both ways. Writing GUI software is for people who  strive for excellence not only in the “software” part but <em>in the  “GUI” part too</em>.</blockquote></p>
+<p>And with that reminder, let's get into the news.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Eugene Ryzhikov</strong> continues his series on 'Swing Task Dialogs' with parts <a href="http://mcoj.wordpress.com/2010/03/07/swinging-task-dialog-part-2/">two</a> and <a href="http://mcoj.wordpress.com/2010/03/13/swinging-task-dialog-part-3/">three</a>.</li>
+	<li><strong>Kirill Grouchnikov</strong> has posted about what is <a href="http://www.pushing-pixels.org/?p=1651">new in Trident 1.2</a>.</li>
+	<li><strong>Damien Ielsch</strong> blogged this week about <a href="http://free-the-pixel.blogspot.com/2010/03/substance-l-button-with-multiline-text.html">multiline buttons in the Substance L&amp;F</a>.</li>
+	<li><strong>Jyloo Software</strong>, the people behind the Synthetica L&amp;F have written an article discussing <a href="http://www.jyloo.com/news/?pubId=1268254738000">window decoration options available to users of Synthetica</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>The Silicon Valley JavaFX Users Group have announced the <a href="http://www.svjugfx.org/calendar/12863551/?eventId=12863551&amp;action=detail">next talk to be on April 14</a> by <strong>Stuart Marks</strong>, a member of the JavaFX UI Controls team (and therefore a teammate of mine). This will be a very good talk as Stuart is very articulate and precise when answering questions and delving into details.</li>
+	<li><strong>JavaFX.com</strong> have updated two documents this week: Their article on '<a href="http://javafx.com/docs/articles/ShapeSubtractIntersect/">Shape Intersection, Subtraction, and Union</a>' and their tech-tip on '<a href="http://javafx.com/docs/techtips/Localize-JavaFX-Application/">Localizing your JavaFX application</a>'.</li>
+	<li><strong>Rakesh Menon</strong> has posted about <a href="http://rakeshmenonp.wordpress.com/2010/03/08/javafx-how-to-layout/">how to layout user interfaces in JavaFX</a>.</li>
+	<li><strong>Jeff Frieson</strong> has posted about creating his <a href="http://javajeff.mb.ca/cgi-bin/mp.cgi?/java/javafx/articles/pcme">painter's canvas for mobile devices</a>.</li>
+	<li><strong>Max Katz</strong> has written about <a href="http://java.dzone.com/articles/javafx-and-seam-flamingo?page=0">JavaFX and Seam with Flamingo</a>. This article shows how Flamingo letts you easily connect JavaFX with Seam or Spring back-ends.</li>
+	<li><strong>Antoine Mischler</strong> has posted about how to '<a href="http://blog.dooapp.com/spice-up-your-javafx-project-with-maven">spice up your JavaFX application with Maven</a>'.</li>
+</ul>
+<p>So, all in all some interesting links this week. I hope they were interesting and helpful, and if not, well, let me know :-)</p>
+
+<p>Catch you all in a weeks time!</p>
+]]></Content>
+	</post>

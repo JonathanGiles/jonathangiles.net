@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3171</ID>
+		<Slug>java-desktop-links-of-the-week-october-8</Slug>
+		<Title>Java desktop links of the week, October 8</Title>
+		<Date>2018-10-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<ul>
+ 	<li>A JavaFX <a href="https://github.com/AmaronUI/amaronui-layouts/tree/master/jfxflexbox">FlexBox layout</a> has surfaced on GitHub. Very cool!</li>
+ 	<li><strong>Kirk Pepperdine</strong> has got a short article online about <a href="https://kirkpepperdine.quora.com/JavaFX-with-JDK-11">using JavaFX with JDK 11</a>.</li>
+ 	<li><strong>Carl Dea</strong> has a post about <a href="https://www.apress.com/us/blog/all-blog-posts/animated-effects-through-javafx-callouts/16110466">animated effects through JavaFX callouts</a>.</li>
+ 	<li><strong>Herb Bowie</strong> has converted his <a href="https://notenik.net/">Notenik</a> note taking application from <a href="https://github.com/hbowie/notenik2">Swing to JavaFX in Notenik 2</a>.</li>
+ 	<li><strong>Forbes</strong> has an article online about the <a href="https://www.forbes.com/sites/oracle/2018/10/03/developers-can-play-a-javafx-powered-augmented-reality-scavenger-hunt-at-oracle-code-one/#f08fb1251c0a">augmented reality scavenger hunt game</a> coming to Oracle Code One, written in Java / JavaFX using <a href="https://gluonhq.com/products/mobile">Gluon Mobile</a>, and running on iOS and Android.</li>
+</ul>
+]]></Content>
+	</post>

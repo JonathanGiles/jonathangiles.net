@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2152</ID>
+		<Slug>java-desktop-links-of-the-week-august-15-2</Slug>
+		<Title>Java desktop links of the week, August 15</Title>
+		<Date>2016-08-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Things are getting quiet around here! As I say every year around this time, people must be starting to think about JavaOne and planning their talks, and open source projects and news tends to go a little bit quiet :-) It's only a month to go until JavaOne now!</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> has written an article on <a href="https://community.oracle.com/docs/DOC-1004888">sharing your location with friends using the cloud</a>&nbsp;(as well as JavaFX and Gluon on mobile devices).</li>
+ 	<li><strong>Peter Rogge</strong> has released <a href="https://github.com/Naoghuman/lib-tile">'Lib-Tile' 0.1.0</a>. As he puts it: "Lib-Tile is a multi Maven project written in JavaFX<a id="yui_3_16_0_ym19_1_1471090471898_33901" href="http://docs.oracle.com/javase/8/javase-clienttechnologies.htm"></a> and NetBeans 8.0.2 and provides the functionalities to use and handle easily Tiles in your JavaFX<a id="yui_3_16_0_ym19_1_1471090471898_33904" href="http://docs.oracle.com/javase/8/javase-clienttechnologies.htm"></a> application.&nbsp;A Tile<a id="yui_3_16_0_ym19_1_1471090471898_33906" href="https://github.com/Naoghuman/lib-tile/blob/master/Lib-Tile-Core/src/main/java/com/github/naoghuman/lib/tile/core/Tile.java"></a> is per definition a little transparent Image<a id="yui_3_16_0_ym19_1_1471090471898_33907" href="https://docs.oracle.com/javase/8/javafx/api/javafx/scene/image/Image.html"></a> which overlay a background-color or -image with the help of repetitions from the image in a layer."</li>
+ 	<li>There have been updates to a number of open source projects, including <a href="https://github.com/HanSolo/Medusa">Medusa</a>, <a href="https://github.com/ReactiveX/RxJavaFX">RxJavaFX</a>, the <a href="https://github.com/Naoghuman/NetBeansIDE-AfterburnerFX-Plugin">NetBeans IDE afterburner.fx plugin</a>, and <a href="https://github.com/frosch95/SmartCSV.fx">SmartCSV.fx</a>.</li>
+</ul>
+]]></Content>
+	</post>

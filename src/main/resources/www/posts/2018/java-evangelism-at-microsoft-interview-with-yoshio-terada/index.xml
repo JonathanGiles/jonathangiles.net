@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2896</ID>
+		<Slug>java-evangelism-at-microsoft-interview-with-yoshio-terada</Slug>
+		<Title>Java Evangelism at Microsoft: Interview with Yoshio Terada</Title>
+		<Date>2018-02-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Microsoft]]></Categories>
+		<Tags>interview</Tags>
+		<Content><![CDATA[<p>Today I am kicking off an interview series with people who are using or developing <a href="https://docs.microsoft.com/en-us/java/azure/">Java solutions on Azure</a>. I have a number of people already in the pipeline, so this should be a regular series. If you want to be interviewed, please <a href="mailto:jonathan@jonathangiles.net">get in touch with me</a>!</p>
+
+<p>My first interview is with <strong>Yoshio Terada</strong>, a Java Champion, JUG leader, and Java evangelist working at Microsoft Japan. I've known Yoshio for a long time, as we overlapped our careers at Sun Microsystems and Oracle. Yoshio has had a very long affiliation with Java, so it is my pleasure to interview him below, and I hope you enjoy!</p>
+
+<p><img class="aligncenter size-medium wp-image-2906" src="/content/2018/02/yoshio-300x300.png" alt="Yoshio Terada" width="300" height="300"></p>
+
+<p><strong>Hi Yoshio – can you please introduce yourself to everyone?</strong></p>
+<p>Thank you so much for providing me this great opportunity. I have been working as a Java Evangelist at Microsoft Japan since July 2015. I am also one of the board members of the <a href="http://www.java-users.jp/">Japanese Java Users Group</a>.</p>
+
+<p>Before I joined Microsoft, I worked as a <a href="https://en.wikipedia.org/wiki/GlassFish">GlassFish</a> evangelist at Sun Microsystems Japan. After acquisition of Sun by Oracle, I worked as a Java/Java EE evangelist at Oracle Japan for five years. My work at Oracle Japan involved planning, managing, and speaking at many Java related technical conferences and events in Japan, such as JavaOne Tokyo, Java Day Tokyo, and Japanese Java Users Group events. In July 2016, I became a <a href="https://blogs.oracle.com/java/yoshio-terada">Java Champion</a>.</p>
+
+<p><strong>So you've been at Microsoft for a while now - much longer than me as I just <a href="/posts/2018/hello-microsoft/">joined in December</a>, but we both have a relatively similar career background - I also was at Sun Microsystems and then Oracle, but I was over in the engineering organisation. I'd be interested in hearing your impressions of Java at Microsoft, and perhaps if you have any sense of how Microsoft has changed over time with regard to Java?</strong></p>
+<p>In the past, I never thought that I would work at Microsoft, because my background was focused on Unix and Java. However now Microsoft is a cloud platform company, there is a focus not only on .NET, Windows, and Office, but also we are strongly promoting Unix and other programming languages. Already over 30% of the systems on Azure are running Linux, and on these systems many customers are&nbsp;using <a href="https://docs.microsoft.com/en-us/java/azure/">Java on Azure</a>. For example, <a href="https://docs.microsoft.com/en-us/azure/cloudfoundry/">Pivotal Cloud Foundry on Azure</a>, <a href="https://azure.microsoft.com/en-us/services/service-fabric/">Service Fabric on Azure</a>, <a href="https://docs.microsoft.com/en-us/azure/virtual-machines/linux/openshift-get-started">OpenShift on Azure</a>, and&nbsp;<a href="https://docs.microsoft.com/en-us/azure/container-service/kubernetes/">Kubernetes on Azure</a>. There is a lot of selection for <a href="https://docs.microsoft.com/en-us/java/azure/">Java developers to run their services on Azure now</a>.</p>
+
+<p><strong>What does a normal day look like for you as a&nbsp;Java evangelist at Microsoft based in Japan?</strong></p>
+<p>Recently as a Java evangelist, I have joined many HackFests for customers. A HackFest is working on actual business improvements for customers. It means that after the customer has me sign a NDA, I am given access to the customers source code, and I will give advice or modify the source code for the customer to make improvements. Using my experience with Azure, I will advise the customer on architectural options for running their systems on Azure.</p>
+
+<p>For example, one recent customer wanted to migrate their existing on-premises Java web application to containers on Azure, but at that time they didn't know Kubernetes well.&nbsp;During the hack fest with the customer, I worked closely with them to teach them about how to operate and create the <a href="https://azure.microsoft.com/en-us/services/container-service/">Azure Container Service on Azure</a>. As a result, they could migrate ('Lift &amp; Shift') the existing system in only five days. I could help from both a&nbsp;development point of view as well as an architectural point of view. As a result, the customer was very satisfied with the outcome of this HackFest.</p>
+
+<p>This is something that Java customers all over the world can take advantage of. For readers of this interview - if you are using Java and want to work closely with a Java evangelist such as myself to better use Azure, please <a href="mailto:yoshio.terada@microsoft.com">contact me</a> or ask for your local area's evangelist to discuss a HackFest. Also, now that I'm joining the global organization inside Microsoft, if a customer requests for me to join their HackFest, I may be able to join regardless of location, throughout North America, Europe, Brazil, and many other locations world wide.</p>
+
+<p><strong>Is Microsoft and Azure relevant to a Java engineer or an organization that is based around Java (or languages on the JVM like Kotlin, Scala, etc)?</strong></p>
+<p>Yes, Microsoft is really relevant to Java developers today. There is a lot of focus going into <a href="https://docs.microsoft.com/en-us/java/azure/">Java SDKs</a>. Also, even though there is no SDK for some services, many services provide RESTful interfaces, enabling any programming language to access these services. For example, If you are using Office 365, then you can <a href="https://github.com/yoshioterada/Office-365-Excel-REST-API-for-Java">control Office 365 by using REST calls</a>.</p>
+
+<p><strong>You've probably built some cool demos and tutorials over your time at Microsoft. Do you want to talk about any projects or github repos that readers might want to explore?</p>
+<p></strong>Not all of my work is online, but I've uploaded many demos and samples to my <a href="https://github.com/yoshioterada?tab=repositories">GitHub repository</a>.</p>
+
+<p>One of the most recent demos included many interesting technologies (I published a set of slides, in Japanese, <a href="https://www.slideshare.net/tyoshio2002/istio-on-k8s-on-azure-aks">here</a>). At that time, I showed only one demonstration, which used the following technologies.</p>
+<ul>
+ 	<li><a href="https://github.com/yoshioterada/Cognitive-Bot-LUIS-Util">Bot Framework</a> (more details about <a href="https://docs.microsoft.com/en-us/bot-framework/">Microsoft Bot Service</a>)</li>
+ 	<li><a href="https://github.com/yoshioterada/Cognitive-Bot-LUIS-Util">LUIS</a></li>
+ 	<li><a href="https://github.com/yoshioterada/Microsoft-Translator-WebSocket-Java">Microsoft Translator</a> (more details about <a href="https://www.microsoft.com/en-us/translator/default.aspx">Microsoft Translator</a>)</li>
+ 	<li><a href="https://github.com/yoshioterada/Azure-Functions-For-Java-Sample">Azure Functions for Java</a> (more details about&nbsp;<a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-maven">Azure Functions for Java</a>)</li>
+ 	<li><a href="https://docs.microsoft.com/en-us/azure/aks/">Kubernetes (AKS) on Azure</a></li>
+</ul>
+<p>In a Slack group I could then ask the Bot Framework (which is running in Azure Functions for Java) questions like the following:&nbsp;"Please increase the number of pod for account service". From here,&nbsp;the Azure function would invoke LUIS and analyse the sentence and determine which intent is most appropriate. As a result, the account service will increase the number of pods on Kubernetes for Azure.</p>
+
+<p>If I say "please decrease the number of pod for customer service", then the "customer-service" in kubernetes would be decreased. In this way, I am operating Kubernetes on Azure from a chat bot.</p>
+
+<p>On top of this, I showed a Microsoft Translator demo. As opposed to the above, where I typed text, this demo allowed for voice input. For example, if I spoke to Microsoft Translator and said&nbsp;"Please increase the number of pod for account service" or&nbsp;"please decrease the number of pod for customer service", the software would handle&nbsp;increasing or decreasing the number of pods on Azure Container Services.</p>
+
+<p>All of the above was created using Java, and makes use of a number of Azure services available to Java developers.</p>
+
+<p><strong>Being an evangelist (or cloud developer advocate like I am) is a balancing act between outward interactions with users of the product and inward interactions with teams inside Microsoft. I think all developer advocates have different preferences along this spectrum - I find myself a lot more inward facing, focused on improving developer experience through docs, improved APIs, etc. Where do you find yourself along this spectrum, and how do you prioritize your day to day work?</strong></p>
+<p>For me, I like to interact with developers and customers directly. Of course, I often find places where we need to modify the API or improve documentation, so when necessary I am also busy doing that.</p>
+
+<p>Even today, a lot of customers don't understand a lot about CI/CD, microservices, <a href="https://azure.microsoft.com/en-us/services/cognitive-services/">cognitive services</a>, <a href="https://azure.microsoft.com/en-us/services/functions/">Azure Functions</a>, <a href="https://www.microsoft.com/en-us/translator/default.aspx">Microsoft Translator</a>, <a href="https://www.microsoft.com/en-us/internet-of-things">IoT</a>, <a href="https://powerbi.microsoft.com/en-us/">PowerBI</a>, etc, so I like&nbsp;to explain how to use these technologies to Java developers.</p>
+
+<p><strong>Azure has so many services these days, and many of them are really amazing. Are there any in particular that you're exploring in more detail at the moment, and what is your favourite service overall?</strong></p>
+<p>This is a very difficult question, because Microsoft technology and the global technology trend is changing extremely fast, compared with the past. Just now the demonstration I discussed above consists of a number of my favorite and recommended technologies. However not only <a href="https://docs.microsoft.com/en-us/azure/aks/">Kubernetes</a>, but also <a href="https://docs.microsoft.com/en-us/azure/cloudfoundry/">Pivotal Cloud Foundry</a> and <a href="https://docs.microsoft.com/en-us/azure/virtual-machines/linux/openshift-get-started">Openshift</a> are both very interesting.</p>
+
+<p>Especially, if the customer owns a huge data center in their company, I recommend them to use <a href="https://azure.microsoft.com/en-us/overview/azure-stack/">Azure Stack</a>. Pivotal Cloud Foundry also runs on Azure Stack. So if they would like to reduce the cost of management, Azure Stack become one of the solutions for them.</p>
+
+<p><strong>Microsoft isn’t historically known for its support of Java - but I think more recently Microsoft has made huge strides in truly believing in open source. When you talk to Java engineers and introduce them to Azure, what are their impressions?</strong></p>
+<p>About two and half years ago, I joined Microsoft Japan. At that time already some developers and engineers felt that there had been a change inside Microsoft. However in the last two years, I felt that the impression of Microsoft is changing even more. When I communicate with customers and community members, I get positive feedback from almost of them.</p>
+
+<p>In particular, I get a lot of positive feedback about Microsoft from an AI technology point of view. When I saw Satya Nadella presenting the <a href="https://www.youtube.com/watch?v=rVF2duPVUTY">AI prototype at the Build 2016 conference</a>, I was really impressed, and I shared the video to all of the Java developers around me. This video showed how we engineers can change the world when we imagine the possibility. It was great! It's also really impressive how&nbsp;all of the&nbsp;<a href="https://azure.microsoft.com/en-us/services/cognitive-services/">Microsoft Cognitive services</a> can also be used from Java applications.</p>
+
+<p>When I give the demonstration of cognitive services to other engineers for the first time, many said to me that they would like to try this.</p>
+<p>I thought that this technology can change the world, and also I thought that this kind of technology can change the future of the company.</p>
+
+<p><strong>Thanks so much for your time Yoshio! Do you have any other final words that you want to share with the community?</strong></p>
+<p>For the last two and half years I've been working at Microsoft, many tools, technologies, and services have become available for Java developers. For developers, <a href="https://azure.microsoft.com/en-us/services/visual-studio-team-services/">Visual Studio Team Services</a> (VSTS) is the entry point to manage and control source code. Depending on the team, you can use the build and deploy pipeline on it. Of course, if you are familiar with other CI/CD tool like Jenkins, you can access to it from VSTS.</p>
+
+<p>For Microservice developers, you can create the container environment on such like <a href="https://azure.microsoft.com/en-us/services/container-service/">Azure Container Services</a> (AKS), <a href="https://azure.microsoft.com/en-us/services/container-instances/">Azure Container Instance</a> (ACI), <a href="https://docs.microsoft.com/en-us/azure/cloudfoundry/">Pivotal Cloud Foundry</a> and <a href="https://docs.microsoft.com/en-us/azure/virtual-machines/linux/openshift-get-started">OpenShift</a>.</p>
+
+<p>More over, if you would like to create IoT, BigData, NoSQL and so on, we(Microsoft) provide the service for all of them.</p>
+
+<p>I’m thinking that if we can imagine the great future of the world, we engineers can change the world! And I would like to spend time with all of the great Java Developers. I Love Java!</p>
+]]></Content>
+	</post>

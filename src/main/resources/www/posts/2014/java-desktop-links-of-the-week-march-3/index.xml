@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1686</ID>
+		<Slug>java-desktop-links-of-the-week-march-3</Slug>
+		<Title>Java desktop links of the week, March 3</Title>
+		<Date>2014-03-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week, but what we do have is great - new releases and new open source projects - great stuff!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Dirk Lemmermann</strong> has contributed another control to ControlsFX (which will be included in the upcoming 8.0.5 release). It is called <a href="http://dlemmermann.wordpress.com/2014/02/24/something-to-hide-you-need-hiddensidespane/">HiddenSidesPane</a>, and essentially slides out a panel from any of the four sides of the pane when the mouse hovers near it. Very nice! :-)</li>
+	<li><strong>Björn</strong> has developed a nice library that <a href="http://captaincasa.blogspot.co.nz/2014/02/app-start-bringing-javafx-applications.html">straddles the gap between JavaFX webstart and standalone (with JRE) deployment</a>. It is essentially a small client loader app that can check a remote server for an updated version of the software. Again - very nice! :-)</li>
+	<li><strong>Nathan Howard</strong> has a post about <a href="http://blog.idrsolutions.com/2014/02/tutorial-create-border-glow-effect-javafx/">how to create a border glow effect</a> in JavaFX.</li>
+</ul>
+<h4>Swing / Java2D</h4>
+<ul>
+	<li><strong>Dave Gilbert</strong> has two interesting links this week. Firstly, he has <a href="http://www.jfree.org/jfreesvg/">announced the release of JFreeSVG 1.7</a>. This release adds rendering hints to control grouping, fixes transparent color handling and adds element ids for the drawString() method.</li>
+	<li>In his second post, <strong>Dave</strong> has code for <a href="http://www.jroller.com/dgilbert/entry/ring_plot_with_jfreechart">how to do a ring plot in JFreeChart</a>.</li>
+</ul>
+<p>Catch you all next week :-)</p>
+]]></Content>
+	</post>

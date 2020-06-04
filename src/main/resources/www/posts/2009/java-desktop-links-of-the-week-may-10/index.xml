@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>355</ID>
+		<Slug>java-desktop-links-of-the-week-may-10</Slug>
+		<Title>Java desktop links of the week, May 10</Title>
+		<Date>2009-05-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Hey everyone. This post is going out a bit early as I'm actually away at my wifes graduation from vet school. I apologise that I am not as up to date as could be - I promise to have a better post next week! Regardless, I hope you enjoy!</p>
+<h3>Swing</h3>
+<ul>
+	<li><strong>Alexander Potochkin</strong> posted a short blog post <a href="http://weblogs.java.net/blog/alexfromsun/archive/2009/05/jdk_7_is_moving.html">updating people on the state of Swing tech in JDK 7</a> . In short, Nimbus (as we know) has been merged, and JXLayer is likely to be merged shortly. I have made extensive use of JXLayer in my projects, and highly recommend it. Some <a href="http://www.pbjar.org/blogs/jxlayer/version_2/">examples of JXLayer code can be found here</a> .</li>
+	<li>Talking about Java 7, <strong>Kirill Grouchnikov</strong> released a v<a href="http://vimeo.com/4523584">ideo showing an animated JFrame which makes use of the </a> <span class="status-body"><span class="entry-content"><a href="http://vimeo.com/4523584">Window.setOpacity() API</a> which is new to Java 7.
+</span> </span></li>
+	<li><strong>Alex Ruiz</strong> posted <a href="http://alexruiz.developerblogs.com/?p=137">announcing the release of FEST-Swing 1.2a1</a> .<a onclick="javascript:pageTracker._trackPageview('/outbound/article/fest.easytesting.org');" href="http://fest.easytesting.org/swing/" target="_blank">FEST-Swing</a> is a Java library that provides a <a onclick="javascript:pageTracker._trackPageview('/outbound/article/www.infoq.com');" href="http://www.infoq.com/articles/internal-dsls-java" target="_blank">fluent interface</a> for functional Swing GUI testing. This library provides an easy-to-use API that makes creation and maintenance of GUI tests easy. Version 1.2a1 is the first out of three alpha and three beta releases planned for version 1.2. This new version focuses on new features and improvements.</li>
+	<li><strong>Christophe</strong> emailed me to let me know of <a href="https://beantablemodel.dev.java.net/">BeanTableModel</a> , which is a dedicated&nbsp; binding solution (bi-directionnal) between POJO and a  TableModel, where all configuration is done by java annotations.</li>
+	<li>I was looking for a Swing-based system tray library this week, as the API made available in Java 6 is AWT-based, and looks ugly. After much searching, the best code I could find was from the fishFarm project, and is an extension of other similar projects to try and remove various operating system quirks. You can <a href="https://fishfarm.dev.java.net/source/browse/fishfarm/trunk/FishFarm/src/net/java/fishfarm/ui/JPopupTrayIcon.java?rev=198&amp;view=markup">find the single class, called JPopupTrayIcon, here</a> .</li>
+	<li><strong>Maxim Zakharenkov</strong> emailed me to let me know that Swing Explorer 1.4 has been released. As always, It can be found on the<a style="color: #003366; text-decoration: none;" href="https://swingexplorer.dev.java.net/downloads.html"> downloads</a> page.</li>
+</ul>
+<h3><strong>J</strong> avaFX</h3>
+<ul>
+	<li><strong>Ed Ort</strong> posts <a href="http://java.sun.com/developer/technicalArticles/javafx/AppORama/">JavaFX App-O-Rama: Applications from the community</a> . This is a good article, looking at how some of the popular JavaFX applications do what they do.</li>
+	<li><strong>Josh Marinacci</strong> posts <a href="http://jfxstudio.wordpress.com/2009/05/01/new-microchallenge-small-world-sound/">another JavaFX MicroChallenge</a> . This challenge is to incorporate the theme of 'sound' into a JavaFX application. All rules and further details are included in his post.</li>
+</ul>
+<p>That's it for the week. Keep up the hard work :-)</p>
+]]></Content>
+	</post>

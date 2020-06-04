@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>63</ID>
+		<Slug>sparqling-rdf-repositories</Slug>
+		<Title>SPARQLing RDF Repositories</Title>
+		<Date>2006-11-28</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>semantic-web-research</Tags>
+		<Content><![CDATA[<p>I bet that the title is the first time anyone has ever attempted to make such a geeky play on the SPARQL acronym.</p>
+
+<p>This post is to list a few handy findings I have just made that could be pursued more next year in my research:</p>
+<ul>
+	<li><a href="http://ibm-slrp.sourceforge.net/2006/11/20/boca-the-rdf-repository-component-of-the-ibm-semantic-layered-research-platform/">Boca</a> is an RDF repository that sits atop a database such as DB2. It sounds quite similar to the D2R server I mentioned previously.</li>
+	<li><a href="http://thefigtrees.net/lee/sw/sparql-faq">SPARQL</a> faq for anybody that desperately wants to know about SPARQL.</li>
+	<li><a href="http://ibm-slrp.sourceforge.net/">IBM Semantic Layered Research Platform</a> and <a href="http://ibm-slrp.sourceforge.net/planet/">Planet Adtech</a>: The people behind Boca.</li>
+</ul>
+<p>That'll do for now.</p>
+]]></Content>
+	</post>

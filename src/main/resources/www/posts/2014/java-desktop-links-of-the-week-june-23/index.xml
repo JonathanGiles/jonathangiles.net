@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1751</ID>
+		<Slug>java-desktop-links-of-the-week-june-23</Slug>
+		<Title>Java desktop links of the week, June 23</Title>
+		<Date>2014-06-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week, which is good for me as I have a tonne of work to get into! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>I did a very long blog post this week about <a href="http://fxexperience.com/2014/06/bringing-dialogs-to-javafx/">bringing dialogs to JavaFX</a>. In short, JavaFX 8u40 will be getting a dialog API, but it isn't yet decided what the API will look like, so now is your chance to influence the API. You should definitely read the linked blog post first, and then you should go to <a href="https://javafx-jira.kenai.com/browse/RT-12643">RT-12643</a>, read all of the comments there, and then post your feedback if you have anything to add! :-)</li>
+	<li><strong>Hendrik Ebbers</strong> has posted another <a href="http://www.guigarage.com/2014/06/aerofx-getting-closer/">sneak peak of the AeroFX project</a>, a Windows 7 'native' skin for JavaFX 8.</li>
+	<li><strong>Andres Almiray</strong> has posted on <a href="http://www.jroller.com/aalmiray/entry/boosting_javafx_application_development">boosting JavaFX application development</a>, where he talks about afterburner.fx, afterburner.gfx, and lazybones.</li>
+	<li><strong>Stephen Chin</strong> has posted a video from <strong>Stuart Marks'</strong> recent presentation at the Silicon Valley JavaFX Users Group, where he spoke on the topic of <a href="http://nighthacking.com/java-8-and-javafx/">Java 8 and JavaFX</a>.</li>
+	<li><strong>Thomas Bolz</strong> has posted <a href="http://www.baufifx.com/en/">version 1.4 of his BaufiFX application</a>, a mortgage calculator and financial analysis tool written in JavaFX.</li>
+	<li><strong>Rene Jahn</strong> has posted on how he built a <a href="http://blog.sibvisions.com/2014/06/16/our-live-ticker-implementation-world-cup-2014/">live ticker for the football world cup</a> using headless JavaFX and the new 'Monocle' Glass windowing component of JavaFX. For those unfamiliar with Monocle, you can <a href="https://wiki.openjdk.java.net/display/OpenJFX/Monocle">read more at the JavaFX wiki</a>.</li>
+</ul>
+<p>That's all folks - short and sweet! Catch you all next week! :-)</p>
+]]></Content>
+	</post>

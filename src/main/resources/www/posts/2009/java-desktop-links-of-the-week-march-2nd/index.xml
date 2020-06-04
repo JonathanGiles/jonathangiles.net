@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>278</ID>
+		<Slug>java-desktop-links-of-the-week-march-2nd</Slug>
+		<Title>Java desktop links of the week, March 2nd</Title>
+		<Date>2009-03-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|Programming|Swing Links</Tags>
+		<Content><![CDATA[<p>Wow - it's March already - where does time go? Here are the links from the last week that I think were important - as always, <a href="mailto:jonathan@jonathangiles.net">email</a>/<a href="http://twitter.com/JonathanGiles">twitter</a>/<a href="javascript:alert(&quot;you can't be serious?&quot;);">courier pigeon</a> me any news that you think is relevant. Have a great week!</p>
+<h3>Swing</h3>
+<ul>
+	<li>As always, <strong>Alex Ruiz </strong>(<a href="http://twitter.com/alexRuiz">@alexRuiz</a>) has been busy, this week <a href="http://www.jroller.com/alexRuiz/entry/fest_swing_1_1_gui">announcing the 1.1 release of FEST-Swing</a> which is a Java library that provides a <a href="http://martinfowler.com/bliki/FluentInterface.html" target="_blank">fluent interface</a> for functional Swing GUI testing.</li>
+	<li><strong>Ken Orr</strong> has <a href="http://explodingpixels.wordpress.com/2009/02/27/see-you-at-javaone-2009/">announced that he will be at JavaOne</a>, presenting on the topic of component-oriented design. This will be an interesting talk, given the inheritance-oriented design that went into Swing, and the issues that has created, particularly in terms of method-overload.</li>
+	<li><strong>Elliott Hughes</strong><strong> </strong>gave the <a href="http://elliotth.blogspot.com/2009/02/swing-2-pissing-in-wind.html">Swing 2.0 counter-argument this week, suggesting that the point of Swing 2.0 is misguided and irrelevant</a>. For the purposes of proper and full discourse, I appreciate his post, although I wish he had comments enabled so that a discussion could occur.</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li><strong>Michael Heinrichs</strong> has posted the third in his series of blog posts about best practices for JavaFX mobile. I never knew of this blog until now. The <a href="http://blogs.sun.com/michaelheinrichs/entry/best_practices_for_javafx_mobile">first post suggests to avoid unnecessary bindings</a>, the <a href="http://blogs.sun.com/michaelheinrichs/entry/best_practices_for_javafx_mobile1">second post suggests to keep the scenegraph as small as possible</a>, and the <a href="http://blogs.sun.com/michaelheinrichs/entry/best_practices_for_javafx_mobile2">third post has two tips</a>: use simple shapes over images, and use small shapes over complex shapes.</li>
+	<li>More demos have been developed to show off the ease of developing in JavaFX. <strong>JFXStudio </strong>has <a href="http://jfxstudio.wordpress.com/2009/02/26/simple-javafx-sink-a-ship-game/">a simple 'sink a ship' game</a>, <strong>Sergey Malenkov</strong> has <a href="http://weblogs.java.net/blog/malenkov/archive/2009/02/for_those_about.html">posted a demo that creates a fireworks display</a> (which <strong>Kirill Grouchnikov</strong> (<a href="http://twitter.com/kirillcool">@kirillcool</a>) <a href="http://www.pushing-pixels.org/?p=1107">recreated in his Trident animation framework</a>), and <strong>Santiago Pericas-Geertsen</strong> has <a href="http://weblogs.java.net/blog/spericas/archive/2009/02/as_many_of_you.html">created a Space Invaders-esque game for JavaFX</a>.</li>
+</ul>
+<h3>Griffon</h3>
+<ul>
+	<li><strong>Andres Almiray </strong>(<a href="http://twitter.com/aalmiray">@aalmiray</a>) <a href="http://groovy.dzone.com/announcements/griffon-01-rc2-builds">announced the release of Griffon 0.1-RC2</a>. <a href="http://griffon.codehaus.org/">Griffon</a> is a Grails like application framework for developing desktop applications in Groovy.</li>
+</ul>
+<p>That's it for this week! A very sparse news week, so if I've missed anything, please let me know! Have a great week.</p>
+]]></Content>
+	</post>

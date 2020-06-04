@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>446</ID>
+		<Slug>javafx-lets-clarify-public-read-and-public-init</Slug>
+		<Title><![CDATA[JavaFX: Let's clarify public-read and public-init]]></Title>
+		<Date>2009-06-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Coming from the Java world, most access modifiers in JavaFX make sense to me as they have equivalents in Java (although the syntax is slightly changed). What isn't in Java are the two access modifiers <code>public-read</code> and <code>public-init</code>, and at least to me, it is not immediately clear what these modifiers do.</p>
+
+<p>It turns out that <code>public-read</code> means pretty much just that - that the variable can be publicly read from anywhere, but that it can only be written to within the script which declares it. It is possible to 'widen' the write-access by prepending either <code>package</code> or <code>protected</code> before the <code>public-read</code>, but this has no effect on the read-access, which remains at publicly accessible.</p>
+
+<p>The <code>public-init</code> access modifier defines a variable that can be publicly initialized in any package. Subsequent write access, however, is controlled in the same manner as <code>public-read</code>, as detailed above. Because of this, the value of this variable is always readable from any package.</p>
+
+<p>So, in summary, when you see anything declared <code>public-*</code>, you should think that the variable can always be publicly read, but it has limitations on being written to. The ability to write to the variable is only available to code within the same script as the variable, unless it has been modified with <code>package</code> or <code>protected</code> access.</p>
+
+<p>For further information and examples, check out the <a href="http://java.sun.com/javafx/1/tutorials/core/">JavaFX Language Tutorial</a>, particularly the <a href="http://java.sun.com/javafx/1/tutorials/core/modifiers/">section on access modifiers</a>.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2706</ID>
+		<Slug>java-desktop-links-of-the-week-january-29</Slug>
+		<Title>Java desktop links of the week, January 29</Title>
+		<Date>2018-01-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Can you&nbsp; believe that January 2018 is already almost over?!</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> has posted <a href="https://harmoniccode.blogspot.co.nz/2018/01/friday-fun-lviii-some-more-charts.html">two new charts</a> for you to play with / use / learn from. There is a concentric ring chart, and a comparison ring chart. Both are great additions to the JavaFX ecosystem!</li>
+ 	<li><strong>Christoph Nahr</strong> has blogged about <a href="http://news.kynosarges.org/2018/01/26/javafx-dpi-scaling-in-java-9/">JavaFX DPI scaling in JavaFX 9</a>. There was a huge push by the team to improve DPI scaling in JavaFX 9, and this seems like a good summary.</li>
+ 	<li><strong>Adam Carroll</strong> has written an article on <a href="https://medium.com/@adam_carroll/building-a-javafx-search-bar-6714a27c93d7">building a JavaFX search bar control</a>.</li>
+ 	<li><strong>Peter Rogge</strong> has announced a new release of the <a href="https://github.com/Naoghuman/lib-action/releases/tag/v0.6.0">Lib-Action JavaFX library</a>. As he put it to me: "The main point from this minor release is stability. All builders from the core package and all internal default implementations have now JUnit tests."</li>
+ 	<li><strong>William Antonio</strong> has two interesting posts related to neural networks and deep learning with Java and JavaFX. Firstly, a post on "<a href="http://fxapps.blogspot.co.nz/2018/01/detecting-objects-using-javafx-and-deep.html">detecting objects using JavaFX and Deep Learning</a>". Secondly, a post on "<a href="http://fxapps.blogspot.co.nz/2017/11/visualize-neural-network-activation.html">visualize a neural network activation with JavaFX</a>".</li>
+</ul>
+]]></Content>
+	</post>

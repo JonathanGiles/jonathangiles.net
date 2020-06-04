@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>142</ID>
+		<Slug>easily-upgrade-to-wordpress-25</Slug>
+		<Title>Easily upgrade to Wordpress 2.5</Title>
+		<Date>2008-04-06</Date>
+		<Status>publish</Status>
+		<Categories>Miscellaneous|Technology</Categories>
+		<Tags>plugins</Tags>
+		<Content><![CDATA[<p>I just upgraded my Wordpress blog to Wordpress 2.5. I only touched FTP once to upload a new 'automatic upgrader' plugin. This plugin then walked me through the entire process of upgrading to wordpress 2.5. It took 5 minutes to do.</p>
+
+<p>If you want to do this to upgrade, but don't want to go through all the hassle of backing up your files and database, consider using this plugin - it does it all for you.</p>
+
+<p><a href="http://wordpress.org/extend/plugins/wordpress-automatic-upgrade/">Find out more here.</a></p>
+]]></Content>
+	</post>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>964</ID>
+		<Slug>java-desktop-links-of-the-week-november-22</Slug>
+		<Title>Java desktop links of the week, November 22</Title>
+		<Date>2010-11-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week compared to the week before, but there continues to be good links. Swing continues its run of consistently good links, which is very pleasing to see. JavaFX is rather quiet whilst the 2.0 version is in development, although there were some interesting happenings at Devoxx (although I haven't seen many links - the best summary is probably <a href="http://www.xenonique.co.uk/blog/?p=143">two</a> <a href="http://www.xenonique.co.uk/blog/?p=140">posts</a> by <strong>Peter Pilgrim</strong>). What I know was discussed was the JavaFX web toolkit (JavaFX -&gt; HTML/JavaScript), WebView (rendering HTML within a JavaFX component), CSS and JavaFX 2.0 API designs.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Karl Schaefer</strong> has followed on from <strong>Jan Kotek</strong>'s from last week with his own article on <a href="http://weblogs.java.net/blog/kschaefe/archive/2010/11/15/returns-values-swingutilitiesinvoke">how to return values from SwingUtilities.invoke</a>. This implmentation is now part of SwingX.</li>
+	<li><strong>Gerrit Grunwald</strong> has blogged about <a href="http://harmoniccode.blogspot.com/2010/11/contour-gradient-paint.html">contour gradient paints</a>, including both the theory behind how to implement them, and a Swing/Java2D implementation (with source attached).</li>
+	<li><strong>Geertjan Wielenga</strong> has got a post up about <a href="http://java.dzone.com/news/real-time-charts-java-desktop">real-time charts on the Java desktop</a>. These charts are using the charting API made available through the VisualVM, rather than an external library like <a href="http://www.jfree.org/jfreechart/">JFreeChart</a>. Apparently the major focus of the VisualVM charting implementation is on high-performance real-time charts.</li>
+	<li><strong>Christoph Aschwanden</strong> let me know about <a href="http://www.ageofconquest.com/">Age of Conquest</a>, which is a (commercial) Java game written using a custom Swing look and feel.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Sébastien Stormacq</strong> has updated his <a href="http://www.stormacq.com/?p=387">JavaFX SearchBox control</a> to work with JavaFX 1.3.1.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has blogged about the soon-to-be-released <a href="http://leonardosketch.org/2010/11/114/">Leonardo Ruby Red release</a>, which is due around Thanksgiving. Leonardo is written in Java using a custom toolkit called Amino (which is also open source).</li>
+</ul>
+<p>That's us for another week. Catch you in a weeks time. Remember to flick me an email if you have any links you would like to be included.</p>
+]]></Content>
+	</post>

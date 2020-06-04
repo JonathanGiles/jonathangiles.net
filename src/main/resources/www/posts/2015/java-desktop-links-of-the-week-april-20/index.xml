@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1903</ID>
+		<Slug>java-desktop-links-of-the-week-april-20</Slug>
+		<Title>Java desktop links of the week, April 20</Title>
+		<Date>2015-04-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A very quiet week in the Java Desktop world!</p>
+
+<p>JavaFX</p>
+<ul>
+	<li>The <strong>Gluon</strong>&nbsp;guys (as well as members of the JavaFX community, such as <strong>Jens Deters</strong> and <strong>José Pereda</strong>) have announced the availability of the <a href="http://gluonhq.com/charm-down-available/">open source 'Down' library</a>, a sub-component of the <a href="http://gluonhq.com/products/charm/">forth-coming (and commercial) Gluon Charm library</a>. Down is useful for mobile JavaFX application developers to create software that makes use of specific elements of the mobile hardware that they run on.</li>
+	<li><strong>René Jahn</strong> has posted about '<a href="http://blog.sibvisions.com/2015/04/18/javafx-android-live-preview/">JavaFX + Android + Live Preview</a>'. This post talks about using their (commercial)&nbsp;VisionX product and its live preview feature, to develop JavaFX applications for Android (using <a href="http://www.javafxports.org">JavaFXPorts</a>) without having to deploy to the device for testing.</li>
+	<li><strong>Chris Newland</strong> has posted a <a href="https://www.youtube.com/watch?v=WZf0j4GUFYM">second 'demo scene' video</a> created using JavaFX. It is really quite impressive seeing JavaFX put through its paces and not breaking a sweat at 60fps.</li>
+</ul>
+<p>That's all for this week. Catch you again in a weeks time! :-)</p>
+]]></Content>
+	</post>

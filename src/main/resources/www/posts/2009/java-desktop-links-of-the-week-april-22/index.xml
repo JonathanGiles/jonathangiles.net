@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>327</ID>
+		<Slug>java-desktop-links-of-the-week-april-22</Slug>
+		<Title>Java desktop links of the week, April 22</Title>
+		<Date>2009-04-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|Swing Links</Tags>
+		<Content><![CDATA[<p>Sorry for the delay to this weeks Java desktops links - I have been extra busy and this weekly post takes surprisingly long to compile. Regardless, we're here now, and that's the main thing :-)</p>
+<h3>Swing</h3>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> (<a href="http://twitter.com/kirillcool">@kirillcool</a> ) has been busy with his substance project this week. In three posts, he talks about <a href="http://www.pushing-pixels.org/?p=1190">colour scheme association kinds</a> , <a href="http://www.pushing-pixels.org/?p=1187">providing combobox selection to change the Substance skin</a> , and <a href="http://www.pushing-pixels.org/?p=1198">providing decoration area support for lists, trees, and tables in Substance</a> .</li>
+	<li>In addition, Kirill noted on Twitter that he has updated the <a href="https://substance.dev.java.net/docs/skins/overview.html">Substance documentation</a> .</li>
+	<li><strong>Danny Coward</strong> (<a href="http://twitter.com/theplanetarium">@theplanetarium</a> ) has a post showing off a <a href="http://blogs.sun.com/theplanetarium/entry/swing_imageuploader_trees">Java Swing application that he thinks is pretty neat</a> .</li>
+	<li><strong>Ken Orr</strong> has a very interesting <a href="http://explodingpixels.wordpress.com/2009/04/16/punched-out-buttons-with-inner-shadows/">post on creating punched out buttons with inner shadows</a> , a.k.a the Mac OS look.</li>
+	<li><strong>Andy Hedges</strong> (<a href="http://twitter.com/buzzkills">@buzzkills</a> ) asked me to mention his <a href="http://twitterati.hedges.net/">Twitterati project, which is a Twitter client written in Swing</a> .</li>
+	<li><strong>Tim Boudreau</strong> <a href="http://weblogs.java.net/blog/timboudreau/archive/2009/04/a_simple_librar.html">posts about a swing UI validation library that he has written</a> . He is very keen to hear your feedback on it.</li>
+	<li>A discussion on the SwingLabs forum has <a href="http://forums.java.net/jive/thread.jspa?messageID=342494">highlighted that perhaps Swing won't be getting painter support in Java 7</a> , as many people had anticipated.</li>
+</ul>
+<p>JavaFX</p>
+<ul>
+	<li><strong>Danny Coward</strong> posted that the <a href="http://blogs.sun.com/theplanetarium/entry/java_me_sdk_3_released">Java ME SDK3 has been released</a> , which has some good news for JavaFX developers: it allows for you to profile your mobile JavaFX applications and identify hotspots.</li>
+	<li>Following on from this, <strong>Michael Heinrichs</strong> has a post on <a href="http://blogs.sun.com/michaelheinrichs/entry/profiling_javafx_mobile_applications">how to profile JavaFX mobile applications</a> .</li>
+	<li>The <strong>JavaFX blog</strong> has links to another <a href="http://blogs.sun.com/javafx/entry/javafx_script_javascript_bridge">JavaFX - JavaScript bridge demo</a> .</li>
+	<li><strong>Stephen Chin</strong> has announced that <a href="http://steveonjava.com/2009/04/13/jfxtras-04-release/">JFXtras Core 0.4 has been released</a> . It sounds like a huge number of updates have been included in this release. Additionally, the project has been split into three sub-projects: core, test and samples.</li>
+	<li><strong>John O'Conner</strong> has a <a href="http://weblogs.java.net/blog/joconner/archive/2009/04/javafx_quick_ti.html">quick tip on how to print output to a console</a> , which is obviously very useful when debugging your applications.</li>
+	<li><strong>Vaibhav</strong> has two blog posts, the first <a href="http://blogs.sun.com/vaibhav/entry/javafx_web_service_maps_navigation">demoing the ability of JavaFX to use web services to show maps</a> , and the other about <a href="http://blogs.sun.com/vaibhav/entry/mixing_basic_shapes">mixing shape nodes in JavaFX</a> .</li>
+	<li><strong>Rakesh Menon</strong> has two posts this week, one about <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_image_viewer">displaying images using JavaFX</a> and the other about <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_webservices">using web services with JavaFX</a> .</li>
+</ul>
+<p>That's it for another week. Again, sorry for the delays - it's was difficult to find the hour or so it takes to publish this weekly post this week. Have a great week (what's left of it) :-)</p>
+]]></Content>
+	</post>

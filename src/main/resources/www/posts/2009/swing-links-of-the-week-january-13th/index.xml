@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>170</ID>
+		<Slug>swing-links-of-the-week-january-13th</Slug>
+		<Title>Swing links of the week, January 13th</Title>
+		<Date>2009-01-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|swing|Swing Links</Tags>
+		<Content><![CDATA[<p>Given that I am heavily engaged in the development of Java Swing-based applications, and the recent <a href="http://www.pushing-pixels.org/?p=1043">'freezing' of Kirill's blog posts</a> regarding popular Swing news, I thought I would try my best to pick up the slack.</p>
+
+<p>I think it is probably worthwhile that I quickly state that my interests are primarily in Swing, so I am not overly up with the play in other areas that Kirill frequently blogged about, such as JavaFX and Groovy. Regardless, I will try my best, and if you have any news, please post it to me at <a href="mailto:jonathan@jonathangiles.net">jonathan@jonathangiles.net</a>. Without any further ado, here are some Swing links you might have missed in the past week:</p>
+<ul>
+	<li>A few years ago the Swing team made <a href="https://aerith.dev.java.net/">Aerith</a>, which demoed various cool things that could be done with Swing. This week the <a href="http://code.google.com/p/aerithnetbeans/">Aerith Netbeans project</a> was announced by <strong>Julian Gamble</strong>. This project strips out the major components of Aerith, and makes them available to all Swing developers. There is also a <a href="http://code.google.com/p/aerithnetbeans/wiki/ShowcaseMovies">number of videos</a> which introduce you to this project.</li>
+	<li><strong>Jean-Francois Poilpret</strong> has announced the <a href="http://jfpoilpret.blogspot.com/2009/01/announce-designgridlayout-11-rc1.html">RC1 release of DesignGridLayout</a>. Any new layout to the Swing world is generally much appreciated, given the lack of development of new layouts since Swing was first developed. I should also link to <a href="https://forms.dev.java.net/">JGoodies Forms layout</a> (which I use heavily), and <a href="http://www.miglayout.com/">MiG Layout</a> (which I have yet to use).</li>
+	<li>Speaking of layouts, <strong>Amy Fowler</strong> has posted a <a href="http://weblogs.java.net/blog/aim/archive/2009/01/layout_primer_f.html">blog post about layouts for JavaFX</a>.</li>
+	<li><strong>Alex Ruiz</strong> continues his blog series on testing JavaFX user interfaces with <a href="http://www.jroller.com/alexRuiz/entry/testing_javafx_uis_part_3">part 3</a> (<a href="http://www.jroller.com/alexRuiz/entry/testing_javafx_uis_part_1">part 1</a> and <a href="http://www.jroller.com/alexRuiz/entry/testing_javafx_uis_part_2">part 2</a> are also available). The testing is accomplished using his <a href="http://fest.easytesting.org/wiki/pmwiki.php">FEST Swing DSL-oriented Swing testing library</a>.</li>
+	<li><strong>Osvaldo Pinali Doederlein</strong> has posted a blog post <a href="http://weblogs.java.net/blog/opinali/archive/2009/01/clearing_the_ja.html">attempting to clarify JavaFX FUD</a> that exists. I think he clarifies that Swing and JavaFX, whilst competing in some senses, have different focuses also - JavaFX can be far more lightweight, allowing for it to be used in mobile devices far more readily than Swing will ever be.</li>
+	<li>And finally, everyones favourite blogger <strong>Joel Spolsky</strong> posted a blog about the <a href="http://www.joelonsoftware.com/items/2009/01/12.html">wordy Java installation process</a>. I agree that there is a job for someone within Sun to run through all these dialogs and try to simplify and clarify the message that Sun portrays to the outside world.</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1540</ID>
+		<Slug>java-desktop-links-of-the-week-september-2</Slug>
+		<Title>Java desktop links of the week, September 2</Title>
+		<Date>2013-09-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A bunch of links this week - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has a blog about his progress on an <a href="http://tomsondev.bestsolution.at/2013/08/29/convert-fxml-to-java-as-part-of-the-build/">FXML to Java converter</a>, that removes the need to parse FXML files at runtime (which should prove beneficial on low-end devices / embedded devices).</li>
+	<li><strong>Hendrik Ebbers</strong> has a blog post about <a href="http://www.guigarage.com/2013/08/boxfx-javaone-preview-1/">BoxFX</a>, a project he is working on with <strong>Claudine Zillmann</strong> (their previous project together being <a href="http://www.aquafx-project.com/">AquaFX</a> - a Mac OS X theme for JavaFX). BoxFX is an application container for JavaFX applications that will run on the Raspberry Pi. It is optimized for HD resolution and can be controlled by a remote.</li>
+	<li>In another post, <strong>Hendrik</strong> has a post titled '<a href="http://www.guigarage.com/2013/08/pimp-your-app-by-using-the-blurpane/">Pimp your App by using the BlurPane</a>', which talks about placing a blur effect behind your popup to make the popup stand out better.</li>
+	<li>The JavaFX controls team has a number of user experience specifications they follow when developing and testing their UI controls. These UX specifications have been <a href="https://wiki.openjdk.java.net/display/OpenJFX/User+Experience+Specifications">moving quite rapidly onto the OpenJDK wiki</a> due to the hard work of <strong>Jindra Dinga</strong>, our user experience expert.</li>
+	<li>The <strong>JavaFX Tutorials</strong> website (whose author is unclear) has published an overview of some of the <a href="http://javafxdeveloper.wordpress.com/2013/08/28/new-features-in-next-major-release-java-fx-8-0/">new features coming up in JavaFX 8.0</a>.</li>
+	<li>The <strong>Oracle Technical Network</strong> has published another case study, this time on <a href="http://www.oracle.com/technetwork/java/javafx/community/facewizz-1994366.html">Facewizz</a>, which uses JavaFX for facial surgery planning.</li>
+	<li><strong>Stephen Chin</strong> has been interviewing some of the presenters due to be at JavaOne this year, to have them detail some of the details of the talks they will be presenting in a few weeks time. Interviews have been conducted with <strong><a href="http://www.youtube.com/watch?v=LNitmLKWZmA">Gerrit Grunwald</a></strong>, <a href="http://www.youtube.com/watch?v=2p138dQsbk4"><strong>Dierk König</strong></a>, and <a href="http://www.youtube.com/watch?v=jVo48i0oAog"><strong>Toni Epple</strong></a><strong>.</strong></li>
+	<li><strong>Sven Ruppert</strong> has blogged about <a href="http://www.rapidpm.org/2013/08/how-to-setup-javafx-cdi-component.html">how to setup a JavaFX / CDI component</a>.</li>
+	<li><a href="http://loadui.org/About-loadUI/whats-new-in-loadui-26.html">LoadUI 2.6 has been released</a>. LoadUI is a load testing tool for web services, and this is the first release where it has been updated to be built using JavaFX 2.x (previous releases were based on JavaFX 1.x).</li>
+	<li><strong>Michael</strong> has blogged about the first commercial JavaFX application his company has released: a <a href="http://mihosoft.eu/?p=897">JavaFX based accounting &amp; cash register system</a> for garage sales, flee markets and even large events.</li>
+	<li><strong>Jens Deters</strong> has a post about creating a JavaFX user interface that <a href="http://www.jensd.de/wordpress/?p=779">drives a stepper motor connected to a Raspberry Pi</a>.</li>
+	<li><strong>Mark Heckler</strong> has posted about <a href="https://blogs.oracle.com/javajungle/entry/join_me_at_javaone_2013">his upcoming sessions at JavaOne</a> including a talk on JavaFX widgets and Java Embedded.</li>
+	<li>A tutorial has appeared on the Oracle Learning Library website entitled '<a href="http://apex.oracle.com/pls/apex/f?p=44785:24:0:::24:P24_CONTENT_ID,P24_PREV_PAGE:8091,1">Developing an Enterprise Application with JavaFX 2.0 and Java EE 7</a>'.</li>
+</ul>
+<p>That's that for another week - catch you again next week :-)</p>
+]]></Content>
+	</post>

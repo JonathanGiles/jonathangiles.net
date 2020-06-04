@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2023</ID>
+		<Slug>java-desktop-links-of-the-week-january-11-2</Slug>
+		<Title>Java desktop links of the week, January 11</Title>
+		<Date>2016-01-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>January 11, 2016 - the day before my birthday! :-) I hope everyone had a great festive break and took the opportunity to recharge their batteries. I know I did! However, because I was away from the web (and literally without access for a number of days), I've certainly failed to capture all links over the last few weeks. If I missed anything <a href="mailto:jonathan@jonathangiles.net">ping me to let me know</a>, and I'll include it next week. Let's get on with the links - enjoy :-)</p>
+<ul>
+	<li>One of the big things to happen over the holidays was the announcement that Android is moving away from Apache Harmony and will be switching to OpenJDK. Many posts about this topic managed to get a lot of the concepts muddled. The <strong>Gluon</strong> blog has a <a href="http://gluonhq.com/android-moving-openjdk/">summary that appears fairly accurate</a>, given the fact that a lot remains unknown about the likely outcomes of this change.</li>
+	<li>Speaking of <strong>Gluon</strong>, there is an interview on their website with <strong>Neil Matatall</strong> about <a href="http://gluonhq.com/brakeman-pro-1-0-released-little-help-gluon/">Brakeman Pro 1.0 being released</a>. Interestingly it is a commercial JavaFX application built with JRuby.</li>
+	<li>I did a blog post about <a href="http://fxexperience.com/2016/01/node-picking-in-javafx/">node picking in JavaFX</a>. This is a topic I see asked about very frequently, and I had just recently written some code to do this. Hopefully it is helpful for someone else - although hopefully most people will have managed to write it themselves - it isn't very complex! :-)</li>
+	<li><strong>Voxxed</strong> posted a short video with <strong>Johan Vos</strong> from <strong>Gluon</strong> about '<a href="https://www.voxxed.com/blog/2015/12/why-build-a-company-around-javafx-based-technology/">Reasons to Get Excited About Java on Mobile</a>'.</li>
+	<li><strong>Dirk Lemmermann</strong> has posted about the <a href="https://dlemmermann.wordpress.com/2015/12/19/javafx-the-power-of-css/">power of CSS in JavaFX</a>. He has also created a YouTube playlist of <a href="https://dlemmermann.wordpress.com/2016/01/04/javafx-real-world-playlist/">JavaFX applications in the 'real world'</a>. It's great to see some JavaFX applications coming out from behind the curtains - I see some really great stuff in my travels, and it is a shame that not more of it is shown publicly. These kinds of efforts are great!</li>
+	<li><strong>Gerrit Grunwald</strong> has been busy working on (yet another!) gauge library, this time called <a href="http://harmoniccode.blogspot.co.nz/2016/01/medusa.html">Medusa</a>. As always they look excellent, so take a look if you are wanting to put some gauges in your applications.</li>
+	<li><strong>Jens Deters</strong> has <a href="http://www.jensd.de/wordpress/?p=2251">released FontAwesomeFX 8.8</a>, which fixes a few issues and adds a number of weather icons to the mix.</li>
+	<li>Speaking of icon packs,&nbsp;<span id="author" class="author"><strong>Andres Almiray</strong> has also released an API for using them, which he calls <a href="http://aalmiray.github.io/ikonli/">Ikonli</a>.</span></li>
+	<li>Recently I was notified of <a href="http://tuiofx.org/">TuioFX</a> by a few of the developers. This is a project that 'simplifies the development of cross-platform applications for multi-touch, multi-user interactive tabletops and surfaces.'</li>
+	<li><strong> Robert Ladstätter</strong> has posted about&nbsp;<a href="http://ladstatt.blogspot.co.nz/2016/01/fx-tictactoe-tictactoe-app-using-javafx.html">fx-tictactoe</a> - A TicTacToe application built using JavaFX and Scala.</li>
+	<li><strong>Carl</strong> has posted about 'Ground Floor or Ground Zero? <a href="http://bekwam.blogspot.co.nz/2016/01/ground-floor-or-ground-zero-why-im.html">Why I'm Bullish on JavaFX in 2016</a>'.</li>
+</ul>
+<p><span class="author" style="box-sizing: border-box; margin-left: -0.125em; color: rgba(0, 0, 0, 0.6); font-family: 'Noto Serif', 'DejaVu Serif', serif; line-height: 23.2px;">&nbsp;</span></p>
+]]></Content>
+	</post>

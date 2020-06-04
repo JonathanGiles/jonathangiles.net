@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2197</ID>
+		<Slug>java-desktop-links-of-the-week-october-24-2</Slug>
+		<Title>Java desktop links of the week, October 24</Title>
+		<Date>2016-10-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>It's another public holiday here in New Zealand today, so hopefully I churn this post out in record time. Anyway - a heap of great links this week (including a few I missed last week). Enjoy! :-)</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> had two posts I missed last week - they are two more of his 'Friday Fun' posts. This time he has built a <a href="http://harmoniccode.blogspot.co.nz/2016/10/friday-fun-xxxx.html">weather widget</a> and a cool-looking <a href="http://harmoniccode.blogspot.co.nz/2016/10/friday-fun-xli.html">timer control</a>.</li>
+ 	<li><strong>Jeff Frieson</strong> has an article about <a href="http://www.javaworld.com/article/3133172/learn-java/read-only-properties-in-javafx-8.html#tk.rss_all">read-only properties in JavaFX</a>. The article lacks a little clarity, so I was a little reticent to include it. The biggest issue is the fact that the methods are not final (although the class is, but I worry people won't notice this). The methods not being final provides a huge issue if subclasses try to override the getter / setter methods and include logic (because then there are two code paths - setting via the setter and setting via the property method - and they do not overlap, resulting in unexpected behaviour at runtime. The standard rule applies - when creating getter / setter / property methods, always make them final.</li>
+ 	<li><strong>Michael Hoffer</strong> has released <a href="https://bintray.com/miho/ScaledFX/ScaledFX/0.4">ScaledFX 0.4.</a></li>
+ 	<li>A <a href="https://www.kickstarter.com/projects/ultramixer/flexboxfx-javafx-port-of-css3-flexbox-layout-manag">Kickstarter project</a> has been started to fund a JavaFX version of the webs flexbox layout. It seems like the code (which already exists in some form) will be made available in the (currently empty) <a href="https://github.com/UltraMixer/FlexBoxFX">github repo</a> should the funding be reached (otherwise presumably it will remain closed source). For those of you who didn't attend JavaOne, the development of a flexbox layout for JavaFX was something that was proposed for a future JavaFX release (JDK 9 update or, more probably, JDK 10).</li>
+</ul>
+]]></Content>
+	</post>

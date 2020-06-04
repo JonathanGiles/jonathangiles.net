@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>132</ID>
+		<Slug>java-ftw</Slug>
+		<Title>Java FTW</Title>
+		<Date>2008-01-25</Date>
+		<Status>publish</Status>
+		<Categories>Programming|Technology</Categories>
+		<Tags>Centruflow</Tags>
+		<Content><![CDATA[<p>Following on with the revelation that I'm not particularly 'with it', I always wondered what the acronym 'FTW' actually meant. I actually got around to checking out the meaning the other month, and straight away, people stopped using the term. Alas, to paraphrase Grandpa Simpson, "I used to be with it, but then they changed what "it" was. Now, what I'm with isn't it, and what "it" is seems weird and scary to me."</p>
+
+<p>Anywho, on to the topic at hand. I got myself a nice new Java book the other day, entitled "Java Concurrency In Practice". It has always taunted me from afar on the Amazon website, but for the last two weeks I have been living in Wellington (I'm back home now though). Whilst there I checked out Dymocks bookstore, and was happy to see they had it in stock. Given that I was once gifted $700 worth of book vouchers for Dymocks, and I had the vouchers on me, I picked it up, probably only at a 100% markup over Amazon...</p>
+
+<p>I have only managed to read the first half of it so far, but it is an awesome book if you are a middle-to-advanced Java developer. The reason why I haven't read the whole of it yet is that it is constantly giving me ideas on how I can improve <a href="http://www.centruflow.com">Centruflow</a>. Everytime I read a new page I tend to run off to my codebase and make changes. These changes improve the speed at which Centruflow can do certain things, whilst ensuring we don't encounter any of the nasty race conditions, live lock, deadlock, etc. The book tends to focus on the improvements made to concurrency in Java 5 and 6, which is fine for me as Centruflow is targeted at these versions anyway.</p>
+
+<p>You may wonder, "Jo - you've been in university studying software engineering/computer science for five years, shouldn't you know all this already?". The answer is simple: I learnt concurrent programming using a language called Pascal-FC, which from memory has no real relationship to Pascal. Learning in Pascal-FC had the side-effect that I didn't learn concurrency in Java. Additionally, I learnt it in 2004, when Java 5 was yet to be released. As mentioned, Java 5 has a huge number of improvements to Java's concurrency API.</p>
+
+<p>So, to conclude - if you are writing Java applications and know the basics, get this book and read it. It will make you a better, more learned programmer. The amount of things I have learnt from half of this book is amazing. Java is seriously cool. To anyone who is anti-Java, give me a reason why, I'd love to know.</p>
+]]></Content>
+	</post>

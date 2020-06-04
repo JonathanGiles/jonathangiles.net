@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>741</ID>
+		<Slug>java-desktop-links-of-the-week-february-21</Slug>
+		<Title>Java desktop links of the week, February 21</Title>
+		<Date>2010-02-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Wow - the floodgates really opened up this week, with a heap of interesting links - so many in fact that I had to cut back a few of them as otherwise this post would've just been too long. Thanks to everyone for posting me a link - please keep it up as it's your content that makes these weekly links worthwhile.</p>
+<h4>General</h4>
+<ul>
+	<li>The <a href="http://www.eventreg.com/javaone2010/cfp/">JavaOne call for papers</a> has been open for a few weeks now (or so it seems). The closing date is March 14, so don't miss out! I'm really hoping to be at JavaOne again this year as a roving reporter / one of the developers behind JavaFX, but we'll see. JavaOne this year is September 19-23.</li>
+	<li><strong>Rakesh Menon</strong> has posted details about the <a href="http://rakeshmenonp.wordpress.com/2010/02/17/tech-days-2010-india/">India Tech Days 2010</a> which take place late March.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> posted a <a href="http://www.pushing-pixels.org/?p=1636">Swing Puzzler</a> asking what you expect following a short snippet of code. I share his sentiment about not liking programming puzzles, which is why I don't think I have ever read my Java Puzzlers book that sits on my bookshelf. I must get around to reading it one day...</li>
+	<li><strong>Gerrit&nbsp; Grunwald</strong> continues his posts covering custom components, this time creating a <a href="http://www.jug-muenster.de/swing-worldclock-427/">very nice looking clock component</a>.</li>
+	<li><strong>Fabrizio Giudici</strong> has started up a series of posts discussing his Oracle wishes. His first post discusses <a href="http://weblogs.java.net/blog/fabriziogiudici/archive/2010/02/15/my-oracle-wishes-1-swingx">his wish for SwingX to once again consider investing and supporting the SwingX project</a>, which is an incubator for a number of interesting and useful Swing components. I've used it extensively and highly rate it.</li>
+	<li><strong>Rob Camick</strong> posts about '<a href="http://tips4java.wordpress.com/2010/02/21/formatted-text-field-tips/">Formatted Text Field Tips</a>', which is a very good post discussing how to format numbers properly in a text field with carets.</li>
+	<li><strong>Eugene Ryzhikov</strong> continues his post on <a href="http://mcoj.wordpress.com/2010/02/19/minimizing-tablemodel-maintenance-continued/">minimizing TableModel maintenance</a> by using enums.</li>
+	<li>I had assumed that the whole heavy/lightweight Swing issue was resolved, but I've never really been one to mix hw/lw anyway. Regardless, this week <strong>Marina Kamahele</strong> posts about an issue with <a href="http://today.java.net/article/2009/11/02/transparent-panel-mixing-heavyweight-and-lightweight-components">setting the opacity of a panel when mixing heavyweight and lightweight components</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>The Silicon Valley JavaFX Users Group posted the video for <strong>Hinkmond Wong's</strong> '<a href="http://fxexperience.com/2010/02/hinkmond-wong-at-silicon-valley-javafx-users-group/">Mobile Dojo</a>' talk, which I've posted on FX Experience in a slightly larger size. You can also see just the slides at <a href="http://steveonjava.com/2010/02/19/hinkmonds-javafx-mobile-dojo/">Stephen Chin's blog</a>.</li>
+	<li><strong>Richard Bair</strong> posted about <a href="http://fxexperience.com/2010/02/text-transitions/">text transitions</a> following a recent bout of bug triage, where he encountered a requested feature which he's putting back out to the community to try and solve. This is something we occassionally encounter - deciding whether we should develop something internally or rely on third-parties to develop functionality.</li>
+	<li>Details about the <a href="http://wiki.netbeans.org/JavaFXComposerNewInPreview2">JavaFX Composer preview 2 release</a> came online this week. I'm not sure if this coincided with the actual preview 2 release or not. JavaFX Composer is a plugin for NetBeans that makes it easy to build JavaFX-based user interfaces (although it's intended for developers moreso than designers, who should use the forthcoming Authoring Tool being developed at Oracle).</li>
+	<li><strong>Jonathan Merritt</strong> decided to use the JavaFX Charting API to <a href="http://jsmerritt.blogspot.com/2010/02/charts-linear-fits-and-soma.html">roughly predict when he believes the JavaFX 1.3 release will be</a>. He notes that it was more of a chance to play with the chart components (and linear regression models)  than anything else, and he is not in a position to actually know the release date - so take it for what it is. Also, note that his chart can only report on the public issues in the JavaFX bug tracker.</li>
+	<li><strong>Geeky coder</strong> (I'm assuming that's not his/her real name) posted a JavaFX tip titled '<a href="http://geekycoder.wordpress.com/2010/02/19/javafx-tips-reducing-development-time-by-running-javafx-using-class-file-and-with-jrebel/">Reducing development time by running JavaFX application using class file and with JRebel</a>'.</li>
+	<li><strong>Jan Goyvaerts</strong> posts his thoughts on <a href="http://jfxworks.wordpress.com/2010/02/18/implementing-the-observer-pattern-in-javafx/">implementing the Observer pattern in JavaFX</a>.</li>
+	<li>It's been a funny old week in JavaFX-land, with both <a href="http://www.theregister.co.uk/2010/02/18/javafx_under_oracle/">negative posts</a> and <a href="http://java.dzone.com/articles/javafx-youve-come-long-way">positive posts</a>. Being a good link reporter, I'll leave you to make up your own mind.</li>
+</ul>
+<p>That's all for another week. Catch you all in a weeks time! Keep up the good work folks :-)</p>
+]]></Content>
+	</post>

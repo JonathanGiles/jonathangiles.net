@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2002</ID>
+		<Slug>java-desktop-links-of-the-week-november-23-2</Slug>
+		<Title>Java desktop links of the week, November 23</Title>
+		<Date>2015-11-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week - but I hope you enjoy nonetheless :-)</p>
+<ul>
+	<li>I finally got around to announcing <a href="http://fxexperience.com/2015/11/controlsfx-8-40-10-now-available/">ControlsFX 8.40.10 was available for download</a>. This is yet another big step forward for the ControlsFX project, so thanks to all the contributors to it.</li>
+	<li>An interview with <strong>Johan Vos</strong> was posted on YouTube recently, where he talks about <a href="https://www.youtube.com/watch?v=OuwjlHNPuEc&amp;feature=youtu.be">JavaFX on mobile</a>.</li>
+	<li><strong>Dirk Lemmermann</strong> posted the slides from his JavaOne talk titled '<a href="http://www.calendarfx.com/">JavaFX Real-World Apps</a>'.</li>
+	<li>Speaking of <strong>Dirk</strong>, he posted about '<a href="https://dlemmermann.wordpress.com/2015/11/16/when-to-use-javafx-instead-of-html/">When to use JavaFX instead of HTML</a>', and this was responded to&nbsp;by <strong>Shai Almog</strong> with his post '<a href="https://www.codenameone.com/blog/should-oracle-spring-clean-javafx.html">Should Oracle spring clean JavaFX?</a>'. I could talk at length about this topic, but all I'll say is what I always say: no one knows the full extent of usage of JavaFX, and any claims to its success and failure are uninformed at best (and intentional FUD at worst). I'm in the fortunate position of having far more insight into what companies are doing than most and it amazes me what I see sometimes - the innovation and extent of work companies are doing is really inspiring. Therefore, I do suggest that people take some topics with a grain of salt, but I am presenting both sides for completeness.</li>
+	<li><strong>Peter Rogge</strong> has released <a href="https://github.com/Naoghuman/NetBeansIDE-AfterburnerFX-Plugin">NetBeansIDE-AfterburnerFX-Plugin 1.1</a>.&nbsp;The NetBeansIDE-AfterburnerFX-Plugin is a 'NetBeans IDE plugin which supports the file generation in convention with the library afterburner.fx in a JavaFX project.'</li>
+</ul>
+]]></Content>
+	</post>

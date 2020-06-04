@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2234</ID>
+		<Slug>java-desktop-links-of-the-week-january-30-2</Slug>
+		<Title>Java desktop links of the week, January 30</Title>
+		<Date>2017-01-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Apologies for not posting last week - it was a public holiday on Monday (when I normally write and publish these posts), and it slipped my mind until too late in the week. Anyway, here are all the links that you might have missed in the last two weeks - enjoy :-)</p>
+<ul>
+ 	<li><strong>Adam Carroll</strong> has a post about building a <a href="https://vocabhunter.github.io/2017/01/15/Search-Bar.html">JavaFX search bar</a> using ControlsFX and FontAwesomeFX.</li>
+ 	<li>Speaking of FontAwesomeFX,<strong> Jens Deters</strong> has released <a href="http://www.jensd.de/wordpress/?p=2572">FontAwesomeFX 8.13</a><strong>.</strong></li>
+ 	<li><strong>Gerrit Grunwald</strong> has posted about <a href="https://harmoniccode.blogspot.co.nz/2017/01/customize-your-dashboard.html">customising the TilesFX dashboard</a> - very nice.</li>
+ 	<li><strong>Andres Almiray</strong> presented his <a href="https://virtualjug.com/the-javafx-ecosystem/">JavaFX ecosystem</a> talk to the virtual JUG, and the presentation was also <a href="https://zeroturnaround.com/rebellabs/best-javafx-libraries-for-beautiful-apps-and-clean-code/">converted into a blog post</a>.</li>
+ 	<li><strong>Tom Schindl</strong> has posted about&nbsp;making&nbsp;it easy to <a href="https://tomsondev.bestsolution.at/2017/01/26/make-it-easy-to-consume-efxclipse-libraries-in-maven-or-gradle/">consume e(fx)clipse libraries in maven (or gradle)</a>.</li>
+ 	<li><strong>Tom Eugelink</strong> has blogged about the <a href="https://tbeernot.wordpress.com/2017/01/29/is-it-a-screen-or-control/">process of taking a UI Control through to completion</a>.</li>
+ 	<li><strong>yWorks</strong> have <a href="http://www.yworks.com/products/yfiles-for-javafx">released version 3.0</a> of their (commercial) yFiles for JavaFX library.</li>
+</ul>
+]]></Content>
+	</post>

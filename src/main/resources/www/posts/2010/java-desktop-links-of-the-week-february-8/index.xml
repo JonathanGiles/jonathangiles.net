@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>730</ID>
+		<Slug>java-desktop-links-of-the-week-february-8</Slug>
+		<Title>Java desktop links of the week, February 8</Title>
+		<Date>2010-02-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome everyone to another week. This week there are some really interesting posts, so take your time to read through these links below and enjoy :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Alex Ruiz</strong> has posted a very good article on IBM DeveloperWorks discussing <a href="http://www.ibm.com/developerworks/java/library/j-swingtest/">debugging and testing Swing code</a>. This is a great read if you feel like you aren't doing enough to test your user interfaces.<strong></strong></li>
+	<li><strong>Damien Ielsch</strong> has posted some fun code for <a href="http://free-the-pixel.blogspot.com/2010/02/closing-windows-with-style.html">closing windows using  animated transitions</a>. Used subtley, these could provide an interesting  feel to appropriate applications.</li>
+	<li><strong>Geertjan Wielenga</strong> has posted a heap of NetBeans-related posts this week, including '<a href="http://blogs.sun.com/geertjan/entry/create_your_own_window_system">Create Your Own Window System on the NetBeans Window System</a>', that he <a href="http://blogs.sun.com/geertjan/entry/mydoggy_integrated_into_the_netbeans">integrated MyDoggy (a docking framework) into NetBeans</a>, an<a href="http://netbeans.dzone.com/news/interview-access-control"> interview with developers creating access control software</a> (i.e. fingerprint scanning), and <a href="http://netbeans.dzone.com/netbeans-airport-operation-management">airport management software built on NetBeans</a>. There are other posts, which you can find at <a href="http://blogs.sun.com/geertjan/">Geertjan's blog</a>.</li>
+	<li><strong>Kas Thomas</strong> carries on with his graphics-related posts, this week talking about <a href="http://asserttrue.blogspot.com/2010/02/procedural-paint-in-java-perlin-noise.html">implementing perlin noise</a> using his procedural paint code introduced last week. In a separate post he talks about <a href="http://asserttrue.blogspot.com/2010/02/voronoi-tessellation-in-linear-time.html">implementing Voronoi tessellation in linear time</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><a href="http://java.sun.com/javafx/1/reference/releasenotes/javafx-sdk-release-notes-1-2-3.html">JavaFX 1.2.3 was released this week</a>. It's a maintenance release only (which means there are no new toys to play with). This release had a focus on improving performance, reliability, and download time. Various bugs have been fixed as well.</li>
+	<li>Long time employee of Sun, and great advocate of both Swing and JavaFX, <strong>Josh Marinacci</strong>, has announced that he is moving on from Sun/Oracle, <a href="http://www.joshondesign.com/2010/02/03/leaving-sun-joining-palm/">taking up a position at Palm</a>.</li>
+	<li><strong>Simon Morris</strong> has posted an interesting tutorial on how to do <a href="http://www.jfxia.com/JFXTutorials/Tutorial1/">advanced clipping in JavaFX</a>. Clipping is something that becomes useful once you understand how to use it, so I recommend finding time to read this article.</li>
+	<li><strong>Drew</strong> from Piliq.com continues his exploration intophysics-based games. This week he posted progress in adding <a href="http://piliq.com/javafx/?p=1442">parallax scrolling and custom cursors</a>, and also an <a href="http://piliq.com/javafx/?p=1462">entirely new demo game</a>.</li>
+	<li>Speaking of physics games, <strong>Mikhail Gorshenev</strong> has posted a <a href="http://blogs.sun.com/mgorshenev/entry/broken_tetris">fun version of Tetris that spices up the original game</a> by requiring you to simply have two or more blocks of the same colour touch. The kicker? The blocks now exhibit physical properties and fall accordingly.</li>
+	<li><strong>Alex Ruiz</strong> has posted a new release of his <a href="http://alexruiz.developerblogs.com/?p=938">FEST JavaFX Maven plugin</a>, bumping the version to 1.0 alpha 1. This is a Maven plugin for compiling JavaFX source files.</li>
+	<li><strong>Vyacheslav Baranov</strong> writes about the availability (or not, depending on which OS your software is running on) of <a href="http://javafx.com/docs/techtips/rtsp/">Real-Time Streaming Protocol (RTSP) support in JavaFX 1.2</a>.</li>
+	<li><strong>Rakesh Menon</strong> has posted sample code to illustrate <a href="http://rakeshmenonp.wordpress.com/2010/02/03/javafx-upload-file/">how to upload files using JavaFX</a>.</li>
+	<li><strong>Kon</strong> at Outrospective.org has posted an overview of the <a href="http://outrospective.org/wordpress/?p=281">JavaFX 1.2 charting features</a>.</li>
+</ul>
+<p>Well, I hope you enjoyed the links, that they were informative, and that I'll see you all again next week :-)</p>
+]]></Content>
+	</post>

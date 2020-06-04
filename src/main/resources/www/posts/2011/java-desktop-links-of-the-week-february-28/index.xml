@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>996</ID>
+		<Slug>java-desktop-links-of-the-week-february-28</Slug>
+		<Title>Java desktop links of the week, February 28</Title>
+		<Date>2011-02-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>Howdy folks to another week of links. It certainly seems like the number of links this week has picked up, which is great to see. Let's get right into things.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Adam Bien</strong> continues posting about JavaFX 2.0, this time doing a quick post about how a <a href="http://www.adam-bien.com/roller/abien/entry/hello_javafx_2_a_tableview">TableView control can be created and populated</a>. On my behalf, your feedback on this is very much appreciated (even though the API shown by Adam is a little out of date now).</li>
+	<li><strong>Peter Pilgrim</strong> has <a href="http://www.vimeo.com/20351975">recorded</a> <a href="http://www.vimeo.com/20371471">three</a> <a href="http://www.vimeo.com/20433764">screencasts</a> as he plays with and explores the new JavaFX 2.0 SDK. Just note that what he is showing is pre-beta code samples using APIs that may change, and of course no best practices have been developed yet, so continue to explore with alternate approaches! :-)</li>
+	<li><strong>Stephen Chin</strong> is currently in India on business, and he gave the '<a href="http://javafx.steveonjava.com/javafx-2-0-at-the-chennai-jug/">JavaFX 2.0 and Alternate Languages</a>' talk he and I first gave at JavaOne. Each time he gives it it's a little bit different though, so it pays to check it out if you're interested.</li>
+	<li>The <a href="http://javafx.com/roadmap/">JavaFX 2.0 roadmap</a> has been updated to reflect the current state of progress. In general it appears as if the JavaFX team are doing a great job, keeping up with the schedule (which has always been a very tight schedule!).</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Danno Ferrin</strong> blogged about how he started a <a href="http://shemnon.com/speling/2011/02/on-forking-substance.html">forking of the Substance project</a> originally founded by <strong>Kirill Grouchnikov</strong>.</li>
+	<li><strong>René Jahn</strong> let me know that <a href="http://www.sibvisions.com/jvx">JVx</a>, an open source enterprise application framework, <a href="http://blog.sibvisions.com/2011/02/25/jvx-0-9-beta-4-is-available/">has had a new release</a>, taking it to version 0.9 beta-4.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li>Andres Almiray has asked, and answered, the question of "<a href="http://www.jroller.com/aalmiray/entry/so_who_uses_griffon_afterall">who uses Griffon after all?</a>"</li>
+	<li>In another post, Andres also covers <a href="http://www.jroller.com/aalmiray/entry/griffon_threading_management_take_ii">Griffon threading management, take 2</a>.</li>
+</ul>
+<p>Catch you all in a weeks time!</p>
+]]></Content>
+	</post>

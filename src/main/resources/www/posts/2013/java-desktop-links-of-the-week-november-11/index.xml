@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1598</ID>
+		<Slug>java-desktop-links-of-the-week-november-11</Slug>
+		<Title>Java desktop links of the week, November 11</Title>
+		<Date>2013-11-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A heap of links this week! Keep up the great work folks :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JavaFX Scene Builder 2.0 early access build 6 is <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">now available for download</a>, including support for Mac OS X.</li>
+	<li><strong>Sean Phillips</strong> has blogged about <a href="https://weblogs.java.net/blog/seanmiphillips/archive/2013/11/10/visualizing-nasa-ground-system-data-products-using-javafx-and-netbeans-platform-part-1">visualizing NASA Ground System Data Products</a> using JavaFX and the NetBeans Platform.</li>
+	<li><strong>Johan Vos</strong> was interviewed regarding <a href="http://www.ustream.tv/recorded/40613618">his work on JavaFX, Leap Motion, and social integration</a>.</li>
+	<li><strong>Tom Schindl</strong> is busy exploring <a href="http://tomsondev.bestsolution.at/2013/11/06/develop-a-javafx-ios-app-with-robovm-efxclipse-tools-in-10-minutes/">how to develop iOS applications using RoboVM and e(fx)clipse</a>, and has posted a <a href="https://wiki.eclipse.org/Efxclipse/Tutorials/Tutorial5">tutorial covering all the steps</a>. He has also posted about how <a href="http://tomsondev.bestsolution.at/2013/11/07/efxclipse-swt-javafx-jdk8b113/">SWT support in JavaFX 8.0 has changed</a> (but that you should <a href="http://tomsondev.bestsolution.at/2013/11/10/stay-away-from-jdk8b115-if-you-want-to-use-efxclipse/">be careful of build 115</a>).</li>
+	<li>Speaking of RoboVM, <strong>Satoshi Takami</strong> has posted a slide deck about RoboVM, related to<a href="http://www.slideshare.net/SatoshiTakami/20131109-jjugccc"> how it can be used to build user interfaces using JavaFX</a>.</li>
+	<li><strong>Michael</strong> has posted that he has got his <a href="http://mihosoft.eu/?p=952">first application built using JavaFX into the Mac App Store</a>.</li>
+	<li><strong>Florian Brunner</strong> has announced the <a href="http://puces-blog.blogspot.ch/2013/11/drombler-fx-version-02-released.html">release of Drombler FX Version 0.2</a>. Drombler FX is <a href="http://puces-blog.blogspot.ch/2012/12/drombler-fx-building-modular-javafx.html">a modular Rich Client Platform for JavaFX based on OSGi and Maven (POM-first)</a>.</li>
+	<li><strong>Rob Terpilowski</strong> was <a href="http://rterp.wordpress.com/2013/11/04/interview-with-techtarget-com-on-javafx-swing-and-the-netbeans-rich-client-platform/">interviewed recently</a> on his companies use of JavaFX.</li>
+	<li><strong>Jens Deters</strong> has released a <a href="http://www.jensd.de/wordpress/?p=880">new build of FontAwesomeFX</a> with support for FontAwesome 4.0.1.</li>
+	<li><strong>Masato Nagai</strong> has posted about <a href="http://blog.masatonagai.com/2013/11/build-openjfx-8-on-os-x-109-mervericks.html">how to build OpenJFX on OS X 10.9 Mavericks</a>.</li>
+	<li><strong>Sven Ruppert</strong> has blogged about how he is <a href="http://www.rapidpm.org/2013/11/speedup-from-charts-with-streams.html">using Java 8 streams and improved collections API</a> to speed up the generation of JavaFX charts.</li>
+	<li><strong>Pedro Duque Vieira</strong> continues to improve JMetro, this week improving <a href="http://pixelduke.wordpress.com/2013/11/06/metro-style-scroll-bar-for-java-jmetro-revisited/">ScrollBar</a>, <a href="http://pixelduke.wordpress.com/2013/11/09/metro-style-scroll-pane-for-java-jmetro-revisited/">ScrollPane</a>, <a href="http://pixelduke.wordpress.com/2013/11/10/metro-style-toggle-button-for-java-jmetro-revisited/">ToggleButton</a>, and <a href="http://pixelduke.wordpress.com/2013/11/03/metro-style-radio-box-for-java-jmetro-revisited/">RadioButton</a>.</li>
+</ul>
+<p>Catch you all next week.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>89</ID>
+		<Slug>semantic-web-video</Slug>
+		<Title>Semantic Web Video</Title>
+		<Date>2007-04-02</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>semantic-web-research</Tags>
+		<Content><![CDATA[<p>Following on from the video I posted about '<a href="/posts/2007/web-20-the-machine-is-using-us/">the machine is us/ing us</a>', which mainly chronicled the web 2.0 movement, <a href="http://www.technologyreview.com/video/semantic">this video by Sir Tim Berners-Lee</a> (a little over 8 minutes) outlines his vision of the semantic web. Given my research in this area, I am more positive than ever that this movement will succeed in the long term. My small tests and developments really highlight the major benefits that can be had by using the technology around the semantic web (i.e. RDF, SWRL, SPARQL, etc). These benefits are possible for both online software and client-based software.</p>
+
+<p>But more on that another day - but if you do have any questions on this whole area, please feel free to get in touch with me - my contact details are all on <a href="/contact.html">my site</a>.</p>
+]]></Content>
+	</post>

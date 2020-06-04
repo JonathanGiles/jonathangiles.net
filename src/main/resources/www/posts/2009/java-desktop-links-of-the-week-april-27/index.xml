@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>330</ID>
+		<Slug>java-desktop-links-of-the-week-april-27</Slug>
+		<Title>Java desktop links of the week, April 27</Title>
+		<Date>2009-04-26</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|Swing Links</Tags>
+		<Content><![CDATA[<p>Given my delay in posting last weeks links of the weeks, there has been a flow-on this week, with the number of links down from the usual volume. Despite this, there are a number of interesting posts that all readers should be interested in. Have a great week everyone.</p>
+<h3>General</h3>
+<ul>
+	<li><strong>Osvaldo Pinali</strong> blogged this week about how <a href="http://weblogs.java.net/blog/opinali/archive/2009/04/jdk_6u14_almost.html">he believes Swing and JavaFX startup times can be improved</a> . In summary, he believes there is scope for increased lazy loading, particularly around Nimbus.</li>
+	<li>In another post, <strong>Osvaldo Pinali</strong> incited quite a turbulent discussion, with both JavaFX and Swing camps (for lack of a better term) putting their cases forward. His initial question was not easily answered - he was <a href="http://weblogs.java.net/blog/opinali/archive/2009/04/oracle_and_java.html">wanting someone authorative to state the future of JavaFX</a> given the Oracle-based future of all things Sun. I recommend you at least browse through the comments.</li>
+	<li>Hard-working <strong>Jean-Francois Poilpret</strong> (@<a href="http://twitter.com/jfpoilpret">jfpoilpret</a> ) has posted a <a href="http://jfpoilpret.blogspot.com/2009/04/bean-properties-without-hard-coded.html">proof of concept which allows for bean properties without hard-coded names</a> . If you like his approach, he is looking for people to get involved to take some ownership and progress this project.</li>
+	<li><strong>Jeff</strong> <strong>Frieson</strong> has posted a JavaWorld tutorial on <a href="http://www.javaworld.com/community/node/2811">deploying Swing and JavaFX applications using Java Webstart</a> .</li>
+</ul>
+<h3>Swing</h3>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> (@<a href="http://twitter.com/kirillcool">kirillcool</a> ) has posted that <a href="http://www.pushing-pixels.org/?p=1206">there is a new Twilight skin for Substance</a> . In addition, Substance 5.2 is due to be released on May 25th, so it's less than a month to wait now. One of the new features in 5.2 is <a href="http://www.pushing-pixels.org/?p=1200">improved support for very large font sizes</a> . Finally, if you're interested in knowing more about Substance internals, <a href="http://www.pushing-pixels.org/?p=1203">check out this post from Kirill</a> .</li>
+	<li>One of the improvements in Substance 5.2 is that when rounded corners are used, the inner radius is no longer the same as the outer radius, which up to now resulted in a poor visual result. <strong>Ken Orr</strong> blogged about <a href="http://explodingpixels.wordpress.com/2009/04/22/concentric-rounded-rectangles/">how to improve this situation recently when using rounded rectangles</a> .</li>
+	<li><strong>Dave Gilbert</strong> left a comment to this post that a <a href="http://www.jfree.org/">new release of JFreeChart has been made available</a> . There are a number of new features for Swing developers, including panning and mouse-wheel zooming, copy-to-clipboard, etc.</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li><strong>Josh Marinacci</strong> (@<a href="http://twitter.com/joshmarinacci">joshmarinacci</a> ) posted a <a href="http://jfxstudio.wordpress.com/2009/04/25/right-click-to-view-source/">demo of a 'view source' context menu item for JavaFX applications</a> . Essentially as part of the build script the source code is copied into the application, and shown to the user when the context menu item is selected. At the moment this only shows one source file, but it would be trivial to expand this to show all source files using a tabbed pane or tree view of all files. Personally I think this is quite cool, although it would be nice to have proper context menus in JavaFX (which I assume will be in JavaFX 1.5).</li>
+	<li><strong>Rakesh Menon</strong> posts a <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_animation">short overview of animation in JavaFX</a> .</li>
+	<li><strong>Raghu Nair</strong> posts a <a href="http://blogs.sun.com/raghunair/entry/how_to_create_tooltip_for">short code snippet demonstrating how to show tooltips for nodes in a JavaFX scene</a> .</li>
+</ul>
+<h3>Pivot</h3>
+<ul>
+	<li><strong>Greg Brown</strong> made a post showing <a href="http://java.dzone.com/news/building-simple-rss-client">how to make a simple RSS client in Pivot</a> . He developed a custom list item renderer to improve the elements in the RSS feed list.</li>
+</ul>
+]]></Content>
+	</post>

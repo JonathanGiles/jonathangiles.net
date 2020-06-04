@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1142</ID>
+		<Slug>java-desktop-links-of-the-week-november-14</Slug>
+		<Title>Java desktop links of the week, November 14</Title>
+		<Date>2011-11-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Here we go again - this week there are a heap of JavaFX links, so I'm just going to get right in to it - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Kai Tödter</strong> has blogged about '<a href="http://www.toedter.com/blog/?p=690">Eclipse 4.x RCP + JavaFX Renderer</a>'. Of particular interest is the three screenshots, that show quite different styling in JavaFX that is achieved with minimal changes to the CSS.</li>
+	<li><strong>Mario Torre</strong> did a quick status update blog post about the work he and his colleagues are doing to allow for Swing to be embedded within a JavaFX scene. The latest post indicates that <a href="http://www.jroller.com/neugens/entry/oh_no_i_lost_focus">they now have proper focus support</a>, and that they are next planning on adding keyboard events.</li>
+	<li>In a separate post, <strong>Mario</strong> showed a small demo application he created that shows <a href="http://www.jroller.com/neugens/entry/javafx3d">JavaFX creating 3D scenes</a> (in the sense that you'll need 3D glasses to see the effect).</li>
+	<li><strong>Roman Kennke</strong> created a <a href="http://rkennke.wordpress.com/2011/11/11/hypertree-renderer-for-javafx/">HyperTree renderer in JavaFX</a>. Both the source code, and a live demo, are available for your viewing pleasure.</li>
+	<li><strong>Niklas Hofmann</strong> has put up a PDF detailing <a href="http://www.niklashofmann.eu/stuff/JavaFX-Properties-and-Binding.pdf">the JavaFX properties and binding API</a>.</li>
+	<li><strong>Rob Mayhew</strong> has blogged about <a href="http://robmayhew.com/javafx-2-0-layout-with-migpane/">JavaFX 2.0 layout using MigLayout / MigPane</a>.</li>
+	<li><strong>Tom Eugelink</strong> has <a href="http://tbeernot.wordpress.com/2011/11/12/javafx-2-0-bubblemark/">ported the bubblemark benchmark to JavaFX 2.0</a>, and has some interesting findings.</li>
+	<li><strong>Lawrence McAlpin</strong> has blogged about '<a href="http://www.lmcalpin.com/post/12513706561/cooler-javafx-kreations?t=1320797313">cooler javaFX kreations</a>', which demonstrates use of animation, controls and FXML.</li>
+	<li><strong>Andre Hogenkamp</strong> has blogged about a (hacky) way of <a href="http://andre86blog.blogspot.com/2011/11/running-javafx-on-linux.html">getting JavaFX 2.0 to work in Linux</a>, whilst the official support is still forthcoming. It involves using Wine, and obviously has limitations.</li>
+	<li><strong>Bertrand Goetzmann</strong> has put up <a href="http://www.screenr.com/X7cs">another video showcasing his Grezi application</a>, this time making use of GraphViz to lay out nodes in the scene.</li>
+	<li><strong>Johan Vos</strong> and I put up a new release of <a href="http://www.javafxdata.org/">DataFX</a>, taking the release <a href="http://www.javafxdata.org/changelog/">version to 0.0.3</a>. This release has updated <a href="http://www.redfx.org">RedFX</a> support, as well as the <a href="http://www.javafxdata.org/javadoc/index.html?org/javafxdata/control/TableViewFactory.html">TableViewFactory</a> class that can help auto-configure a TableView for you. I plan to continue to improve this class as time allows, as it is very minimal right now.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jyloo Software</strong> has announced the <a href="http://www.jyloo.com/news/?pubId=1320762205000">release of Synthetica 2.14 and SyntheticaAddons 1.6</a>. In a separate blog post, <strong>Jyloo Softwar</strong>e talks about some <a href="http://www.jyloo.com/news/?pubId=1320918851000">new JYTabbedPane features</a> that are offered in SyntheticaAddons 1.6.</li>
+</ul>
+<p>Well, that's it for another week. Hope you found something useful. Catch you in a weeks time! :-)</p>
+]]></Content>
+	</post>

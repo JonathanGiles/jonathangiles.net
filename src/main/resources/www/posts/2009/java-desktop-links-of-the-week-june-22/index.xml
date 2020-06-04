@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>433</ID>
+		<Slug>java-desktop-links-of-the-week-june-22</Slug>
+		<Title>Java desktop links of the week, June 22</Title>
+		<Date>2009-06-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|javafx|swing</Tags>
+		<Content><![CDATA[<p>Another busy week, especially in JavaFX land. I hope everyone is settled back in to work after the JavaOne distraction, and that conference-driven development can be forgotten for another 9 months. On with the news.</p>
+<h4>General</h4>
+<ul>
+	<li>Congratulations goes to <strong>Alex Ruiz</strong>, author of the <a href="http://code.google.com/p/fest/">FEST testing software</a>, on the news that <a href="http://alexruiz.developerblogs.com/?p=172">he and his wife had a baby girl this week</a>. This is Java desktop related news only as it has already been decided that Colette will be a Java desktop developer in 20 years time.</li>
+	<li><strong>Josh Marinacci</strong> posted a <a href="http://weblogs.java.net/blog/joshy/archive/2009/06/the_java_store.html">FAQ for the Java Store</a>.</li>
+	<li>Often times when you present time to users, it doesn't need to be precise. This is becoming more popular, especially on the web. If you want to have similar output for your users, look in to <a href="http://ocpsoft.com/prettytime/">PrettyTime</a>, which is an LGPL3 library designed to display human-readable timestamps like, “right now”, “2 days ago”, or “3 months from now”.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Alexey Ushakov</strong> has <a href="http://weblogs.java.net/blog/alex2d/archive/2009/06/jwebpane_bof_sc.html">two screenshots of the JWebPane component</a> in action.</li>
+	<li>Using NetBeans 6.7 and MigLayout? <span><strong>Geertjan Wielenga</strong> posts about <a href="http://blogs.sun.com/geertjan/entry/registering_miglayout_in_netbeans_ide">how to register MigLayout in NetBeans</a> to make it easier to use.</span></li>
+	<li><span><strong>Ken Orr</strong> posts that his <a href="http://explodingpixels.wordpress.com/2009/06/19/hud-on-windows-finally/">heads-up display is now available on Windows</a> with proper transparency.</span></li>
+	<li><strong><span>Rémy Rakic</span></strong><span> posts part one in a series on '</span><a href="http://lqd.hybird.org/journal/?p=147">Animation speed and dynamic motion blur in Swing with JavaFX’s Scenario</a>'. This code merges JavaFX and Swing.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>Want to <a href="http://www.informit.com/articles/article.aspx?p=1352545">learn what is new in JavaFX 1.2</a>? <strong>Jim Clarke</strong> has an article up on InformIT which discusses precisely this. Note that it is five pages long (it's not immediately obvious).</li>
+	<li><strong>Jeff Frieson</strong> posts about a <a href="http://javajeff.mb.ca/cgi-bin/makepage.cgi?javafx/pc/pc">painter interface he created for JavaFX</a>, which allows for more interesting scenes, such as 'fireworks, plasma, fractals, and even fire'. There is a <a href="http://javajeff.mb.ca/javafx/pc/CanvasDemo.jnlp">webstart demo</a> which demos the plasma effect, which works well when the frame is small, but performance suffers as the frame is made bigger, which is a little disappointing.</li>
+	<li><strong>Josh Marinacci</strong> is interviewed on RIA Weekly, where <a href="http://www.riaweekly.com/2009/06/18/riaweekly053/">he is talking about JavaFX and the Java Store</a>.</li>
+	<li>In the final contribution from <strong>Josh</strong> this week, he also provided a <a href="http://jfxstudio.wordpress.com/2009/06/20/a-custom-virtual-list/">custom virtual list component for JavaFX</a>. This is a more customisable version of the ListView offered in JavaFX, although it is by no means complete, and still needs some TLC before it can be considered a suitable replacement. You can <a href="http://projects.joshy.org/jfxstudio/CustomListView/CustomListTest.html">give it a whirl here</a>.</li>
+	<li><strong>Fabrizio Giudici</strong> posts on how he created <a href="http://java.dzone.com/articles/implementing-common-profile">a common-profile based map renderer for JavaFX</a>. This first post is on the underlying model, with future posts to cover the other necessary aspects.</li>
+	<li><strong>Sebastien Stormacq</strong> has a post to show <a href="http://blogs.sun.com/sebsto/entry/fun_with_javafx_how_to?dzref=193568">how to subclass UI controls in JavaFX</a>. This allows for him to create a 'search text box' which has the relevant controls within the text field.</li>
+	<li>The <a href="http://www.insideria.com/2009/06/writing-the-pac-man-game-in-ja-4.html">final part in a series of posts on writing a Pac-Man game in JavaFX has been posted</a>. This series was written by <strong>Haining Henry Zhang</strong>, and is well worth reading if you're interested in creating games in JavaFX. Relatedly, he posted that the game has been <a href="http://www.javafxgame.com/pac-man-widget-for-widgetfx-12/">ported to work on WidgetFX 1.2</a>. Finally, <a href="http://www.javafxgame.com/">Haining runs a blog that has a number of interesting posts</a> related to JavaFX gaming.</li>
+	<li><strong>Stephen Chin</strong> posts about the <a href="http://steveonjava.com/2009/06/17/widgetfx-1-2-beta/">latest WidgetFX 1.2 beta</a>, and how to go about updating a widget developed against an older version.</li>
+	<li><strong>Rakesh Menon</strong> has code to demonstrate <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_upload_and_download_large">how to upload and download large files in JavaFX</a>, and provide feedback to the user.</li>
+	<li>In another post, <strong>Rakesh</strong> also provides <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_rss_and_atom_task">examples on the new RssTask and AtomTask classes in JavaFX</a>, which are used to (not surprisingly) parse news feeds.</li>
+	<li><strong>Osvaldo Pinali</strong> posts a JavaFX tip: <a href="http://weblogs.java.net/blog/opinali/archive/2009/06/javafx_script_t.html">only do a single assignment per variable per method</a>.</li>
+	<li><strong>Baechul Kim</strong> has posted another three articles this week. The first post is on <a href="http://blogs.sun.com/baechul/entry/node_bounding_rectangles_coordinates">node bounding rectangles and coordinates</a>, which is quite a difficult area of JavaFX to get your head around. He includes a <a href="http://blogs.sun.com/baechul/resource/demos/NodeBoundsTest.jnlp">Java webstart link to a program that helps to explain this topic more interactively</a>. The second post is about the <a href="http://blogs.sun.com/baechul/entry/playing_with_mediabox_1">MediaBox demo that comes with the JavaFX SDK</a>. Finally, he posts on <a href="http://blogs.sun.com/baechul/entry/fxd_details">how to load FXZ files</a>, which are graphic assets stored in a JavaFX-friendly format.</li>
+	<li>Want to create a 'flying images' effect in JavaFX? <strong>Raghu Nair</strong> says it's <a href="http://blogs.sun.com/raghunair/entry/flying_images1">simply a matter of TranslateTransition and ScaleTransition</a>.</li>
+	<li><strong>Piliq.com</strong> has an article on <a href="http://piliq.com/javafx/?p=1031">JavaFX from a games programming perspective</a>. Frankly I think the title is a little unrelated to the content, which appears to be not much more than a summary of the current state of play of JavaFX, mixed with a little wishful thinking.</li>
+	<li><strong>Subrata Nath</strong> writes about <a href="http://blogs.sun.com/subrata/entry/fullscreen_support_on_javafx">fullscreen support in JavaFX</a>.</li>
+	<li><strong>Mohammed Sanaulla</strong> shows <a href="http://blogs.sun.com/sanaulla/entry/opening_browser_from_javafx_desktop">how to open a website in the users default web browser from JavaFX</a>, simply by making use of the Desktop class introduced in Java 6.</li>
+	<li>Not to blow my own trumpet, but I posted a thing or two this week also. Firstly, I posted a <a href="/posts/2009mini-pro-javafx-platform-book-review/">mini review of the Pro JavaFX Platform book</a>, and secondly I posted a <a href="/posts/2009javafx-magic-8-ball/">small code snippet that shows a Magic 8 ball</a>.</li>
+</ul>
+<h4>Groovy/Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> posts about the <a href="http://www.jroller.com/aalmiray/entry/fxbuilder_update">latest FxBuilder</a>, which has support for JavaFX 1.2, including the new controls, <span style="text-decoration: line-through;">charts</span>, etc.</li>
+	<li>'<a href="http://www.teamlalala.com/blog/2009/06/05/why-do-we-need-javafx-when-we-have-groovy/">Why do we need JavaFX when we have Groovy</a>?' is the question asked by <strong>teamlalala.com</strong>. They then go on to provide a good discussion around the code to draw a coffee cup in both JavaFX and Groovy. Personally, I don't think the question is fair - why can't we have JavaFX and Groovy - it's not like Sun would ever drop JavaFX to instead support Groovy, and I would suggest that for the time being at least, there are far deeper pockets behind JavaFX than many other languages out there.</li>
+</ul>
+<p>That's it for another week. Keep working hard, and, as a (relatively) local comedian would say: say hi to your mum for me.</p>
+]]></Content>
+	</post>

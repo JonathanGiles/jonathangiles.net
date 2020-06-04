@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2920</ID>
+		<Slug>java-engineering-at-microsoft-interview-with-reiley-yang</Slug>
+		<Title>Java Engineering at Microsoft: Interview with Reiley Yang</Title>
+		<Date>2018-03-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java|Programming>Microsoft]]></Categories>
+		<Tags>interview</Tags>
+		<Content><![CDATA[<p>Today I have another post in my Java / Azure interview series, this time with <strong>Reiley Yang</strong>. I met Reiley recently as we were both visiting the Microsoft Shanghai offices at the same time, and I learned more about what he is doing in the area of remote Java debugging with Azure. So, please, enjoy! :-)</p>
+
+<p><img class="aligncenter size-medium wp-image-2950" src="/content/2018/03/Reiley-300x300.png" alt="" width="300" height="300"></p>
+
+<p><strong>Hi Reiley – can you please introduce yourself to everyone?</p>
+<p></strong>Hey, I’m Reiley Yang. I started my career 12 years ago as a C/C++ developer (working on the low level stuff, C Runtime Libraries, compilers, debuggers, etc.), and later worked on different technologies and platforms. My hobbies include working on personal IoT projects, piano playing, woodwork, yard work, and cooking.</p>
+
+<p><strong>You and I met each other recently when we were in Shanghai at the same time, but you’ve been based out of Microsoft HQ in Redmond for some time now. You said you moved from Shanghai partially because you’re a keen piano player but couldn’t easily play piano in Shanghai without annoying your neighbours. Now that you have a bit more space in Redmond, I wondered if any of your piano music was recorded and online?</p>
+<p></strong>I do have some recordings, more for myself when I try to see what can be improved, I never published them though. I am a big fan of Chopin and J.S. Bach’s keyboard music. I hope that one day I could play all their works :)</p>
+
+<p><strong>When did you start working at Microsoft?</p>
+<p></strong>I started in 2006, then quit and worked in a start-up company, and re-joined Microsoft in 2011.</p>
+
+<p><strong>If I recall correctly you previously worked on C++ compilers and the like, and today you find yourself working on Java debugging on Azure. That’s quite a big change! Could you talk more about what you do at Microsoft today, and how you came to be working on Java at Microsoft?</p>
+<p></strong>Sure! I started working on the C++ runtime libraries and compilers. Later there was a need to improve the C++ / CLI debugger, which requires knowledge and experience from compiler, so I started to work on debuggers. Since then I’m always connected with debuggers and debugging.</p>
+
+<p>There has been a long history between Microsoft and Java, and Microsoft was not doing well in the Java area in the early years. Now we have put tremendous amount of effort into <a href="https://docs.microsoft.com/en-us/java/azure/">making Microsoft technologies available for Java developers</a>, and we want Microsoft tools and services to stand out in terms of Java support.</p>
+
+<p>Debugging services in the cloud is hard, we’re experimenting with cloud debugging support for Java, and will add other language support in the future. Here's a diagram outlining how things go together (click to see a bigger version):</p>
+
+<p><a href="/posts/2018/wp-content/uploads/2018/03/azure-java-debug.png/"><img class="aligncenter wp-image-2947 size-large" src="/content/2018/03/azure-java-debug-1024x537.png" alt="" width="688" height="361"></a></p>
+
+<p><strong>As I understand it, remote debugging is still a proof of concept and you’re still seeking community feedback. How should developers test this functionality, and how should they provide feedback?</p>
+<p></strong>We have <a href="https://code.visualstudio.com/docs/java/java-serverless">documented the steps</a>,&nbsp;which explains the steps to debug <a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-maven">Java-based Azure Functions</a> in the cloud, and we use <a href="https://github.com/Microsoft/vscode-java-debug/issues">GitHub to track issues and collect suggestions</a>.</p>
+
+<p><strong>The scope of the work required for remote debugging is considerable – the debugger must be part of the JVM, it must be exposed through a port in the app service, there must be tooling written that can communicate with this debugger, VS Code will provide a visual interface for remote debugging, etc. It seems like your work cuts across a number of different layers – it must be difficult to line everyone up and get a shared vision of this feature. On top of this, Microsoft has engineering teams in a number of different geographies – how does working on something so complex across so many layers in many geographies work?</p>
+<p></strong>There is no magic :)</p>
+
+<p>Yes there has been ongoing communications among different teams, the conversations are all based on the BI data and customer feedback. When you put the customers’ requirement in front of the table, you’re more easily to get support from your partner teams.</p>
+
+<p>The <a href="https://code.visualstudio.com/">VS Code</a> team is in Zurich, <a href="https://azure.microsoft.com/">Azure Application Platform</a> and <a href="https://azure.microsoft.com/en-us/services/functions/">Azure Functions</a> team are in Redmond, the Java Debugger team is in Shanghai. Some of the team members need to fight against the jetlag and travel abroad, and some need to switch their working hours so we can have conference meetings across the ocean.</p>
+
+<p><strong>[Jonathan Note:</strong> There is a blog post on <a href="https://code.visualstudio.com/blogs/2017/09/28/java-debug">using VS Code to debug Java applications</a> that might be of interest to readers, as well as a <a href="https://visualstudiomagazine.com/articles/2018/01/10/java-debugger.aspx">recent article on the latest improvements</a><strong>]</strong>.</p>
+
+<p><strong>What does a normal day look like for you? Are you able to dive deeply into coding, is there a lot of planning / communication required?</p>
+<p></strong>I actually spend a lot of time with customers.</p>
+
+<p>One big difference in the last couple years at Microsoft is the faster release cadence. In the old days, we used to have new release every 3 years, and now it is 3 weeks. We’ve keep a close eye on the feedback from our users, the number of downloads, error reporting, etc. This gives us chance to bring new features to the market as soon as possible, and we can adjust the direction / priority based on the results.</p>
+
+<p><strong>Thanks so much for your time! Do you have any other final words that you want to share with the community?</p>
+<p></strong>Yes, I would love to hear how people are using Content Assist / IntelliSense while writing in Java.</p>
+
+<p>What are the most annoying things and what are the features you would love to have. My team is thinking to make improvements in this area, let us know what you would love to have :)</p>
+
+<p>We’re looking for crazy ideas that push Content Assist / IntelliSense to a new level using machine learning and AI.</p>
+
+<p>Take one example - developers would spend a considerable amount of time searching for code samples and follow common patterns while using certain API, we want to see whether developers would find it helpful if the IDE could help to generate a code snippet based on the API being used.</p>
+
+<p>Another example is the async feature in Java, will people feel excited if there is a tool to automatically convert sync code to async, or vice versa?</p>
+
+<p><strong>[Jonathan Note:</strong>&nbsp;Please leave any feedback you might have for Reiley as a comment below, or else feel free to <a href="mailto:jonathan@jonathangiles.net">email me</a> and I will forward it on to Reiley<strong>]</strong>.</p>
+
+<p><strong>Thanks Reiley!</strong></p>
+]]></Content>
+	</post>

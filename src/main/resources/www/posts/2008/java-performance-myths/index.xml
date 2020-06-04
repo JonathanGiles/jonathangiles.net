@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>154</ID>
+		<Slug>java-performance-myths</Slug>
+		<Title>Java Performance Myths</Title>
+		<Date>2008-05-22</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>java|Programming|software</Tags>
+		<Content><![CDATA[<p>Just a quick link to an <a href="http://www.regdeveloper.co.uk/2008/05/22/java_performance_myths/">interesting post</a> on The Register here that discusses some 'myth busting' by two Google employees on the common myths surrounding the Java runtime/language. Very interesting reading, and a nice followup to my previous post. The The Register post <a href="http://jeremymanson.blogspot.com/2008/03/java-performance-talk.html">links to this blog post</a> which then links on to <a href="http://www.cs.umd.edu/users/jmanson/java/presentations/sdwest2008.ppt">this interesting (powerpoint) slide deck</a>.</p>
+
+<p>In my day-to-day use of Java, I find it to be very performant, so it is quite unfair the stigma that is attached to it, that I presume arises due to the Java of yore - i.e. mid 90's Java. As noted in the links above, each Java release (we're presently at Java 1.6) achieves a very good performance boost over the previous release. As noted in the <a href="/posts/2008/java-performance-analysing-memory-usage/">previous post</a>, there is however very easy ways to ruin the performance of (particularly) AWT/Swing user interface applications, given the necessary use of threads, and the lack of understanding that many developers have generally towards threading, and specifically towards Java GUI threading.</p>
+]]></Content>
+	</post>

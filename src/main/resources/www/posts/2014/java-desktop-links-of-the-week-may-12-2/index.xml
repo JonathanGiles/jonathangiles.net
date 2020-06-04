@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1726</ID>
+		<Slug>java-desktop-links-of-the-week-may-12-2</Slug>
+		<Title>Java desktop links of the week, May 12</Title>
+		<Date>2014-05-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A great line up of links this week, which shows how strong and vibrant our little community is. Keep up the great work folks, it is always fascinating reading about what you're doing!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has two posts this week. Firstly, he has a post detailing how to <a href="http://tomsondev.bestsolution.at/2014/05/08/reuseing-your-e4-swt-part-implementation-in-e4-on-javafx/">reuse your e4 SWT-Part implementation in e4 on JavaFX</a>. Secondly, he has a post announcing that the <a href="http://tomsondev.bestsolution.at/2014/05/06/efxclipse-all-in-one-downloads-upgraded-to-luna-m7-why-care/">e(fx)clipse all-in-one downloads have been upgraded to Luna M7</a>, and this brings with it some usability enhancements.</li>
+	<li><strong>Johan Vos</strong> has a post about <a href="http://www.lodgon.com/dali/blog/entry/Locationbased_software_in_JavaFX">location-based software</a> in JavaFX, and in particular the <a href="https://bitbucket.org/lodgon/openmapfx">OpenMapFX library</a>.</li>
+	<li><strong>Johan</strong> was also interviewed for Java Magazine, on the topic of <a href="http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20140304?pg76#pg21">JavaFX on Android</a>.</li>
+	<li><strong>Marco Jakob</strong> has <a href="http://code.makery.ch/blog/update-to-javafx-8-whats-new/">updated his entire tutorial series for JavaFX 8</a>, detailing all the new functionality, as well as improved ways to use old API now that we have lambdas, etc. This is well worth reading.</li>
+	<li><strong> James Denvir</strong> has blogged '<a href="http://www.marshall.edu/genomicjava/2014/05/09/one-bean-to-bind-them-all/">one bean to bind them all</a>' - a post looking at using JavaFX properties on the server side.</li>
+	<li><strong>Jens Deters</strong> continues to improve his <a href="http://www.jensd.de/wordpress/?p=1113">JavaFX-based MQTT FX application</a>, for publishing / subscribing to MQTT topics. It is very nicely polished, and makes use of <a href="http://www.controlsfx.org">ControlsFX</a> :-)</li>
+	<li><strong>Florian Brunner</strong> has announced that <a href="http://puces-blog.blogspot.co.nz/2014/05/drombler-fx-version-03-released.html">Drombler FX version 0.3 has been released</a>. With this release the <a href="http://wiki.drombler.org/DockingFramework">Docking Framework</a> and the <a href="http://wiki.drombler.org/ContextFramework">Context Framework</a> have been moved from the OSGi-based RCP <i>Drombler FX</i> to the <a href="http://wiki.drombler.org/DromblerCommons">Drombler Commons </a>library collection, which can be used inside and outside of an OSGi platform.</li>
+	<li><strong>Gerrit Grunwald</strong> updated his NeoPixel blog post to mention that he has now created a <a href="http://harmoniccode.blogspot.de/2014/04/neopixel24-ring.html">NeoPixel 60 JavaFX visualisation</a> as well. He also <a href="https://www.youtube.com/watch?v=tlR7h6eRAms">posted a video</a> of a 'paper fold' effect he coded this week.</li>
+	<li>The <strong>tomoTaka</strong> blog has a post showing a <a href="http://d.hatena.ne.jp/tomoTaka/20140510/1399726091">simple WebView-based sample app</a>.</li>
+	<li><strong>Nathan Howard</strong> has posted about <a href="http://blog.idrsolutions.com/2014/05/tutorial-change-default-cursor-javafx/">how to change the cursor in JavaFX</a> to a custom cursor.</li>
+	<li>The <strong>ReportMill</strong> blog has a short post about <a href="http://reportmill.wordpress.com/2014/05/06/javafx-pacman-in-snapcode-with-greenfoot/">running PacMan in SnapCode with Greenfoot</a>.</li>
+	<li>This week the ControlsFX project asked the community for <a href="https://bitbucket.org/controlsfx/controlsfx/wiki/ControlsFX%20i18n">help translating it to other languages</a>. If you have a spare 15 minutes and are willing to help translate from English to another language, please go to the ControlsFX i18n wiki page to see if there is a translator signed up or not. Regardless of whether there is or not, if you remain interested, please follow the instructions to contact me. Thanks!</li>
+</ul>
+<h4>Swing / Java2D</h4>
+<ul>
+	<li><strong>Jyloo Software</strong> has<a href="http://www.jyloo.com/news/?pubId=1399542638000"> announced Synthetica V2.19 and SyntheticaAddons V1.9</a>, which includes a number of new features and bug fixes.</li>
+	<li><strong>David Gilbert</strong> has blog about <a href="http://www.object-refinery.com/blog/blog-20140509.html">Orson Charts 3D / Enhanced SVG Export</a>.</li>
+</ul>
+<p>Catch you all next week! :-)</p>
+]]></Content>
+	</post>

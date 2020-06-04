@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>666</ID>
+		<Slug>java-desktop-links-of-the-week-december-21</Slug>
+		<Title>Java desktop links of the week, December 21</Title>
+		<Date>2009-12-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|java desktop|javafx|Swing Links</Tags>
+		<Content><![CDATA[<p>Well, it's getting in to christmas so news is slowing down a little bit these days, and I'm sure this coming week will be even slower. Regardless, I'll be keeping an eye out for any Java desktop news and will do my best to bring it to you over the next few weeks. As always, feel free to email me any links you want me to cover.</p>
+
+<p>To everyone taking some time off over the next few days, I hope you have fun and manage to put your feet up for a few days. Try to disconnect from the PC if at all possible :-) I'll catch you just prior to new years!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Rob Camick</strong> blogs about <a href="http://tips4java.wordpress.com/2009/12/20/scrollable-panel/">creating scrollable panels in Swing</a>, and in particular how to customise this to work well with your specfic application requirements.</li>
+	<li>The NetBeans team continues its interviews with developers around the world who are using the NetBeans RCP. This week they interview<strong> Dale Thoma</strong> <a href="http://netbeans.dzone.com/sandf-netbeans-platform">who works for Saab Systems Grintek (SSG) in South Africa</a> on projects relating to their National Defence Force.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>After a successful first presentation with <strong>Richard Bair</strong> at the Silicon Valley JavaFX users group, next up to bat is <strong>Amy Fowler</strong>. She'll be presenting about <a href="http://steveonjava.com/2009/12/18/javafx-layout-secrets/">layout secrets in JavaFX on January 13</a>. Note that the <a href="http://www.svjugfx.org/calendar/12104615/">venue has changed</a> - it is now being hosted at Sun. As with the first presentation, you don't have to be physically in California to attend - video is broadcast live, and there is an associated chat room. You can find me, as well as a number of other JavaFX developers, in there during the presentation.</li>
+	<li>This week a <a href="http://blogs.sun.com/lukas/entry/java_fx_composer_preview_is">preview release of the JavaFX Composer / Designer plugin</a> was released for NetBeans. Overall <a href="http://www.adam-bien.com/roller/abien/entry/java_fx_composer_designer_for1">peoples reactions</a> <a href="http://blogs.sun.com/lukas/entry/composer_creating_simple_app_in">are positive</a>, with the <a href="http://armelnene.blogspot.com/2009/12/javafx-composer-rad-tool-first-review.html">only complaints</a> seemingly coming from people expecting this release to be final and / or fix all issues related to JavaFX.</li>
+	<li>If Eclipse is more your scene, check out the <a href="http://mkblog.exadel.com/ria/javafx-ria/javafx-visual-designer-for-eclipse/">early progress on a visual designer for Eclipse</a>, which is being developed by Exadel.</li>
+	<li><strong>Dean Iverson</strong> posted a very interesting article investigating <a href="http://pleasingsoftware.blogspot.com/2009/12/creating-custom-caspian-controls.html">how to create custom controls in JavaFX</a>, making use of Caspian code for colors and state transitions&nbsp; (i.e. subtle animations). The only downside is that we've changed how things work for JavaFX 1.3, which should make this kind of thing much easier.</li>
+	<li>Congratulations goes to <strong>Jeff Frieson</strong> for winning the latest JavaFX coding competition. This months theme was 'holiday', and you can <a href="http://jfxstudio.wordpress.com/2009/12/20/challenge-winner-holiday/">see the winning entry at JFXStudio</a>. Next months competition will be announced on new years day.</li>
+	<li>Speaking of <strong>Jeff</strong>, he has posted an article discussing how to play with <a href="http://javajeff.mb.ca/cgi-bin/makepage.cgi?javafx/pwp/pwp">perspectives in JavaFX to attain various effects</a>. You can also find a lot more of this kind of material in the 'Pro JavaFX Platform' book published a few months ago.</li>
+	<li>If you're wanting to display PDF's from within JavaFX, today's your luck day, as <a href="http://pdf.jpedal.org/java-pdf-blog/bid/24302/JPedalFX-a-JavaFX-PDF-Viewer">JPedalFX is a LGPL-licensed JavaFX PDF viewer</a>. I'm not sure what is going on under the hood, but I'm guessing it's probably a wrapper around a Swing-based PDF viewer. Please, correct me if I'm wrong, but just keep in mind that this limits the portability of your JavaFX app (both to mobile/tv devices, as well as to the prism graphics stack).</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has been busy posting news of updates to (or new releases of) Griffon plugins. In <a href="http://www.jroller.com/aalmiray/entry/griffon_plugin_updates">two</a> separate <a href="http://www.jroller.com/aalmiray/entry/griffon_plugin_updates_ii">blog</a> posts he covers news of at least nine different Griffon releases. If Griffon is your thing, you really should be following his blog.</li>
+</ul>
+<p>That's it for another week. Like I said above, have a great week (or so) off, have plenty of fun with friends and family, and be sure to relax as I'm sure 2010 is going to&nbsp; be a big year for the Java desktop world (and if you're not involved in Java desktop, what're you doing reading this?!).</p>
+]]></Content>
+	</post>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>620</ID>
+		<Slug>java-desktop-links-of-the-week-october-11</Slug>
+		<Title>Java desktop links of the week, October 11</Title>
+		<Date>2009-10-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A heap of news this week, covering Swing, JavaFX and a little bit of Griffon. Let's get straight into it.</p>
+<h4>General</h4>
+<ul>
+	<li><strong>Peter Karich</strong> has written a blog post that contains links to most well-known <a href="http://java.dzone.com/articles/java-application-frameworks">Java (client) application frameworks</a>. This might be a good research to people starting a new client application to consider what framework they want to&nbsp; use, if any.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> announced a <a href="http://www.pushing-pixels.org/?p=1461">release candidate for Trident 1.1</a>. Trident is most probably the best animation library available for Java, and certainly the most actively developed.</li>
+	<li><strong>Anees ur-Rehman</strong> has blogged a code sample that shows <a href="http://java.dzone.com/articles/swing-jcomponent-validation">how to perform JComponent validation with JGoodies Validation and Binding framework</a>. The <a href="http://www.jgoodies.com">JGoodies</a> libraries are very good, so if you're ever looking for good libraries for forms, binding, and validation, you really should check them out.</li>
+	<li><strong>Lau Jensen</strong> has blogged about <a href="http://blog.bestinclass.dk/index.php/2009/10/functional-social-webscraping/">writing a Swing application that looks nice on a Mac</a>. It makes use of the <a href="http://code.google.com/p/macwidgets/">MacWidgets</a> project that <a href="http://explodingpixels.wordpress.com">Ken Orr</a> frequently blogs about. Unfortunately, despite the promise, most of this article focuses on clojure, so it's probably of little use unless you're also interested in using clojure.</li>
+	<li><strong>TaranFX.com</strong> has blogged about what he considers <a href="http://www.taranfx.com/blog/best-java-swing-look-and-feel-themes-professional-casual-top-10">the best Java Swing look and feels</a> in both the professional and casual categories.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jim Weaver</strong> has announced a competition for people to pair up (one designer, one developer) to <a href="http://learnjavafx.typepad.com/weblog/2009/10/announcing-the-javafxpert-ria-exemplar-challenge.html">design and develop a JavaFX enterprise RIA example application</a>. The prize is $2000US, split evenly between the designer and the developer.</li>
+	<li><strong>Jasper Potts</strong> blogged the code for his <a href="http://fxexperience.com/2009/10/radial-word-clock/#more-171">radial word clock</a> entry into the JFXStudio 'time' challenge. The end result is quite a nice application.</li>
+	<li>Speaking of the <strong>JFXStudio coding challenge</strong>, the next theme has already been announced: '<a href="http://jfxstudio.wordpress.com/2009/10/08/coding-challenge-five/">five</a>'. The challenge is to write an application with this theme in 30 lines of code, or 3000 characters in total.</li>
+	<li><strong>Josh Marinacci</strong> has blogged about a <a href="http://jfxstudio.wordpress.com/2009/10/07/sidehatch-a-javafx-debugging-tool/">new tool he has developed called SideHatch</a>, which is an early proof-of-concept JavaFX debugging tool.</li>
+	<li><strong>Stephen Chin</strong> blogged about his <a href="http://steveonjava.com/2009/10/07/jugspinner-premieres-at-svcodecamp/">JUG SpinnerWheel</a>, which continues Stephen's experiments into pseudo-3D user interfaces (following his entry into the <a href="http://jfxstudio.wordpress.com/2009/10/04/challengetime-winner-announced/">JFXStudio 'time' challenge</a>).</li>
+	<li><strong>Nick</strong> (who's last name isn't clear, but appears to be another Kiwi) has blogged about <a href="http://nick-software.blogspot.com/2009/10/what-next-for-javafx-update.html">what he believes is next for JavaFX</a> (i.e. in the Soma release). All I can really add is that just because a control is targetted toward Soma, it doesn't mean that the control is necessarily going to be public. This will most probably mean the control will be in a com.sun.* package for use, but it is clearly considered experimental.</li>
+	<li><strong>Johan Vos</strong> has blogged about <a href="http://blogs.lodgon.com/johan/JavaFX_and_OSGi_part_1">using JavaFX with OSGi</a>.</li>
+	<li><strong>Drew</strong> from piliq.com has blogged more about his <a href="http://piliq.com/javafx/?p=1281">Clash game, and how the user interface is evolving</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has blogged about a <a href="http://www.jroller.com/aalmiray/entry/griffon_springhispano">Griffon presentation application he wrote</a>. It pulls together a number of Java libraries, and is only 916 lines of Griffon code.</li>
+</ul>
+<p>That's us for another week. Keep out of (too much) trouble, and I'll see you again next week :-)</p>
+]]></Content>
+	</post>

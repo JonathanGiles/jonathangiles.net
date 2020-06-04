@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>150</ID>
+		<Slug>plugins-research-summary</Slug>
+		<Title>Plugins research summary</Title>
+		<Date>2008-05-01</Date>
+		<Status>publish</Status>
+		<Categories>Programming|Technology</Categories>
+		<Tags>Centruflow|plugins|plugins-research|research</Tags>
+		<Content><![CDATA[<p>I seem to get a fair few emails from people interested to hear me elaborate more on the subject of my research these last few years, so now that I have a few minutes, I thought I'd write things out to explain a bit more. Firstly, a warning, my writing style is simply that of a braindump - I don't mull over my posts so they are not necessarily complete or polished. Blog posts are intended to spark discussion and thought, and I am more than willing to elaborate either publicly or privately - my contact details are clearly visible to the right.</p>
+
+<p>So my research most recently has been in the field of the semantic web. Before that it was in plugin-based systems. In both cases, my home language was Java, simply because I really do like the language, and it is the one I have invested the most effort to learn its nuances. Despite this, the concepts developed in both research areas is really language-independent, so feel free to contact me even if you don't use Java.</p>
+
+<p>My plugin research was really about enabling at a very low level the ability for an application to be broken down into separate but interrelated building blocks. Ideally, such a system would end up with a tree structure, as this enables the 'leaf nodes' to be relatively independent from each other, whilst still being able to draw from a common kernel. This research was based around a complete rearchitecting of <a href="http://www.centruflow.com">Centruflow</a>, which resulted in a base 'kernel' plugin which takes care of the core functionality such as server communications, caching, logging, security, xml parsing, etc, etc, etc. From this plugin a separate plugin is launched that provides all the basic user interface components. From this basic user interface library, all the functional plugins can embed their user interface components.</p>
+
+<p>In Centruflow, the entire application consists of plugins. Each plugin offers zero or more extension points, and zero or more extensions, which plug in to the extension points. In general, all plugins offer extensions for either the kernel or the base GUI layer, but it is not uncommon for a plugin to offer its own extension points. With this design, it is possible to have any number of layers in our plugin hierarchy, meaning Centruflow can easily entertain new functionality that was not necessarily ever considered in the original design specification.</p>
+
+<p>That word - 'functionality' - is an important word. This plugin architecture really means we try to break each plugin down to offer a distinct aspect of functionality. This makes it very easy for different users to receive a very different user experience simply by varying the plugins they receive. As packagers of the Centruflow product, this is trivial - each plugin is a single zip file with a descriptive name. The exact functionality offered to a user is based on the files included in a distribution. For example, Centruflow has both a 'standalone' and an 'enterprise' version, each of which simply varies by <span style="text-decoration: underline;">one</span> plugin; the rest of the Centruflow application remains the same. Of course, other kinds of functionality such as scheduling, reporting, amending, searching, tagging, etc, etc, etc can all be dropped in for either version.</p>
+
+<p>This plugin focus is really useful from a developers point of view as well - it means that we can easily and quickly change focus should priorities change. Also, because of the plugin hierarchy I mentioned, we actually receive compile-time errors when a plugin is trying to use code that it should not depend on. This is possible because each plugin must declare which plugins it depends on. This means that our code remains cleaner as there simply isn't that possibility to write spaghetti-code.</p>
+
+<p>As mentioned, this is how the Centruflow client is written. On the other side of the coin is the Centruflow Server, which is the area in which much of my 'semantic web' research has gone. I was planning to write about my more recent research into semantic web technologies such as RDF, OWL, SPARQL and heterogeneous data merging (i.e. generating virtual data stores that are populated by multiple datasources, and can be queried using SPARQL and represented visually using Centruflow), but I think I'll leave that for another post.</p>
+
+<p>Please, if you have questions, feel free to email me or leave a comment here. If you are interested in me discussing a particular topic, feel free to ask me.</p>
+]]></Content>
+	</post>

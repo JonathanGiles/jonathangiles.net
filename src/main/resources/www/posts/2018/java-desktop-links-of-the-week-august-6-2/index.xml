@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3125</ID>
+		<Slug>java-desktop-links-of-the-week-august-6-2</Slug>
+		<Title>Java desktop links of the week, August 6</Title>
+		<Date>2018-08-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>I'm back from my travels last week and have a few links to share - enjoy! :-)</p>
+<ul>
+ 	<li><strong>Tom Schindl</strong> has posted about&nbsp;<a href="https://tomsondev.bestsolution.at/2018/08/04/supporting-openjfx-11-from-jdk11-onwards-in-efxclipse/">supporting OpenJFX 11 from JDK11 onwards</a> in&nbsp;e(fx)clipse.</li>
+ 	<li><strong>Pedro DV</strong> has posted about <a href="https://pixelduke.com/2018/08/05/fluent-design-java-combo-box-scroll-bar/">fluent designs for ComboBox and ScrollBar</a>.</li>
+ 	<li><strong>Carl Walker</strong> has posted about <a href="https://courses.bekwam.net/public_tutorials/bkcourse_tornadofx_formalign.html">aligning labels with type-safe CSS</a> using TornadoFX.</li>
+ 	<li><strong>GOXR3PLUS STUDIO</strong> has a bunch of activity this week, including a <a href="https://github.com/goxr3plus/XR3Player">new version of XR3Player</a> with "new DJ Features and ability to connect to dropbox through JavaFX", a video tutorial on <a href="https://youtu.be/o5UewXgUiYY">how to use Iconli font icons</a>, and an updated <a href="https://github.com/goxr3plus/FX-BorderlessScene">release of FX-Borderless-Scene.</a></li>
+</ul>
+]]></Content>
+	</post>

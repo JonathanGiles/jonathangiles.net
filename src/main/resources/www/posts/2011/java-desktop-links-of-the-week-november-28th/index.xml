@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1149</ID>
+		<Slug>java-desktop-links-of-the-week-november-28th</Slug>
+		<Title>Java desktop links of the week, November 28th</Title>
+		<Date>2011-11-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A heap of interesting links this week, so I'm going to skip the introduction and get right into it. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Osvaldo Pinali Doederlein</strong> has done <a href="http://weblogs.java.net/blog/opinali/archive/2011/11/25/javafx-balls-30">another JavaFX 2.0 benchmark</a> using the commonly favoured <a href="http://bubblemark.com/">bubblemark animation test</a>. As always, his findings are in-depth and well worth reading.
+<strong></strong></li>
+	<li><strong>Daniel Zwolenski</strong> (aka Zonski) has put up an early access release of his JFX Flow project. You can find the <a href="http://www.zenjava.com/2011/11/27/jfx-flow-early-access/">blog post announcing it here</a>, the <a href="http://www.zenjava.com/jfx-flow/">project site here</a>, and the <a href="http://code.google.com/p/jfxflow/">Google project here</a>.</li>
+	<li><strong>Mark Stephens</strong> put up a teaser about a project he is working on to enable <a href="http://www.jpedal.org/PDFblog/2011/11/coming-soon-to-a-netbeans-ide-near-you/">rendering PDF files inside JavaFX</a> using the JavaFX scenegraph.</li>
+	<li><strong>Pedro Duque Vieira</strong> has put up some <a href="http://pixelduke.wordpress.com/2011/11/20/swing-utilities-for-javafx/">simple util methods to convert to and from BufferedImage in JavaFX</a>. Just a word of warning: <a href="http://fxexperience.com/2011/10/dont-use-impl/">this uses impl_* methods</a>.</li>
+	<li><strong>Rob Mayhew</strong> has blogged about <a href="http://robmayhew.com/javafx-2-0-fading-status-message/">showing fading status messages</a> in JavaFX 2.0.</li>
+	<li><strong>Carl Dea</strong> has announced a book he is releasing through Apress in December titled "<a href="http://www.amazon.com/JavaFX-2-0-Introduction-Carl-Dea/dp/1430242574?&amp;tag=rnwff-20">JavaFX 2.0: Introduction By Example</a>".</li>
+	<li><strong>Enrique García</strong> has a sample application showing <a href="http://tareitas.webs.com/fx/PhysicsObjects/">JavaFX integration with Phys2D</a>.</li>
+	<li>Speaking of physics, <strong>Bertrand Goetzmann</strong> has put up the <a href="https://bitbucket.org/bgoetzmann/grezi/wiki/Home">Groovy source code for the Grezi physics demo</a> (which uses JBox2D, another physics library). You can also <a href="http://www.screenr.com/T8ts">watch a video of it</a>.</li>
+	<li><strong>Gail Anderson</strong> has blogged about the <a href="http://www.asgteach.com/blog/?p=408">importance of JavaFX properties</a>.</li>
+	<li>This week <strong>Johan Vos</strong> and I put out a slight revision to the DataFX project, <a href="http://www.javafxdata.org/changelog/">pushing it up to 0.0.4</a>. This release includes increased CSS styling support for table rows, as well as early OSGi deployment support.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has announced the <a href="http://harmoniccode.blogspot.com/2011/11/steelseries-399.html">release of SteelSeries 3.9.9</a>, the last release for Swing for the coming months, as he has announced he is starting a port of SteelSeries to JavaFX (which I am personally very pleased about!).
+<strong></strong></li>
+	<li><strong>Dave Gilbert</strong> has announced the <a href="http://www.jroller.com/dgilbert/entry/jfreechart_1_0_14">release of JFreeChart 1.0.14</a>. Follow that link for the changelog, but in general he says that this release contains support for multiple and logarithmic axes with PolarPlot, optional drop-shadows in plot rendering, fitting polynomial functions to a data series, some performance improvements in the TimeSeriesCollection class, mouse wheel rotation of pie charts, improved Maven support and numerous bug fixes.</li>
+	<li>JIDE Software has put out a <a href="http://www.jidesoft.com/history/">new release of their software</a>, taking the version numbers up to 3.3.0. One of the new features in the <a href="http://www.jidesoft.com/blog/2011/11/23/expanded-tip/">ExpandedTip API</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Geertjan Wielenga</strong> has a blog post titled '<a href="http://blogs.oracle.com/geertjan/entry/what_is_happening_vs_what">What is Happening vs. What is Interesting</a>'. The premise of his post being that conferences focus on the latest / shiniest technologies like HTML 5 because that is what techies are blogging and talking about. The places desktop Java is being used in are hidden behind the corporate firewall, which is deemed boring. From my own experience, I have seen this too - once you get behind many corporate firewalls, the amount of technology based around 'boring' technologies is massive, and of course, much like Geertjan, I find this kind of stuff far from boring :-) Of course, everyone is entitled to follow their own technology directions, but in this instance, Geertjan is arguing that peoples perception is far, far removed from reality when it comes to the amount of deployment of desktop Java software in enterprises. I applaud Geertjan for his blog post - he was brave to write it, and I think the reality of what he spoke about often gets forgotten as some kind of inconvenient truth.</li>
+</ul>
+<p>That's all folks. Keep up all the great work and I'll be back in a weeks time to cover everything that happens this coming week! :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1522</ID>
+		<Slug>java-desktop-links-of-the-week-august-11</Slug>
+		<Title>Java desktop links of the week, August 11</Title>
+		<Date>2013-08-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week, and not surprisingly another weeks worth of Java desktop links. This week there are a number of new releases and interesting blog posts to read. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Daniel Zwolenski</strong> has blogged about developing JavaFX applications to <a href="http://www.zenjava.com/2013/08/01/javafx-on-ios-using-robovm-and-maven/">work on iOS using RoboVM and Maven</a>.</li>
+	<li><strong>Tom Schindl</strong> developed support for <a href="http://tomsondev.bestsolution.at/2013/08/07/using-less-in-javafx/">using LESS in JavaFX</a>. From my naive understanding, <a href="http://lesscss.org">LESS</a> is a CSS pre-processor, which allows for a more powerful feature set by giving designers and developers access to <a href="http://lesscss.org/#-variables">variables</a>, <a href="http://lesscss.org/#-mixins">mixins</a>, <a href="http://lesscss.org/#-functions">functions</a>, <a href="http://lesscss.org/#-string-interpolation">string interpolation</a>, <a href="http://lesscss.org/#-importing">imports</a>, and many other features.</li>
+	<li><a href="http://www.canoo.com/blog/2013/07/28/opendolphin-0-8-released-scaling-and-production-readiness/">OpenDolphin 0.8 was released recently</a>, and this release appears to be focused on scaling and production readiness.</li>
+	<li><strong>Toni Epple</strong> has been working on a tower defense style game using his game engine. He has written six parts so far, covering <a href="http://jayskills.com/blog/2013/08/06/tower-defense-in-javafx/">various</a> <a href="http://jayskills.com/blog/2013/08/07/tower-defense-in-javafx-2/">aspects</a> <a href="http://jayskills.com/blog/2013/08/08/tower-defense-in-javafx-3/">of</a> <a href="http://jayskills.com/blog/2013/08/08/tower-defense-in-javafx-4/">the</a> <a href="http://jayskills.com/blog/2013/08/10/tower-defense-in-javafx-5/">development</a> <a href="http://jayskills.com/blog/2013/08/11/tower-defense-in-javafx-6/">process </a>(note the six separate links there).</li>
+	<li><strong>Jörn Hameister</strong> has posted about <a href="http://www.hameister.org/JavaFX_SVGPath.html">SVGPath and PathTransition functionality</a> in JavaFX.</li>
+	<li><strong>Felix Bembrick</strong> has posted an analysis of <a href="http://justmy2bits.com/2013/08/11/javafx-canvas-versus-html5-canvas/">JavaFX Canvas versus HTML5&nbsp;Canvas</a>.</li>
+	<li>The <strong>Oracle Technology Network</strong> has posted a whitepaper on how '<a href="http://www.oracle.com/technetwork/java/javafx/codelse-1984189.html">Codelse Helps Brittany Ferries Manage Terminal Communications With JavaFX</a>'.</li>
+	<li><strong>Sai Pradeep Dandem</strong> has created a <a href="http://saidandem.blogspot.in/2013/08/magnifier-in-javafx-2.html">JavaFX-based magnifier component</a>, that allows for a subsection of a screen to be magnified when the mouse hovers over it. This code is now in the process of transitioning into the <a href="http://www.jfxtras.org">JFXtras project</a>.</li>
+	<li><strong>Christoph Nahr</strong> has two posts this week. Firstly, he has blogged about his <a href="http://news.kynosarges.org/2013/08/05/mime-browser-1-1-released/">MIME Browser 1.1 being released</a>. Secondly, he has a blog post about <a href="http://news.kynosarges.org/2013/08/09/javafx-dpi-scaling/">JavaFX DPI scaling</a>.</li>
+	<li><strong>software4java.com</strong> has a blog post about some of the upcoming Java / JavaFX talks at JavaOne that <a href="http://blog.software4java.com/?p=97">relate to mobile and embedded</a>.</li>
+	<li>I blogged about the new SortedList functionality in JavaFX 8.0, and in particular how to use it from the TableView control to allow for users to <a href="http://fxexperience.com/2013/08/returning-a-tableview-back-to-an-unsorted-state-in-javafx-8-0/">return a TableView back to an unsorted state</a> (after being sorted).</li>
+	<li>I released <a href="http://fxexperience.com/2013/08/announcing-scenic-view-8-0-0-developer-preview-4/">Scenic View 8.0.0 developer preview 4</a>, which is primarily a fix release to allow it to work on the latest developer preview releases of JavaFX 8.0.</li>
+	<li>I also released <a href="http://fxexperience.com/2013/08/announcing-controlsfx-8-0-2-developer-preview-1/">ControlsFX 8.0.2 developer preview 1</a>, which on top of <a href="http://www.fxexperience.com/controlsfx/features">all the features from earlier releases</a> now also includes native titlebars for dialogs, a SpreadsheetView control, and a new control called HyperlinkLabel. More importantly, this is the first build to work with JavaFX 8.0 b102 and later, as there were changes to the implementation in this release that broke earlier ControlsFX releases.</li>
+</ul>
+<p>I hope you all found something worth reading. Catch you all again next week :-)</p>
+]]></Content>
+	</post>

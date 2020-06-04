@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1955</ID>
+		<Slug>java-desktop-links-of-the-week-august-24-2</Slug>
+		<Title>Java desktop links of the week, August 24</Title>
+		<Date>2015-08-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;">A few nice links this week - enjoy :-)</span></p>
+<ul>
+	<li><strong>Jens Deters</strong> has announced the <a href="http://www.jensd.de/wordpress/?p=2094">release of&nbsp;FontAwesomeFX 8.6</a>, which includes support for the 'material' icon font pack.</li>
+	<li><strong>Pedro Duque Vieira</strong> has styled two more JavaFX UI controls to look like the Microsoft 'metro' style: this week it was <a href="https://pixelduke.wordpress.com/2015/08/21/metro-style-list-box-for-java-jmetro/">ListView</a> and <a href="https://pixelduke.wordpress.com/2015/08/18/metro-style-choice-box-for-java-jmetro/">ChoiceBox</a>.</li>
+	<li>Continuing with the <a href="http://gluonhq.com/recent-gluon-news-coverage/">media blitz</a> by <strong>Johan Vos</strong> about Gluon, he was recently <a href="http://www.adam-bien.com/roller/abien/entry/running_javafx_on_mobile_devices">interviewed by <strong>Adam Bien</strong></a>.</li>
+	<li>Speaking of Gluon, it was recently announced that Gluon is increasing its support of the JavaFX ecosystem by <a href="http://gluonhq.com/gluon-supports-javafx-embedded-binary-builds-now-available/">offering builds of JavaFX embedded for armv6 hard float architectures</a> (i.e. Raspberry Pi).</li>
+	<li><strong>Dirk Lemmermann</strong> released&nbsp;<a href="http://flexganttfx.com/">FlexGanttFX 1.3</a>. He also posted a video of <a href="https://www.youtube.com/watch?v=6HpeoGUHAFk&amp;feature=youtu.be&amp;a">recurrence editing in CalendarFX</a>. Looking very nice :-)</li>
+</ul>
+<p>That's all folks - see you next week.</p>
+]]></Content>
+	</post>

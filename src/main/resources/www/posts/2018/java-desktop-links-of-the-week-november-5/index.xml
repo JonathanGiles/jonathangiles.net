@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3180</ID>
+		<Slug>java-desktop-links-of-the-week-november-5</Slug>
+		<Title>Java desktop links of the week, November 5</Title>
+		<Date>2018-11-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A quiet week this time, with just two links of note that I could find:</p>
+<ul>
+ 	<li><a href="https://github.com/tom91136/GestureFX">GestureFX</a>, a lightweight gesture-enabled pane for JavaFX, has had <a href="https://github.com/tom91136/GestureFX/blob/master/CHANGELOG.md">a new release</a>.</li>
+ 	<li>I came across the open-source&nbsp;<a href="https://github.com/saalfeldlab/paintera">Paintera</a>, which "is a general visualization tool for 3D volumetric data and proof-reading in segmentation/reconstruction with a primary focus on neuron reconstruction from&nbsp;<a href="http://www.rsc.org/publishing/journals/prospect/ontology.asp?id=CMO:0001800&amp;MSID=B310802C" rel="nofollow">electron micrographs</a>&nbsp;in&nbsp;<a href="https://en.wikipedia.org/wiki/Connectomics" rel="nofollow">connectomics</a>." It is built using JavaFX 2D and 3D interfaces. There is a cool video <a href="https://twitter.com/FijiSc/status/1054355765425790978">linked on Twitter</a> (I wish I could find a better one)</li>
+</ul>
+]]></Content>
+	</post>

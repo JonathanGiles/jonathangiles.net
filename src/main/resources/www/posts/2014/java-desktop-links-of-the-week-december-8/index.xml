@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1844</ID>
+		<Slug>java-desktop-links-of-the-week-december-8</Slug>
+		<Title>Java desktop links of the week, December 8</Title>
+		<Date>2014-12-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A quiet week this week, but a few good links nonetheless. Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Johan Vos</strong> has posted an <a href="http://www.lodgon.com/dali/blog/entry/JavaFX_Android_Early_Access_builds">early access build of JavaFX 8u40 for Android</a>. There are some very nice features in this release, so get exploring! :-)</li>
+	<li><strong>Gerrit Grunwald</strong> has posted another of his 'Friday Fun Components' - this week it is a <a href="http://harmoniccode.blogspot.co.nz/2014/12/friday-fun-component-xxii.html">traffic light component</a>.</li>
+	<li><strong>Matthieu Brouillard</strong> has posted about <a href="http://blog.matthieu.brouillard.fr/2014/12/05/topgun-afterburner-finally-announced/">external DI management with Afterburner.FX</a>.</li>
+	<li>The <strong>SnapCode</strong> blog has a post on how to <a href="http://reportmill.wordpress.com/2014/12/04/automatically-update-your-javapackager-applications/">automatically update your JavaFX applications</a> by running a small bootstrap program before your main application.</li>
+	<li><strong>IDR Solutions</strong> has posted a YouTube video introducing their <a href="https://www.youtube.com/watch?v=DZA2AyIZNWY">open source JavaFX PDF Viewer</a>.</li>
+</ul>
+<p>That's that for another week. Catch you all in a weeks time! :-)</p>
+]]></Content>
+	</post>

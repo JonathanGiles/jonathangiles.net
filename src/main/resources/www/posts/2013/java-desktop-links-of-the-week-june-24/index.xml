@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1483</ID>
+		<Slug>java-desktop-links-of-the-week-june-24</Slug>
+		<Title>Java desktop links of the week, June 24</Title>
+		<Date>2013-06-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all - a number of interesting posts this week - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The <a href="http://aquafx-project.com/">AquaFX project</a> this week announced the release of <a href="http://aquafx-project.com/downloads.html">AquaFX 0.1</a>. AquaFX is a project by <strong>Claudine Zillmann</strong> to reproduce Mac OS X 'Aqua' visuals in JavaFX as a CSS file, so that JavaFX applications can appear as native Mac OS X applications.</li>
+	<li><strong>Gerrit Grunwald</strong> has two posts this week. Firstly, he has another post on '<a href="http://harmoniccode.blogspot.de/2013/06/taming-nashornagain.html">taming the Nashorn</a>' project, which is a JavaScript engine coming in JDK 8. The nice thing about doing JavaFX development in JavaScript is that he does not have to recompile his code between edits as the JavaScript is interpreted. This is really&nbsp; beneficial when it comes to development on a Raspberry Pi. In his second post, Gerrit has done a 'Tuesday fun' post about <a href="http://harmoniccode.blogspot.co.nz/2013/06/wednesday-fun.html">image rollover effects in JavaFX</a>.</li>
+	<li>With the release of Java 7u25 and JavaFX 2.2.25 this week, the Java documentation team has put out a <a href="https://blogs.oracle.com/thejavatutorials/entry/jdk_7u25_and_javafx_2">number of new documents</a>. Most notable for JavaFX developers is the new documentation for the <a href="http://docs.oracle.com/javafx/2/ui_controls/file-chooser.htm">JavaFX FileChooser component</a>.</li>
+	<li>I was informed this week that the <a href="http://sourceforge.net/projects/drombler/">DromblerFX project</a> includes a <a href="http://sourceforge.net/p/drombler/wiki/DockingFramework/">docking framework</a>, which may be of interest to some developers. Drombler FX is a modular Rich Client Platform for JavaFX based on OSGi and Maven (POM-first).</li>
+	<li><strong>Thierry Wasyl</strong> has posted some sample code on how to create a <a href="https://thierrywasyl.wordpress.com/2013/06/17/tableview-and-listvaluefactory-in-javafx/">ListValueFactory for TableView</a>.</li>
+	<li><strong>Sean Phillips</strong> continues his work on integrating the <a href="http://netbeans.dzone.com/articles/tabs-tabuless-netbeans">JavaFX Accordion control into the NetBeans platform</a>.</li>
+	<li><strong>mihosoft</strong> has posted a tool that might be useful to people testing out JDK 8 (and JavaFX 8.0) - it's called <a href="http://mihosoft.eu/?p=649">JSelect</a> and allows for easy switching between JDKs.</li>
+</ul>
+<p>That's all folks! :-) Catch you all next week.</p>
+]]></Content>
+	</post>

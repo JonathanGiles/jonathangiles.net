@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2160</ID>
+		<Slug>java-desktop-links-of-the-week-august-29</Slug>
+		<Title>Java desktop links of the week, August 29</Title>
+		<Date>2016-08-28</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A heap of great links this week. People don't seem to be slowing down in the lead-in to JavaOne. I'm getting incredibly excited - I can't wait to see you all again! :-)</p>
+<ul>
+ 	<li><strong>Rob Terpilowski</strong> has posted about <a href="https://rterp.wordpress.com/2016/08/22/mapping-directions-with-javafx-using-the-gmapsfx-directions-api/">mapping directions with JavaFX using the GMapsFX directions API</a>.</li>
+ 	<li><strong>John Sirach</strong> has posted an <a href="https://pidome.org/info/blog-news/2016/8/25/pidome-clients-update.html">update about the PiDome client software</a>.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has created a cool looking <a href="http://harmoniccode.blogspot.co.nz/2016/08/friday-fun-xxxvii.html">CardNavigation control</a> for his Friday Fun Component.</li>
+ 	<li><strong>Jens Deters</strong> has been working to <a href="https://github.com/Jerady/fontawesomefx-jigsaw-modules">add module support to the FontAwesomeFX project</a> - very cool!</li>
+ 	<li><strong>Samir Hadzic</strong> (a major contributor to the <a href="http://www.controlsfx.org">ControlsFX project</a>) has posted about answering the question '<a href="https://blog.samirhadzic.com/2016/08/25/is-my-stage-visible/">is my Stage visible?</a>'</li>
+ 	<li><strong>Edvin Syse</strong> has posted a video of a cool new feature he has developed on top of the JavaFX TableView - <a href="https://www.youtube.com/watch?v=krbYJ2AuvJw">support for expanding rows</a> (and replacing them with input fields). The only downside - it looks like it is baked into TornadoFX - it would be really cool to see this in Java in a project like ControlsFX.</li>
+ 	<li><strong>Edvin</strong> is also exploring the development of a data grid control - you can <a href="https://www.youtube.com/watch?v=igGOBWPNrpU">see another video of that in action</a> as well.</li>
+ 	<li><strong>Peter Rogge</strong> has <a href="https://github.com/Naoghuman/lib-tile-demo">released Lib-Tile-Demo v0.2.0</a>.&nbsp;In this release&nbsp;he has&nbsp;added the option for the developer to style the background colour with CSS. That mean it's now possible to use a Linear- and/or RadialGradient colour for the background colour.</li>
+ 	<li><strong>Andrew Oliver</strong> has built <a href="http://scram.frequal.com/scram/index.html">ScraM</a>,&nbsp;a Minecraft programming tool with a JavaFX drag-and-drop GUI.</li>
+</ul>
+]]></Content>
+	</post>

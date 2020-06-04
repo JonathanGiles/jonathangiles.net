@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1911</ID>
+		<Slug>java-desktop-links-of-the-week-may-4-2</Slug>
+		<Title>Java desktop links of the week, May 4</Title>
+		<Date>2015-05-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Must....resist....May the 4th.....joke.....enjoy....links! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has posted about <a href="http://harmoniccode.blogspot.de/2015/04/and-nashorn-again.html">writing a JavaFX application in JavaScript</a>, and using the Java Nashorn JavaScript engine to execute it.</li>
+	<li><strong>René Jahn</strong> has posted populating a&nbsp;<a href="http://blog.sibvisions.com/2015/05/03/javafx-tree-with-self-joined-table/">JavaFX TreeView control with a self-joined table</a>.</li>
+	<li><strong>Mirko Sertic</strong> has posted about a <a href="http://blog.mirkosertic.de/javastuff/javafxluaeditor">JavaFX-based Lua editor</a> (using the WebView node).</li>
+	<li><strong>sencageek</strong> has a short post on <a href="http://sencageek.com/javafx-display-pojo-in-treetableview">displaying a POJO in the TreeTableView control</a>.</li>
+	<li><strong>Dejv</strong> has posted that <a href="https://dejv78.github.io/news/zoomfx-version-1.0.1-released/">version 1.0.1 of ZoomFX has been released</a>.</li>
+	<li>The folks behind yFiles let me know that they've released an <a href="http://www.yworks.com/en/products_yfilesjavafx_about.html">updated version of their graphing library for JavaFX</a>.</li>
+</ul>
+<p>Have a great week - and may the fourth be with you...dang! :-)</p>
+]]></Content>
+	</post>

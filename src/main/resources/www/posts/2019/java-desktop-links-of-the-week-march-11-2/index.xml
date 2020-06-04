@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3218</ID>
+		<Slug>java-desktop-links-of-the-week-march-11-2</Slug>
+		<Title>Java desktop links of the week, March 11</Title>
+		<Date>2019-03-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Apologies for missing last weeks links - if it is any consolation I was out of town attending my brothers wedding.</p>
+<ul>
+ 	<li><strong>Gluon</strong> continues to <a href="https://gluonhq.com/products/javafx/">roll JavaFX 12 EA releases</a> off the production line for a variety of platforms.</li>
+ 	<li>Speaking of <strong>Gluon</strong>, they have also released <a href="https://gluonhq.com/plugins-to-ease-the-work-with-javafx-11/">improved Maven tooling</a> to make building JavaFX applications simpler.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has released <a href="https://github.com/HanSolo/tilesfx">TilesFX 11.1</a> to support JavaFX 11.</li>
+ 	<li><strong>Gerrit</strong> also supervised two students who <a href="https://harmoniccode.blogspot.com/2019/02/new-charts.html">built two new charts</a> - a pareto chart and a force-directed chart.</li>
+ 	<li>RichTextFX 0.9.3&nbsp;has <a href="https://github.com/FXMisc/RichTextFX">been released</a>. This release includes a few bug fixes and better support for alternate keyboard layouts like Dvorak.</li>
+ 	<li>An <a href="https://github.com/cljfx/cljfx/blob/master/CHANGELOG.md">update</a> to <a href="https://github.com/cljfx/cljfx">cljfx</a> has been released. Cljfx is "a declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame."
+<h2></h2>
+</li>
+</ul>
+]]></Content>
+	</post>

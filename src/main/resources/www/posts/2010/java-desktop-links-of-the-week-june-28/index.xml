@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>845</ID>
+		<Slug>java-desktop-links-of-the-week-june-28</Slug>
+		<Title>Java desktop links of the week, June 28</Title>
+		<Date>2010-06-27</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A fairly quiet week in the Java desktop world this week, but nevermind, I'm sure it's just because the majority of you are too busy working on your blog masterpieces for next week :-) Regardless, there are some very useful links in this weeks post, so have at it, and as always please do flick me an <a href="mailto:jonathan@jonathangiles.net">email</a> (or <a href="http://www.twitter.com/JonathanGiles">twitter</a> message) with any link you think is worthy of being included.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has been polishing the Flamingo JRibbon component recently, but you'll have to <a href="http://www.pushing-pixels.org/?p=2007">squint</a> to <a href="http://www.pushing-pixels.org/?p=2009">notice</a> the <a href="http://www.pushing-pixels.org/?p=2017">differences</a> in <a href="http://www.pushing-pixels.org/?p=2023">most cases</a>. Still, it goes to show the effort that is required to create a polished user interface component. In addition he has blogged about <a href="http://www.pushing-pixels.org/?p=2026">improving the integration between the Substance L&amp;F and Flamingo</a>, and created a <a href="http://www.pushing-pixels.org/?p=2031">new 'Office Black 2007' skin for Substance 6.1</a>.</li>
+	<li><strong>Alex Ruiz</strong> has just <a href="http://alexruiz.developerblogs.com/?p=1275">uploaded FEST-Swing 1.2.1</a>, which is just a fix for Maven users.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>There's been a bit of a documentation refresh going on recently, with the <a href="http://java.sun.com/javafx/1.3/docs/api">JavaFX 1.3 API</a> getting refreshed, and a <a href="http://java.sun.com/javafx/1.3/docs/api/javafx.scene/doc-files/cssref.html">JavaFX CSS reference document</a> being made available at the same time. For more information check out my <a href="http://fxexperience.com/2010/06/three-useful-javafx-links/">summary blog post</a>.</li>
+	<li>I posted about <a href="http://fxexperience.com/2010/06/custom-cell-caching/">caching in custom cells</a> in JavaFX controls such as ListView and TreeView. This is (probably) a useful post for people creating custom cells.</li>
+	<li><strong>Jim Clarke</strong> has blogged about his experimentation with <a href="http://javafxplace.blogspot.com/2010/06/javafx-and-webm-on-linux.html">JavaFX and WEBM on Linux</a>.</li>
+	<li><strong>Jan-Hendrik Kuperus</strong> has blogged the second part of his post on <a href="http://www.jhkuperus.nl/articles/java/javafx/integrating-javafx-with-regular-java-part-2/">integrating JavaFX with regular Java</a>.</li>
+	<li>Mark in your calendars July 14th, which is when <strong>Max Katz</strong> is <a href="http://www.svjugfx.org/calendar/13605800/?eventId=13605800&amp;action=detail">talking about enterprise JavaFX</a>.</li>
+	<li>Speaking of <strong>Max</strong>, he has also blogged about the <a href="http://mkblog.exadel.com/javafx-plug-in/exadel-javafx-plug-in-for-eclipse-preferences-page-in-pictures/">new preferences dialog</a> added to the JavaFX Plugin for Eclipse that Exadel, the company he works for, develops.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Nick Zhu</strong> has announced the <a href="http://nzhu.blogspot.com/2010/06/griffon-validation-plugin-04-release.html">o.4 release of the Griffon Validation plugin</a>.</li>
+</ul>
+<p>That's all folks. Thanks to everyone who took the time to post about what they're working on, and for those of you who didn't, I'm looking forward to your blogging masterpieces next week :-)</p>
+]]></Content>
+	</post>

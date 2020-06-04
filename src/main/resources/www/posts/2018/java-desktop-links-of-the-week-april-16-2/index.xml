@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3032</ID>
+		<Slug>java-desktop-links-of-the-week-april-16-2</Slug>
+		<Title>Java desktop links of the week, April 16</Title>
+		<Date>2018-04-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A quiet week this week.</p>
+<ul>
+ 	<li><strong>Jens Deters</strong> has announced that&nbsp;<a href="http://www.jensd.de/wordpress/?p=2733">MQTT.fx 1.7.0 is released</a>.</li>
+ 	<li><strong>Almas Baimagambetov</strong> has released an <a href="https://github.com/AlmasB/FXGL">update to his FXGL</a> (FX Game Library).</li>
+ 	<li><strong>Carl Walker</strong> has posted about how to <a href="https://courses.bekwam.net/public_tutorials/bkcourse_stringifylistapp.html">stringify a List with JavaFX binding</a>.</li>
+</ul>
+]]></Content>
+	</post>

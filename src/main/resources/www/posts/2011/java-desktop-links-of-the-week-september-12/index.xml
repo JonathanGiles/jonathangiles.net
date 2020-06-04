@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1107</ID>
+		<Slug>java-desktop-links-of-the-week-september-12</Slug>
+		<Title>Java desktop links of the week, September 12</Title>
+		<Date>2011-09-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome to yet another week of Java desktop links!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has <a href="http://tomsondev.bestsolution.at/2011/09/05/efxclipse-0-0-5-released/">released e(fx)clipse 0.0.5</a>, which includes bug fixes related to packaging, as well as better support for JavaFX 2.0 beta b42.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has <a href="http://harmoniccode.blogspot.com/2011/09/steelseries-396.html">released SteelSeries 3.9.6</a>. As always, this release comes with a huge number of bug fixes, code cleanups, and additional features.
+<strong></strong></li>
+	<li><strong>Ivan Porty</strong> has posted a blog post about <a href="http://www.ipsoftware.ru/blog/?p=40">how to create a simple JTable summary companion</a>.</li>
+	<li>The <strong>JFormDesigner / FormDev</strong> blog has a post about how to <a href="http://www.formdev.com/blog/swing-tip-jsplitpane-with-zero-size-divider/">create a JSplitPane with a zero-sized divider</a>.</li>
+	<li><strong>Jyloo Software</strong> have a blog post detailing <a href="http://www.jyloo.com/news/?pubId=1315387049000">how to set a custom scalable font size</a>.</li>
+	<li><strong>Alexander Potochkin</strong> continues his series of posts on 'Swing in a better world' with a post on <a href="http://weblogs.java.net/blog/alexfromsun/archive/2011/07/08/swing-better-world-compound-components-0">compound components</a>.</li>
+</ul>
+<p>That's all for this week - catch you next week... :-)</p>
+]]></Content>
+	</post>

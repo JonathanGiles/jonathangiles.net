@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1578</ID>
+		<Slug>java-desktop-links-of-the-week-october-7</Slug>
+		<Title>Java desktop links of the week, October 7</Title>
+		<Date>2013-10-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A bunch of links this week - enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Elliot Bentley</strong> has posted about WebFX, a project by <strong>Bruno Borges</strong>. <a href="http://jaxenter.com/javafx-becomes-the-new-html-with-webfx-48356.html">WebFX is essentially a browser written in JavaFX that renders FXML pages</a> (as well as the more traditional HTML page), which can be then scripted using a variety of JVM languages such as JavaScript.</li>
+	<li><strong>Geertjan Wielenga</strong> continues to explore JavaFX, and in particular the <a href="http://docs.oracle.com/javafx/2/ui_controls/editor.htm">HTMLEditor control</a>. This week he has three posts on this topic. Firstly, he has integrated the <a href="https://blogs.oracle.com/geertjan/entry/javafx_multiviewelement">JavaFX HTMLEditor on top of HTML files on the NetBeans Platform</a> to allow for an wysiwyg-style multiview editor (so that you can toggle between source editing and WYSIWYG editing). In another post you can see a <a href="https://blogs.oracle.com/geertjan/entry/thanks_javafx_wysiwyg_html_editor">video of this functionality</a>. Finally, he reveals that this tooling is being developed to be <a href="https://blogs.oracle.com/geertjan/entry/epub_tool_fosfor_lives_on">used in his open source epub tool called Fosfor</a>.</li>
+	<li><strong>Geertjan</strong> has also posted a summary of the talk at JavaOne about bck2brwsr, which is essentially a <a href="https://blogs.oracle.com/geertjan/entry/bck2brwsr_at_javaone_2013">JVM written in JavaScript</a>, that allows JavaFX applications to run in a web browser without the need for an applet.</li>
+	<li><strong>Simon Ritter</strong> has published the slides for the JavaOne session on <a href="http://www.slideshare.net/SimonRitter/taking-a-leap-forward-with-javafx">using the Leap Motion device in JavaFX</a>. This session was co-presented with <strong>Gerrit Grunwald</strong>, <strong>Johan Vos</strong>, and <strong>José Pereda</strong>.</li>
+	<li>Speaking of <strong>Simon</strong>, he has also posted a <a href="https://blogs.oracle.com/speakjava/entry/javaone_afterglow">summary of JavaOne</a>.</li>
+	<li><strong>Danno Ferrin</strong> has posted about '<a href="http://speling.shemnon.com//blog/2013/10/01/javaone-2013-dogfooding-the-future-java/">dogfooding the future Java</a>'. Interestingly, he wrote and presented his sessions using JavaFX by rendering markdown syntax. To submit his slides to the conference organisers, he added printing support into his software so that he could print out each slide (and it only took 313 lines of code!).</li>
+	<li><strong>Thierry Wasylczenko</strong> has posted his <a href="https://github.com/twasyl/CompilerFX">CompilerFX code to github</a>. CompilerFX is an application for compiling multiple Maven repositories. You can add existing repositories and then compile them sequentially but also compile them individually.</li>
+	<li><strong>Rob Terpilowski</strong> was interviewed by <strong>Jan Stafford</strong> over at <strong>TheServerSide.com</strong> about the <a href="http://www.theserverside.com/feature/Pros-cons-of-moving-from-Swing-to-JavaFX-UI-tools-a-plus">pros and cons of moving from Swing to JavaFX</a>.</li>
+	<li><strong>Felix Bembrick</strong> has written a blog post covering what he considers to be the <a href="http://justmy2bits.com/2013/09/30/javafx-on-ios-and-android-six-degrees-of-separation/">six degrees of separation between JavaFX and iOS / Android devices</a> (in other words, what he thinks is required for JavaFX to be accepted on these platforms).</li>
+	<li><strong>Jens Deters</strong> has posted that he has managed to solve the <a href="http://www.jensd.de/wordpress/?p=845">eGalax Touch Screen issues with JavaFX</a> (on Raspberry Pi) that he has <a href="http://www.jensd.de/wordpress/?p=516">posted about previously</a>.</li>
+	<li><strong>Sven Ruppert</strong> has posted an example about <a href="http://www.rapidpm.org/2013/10/cdi-buttoncell.html">placing Buttons inside a TableView column</a>.</li>
+	<li><strong>BrowserStudios.com</strong> has posted an <a href="http://www.browserstudios.com/2013/10/02/javafx-2-framework-introduction/">introduction to JavaFX 2.x</a>, where they cover why they choose to use it and how they use it.</li>
+</ul>
+<p>That's all folks! Catch you all next week.</p>
+]]></Content>
+	</post>

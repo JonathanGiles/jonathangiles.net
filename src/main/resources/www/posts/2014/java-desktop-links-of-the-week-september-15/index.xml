@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1804</ID>
+		<Slug>java-desktop-links-of-the-week-september-15</Slug>
+		<Title>Java desktop links of the week, September 15</Title>
+		<Date>2014-09-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Two weeks until JavaOne - now I'm starting to get excited (and also overwhelmed by how much preparation I still have to do!). On with the links! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Danno Ferrin</strong> has announced the release of <a href="http://speling.shemnon.com//blog/2014/09/12/maven-javafx-plugin-8-dot-1-released/">version 8.1 of the Maven JavaFX Plugin</a>.</li>
+	<li><strong>Jens Deters</strong> has released <a href="http://www.jensd.de/wordpress/?p=1524">MQTT.fx 0.0.9</a>.</li>
+	<li><strong>Vinumeris</strong> has announced that an <a href="http://blog.vinumeris.com/2014/09/12/lighthouse-alpha-now-open-source/">alpha version of Lighthouse is now open source</a>. Lighthouse is a "decentralised, peer to peer crowdfunding application that uses the smart contracts features of the Bitcoin protocol. It lets you create projects and pledge to those projects." They have also announced the <a href="https://github.com/vinumeris/updatefx">open sourcing of UpdateFX</a>, which is a "small, simple automatic online update framework for JavaFX applications."</li>
+	<li>I published another JavaOne interview, this time with <a href="http://fxexperience.com/2014/09/javaone-interviews-johan-vos"><strong>Johan Vos</strong></a>.</li>
+	<li>I posted a <a href="http://fxexperience.com/2014/09/quick-book-review-mastering-javafx-8-controls/">quick book review</a> of the Mastering JavaFX 8 Controls book that was recently published.</li>
+	<li><strong>Gerrit Grunwald</strong> has posted about another 'Friday Fun Component' he has built: a '<a href="http://harmoniccode.blogspot.co.nz/2014/09/friday-fun-component-xviiii.html">minimal clock</a>'.</li>
+	<li><strong>Canoo</strong> staff have posted video summaries of what they will be presenting at JavaOne, including&nbsp;<strong><a href="https://www.youtube.com/watch?v=9nQJIJbo704&amp;feature=youtu.be">Dierk Koenig</a></strong>, <a href="https://www.youtube.com/watch?v=rwTGuwk4LQw&amp;list=UUse5RL7m8_pS8CUrJVhyPdw"><strong>Michael Heinrichs</strong></a>, and <strong><a href="https://www.youtube.com/watch?v=LB1CKFOJQ5M&amp;list=UUse5RL7m8_pS8CUrJVhyPdw">Hendrik Ebbers</a></strong>.</li>
+	<li>With JavaOne now less than two weeks away, people are continuing to post on their sessions, as well as sessions they are looking forward to. Some links I've found include: <a href="http://www.guigarage.com/2014/09/javaone-2014-preview/"><strong>Hendrik Ebbers</strong> talking about his sessions</a> (it's a different video than above), <strong>Hendrik Ebbers</strong> giving a sneak peak at his <a href="http://www.guigarage.com/2014/09/javaone-preview-enterprise-javafx/">'Enterprise JavaFX' session </a>demonstration, and <strong>Michael Hoffer</strong> has a post <a href="http://mihosoft.eu/?p=1072">summarising his sessions</a>.</li>
+	<li>This week I came across <a href="https://github.com/mirkosertic/FXDesktopSearch">FXDesktopSearch</a>, a desktop search application written in Java / JavaFX.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jyloo Software</strong> has announced that <a href="http://www.jyloo.com/news/?pubId=1410250829000">Synthetica V2.19.1 and SyntheticaAddons V1.9.1 have been released</a>.</li>
+</ul>
+<p>Catch you all next week.</p>
+]]></Content>
+	</post>

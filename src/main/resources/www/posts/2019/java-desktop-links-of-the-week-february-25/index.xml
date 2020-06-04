@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3215</ID>
+		<Slug>java-desktop-links-of-the-week-february-25</Slug>
+		<Title>Java desktop links of the week, February 25</Title>
+		<Date>2019-02-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Here's what happened in the last week - enjoy! :-)</p>
+<ul>
+ 	<li><strong>Bruno Borges</strong> has open sourced a <a href="https://github.com/brunoborges/javafx-jlink-starter-gradle">JavaFX starter project</a> on GitHub that works with Gradle and Jlink (and Java 11+).</li>
+ 	<li>JFX Days in Dortmund was <a href="https://www.javafx-days.com/">announced for early June</a>.</li>
+ 	<li><strong>binjr</strong> has open sourced a <a href="https://github.com/binjr/binjr">time series data browser</a>.</li>
+ 	<li><strong>Zeppel</strong> Software has open sourced a <a href="https://github.com/zeppelsoftware/bluebub">library for creating chat bubbles in JavaFX</a>.</li>
+ 	<li><strong>Peter Rogge</strong> has updated <a href="https://github.com/Naoghuman/lib-fxml">lib-fxml</a>, his library that allows the developer to load JavaFX relevant files (.fxml, .css, .properties) and connect them to a controller.</li>
+</ul>
+]]></Content>
+	</post>

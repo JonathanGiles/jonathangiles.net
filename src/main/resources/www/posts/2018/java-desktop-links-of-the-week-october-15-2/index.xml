@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3175</ID>
+		<Slug>java-desktop-links-of-the-week-october-15-2</Slug>
+		<Title>Java desktop links of the week, October 15</Title>
+		<Date>2018-10-14</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Thomas Nield</strong> has given a talk on <a href="https://www.youtube.com/watch?v=-zTqtEcnM7A&amp;feature=youtu.be">Kotlin and mathematical modelling</a>, and how JavaFX is used to visualise this. He also has a blog post specifically about the challenge of <a href="https://tomstechnicalblog.blogspot.com/2018/10/animating-traveling-salesman-problem.html">animating the 'traveling salesman' problem with JavaFX</a>.</li>
+ 	<li>I missed one of&nbsp;<strong>Dirk Lemmermann's</strong> JavaFX tips - this one on <a href="https://dlsc.com/2018/06/19/javafx-tip-30-scroll/">ScrollPane with a DropShadow</a>.</li>
+ 	<li><strong>jaxenter</strong> has published a three-part interview with a few people from the JavaFX community (myself included), in relation to the just-released JavaFX 11. You can read <a href="https://jaxenter.com/javafx-interview-series-part-1-149754.html">part one</a>, <a href="https://jaxenter.com/javafx-interview-series-part-2-149921.html">part two</a>, and <a href="https://jaxenter.com/javafx-11-part-3-150175.html?utm_campaign=direct">part three</a>.</li>
+ 	<li><strong>Kirill Grouchnikov</strong> has resurfaced after a long absence to publish a library on GitHub called <a href="https://github.com/kirill-grouchnikov/radiance">radiance</a>, which is a "set of libraries for building modern, elegant, and fast Swing applications".</li>
+</ul>
+]]></Content>
+	</post>

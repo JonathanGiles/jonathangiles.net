@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2938</ID>
+		<Slug>azure-cosmos-db-async-java-sdk-now-available-and-open-sourced</Slug>
+		<Title>Azure Cosmos DB async Java SDK now available and open sourced</Title>
+		<Date>2018-03-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java|Programming>Microsoft]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p><img class="aligncenter size-large wp-image-2939" src="/content/2018/03/azure-cosmos-db-1024x614.png" alt="" width="688" height="413"></p>
+
+<p>There are a lot of <a href="/posts/2018/two-microsoft-java-sdk-releases-in-one-day/">Java SDKs being released by Microsoft these days</a>, and here's another: the <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/introduction">Azure Cosmos DB</a> folks have released <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-sdk-async-java">version 1.0.0</a> of their asynchronous Java SDK, and at the same time they have <a href="https://github.com/Azure/azure-cosmosdb-java">open sourced the SDK repo</a>! There is a <a href="https://github.com/Azure-Samples/azure-cosmos-db-sql-api-async-java-getting-started">getting started application</a> ready for people to sink their teeth into, and the <a href="https://mvnrepository.com/artifact/com.microsoft.azure/azure-cosmosdb/1.0.0">artifacts are already up in Maven Central</a>. Finally, the team has <a href="https://github.com/Azure/azure-cosmosdb-java/tree/master/benchmark">released a benchmark tool</a>, and they said to me that they&nbsp;could reach 43,000 document inserts per second (on a 16 CPU core Ubuntu VM) for documents of 1KB size in gateway mode.</p>
+
+<p>For those unfamiliar with Cosmos DB, check out the <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/introduction">Azure Cosmos DB introduction</a>. In summary, "Azure Cosmos DB is Microsoft's globally distributed, multi-model database. With the click of a button, Azure Cosmos DB enables you to elastically and independently scale throughput and storage across any number of Azure's geographic regions. It offers throughput, latency, availability, and consistency guarantees with comprehensive&nbsp;<a href="https://aka.ms/acdbsla" data-linktype="external">service level agreements</a>&nbsp;(SLAs), something no other database service can offer." From there you can find quick start documentation for <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/create-sql-api-java">SQL</a>, <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/create-mongodb-java">MongoDB</a>, <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/create-graph-java">Graph</a>, <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/create-table-java">Table</a>, and <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/create-cassandra-java">Cassandra</a>.</p>
+]]></Content>
+	</post>

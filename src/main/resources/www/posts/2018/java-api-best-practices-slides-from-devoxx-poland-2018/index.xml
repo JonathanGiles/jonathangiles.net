@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3062</ID>
+		<Slug>java-api-best-practices-slides-from-devoxx-poland-2018</Slug>
+		<Title>Java API Best Practices slides from Devoxx Poland 2018</Title>
+		<Date>2018-06-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p><img class="aligncenter size-large wp-image-3052" src="/content/2018/06/API_Best_Practices-2-1024x573.png" alt="" width="688" height="385"></p>
+
+<p>I've just presented the Java API Best Practices presentation at <a href="http://devoxx.pl">Devoxx Poland</a>. The presentation is similar to the one I <a href="/posts/2018/java-api-design-best-practices-slide-deck-now-available/">presented last week at JDK.io</a>, but in my opinion is much improved based on community feedback and additional time to iterate. There was also a far larger audience today, with around 650 attendees compared with around 100 last week at JDK.io. I also think generally the presentation went better (despite the stress of a much larger audience), so I look forward to sharing the video of this presentation once it becomes available.</p>
+
+<p>Below I've posted a few photos I received from my Twitter stream, and of course you can <a href="/java-api-design-best-practices.html">download the slides for your reference</a>. Even if you read through the slides from JDK.io last week (and there were 4200+ downloads at last check!), I suggest you consider downloading this latest slide deck and deleting the old version :-)</p>
+
+<p>The next time I present this session is at JavaZone in Oslo, Norway, in September. Hopefully by then I will have received even more feedback and I will have an even better slide deck to offer!</p>
+]]></Content>
+	</post>

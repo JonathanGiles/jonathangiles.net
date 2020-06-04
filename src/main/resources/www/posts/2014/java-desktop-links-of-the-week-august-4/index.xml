@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1776</ID>
+		<Slug>java-desktop-links-of-the-week-august-4</Slug>
+		<Title>Java desktop links of the week, August 4</Title>
+		<Date>2014-08-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A heap of links this week - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Martin Sladecek</strong>, a fellow JavaFX team member at Oracle, has posted on '<a href="https://blogs.oracle.com/jfxprg/entry/the_peculiarities_of_javafx_layout">the peculiarities of JavaFX layout</a>'. This is a must-read for everyone who is using JavaFX layouts.</li>
+	<li><strong>David Grieve</strong>, yet another fellow JavaFX team member at Oracle, has <a href="http://dgrieve.blogspot.co.nz/2014/07/javafx-styleablepropertyfactory.html">posted on the new javafx.css.StyleablePropertyFactory</a> that has been added to JavaFX 8u40. This factory class makes it easier to use CSS in your controls by dramatically reducing the StyleableProperty and CssMetaData boilerplate you have to write to make your JavaFX properties styleable.</li>
+	<li><strong>Tom Schindl</strong> has been working on improving the JavaFX TabPane, in particular adding support for draggable tabs. Firstly, he has <a href="http://tomsondev.bestsolution.at/2014/07/28/reorder-and-drag-and-drop-with-javafx-tabpane/">posted code that he extracted from his work</a>, that people can use in their own projects. In addition to this, he has been working on bringing API into JavaFX so that the TabPane officially supports this - see <a href="https://javafx-jira.kenai.com/browse/RT-19659">RT-19659</a> for more details (and to offer your thoughts on the API).</li>
+	<li><strong>Arnaud Nouard</strong> has been working on a cool app - an app called <a href="https://arnaudnouard.wordpress.com/2014/07/29/threedom-scenebuilder-in-liberty-and-in-3d">ThreeDOM</a>, which is a 3D viewer of flat 2D user interfaces, inspired by a similar tool that originally shipped as part of Firefox. It would be great to see this app continue to be developed, and possibly integrated into something like <a href="http://www.scenic-view.org">Scenic View</a> (which, believe it or not, I've been working on recently - and plan to have a new release out in time for JavaOne).</li>
+	<li>A <a href="https://blogs.oracle.com/java/entry/video_javafx_with_gerrit_grunwald">video interview</a> with <strong>Gerrit Grunwald</strong> has just been published online, where he discusses various projects including <a href="http://www.jfxtras.org">JFXtras</a> and <a href="http://www.controlsfx.org">ControlsFX</a>.</li>
+	<li>The <strong>JacpFX project</strong> has announced <a href="http://jacpfx.org/2014/07/29/release.html">the release of JacpFX 2</a>.</li>
+	<li><strong>Rob Terp</strong> has posted part two on <a href="http://rterp.wordpress.com/2014/07/28/adding-custom-javafx-component-to-scene-builder-2-0-part-2/">adding a custom JavaFX component to Scene Builder 2.0</a>.</li>
+	<li><strong>William Antônio</strong> has posted part one of a series on '<a href="http://fxapps.blogspot.co.nz/2014/08/javaee-javafx-and-rfid-part-1.html">JavaEE, JavaFX and RFID</a>'.</li>
+	<li>With JavaOne nearing, I’ve put up a form for those attending who are interested in getting together for a lunch. More details will follow, but for now <a href="https://docs.google.com/a/jonathangiles.net/forms/d/1kE5PLpy6rlbE-kmZQhT5oPVdozO--Mi0m5p_uRqV8Go/viewform">register your interest</a>.</li>
+	<li><strong>David Gilbert</strong> has been busy. Firstly, he announced that JFreeChart 1.0.19 (a free chart library for the Java platform) <a href="http://www.object-refinery.com/blog/blog-20140801.html">has been released</a> and includes new rendering hints to improve sharpness across a range of output targets, plus important fixes for the recently added JavaFX support. Secondly, he announced that FXGraphics2D 1.1 (a free bridge class that extends the reach of Java2D code to JavaFX applications) <a href="http://www.object-refinery.com/blog/blog-20140731.html">has been released</a> and includes KEY_STROKE_CONTROL rendering hint support, a fix for clipping, a fix for glyph positioning with TextLayout and a fix for a memory leak in the demos.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li>Also from <strong>David Gilbert</strong>, he has announced that JFreeSVG 2.0 (a free SVG generator for Java applications) <a href="http://www.jfree.org/jfreesvg/">has been released</a> and includes improved rendering hint support, better glyph positioning for TextLayout, improved alpha transparency and fixes required for rendering Swing components to SVG.</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

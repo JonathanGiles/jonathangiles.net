@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>368</ID>
+		<Slug>java-desktop-links-of-the-week-may-31</Slug>
+		<Title>Java Desktop links of the week, May 31</Title>
+		<Date>2009-05-31</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx</Tags>
+		<Content><![CDATA[<p>A little early this week, given that I'm travelling to JavaOne tomorrow, which is when I'd normally write Java Desktop links of the week. Somewhat expectedly, it is another quiet week.</p>
+
+<p>To everyone: have a great week ahead. If you're going to be at JavaOne I'm looking forward to catching up with you, and if you aren't, then I, along with about 20 other people are going to be publishing 'JavaOne Minutes' - short video posts / interviews with people we meet at JavaOne. You can watch them at Youtube <a href="http://www.youtube.com/user/SunMicrosystemsInc">here</a> .</p>
+
+<p>On with the news:</p>
+<h3>General</h3>
+<ul>
+	<li>If you're going to JavaOne, and want your books signed,<a href="http://java.dzone.com/news/javaone-2009-book-signing"> here is the book signing schedule</a> . I'm taking two of my Java books with me to JavaOne :-)</li>
+</ul>
+<h3>Swing</h3>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> released final releases of his <a href="http://www.pushing-pixels.org/?p=1252">Substance</a> and <a href="http://www.pushing-pixels.org/?p=1254">Flamingo</a> projects. He also concluded his series on animation blueprints for Swing, in two <a href="http://www.pushing-pixels.org/?p=1248">final</a> <a href="http://www.pushing-pixels.org/?p=1250">posts</a> .</li>
+	<li><strong>Rob Camick</strong> published an example of a <a href="http://tips4java.wordpress.com/2009/05/23/text-component-line-number/">Swing text component that can show the line numbers to the left of the text</a> . The source code is available for you to use in your own projects.</li>
+	<li>In a comment to last weeks post, I was informed of <a href="http://jajuk.info/index.php/Main_Page">Jajuk Advanced Jukebox</a> , a music organiser / player written using Swing.</li>
+	<li>A <a href="http://www.connectina.com/components/fontchooser.html">font chooser, written in Swing</a> , has been made available by <strong>Connectina</strong> for free use in your applications, licensed under the LGPL.</li>
+	<li><strong>Alex Ruiz</strong> let me know that <a href="http://alexruiz.developerblogs.com/?p=162">FEST-Swing 1.2a2 has just been released</a> . <a onclick="javascript:pageTracker._trackPageview('/outbound/article/fest.easytesting.org');" href="http://fest.easytesting.org/swing/" target="_blank">FEST-Swing</a> is a Java library that provides a <a onclick="javascript:pageTracker._trackPageview('/outbound/article/www.infoq.com');" href="http://www.infoq.com/articles/internal-dsls-java" target="_blank">fluent interface</a> for functional Swing GUI testing.</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li>Part 3 of <strong>Haining Henry Zhang</strong> series on <a href="http://www.insideria.com/2009/05/writing-the-pac-man-game-in-ja-2.html">building a Pac-Man game in JavaFX has been published</a> . This part focuses on animating the ghosts. I never thought I'd write that sentence.</li>
+	<li><strong>Claudio Santini</strong> posts details about his <a href="http://theorymatters.wordpress.com/2009/05/28/javafx-crayon-physics/">crayon physics game, written in JavaFX</a> . It takes a wee while to download, but it is quite impressive. Clearly there is much work to be done to reach the quality of the game it is based on, but impressive use of JavaFX technology nonetheless. Plus, the music makes for a refreshing and relaxing background tune whilst you work :-)</li>
+	<li><strong>Piliq.com</strong> posts about their <a href="http://piliq.com/javafx/?p=992">entry into the JavaFX coding competition, which is a Google Chat client written in JavaFX</a> . It would be much better if it had access to normal Swing components, but of course that wasn't a luxury they had.</li>
+	<li><strong>Simon Morris</strong> posts about '<a href="http://weblogs.java.net/blog/javakiddy/archive/2009/05/thinking_declar.html">thinking declaratively in JavaFX</a> ', in particular the parsing of an XML file.</li>
+</ul>
+<h3>Griffon</h3>
+<ul>
+	<li><strong>Andres Almiray</strong> let me know that <strong>Jim Shingler</strong> has announced the <a href="http://jshingler.blogspot.com/2009/05/ann-gconfig-01-configuration-tool-for.html">first public release of gConfig 0.1</a> , a configuration tool for <a href="http://griffon.codehaus.org/">Griffon</a> , a Groovy Technology.</li>
+	<li>Speaking of <strong>Andres</strong> (you'd think he had a vested interest in Griffon), he also let me know that <strong>Geertjan <span class="fn">Wielenga</span> </strong> has been busy getting tooling support in NetBeans 6.7 for Groovy and Griffon. He outlines what he did in two <a href="http://blogs.sun.com/geertjan/entry/tooling_for_griffon_grails_supported">blog</a> <a href="http://blogs.sun.com/geertjan/entry/griffon_create_app_in_netbeans">posts</a> .</li>
+</ul>
+<p>That's it for this week. Note that there won't be a Java Desktop links of the week next week as I won't have been able to track the news whilst I'm at JavaOne. I'll try to do a catchup post once I'm back, but there are not guarantees.</p>
+
+<p>So, have a great week, work hard, but make sure you spend some time relaxing and enjoying life. And for those of you attending JavaOne, see you soon!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>104</ID>
+		<Slug>thanks-sun</Slug>
+		<Title>Thanks Sun!</Title>
+		<Date>2007-07-31</Date>
+		<Status>publish</Status>
+		<Categories>Miscellaneous|Programming</Categories>
+		<Tags>plugins-research|semantic-web-research</Tags>
+		<Content><![CDATA[<p>Just a quick blog to say a huge 'thank you' to Sun Microsystems. Today I received delivery of a <a href="http://www.sun.com/servers/x64/x2200/">SunFire X2200 M2</a>. It is a dual-core AMD64 (Opteron? I'm not up with naming schemes anymore - I gave up after Pentium II) 1.8GHz, with 2gigs of RAM, a 250gig SATA hard drive and a DVD ROM drive. They donated it to me to use to primarily port my research to Solaris, but once that's done it's mine to keep.</p>
+
+<p>A few screenshots of the server on my office floor:</p>
+<p><p align="center"><a href="/content/2007/07/img_2139.JPG" title="My new Sun Server"><img src="/content/2007/07/img_2139.thumbnail.JPG" alt="My new Sun Server"></a></p>
+<p><a href="/content/2007/07/img_2140.JPG" title="My new Sun Server"></a></p>
+<p><p align="center"><a href="/content/2007/07/img_2143.JPG" title="My new Sun Server"><img src="/content/2007/07/img_2143.thumbnail.JPG" alt="My new Sun Server"></a></p>
+<p><p style="text-align: center"><a href="/content/2007/07/img_2140.JPG" title="My new Sun Server"><img src="/content/2007/07/img_2140.thumbnail.JPG" alt="My new Sun Server"></a></p>
+<p><p style="text-align: center"><a href="/content/2007/07/img_2144.JPG" title="My new Sun Server"><img src="/content/2007/07/img_2144.thumbnail.JPG" alt="My new Sun Server"></a></p>
+<p><p align="center">&nbsp;</p>
+<p>This is all working towards the announcement of the release of an end-user ready release of my research from the past few years - stay tuned!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1168</ID>
+		<Slug>java-desktop-links-of-the-week-january-9</Slug>
+		<Title>Java desktop links of the week, January 9</Title>
+		<Date>2012-01-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing|swt</Tags>
+		<Content><![CDATA[<p>Here's the links from the past week - enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> wrote about his <a href="http://fxexperience.com/2012/01/2012-javafx-resolutions/">2012 JavaFX new years resolutions</a>.</li>
+	<li><strong>Jasper Potts</strong> wrote a fun <a href="http://fxexperience.com/2012/01/fun-javafx-2-0-audio-player/">JavaFX 2.0 audio player</a>, with source code included.</li>
+	<li><strong>Dustin Marx</strong> continues to blog about various JavaFX-related topics, including "<a href="http://marxsoftware.blogspot.com/2012/01/applying-sepia-effect-to-loaded-images.html">Applying Sepia Effect to Loaded Images in JavaFX 2.0</a>", "<a href="http://marxsoftware.blogspot.com/2012/01/javafx-2s-ensemble-and-other-sample.html">JavaFX 2's Ensemble and other Sample Applications</a>", "<a href="http://marxsoftware.blogspot.com/2012/01/javafx-2s-tri-state-checkbox.html">JavaFX 2's Tri-State CheckBox</a>", and "<a href="http://marxsoftware.blogspot.com/2012/01/pair-class-coming-to-java-via-javafx.html">Pair Class Coming to Java via JavaFX?</a>".</li>
+	<li><strong>Tom Schindl </strong><a href="http://tomsondev.bestsolution.at/2012/01/02/efxclipse-0-0-10-released/">released e(fx)clipse 0.0.10</a>, and quickly <a href="http://tomsondev.bestsolution.at/2012/01/02/efxclipse-0-0-11-released/">followed that up by version 0.0.11</a> to resolve a few release issues.</li>
+	<li><strong>Kai Tödter</strong> has blogged about <a href="http://www.toedter.com/blog/?p=709">JavaFX 2.0, Swing &amp; SWT Renderers for the Eclipse 4.x Application Platform</a>.</li>
+	<li><strong>Sai Pradeep Dandem</strong> has experimented with the TableView control to<a href="http://saidandem.blogspot.com/2012/01/percent-width-for-tablecolumn-in-javafx.html"> allow for setting percentage width of columns</a>.</li>
+	<li><strong>Toni Epple</strong> has blogged about <a href="http://java.dzone.com/articles/styling-javafx-control-css">styling a custom JavaFX control with CSS</a>.</li>
+	<li><strong>René Jahn</strong> has blogged about <a href="http://blog.sibvisions.com/2012/01/04/javafx-2-0-tableview-with-database/">hooking a database up to a JavaFX TableView</a> control.</li>
+	<li><a href="http://netbeans.org/community/releases/71/">NetBeans 7.1 shipped this week</a>, and includes major improvements for JavaFX 2.0, FXML and CSS.</li>
+	<li><strong>Johan Vos</strong> and I shipped another release of our <a href="http://www.javafxdata.org/">DataFX library</a>, taking the <a href="http://www.javafxdata.org/changelog/">version number up all the way to 0.0.5</a>! This release includes much improved REST data source support, and additional support for 'independent' CheckBoxTreeItems.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has put out a <a href="http://harmoniccode.blogspot.com/2012/01/steelseries-3910-quickrelease.html">new release of SteelSeries</a> to include some of his previous 'Friday fun components'.</li>
+	<li>Speaking of 'Friday fun components', <strong>Gerrit</strong> has also done another one of these. This time, he has created <a href="http://harmoniccode.blogspot.com/2012/01/friday-fun-component-xv.html">an improved traffic light component</a>.</li>
+</ul>
+<h4>SWT</h4>
+<ul>
+	<li><strong>Laurent Caron</strong> has released more SWT widgets as part of his <a href="http://code.google.com/a/eclipselabs.org/p/opal/">Opal project</a>. He mentioned to me there are five new components:</li>
+<ul>
+	<li>Preference Window, an easy-to-build window that can be used to set up preferences.</li>
+	<li>Range Slider, a slider that allow the user to select a range</li>
+	<li>Prompt Support, an utility class to add a Prompt to Text and Combo widgets !</li>
+	<li>Transition Composite, a widget that display controls like "pages" and manage transitions between each page.</li>
+	<li>Property Table, a widget to edit properties. Each property is given a name, a type, a description.</li>
+</ul>
+</ul>
+]]></Content>
+	</post>

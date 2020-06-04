@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>268</ID>
+		<Slug>scjp-6-attained</Slug>
+		<Title>SCJP 6 Attained</Title>
+		<Date>2009-02-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags>java|scjp</Tags>
+		<Content><![CDATA[<p>Just a quick post to announce that today I went for and got my Sun Certified Java Programmer (SCJP) 6 certification. The exam is actually relatively quite difficult, as it really requires a good understanding of the Java language, and in most cases people rely on their IDE to catch their errors. For this reason, it pays to do a bit of study prior to sitting the exam. In the process of doing my study, I actually wrote up a fairly decent 12 page document that covers the areas where I didn't understand things well enough. It proved to be a good study guide in my opinion.</p>
+
+<p>If anyone is interested in reading it prior to their SCJP exam, let me know and I'll polish it up and make it available.</p>
+]]></Content>
+	</post>

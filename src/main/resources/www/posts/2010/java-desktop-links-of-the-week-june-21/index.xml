@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>842</ID>
+		<Slug>java-desktop-links-of-the-week-june-21</Slug>
+		<Title>Java desktop links of the week, June 21</Title>
+		<Date>2010-06-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome to another week of Java desktop links folks. This week there is a good bunch of interesting news and blog posts, so I hope that there is something here for everyone. As always feel free to get in touch with me if you have a link you'd like to have included.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Eugene Ryzhikov</strong> has released <a href="http://mcoj.wordpress.com/2010/06/19/swing-taskdialog-1-1-release/">version 1.1 of the Swing TaskDialog component.</a></li>
+	<li><strong>Jyloo Software</strong> have <a href="http://www.jyloo.com/news/?pubId=1276776641000">released SyntheticaAddons 1.2</a>, which comes with a number of new components.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Stephen Chin</strong> announced the <a href="http://groups.google.com/group/jfxtras-users/browse_thread/thread/a5396d7e71e8ba2">first release candidate of JFXtras 0.7</a>.</li>
+	<li><strong>Stephen Chin</strong> posted links to the videos from the <a href="http://steveonjava.com/bay-area-jug-round-up-and-stuarts-hands-on-javafx-videos-available/">Bay Area JUG Roundup and to Stuart Marks' 'Hands-On JavaFX Lab'</a>.</li>
+	<li>Speaking of <strong>Stuart Marks</strong>, he has blogged with some useful details related to <a href="http://stuartmarks.wordpress.com/2010/06/14/applying-styles-to-scenes/">applying styles to scenes</a>. This is a must-read for anyone using CSS in JavaFX.</li>
+	<li>NetBeans 6.9 was <a href="http://netbeans.org/community/releases/69/">released this week</a>, which has a number of <a href="http://www.dzone.com/links/r/the_best_of_netbeans_69.html">good improvements</a>, with some related to JavaFX. I'm actually finding it very usable for JavaFX, compared to earlier NetBeans releases which were a lot more rough. I hope this awesome pace of development continues! :-)</li>
+	<li><strong>Eric Bruno</strong> has posted an article on the <a href="http://www.drdobbs.com/java/225700076;jsessionid=KOKWH2EEFCQMPQE1GHPCKH4ATMY32JVN?pgno=1">JavaFX JDBC datasource</a>.</li>
+	<li>The NetBeans folks have documented how to deal with '<a href="http://netbeans.org/kb/docs/javafx/parallel-states.html">parallel application states and state variables in JavaFX Composer</a>'.</li>
+	<li><strong>Osvaldo Doederlein</strong> continues his research into the guts of JavaFX, offering his <a href="http://weblogs.java.net/blog/opinali/archive/2010/06/18/sequences-javafx-scripts-next-challenge">thoughts on sequences</a> this week.</li>
+	<li>I posted a simple example of using a cell factory in the JavaFX TreeView  to create a <a href="http://fxexperience.com/2010/06/javafx-checkboxtreeview/">CheckBoxTreeView  control</a>.</li>
+</ul>
+<p>That's us for another week. Keep churning out the good posts and news and I'll keep linking to you. Catch you all in a weeks time.</p>
+]]></Content>
+	</post>

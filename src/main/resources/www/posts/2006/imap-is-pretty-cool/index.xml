@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>51</ID>
+		<Slug>imap-is-pretty-cool</Slug>
+		<Title>IMAP is pretty cool</Title>
+		<Date>2006-02-25</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags/>
+		<Content><![CDATA[<p><span id="BlogViewId"></p>
+<p><div id="msgcns!9C7F360F305C1AA0!202"></p>
+<p><div>I've spent a bit of time these last few days setting up my own email server on my home server computer. I set it up to play with IMAP - the successor to POP3.</div></p>
+<p><div></div></p>
+<p><div>Ok, POP3 is what you use when you download your emails into outlook express, etc. The messages are deleted from the server, and you have them on your computer. Now, compare this to IMAP - all email messages remain on the server, and if you use 5 different computers over a day, at the end of the day they will be all synchronised automatically.</div></p>
+<p><div></div></p>
+<p><div>This is cool - I can be anywhere and have all my email, and even all sent messages, etc.</div></p>
+<p><div></div></p>
+<p><div>I would write more, but I think I got the point across: IMAP is interesting. Anyone interested in IMAP I can give info on what I did.</div></p>
+<p><div></div></p>
+<p><div>Cheers,</div></p>
+<p><div>Jo Giles</div></p>
+<p></div></p>
+<p></span></p>
+]]></Content>
+	</post>

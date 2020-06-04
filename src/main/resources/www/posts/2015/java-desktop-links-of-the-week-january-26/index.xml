@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1860</ID>
+		<Slug>java-desktop-links-of-the-week-january-26</Slug>
+		<Title>Java desktop links of the week, January 26</Title>
+		<Date>2015-01-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week of links is upon us. Enjoy!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> continues to keep himself very busy with e(fx)clipse. This week he has a post on how in e(fx)clipse 1.2.0 <a href="http://tomsondev.bestsolution.at/2015/01/23/efxclipse-1-2-0-themes-are-osgi-services/">themes are OSGi services</a>. He also has a post on a new service that is available in e(fx)clipse to <a href="http://tomsondev.bestsolution.at/2015/01/25/efxclipse-1-2-0-new-service-to-observe-a-filesystem-path/">observe a filesystem path</a>.</li>
+	<li><strong> Gail Anderson</strong> and <strong>Paul Anderson</strong> have posted '<a href="http://www.informit.com/articles/article.aspx?p=2273822">20 Reasons Why You Should Move to JavaFX and the NetBeans Platform</a>'.</li>
+	<li><strong>Hendrik Ebbers</strong> has posted about <a href="http://www.guigarage.com/2015/01/support-emojis/">how to use emojis in JavaFX</a>.</li>
+	<li><a href="https://www.vinumeris.com/lighthouse">Lighthouse</a> is a cool JavaFX-based app for "all-or-nothing fund raising. Using advanced features of the Bitcoin protocol it is now possible to create Kickstarter-style fund raising initiatives in an entirely decentralised way. No middlemen unless you want them, and no fees beyond the usual Bitcoin transaction fees (just a fraction of a dollar cent)."</li>
+	<li><strong>Sébastien Bordes</strong> has announced the release of <a href="http://blog.jrebirth.org/releases/jrebirth-application-framework-8-0-0-is-released/">JRebirth Application Framework 8.0.0</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> has added a <a href="https://pixelduke.wordpress.com/2015/01/23/gallery-control-for-the-ribbon/">gallery control to his JavaFX ribbon control</a>. It's starting to take shape! :-)</li>
+	<li><strong>William Antônio Siqueira</strong> has two posts this week. Firstly, he has posted on how to <a href="http://fxapps.blogspot.co.nz/2015/01/exporting-javafx-application-as.html?spref=tw">export a JavaFX application to an animated GIF</a>. Secondly, he has created the <a href="http://fxapps.blogspot.com.br/2015/01/stacker-game-in-javafx.html">stacker game in JavaFX</a>.</li>
+	<li><strong>Dirk Lemmermann</strong> has added <a href="https://www.youtube.com/watch?v=Hrm9fbPYkmw&amp;feature=youtu.be">editing capabilities</a> to his (commercial) FlexCalendarFX library. Looks very nice.</li>
+	<li><strong>JavaFXTutorials.com</strong> has a tutorial on <a href="http://www.javafxtutorials.com/tutorials/checkboxes-in-javafx-and-fxml/">checkboxes in JavaFX and FXML</a>.</li>
+</ul>
+<p>That's that for another week - catch you in a weeks time! :-)</p>
+]]></Content>
+	</post>

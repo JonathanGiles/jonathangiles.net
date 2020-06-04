@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1923</ID>
+		<Slug>java-desktop-links-of-the-week-may-25-2</Slug>
+		<Title>Java desktop links of the week, May 25</Title>
+		<Date>2015-05-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>It's already late May - this year is racing by! Take some time out today to enjoy the following links :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has posted about&nbsp;<a href="http://tomsondev.bestsolution.at/2015/05/20/code-editors-in-general-with-javafx/">code editors with JavaFX</a>. This is really impressive stuff!</li>
+	<li><strong>Jens Deters</strong> has <a href="http://www.jensd.de/wordpress/?p=2044">released MQTT.fx 0.0.15</a>, which includes a few bug fixes and new features.</li>
+	<li>Speaking of <strong>Jens</strong>, he also posted a YouTube video showing a <a href="https://www.youtube.com/watch?v=WASthWdmDl4&amp;feature=youtu.be">responsive user interface written in JavaFX</a> in various mobile form factors.</li>
+	<li><strong>Lee Stemkoski</strong> has posted a long article titled '<a href="http://gamedevelopment.tutsplus.com/tutorials/introduction-to-javafx-for-game-development--cms-23835">Introduction to JavaFX for Game Development</a>'.</li>
+	<li>The <strong>Gluon</strong> guys have posted <a href="http://gluonhq.com/details-about-gluon-glisten/">more details about Gluon Glisten</a> (their commercial Java library). <strong>Johan Vos</strong> from Gluon was also interviewed by <strong>Voxxed</strong> where he provides a bunch of insight into the <a href="https://www.voxxed.com/blog/2015/05/gluon-setting-the-fundamentals-for-scene-building/">thinking behind Gluon</a>. Finally, Gluon has posted a blog post where they detail <a href="http://gluonhq.com/interested-in-gluon-training-courses/">their plan for offering JavaFX training courses</a>, and where people can register their interest.</li>
+	<li><strong>Geertjan Wielenga</strong> has posted about '<a href="https://blogs.oracle.com/geertjan/entry/news_from_the_modular_javafx1">news from the Modular JavaFX Application Framework</a>'.</li>
+	<li><strong>René Jahn</strong> has posted about <a href="http://blog.sibvisions.com/2015/05/21/zoom-support-for-applications/">adding zoom support</a> to the open source JVx library.</li>
+	<li><strong>Nicolai Parlog</strong> has posted about the implications of JDK 9, and <a href="http://blog.codefx.org/java/dev/javafx-project-jigsaw-jep-253/">how JEP 253 is working to mitigate them</a>.</li>
+	<li><strong>Ernest Duodu</strong> has posted about&nbsp;how to <a href="https://blog.idrsolutions.com/2015/05/how-to-create-a-javafx-gui-using-scene-builder-in-netbeans/">create a JavaFX GUI using Scene Builder in NetBeans</a>.</li>
+	<li><strong>Rahman Usta</strong> has posted code on GitHub for a <a href="https://github.com/rahmanusta/TerminalFX">JavaFX terminal emulator</a>.</li>
+</ul>
+<p>A great set of links this week - I hope you enjoyed them. Catch you next week! :-)</p>
+]]></Content>
+	</post>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1888</ID>
+		<Slug>java-desktop-links-of-the-week-march-16</Slug>
+		<Title>Java desktop links of the week, March 16</Title>
+		<Date>2015-03-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<h4>JavaFX</h4>
+<ul>
+	<li>The <strong>RoboVM team</strong> announced the <a href="http://robovm.com/robovm-1-0-released-commercial-licenses-a-look-under-the-hood/">release of&nbsp;RoboVM 1.0</a>. Included in their blog post is details about their commercial licenses, as well as providing a look under the hood of their technology.</li>
+	<li>The guys at <strong>Gluon</strong> have <a href="http://gluonhq.com/scene-builder-installers-now-available/">released updated installers for Scene Builder</a> to offer a self-contained version that includes a JRE. The standalone jar file option remains.</li>
+	<li>Speaking of <strong>Gluon</strong>, they have also <a href="http://gluonhq.com/gluon-plugin-for-netbeans/">released a NetBeans plugin</a> to automate a large chunk of the work involved with creating mobile applications built with JavaFX.</li>
+	<li>For users of my openjfx-dialogs builds, I have released version 1.0.3 which consists of (almost) exactly the same bits as what shipped in JavaFX 8u40. If you are stuck on an earlier build of JavaFX, <a href="https://oss.sonatype.org/content/repositories/releases/org/controlsfx/openjfx-dialogs/1.0.3/">download this jar</a> if you want to show dialogs.</li>
+	<li><strong>Marco Jakob</strong> has updated his <a href="http://tinyletter.com/codemakery/letters/javafx-tutorial-update-for-jdk-8u40">JavaFX tutorial for JavaFX 8u40</a>.</li>
+	<li><strong>Eugen Kiss</strong> has announced the <a href="https://github.com/eugenkiss/kotlinfx/releases/tag/v0.1">release of KotlinFX 0.1</a>.</li>
+	<li><strong>Tom Schindl</strong> has posted a slide deck about '<a href="http://www.slideshare.net/TomSchindl/efxclipse-eclipse-con">JavaFX @ eclipse.org</a>'.</li>
+	<li><strong>Michael Heinrichs</strong> has posted an update about <a href="http://blog.netopyr.com/2015/03/09/javafx-in-the-browser-an-update/">JavaFX running in the browser</a>&nbsp;(using WebGL, without applets).</li>
+	<li><strong>Wim Deblauwe</strong> has posted <a href="https://wimdeblauwe.wordpress.com/2015/03/13/using-font-awesome-in-javafx-with-fontawesomefx/">using Font Awesome in JavaFX with fontawesomefx</a>.</li>
+	<li><strong>Chris Newland</strong> has announced <a href="https://github.com/chriswhocodes/DemoFX">DemoFX</a>, a benchmarking tool for JavaFX.</li>
+	<li><strong>René Jahn</strong> has posted about <a href="http://blog.sibvisions.com/2015/03/13/dragndrop-support-for-javafx-tabpane/">drag'n'drop support for JavaFX' TabPane</a>.</li>
+	<li><strong>Jan Gassen</strong> has posted about <a href="https://blog.codecentric.de/en/2015/03/adding-custom-image-renderer-javafx-8/">adding a custom image renderer to JavaFX 8</a>.</li>
+	<li><strong>Christoph Nahr</strong> has posted about <a href="http://news.kynosarges.org/2015/03/11/java-se-8-update-40-released/">some of the changes in JavaFX 8u40</a>.</li>
+	<li><strong>Christoph Keimel</strong> has blogged about <a href="http://www.kware.net/?p=8">walking the JavaFX scenegraph</a>.</li>
+	<li><strong>Chris Noë</strong> has posted a tutorial for <a href="http://blog.iadvise.eu/2015/03/09/a-javafx-8-stock-ticker-application/">building a JavaFX-based stock ticker application</a>.</li>
+	<li>The <strong>Griffon project</strong> has posted a tutorial about <a href="http://new.griffon-framework.org/tutorials/4_javafx_views.html">JavaFX views</a>, using four different techniques.</li>
+	<li><strong>bitcoinagile.com</strong> has posted about displaying the <a href="http://bitcoinagile.com/202A33/bitcoin-price-with-winkdex-api-in-javafx-part-ii_stream">bitcoin price index using JavaFX charts</a>.</li>
+</ul>
+]]></Content>
+	</post>

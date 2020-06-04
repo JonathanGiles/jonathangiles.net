@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1373</ID>
+		<Slug>java-desktop-links-of-the-week-december-17</Slug>
+		<Title>Java desktop links of the week, December 17</Title>
+		<Date>2012-12-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>2012 is rapidly running out, but fortunately the number of links (and the quality) continues to rise. 2013 looks like it might be a very good year for desktop Java at this rate! Keep up the great work folks:-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>As mentioned last week, there is a <a href="http://fxexperience.com/2012/12/javafx-for-tablets-mobile/">survey up on FX Experience about JavaFX on embedded, mobile and tablet devices</a>. If you are reading this, regardless of whether you are a JavaFX developer or interested in targeting these kinds of devices, please (please please!) give us 5 minutes to record your thoughts in the survey - it is much appreciated.</li>
+	<li>Java 7u10 was released this week, which <a href="http://docs.oracle.com/javafx/2/release_notes_2-2-4/jfxpub-release_notes_2-2-4.htm">includes JavaFX 2.2.4</a>. As per usual, along with the release comes a <a href="https://blogs.oracle.com/thejavatutorials/entry/javafx_2_2_4_documentation">new release of JavaFX documentation</a>.</li>
+	<li>To aid people working on the <a href="https://bitbucket.org/rbair/fx-games">FX Game project</a> (which is currently focused on building a Tower Defense game), <strong>Daniel Zwolenski</strong> has started up a <a href="https://groups.google.com/forum/?fromgroups=#!forum/fx-games">Google group mailing list</a>. If you're interested in taking part, head over there, sign up and introduce yourself!</li>
+	<li><strong>Danno Ferrin</strong> is working on an interesting application that renders text formatted with the plain text <a href="http://speling.shemnon.com/blog/2012/12/10/textflow-for-fun-and-profit/">MarkdDown syntax using the TextFlow feature of JavaFX</a>.</li>
+	<li><strong>Tom Schindl</strong> continues to be very busy on his e(fx)clipse project, with three posts written in the past week. Firstly he talks about '<a href="http://tomsondev.bestsolution.at/2012/12/10/automated-eclipse-project-creation-and-deployment-for-javafx/">Automated Eclipse Project creation and deployment (for JavaFX)</a>', secondly he posts about his <a href="http://tomsondev.bestsolution.at/2012/12/10/my-recommended-project-structure-for-javafx-e4-projects/">recommended project structure for (JavaFX) e4 projects</a>, and finally he has a post about how <a href="http://tomsondev.bestsolution.at/2012/12/13/emf-edit-support-is-coming-to-javafx-via-efxclipse/">EMF-Edit-Support is coming to JavaFX via e(fx)clipse</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> continues work on his excellent JMetro CSS styling for JavaFX UI controls, this week adding <a href="http://pixelduke.wordpress.com/2012/12/16/metro-style-context-menu-for-java-jmetro/">support for JavaFX menus</a>.</li>
+	<li><strong>Marco Jakob</strong> has posted part six of his series of JavaFX 2 tutorials, this time <a href="http://edu.makery.ch/blog/2012/12/04/javafx-tutorial-addressapp-6/">looking into charts</a>.</li>
+	<li><strong>José Pereda</strong> has a comprehensive blog post for part one of his series of posts on <a href="http://jperedadnr.blogspot.com.es/2012/12/arduinofx-javafx-gui-for-home.html">ArduinoFX, a JavaFX GUI for home automation with Raspberry Pi and Arduino</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has a post about how <strong>Bengt-Erik Fröberg</strong> is <a href="https://blogs.oracle.com/geertjan/entry/javafx_makeover_for_jfugue_music">reworking the UI</a> for JFugue Music NotePad to include elements of JavaFX.</li>
+	<li>The Open-Dolphin GitHub repo now has a sample on <a href="https://github.com/canoo/open-dolphin/commit/8e1534c69ffedf2e67f78058e76cd5f0669d799f">using dolphin to lazily populate a TableView</a> with 100,000 rows.</li>
+	<li><strong>Bruno Borges</strong> has started a new project called <a href="https://github.com/brunoborges/webfx">WebFX</a>, which intends to "investigate the capabilities of using JavaFX (FXML + JS + CSS) to build rich web pages, instead of using HTML. With the new Javascript engine, <em>Nashorn</em>, the performance of a JavaFX page in FXML and the controllers in JS will be much higher than it is today. Idea is to build an FX browser, a security layer, a navigation scheme where one FXML can tell the browser to go to another FXML and a protocol for server-side communication."</li>
+	<li><strong>Filipe Portes</strong> has posted to GitHub code for a new project of his called <a href="https://github.com/filipeportes/ModuleFX">ModuleFX</a>, which "embeds the JavaFX Runtime inside an OSGI bundle, allowing you to create modular JavaFX apps with all the power of OSGI framework, getting the best of Java Rich Client and Modularization worlds together."</li>
+	<li>The <strong>Hatena Diary</strong> has a post about <a href="http://d.hatena.ne.jp/aoe-tk/20121216/1355667197" name="1355667197">developing multi-touch application in JavaFX</a>.</li>
+</ul>
+<p>That's us for another week - catch you all next on Christmas Eve (hopefully, assuming we don't all get wiped out on December 21st ;-) )</p>
+]]></Content>
+	</post>

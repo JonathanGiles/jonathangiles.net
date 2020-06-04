@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1380</ID>
+		<Slug>java-desktop-links-of-the-week-december-31</Slug>
+		<Title>Java desktop links of the week, December 31</Title>
+		<Date>2012-12-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Welcome to the last Java desktop links of the week for this year! Obviously with the festive season in full swing this week is a relatively quiet week, but nonetheless I have some interesting links for you to read. Enjoy, and have a good new years and start to 2013! Catch you in a weeks time! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+ 	<li><strong>Stephen Chin</strong> has announced his plans to go on <a href="http://steveonjava.com/nighthacking-nordic-tour/">another night hacking tour</a>, this time taking in the Nordic countries between January 25 and February 7.</li>
+ 	<li>I was given a (virtual) clip around the head by <strong>Ed Thompson</strong> for his <a href="http://ed4becky.net/homepage/javafx-from-the-trenches-part-2-its-not-always-about-the-sex/">issues when dealing with the JavaFX ComboBox control</a>. Fortunately most issues are on their way towards being resolved, and as always I'd love to work with people feeling pain in any UI control to develop improvements and / or review patches based on the OpenJFX source code.</li>
+ 	<li><strong>Hendrik Ebbers</strong> has started playing with JavaFX on Raspberry Pi. He has been investigating using DataFX and GridFX on it, and has <a href="http://www.guigarage.com/2012/12/my-first-steps-with-javafx-on-raspberry-pi/">posted</a> some <a href="http://www.guigarage.com/2012/12/gridfx-on-raspberry-pi-javafx-8/">videos</a> to show progress.</li>
+ 	<li><strong>Andy Till</strong> has <a href="http://andrewtill.blogspot.co.nz/2012/12/estimate-software-estimation-tool.html">open sourced a JavaFX application</a> that he has been developing called EstiMate.</li>
+ 	<li><strong>Narayan Maharjan</strong> has posted part two of his <a href="http://blog.ngopal.com.np/2012/12/25/3d-object-cube-concept-to-code-part-2/">3D Object (cube) 'concept to code'</a> series of posts.</li>
+ 	<li><strong>Thierry Wasyl</strong> continues to develop his DrawFX application, and has posted an <a href="http://thierrywasyl.wordpress.com/2012/12/27/drawfx-this-is-jaaavaaafx/">update with his latest progress</a>.</li>
+</ul>
+<p>That's all for this year - catch you all again next year when we do it all over again! :-)</p>
+]]></Content>
+	</post>

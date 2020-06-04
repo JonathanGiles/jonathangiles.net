@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>949</ID>
+		<Slug>java-desktop-links-of-the-week-november-8</Slug>
+		<Title>Java desktop links of the week, November 8</Title>
+		<Date>2010-11-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>Here we go again with another week of Java desktop links. This week we have links for the following Java UI toolkits: Swing, JavaFX, Griffon, Amino and Pivot. Craziness! Let's get into the links.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Rhiannon Liebowitz</strong> has posted two blog posts about custom Swing component development: <a href="http://www.dzone.com/links/r/custom_swing_component_development_tip_not_everyt.html">transparency</a> and <a href="http://www.javaswingcomponents.com/blog/custom-swing-component-development-tip-insets-matter">insets</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>As I've mentioned previously, <strong>Stephen Chin</strong> is presenting '<a href="http://www.svjugfx.org/calendar/14264038/?a=cv1p_grp&amp;eventId=14264038&amp;action=detail&amp;rv=cv1p&amp;rv=cv1p">JavaFX 2.0 With Alternative Languages and Visage</a>' at the Silicon Valley JavaFX Users Group on November 10. This will be streamed live if you can't be there in person. You can <a href="http://www.ustream.tv/channel/silicon-valley-javafx-user-group">create an account at ustream</a> (if you want to take part in the chat) and <a href="http://www.ustream.tv/channel/silicon-valley-javafx-user-group">catch the action</a> live at 7pm Pacific time (also, just note that the US left daylight savings time this weekend, so adjust your calculations as appropriate).</li>
+	<li>At the Java Posse Roundup earlier this year (before the JavaFX 1.3 release) there was a session on JavaFX. You can <a href="http://javaposse.com/java-posse-328-roundup-10-java-fx-the-sequel">listen to this</a>, or just <a href="http://www.xenonique.co.uk/blog/?p=97">read the summary</a> by <strong>Peter Pilgrim</strong>.</li>
+	<li>A new JavaFX book has just come out which is written by two ex-Sun employees - <strong>Lawrence PremKumar</strong> and                                                                                                                                          <strong>Praveen   Mohan</strong>. It is titled '<a href="http://apress.com/book/view/9781430271994">Beginning JavaFX</a>', and is published by APress. Looking at the summary, it looks a little confused - mentioning JavaFX 2.0 but I'm sure that is a typo, going by the Google preview of the book (available from the previous link).</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has blogged about '<a href="http://jroller.com/aalmiray/entry/bringing_java_to_griffon">Bringing Java to Griffon</a>' and '<a href="http://www.jroller.com/aalmiray/entry/griffon_introspecting_artifacts">Griffon: Introspecting Artifacts</a>'.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has <a href="http://leonardosketch.org/2010/11/112/">released beta 2 of the Leonardo sketch application</a>. This is written in his own, home-built UI toolkit called Amino, which has seen a recent <a href="http://weblogs.java.net/blog/joshy/archive/2010/11/05/when-commented-out-code-attacks">speed improvement</a>. He's also on the lookout for people keen to <a href="http://twitter.com/#!/joshmarinacci/status/1088782266798081">help translate Leonardo Sketch into other languages</a>.</li>
+	<li><strong>Thomas Buhr</strong> has written about <a href="http://www.dzone.com/links/r/rich_graphics_with_apache_pivot_20.html">rich graphics with Apache Pivot 2.0</a>.</li>
+</ul>
+<p>That's that for another week. Catch you all in a weeks time with another round of Java desktop links.</p>
+]]></Content>
+	</post>

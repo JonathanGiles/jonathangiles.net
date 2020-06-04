@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>30</ID>
+		<Slug>integrating-relational-databases-with-rdfowl</Slug>
+		<Title>Integrating relational databases with RDF/OWL</Title>
+		<Date>2006-10-31</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>semantic-web-research</Tags>
+		<Content><![CDATA[<p>I wanted to keep tabs on the blog post that I am linking to <a href="http://www.snee.com/bobdc.blog/2006/10/integrating_relational_databas.html">here</a>. It is a small portion of what I am about to be working towards as part of my masters project. Basically, this blog post talks about how you can query a database using SPARQL (a semantic web query language similar to SQL). To do this a mapping has to be made between the SPARQL query and the SQL query, which this blog writes about, and it points to a number of interesting applications that I have looked into in the past, but never really followed up (too busy with other projects I guess).</p>
+
+<p>I guess I'll clarify this post in the future :-)</p>
+]]></Content>
+	</post>

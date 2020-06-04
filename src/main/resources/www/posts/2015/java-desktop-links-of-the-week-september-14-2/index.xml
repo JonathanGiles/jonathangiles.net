@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1967</ID>
+		<Slug>java-desktop-links-of-the-week-september-14-2</Slug>
+		<Title>Java desktop links of the week, September 14</Title>
+		<Date>2015-09-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A good number of links this week. Enjoy!</p>
+<ul>
+	<li>If you are going to JavaOne this year and are a member of the Java desktop community, &nbsp;you should sign up for my <a href="https://docs.google.com/a/jonathangiles.net/forms/d/1heFVrBSxKv4XvP25fbzQ2o724hnxchlqQis_jPLn2dU/viewform">sixth annual Java Desktop Lunch</a>!</li>
+	<li><strong>Tom Eugelink</strong> has posted a follow-up to his JavaFX on mobile explorations where he <a href="https://tbeernot.wordpress.com/2015/09/05/jfxmobile-first-attempt-follow-up/">focuses on performance tuning</a>.</li>
+	<li>Speaking of JavaFX on mobile, <strong>Pedro Duque Vieira</strong> has posted a video of <a href="https://pixelduke.wordpress.com/2015/09/10/javafx-on-mobile-first-impressions/">JavaFX running on his (relatively ancient) Nexus 4 phone</a>.</li>
+	<li>Continuing along with JavaFX mobile developments, the <strong>Gluon</strong> blog has two posts this week. Firstly, the <a href="http://gluonhq.com/gluon-newsletter-1/">first Gluon Newsletter</a> has just been posted. Secondly, Gluon Charm developer preview 3 has <a href="http://gluonhq.com/gluon-charm-developer-preview-3-now-available/">just been released</a>.</li>
+	<li><strong>Dirk Lemmerman</strong> has an <a href="https://dlemmermann.wordpress.com/2015/09/10/javafx-real-world-apps-eurovision-broadcasting-union/">interview with Eurovision Broadcasting Union</a>, a company heavily invested in using JavaFX.</li>
+	<li><strong>Hendrik Ebbers</strong> has posted about&nbsp;<a href="http://www.guigarage.com/2015/09/how-to-create-a-responsive-layout-in-javafx/">how to create a responsive layout in JavaFX</a>.</li>
+	<li><strong>Andres Almiray</strong> is recreating the Twitter Bootstrap look in JavaFX CSS with a new project called <a href="https://github.com/aalmiray/bootstrapfx">BootStrapFX</a>.</li>
+</ul>
+<p>Catch you next week with another round of links :-)</p>
+]]></Content>
+	</post>

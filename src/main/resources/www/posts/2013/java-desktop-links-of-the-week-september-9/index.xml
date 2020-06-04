@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1544</ID>
+		<Slug>java-desktop-links-of-the-week-september-9</Slug>
+		<Title>Java desktop links of the week, September 9</Title>
+		<Date>2013-09-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Not long now until JavaOne! It sounds like a lot of people are working on their presentations and are generally getting very excited. I wish I could be there, but alas, not this year (my wife and I are expecting our first kid in December, so I have to be a good husband)! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Johan Vos</strong> has blogged about the <a href="http://www.lodgon.com/dali/blog/entry/Writeback_support_in_DataFX">addition of writeback support to DataFX</a>. With writeback support it is possible now for DataFX to connect to remote data sources (e.g. database, web services, etc), visualise this data in TableView, etc, and then write edits back to the data source! Excellent progress. <strong>Johan</strong> and <strong>Hendrik Ebbers</strong> will present more detail at JavaOne CON3202, on Wednesday September 25, 08:30 am, Hilton - Plaza B.</li>
+	<li><strong>Stephen Chin</strong> continues to interview people related to JavaFX who are presenting at JavaOne in a few weeks time. This week I see interviews with <a href="http://www.ustream.tv/recorded/38296999"><strong>Johan Vos</strong></a> and <a href="https://www.youtube.com/watch?v=LXRp57B58e8&amp;feature=player_embedded"><strong>Mark Heckler</strong></a>.</li>
+	<li>There is a <strong>Silicon Valley JavaFX Users Group</strong> meetup scheduled for this Wednesday, September 11th titled "<a href="http://www.meetup.com/svjugfx/events/127024272/?a=me2_grp&amp;rv=me2">All the Nodes that are Fit to Print</a>", being presented by <strong>Phil Race</strong> from Oracle. Presumably this talk will be covering the new printing API in JavaFX 8.0 that Phil has developed. As always,&nbsp; the meetup will be broadcast live on the internet for those that can't attend.</li>
+	<li><strong>Jim Laskey</strong> has posted an example of creating a JavaFX application <a href="https://blogs.oracle.com/nashorn/entry/javaone_a_year_makes_a">using JavaScript and Nashorn</a>.</li>
+	<li>Speaking of JavaScript, Nashorn and JavaFX, <strong>Felix Bembrick</strong> has developed another performance test, <a href="http://justmy2bits.com/2013/09/08/javafx-with-nashorn-canvas-example/">comparing HTML5 with JavaFX</a>.</li>
+	<li><strong>Adam Bien</strong> has announced that <a href="http://www.adam-bien.com/roller/abien/entry/afterburner_fx_version_1_0">afterburner.fx 1.0 is now available</a> from Maven Central. afterburner.fx is a simple MVP framework with Dependency Injection for JavaFX.</li>
+	<li><strong>Tom Schindl</strong> has announced he will be speaking in <a href="http://tomsondev.bestsolution.at/2013/09/08/javafx-on-eclipsecon-europe/">two JavaFX-related sesions at EclipseCon Europe</a>.</li>
+	<li><strong>Pedro Duque Vieira</strong> has two posts related to his work developing improvements to the JavaFX charting APIs. In particular, he has created a <a href="http://pixelduke.wordpress.com/2013/09/06/dateaxis-for-javafx/">DateAxis</a> class and an <a href="http://pixelduke.wordpress.com/2013/09/08/xybarchart-for-javafx/">XYBarChart</a> class.</li>
+	<li><strong>Narayan G. Maharjan</strong> has posted about <a href="http://blog.ngopal.com.np/2013/09/07/listcell-animation-listview-javafx/">ListCell animation</a> inside a JavaFX ListView control.</li>
+	<li><strong>Sven Ruppert</strong> has two posts this week. Firstly, a post titled '<a href="http://www.rapidpm.org/2013/09/multilevel-drilldownpiechart-in-less.html">MultiLevel DrillDownPieChart in less then 30min as component for TableViews</a>'. Secondly, he has a post titled '<a href="http://www.rapidpm.org/2013/09/cdi-comboboxcell-how-to-reduce-80-of.html">CDI - ComboBoxCell - How to reduce 80% of code</a>'.</li>
+	<li><strong>Javier Godino</strong> has a video showing a JavaFX application <a href="http://novovia.blogspot.co.nz/2013/09/blog-post.html">capturing webcam input</a>.</li>
+	<li><strong>Jeffrey Guenther</strong> has posted a sample showing <a href="http://blog.jeffreyguenther.com/post/60485712194/im-learning-javafx-to-implement-my-prototype-for">how to use property bindings and event handlers</a> in JavaFX.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>David Gilbert</strong> has two new products available this week. Firstly, <a href="http://www.jfree.org/jfreesvg/">JFreeSVG</a> is a fast, light-weight, vector graphics library for the Java(tm) platform that makes it easy to generate graphical output in SVG format directly from Java code. Secondly, <a href="http://www.object-refinery.com/pdf/">OrsonPDF</a> is a fast, lightweight library for generating PDF content via the Java2D Graphics2D API. OrsonPDF is the perfect partner for <a href="http://www.jfree.org/jfreechart/">JFreeChart</a> and other code that uses Java2D to generate content.</li>
+</ul>
+<p>That's a lot of links! Keep up the great work and I'll catch you all next week :-)</p>
+]]></Content>
+	</post>

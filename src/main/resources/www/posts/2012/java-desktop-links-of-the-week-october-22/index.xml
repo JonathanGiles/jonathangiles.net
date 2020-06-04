@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1339</ID>
+		<Slug>java-desktop-links-of-the-week-october-22</Slug>
+		<Title>Java desktop links of the week, October 22</Title>
+		<Date>2012-10-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Welcome to yet another weeks worth of Java desktop links. I really hope you all enjoy and find something of interest :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JavaFX 2.2.3 is now available for download. Because the last number is odd, this means it is nothing more than a security release - there aren't any bug fixes or new features for you to play with. The <a href="http://docs.oracle.com/javafx/2/release_notes_2-2-3/jfxpub-release_notes_2-2-3.htm">release notes are available</a>, but they mostly just link to the <a href="http://www.oracle.com/technetwork/topics/security/javacpuoct2012-1515924.html">October 2012 Java SE Critical Patch Update Advisory</a>.</li>
+	<li>The <a href="http://fxexperience.com/2012/10/javafx-ensemble-in-the-mac-app-store/">JavaFX Ensemble application has re-appeared in the Mac App Store</a>, where it bundles both Java and JavaFX into a single application. Even <strong>James Gosling</strong> <a href="http://www.nighthacks.com/roller/jag/entry/javafx_ensemble1">thinks it is pretty cool</a>.</li>
+	<li><strong>Jerome Cambon</strong>, a member of the JavaFX Scene Builder team, has blogged about <a href="https://blogs.oracle.com/jeromec/entry/integrating_javafx_scene_builder_in">integrating Scene Builder into Netbeans, Eclipse and IntelliJ</a>.</li>
+	<li><strong>mihosoft</strong> (sorry, I don't have a real name) has been blogging recently about a windowing system they've developed for JavaFX. There are now <a href="http://mihosoft.eu/?p=314">four</a> blog <a href="http://mihosoft.eu/?p=341">posts</a> on the <a href="http://mihosoft.eu/?p=355">topic</a> with a lot of <a href="http://mihosoft.eu/?p=365">pictures and video</a>, and the <a href="https://github.com/miho/VFXWindows">source code is available on github</a>. This would make a great contribution to JFXtras!</li>
+	<li>It appeared in August, but I don't think I've mentioned before that <strong>Scott Hommel</strong> has released documentation on <a href="http://docs.oracle.com/javafx/2/canvas/jfxpub-canvas.htm">working with the JavaFX Canvas node</a> that was included in JavaFX 2.2.</li>
+	<li><strong>Tom Eugelink</strong> has two blog posts this week. Firstly, he has a good post up about his <a href="http://tbeernot.wordpress.com/2012/10/18/writing-google-calendar-in-javafx/">Agenda control</a>, and secondly he has a post up discussing his <a href="https://tbeernot.wordpress.com/2012/10/20/its-not-all-gold-and-sunshine-javafx-layout">thoughts on the JavaFX layout APIs</a>. I am so pleased someone is working on the Agenda control - this is something I've wanted to write in JavaFX for a long time but never had the time to do it. Regarding Tom's layout thoughts - I've left a comment in there that people may be interested in.</li>
+	<li><strong>Danno Ferrin</strong> has blogged about <a href="http://speling.shemnon.com/blog/2012/10/17/javafx-gradle-plugin/">starting a JavaFX Gradle plugin</a>.</li>
+	<li>One of the new features in JavaFX 8.0 is support for rich text rendering. You can <a href="https://wikis.oracle.com/display/OpenJDK/Rich+Text+API+Samples">see some samples</a> on the JavaFX wiki.</li>
+	<li><strong>Angela Caicedo</strong> has posted links to some of <a href="https://blogs.oracle.com/acaicedo/entry/unleash_the_power_of_javafx">her JavaOne session recordings</a>.</li>
+	<li><strong>Jim Weaver</strong> has a blog discussing how he and <strong>Gerrit Grunwald</strong> will be presenting a <a href="http://learnjavafx.typepad.com/weblog/2012/10/q-are-we-not-men-a-we-are-devoxxians.html">three hour university session on JavaFX</a> at Devoxx.</li>
+	<li><strong>Andres Almiray</strong> has been busy working on <a href="http://artifacts.griffon-framework.org/tags/plugin/javafx">Griffon plugins for JavaFX</a>.</li>
+	<li><strong>Laurent Nicolas</strong> has posted that his Radial Menu now supports <a href="http://www.mrlonee.com/?p=399">touch events and is now a part of the JFXtras project</a>.</li>
+</ul>
+<p>Catch you all in a weeks time! :-)</p>
+
+<p>&nbsp;</p>
+]]></Content>
+	</post>

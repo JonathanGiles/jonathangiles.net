@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3154</ID>
+		<Slug>java-desktop-links-of-the-week-september-17-2</Slug>
+		<Title>Java desktop links of the week, September 17</Title>
+		<Date>2018-09-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Apologies for the radio silence recently - travel makes keeping on top of my blogging duties a little bit more difficult. Here's the latest links - enjoy! :-)</p>
+<ul>
+ 	<li><strong>Dirk Lemmermann</strong> has open sourced the <a href="https://github.com/dlemmermann/WorkbenchFX#team">WorkbenchFX library</a>, which was carried out by&nbsp;<strong>Marco Sanfratello</strong> and <strong>François Martin</strong>, students from the&nbsp;FHNW University in Switzerland.</li>
+ 	<li><strong>Dirk</strong> is also encouraging people interested in JavaFX to attend the <a href="https://dlsc.com/2018/08/27/javafx-days-zurich-sessions/">JavaFX Days conference</a> in Zurich in December. More details on the <a href="https://www.javafx-days.com/">JavaFX days website</a>.</li>
+ 	<li><strong>Pedro DV</strong> has two posts related to his fluent design work. Firstly, a post on <a href="https://pixelduke.com/2018/08/27/fluent-design-button-toggle-button-tooltip/">button / toggle button / tooltip styling</a>, and secondly, a post on <a href="https://pixelduke.com/2018/09/09/fluent-design-style-text-field-and-password-field-for-java-javafx/">text field and password field styling</a>.</li>
+</ul>
+]]></Content>
+	</post>

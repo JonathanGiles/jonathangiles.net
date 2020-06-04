@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1587</ID>
+		<Slug>java-desktop-links-of-the-week-october-21</Slug>
+		<Title>Java desktop links of the week, October 21</Title>
+		<Date>2013-10-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week - it seems people are recovering after JavaOne, or getting prepared for all the Java-related conferences that seem to kick off this time of the year in Europe! :-) In any case, enjoy the links from the past week and I'll catch you again next week with more :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The big news this week is that the OpenJFX project announced it is now <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2013-October/010976.html">fully open source</a> (barring source code that cannot be open sourced as it is not owned by Oracle). This announcement came due to the <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2013-October/010950.html">release of the media source code</a>.</li>
+	<li>With the <a href="http://fxexperience.com/2013/10/announcing-controlsfx-8-0-2/">recent release of ControlsFX 8.0.2</a>, I interviewed <strong><a title="Permanent Link to Interview with Eugene Ryzhikov" href="http://fxexperience.com/2013/10/interview-with-eugene-ryzhikov/" rel="bookmark">Eugene Ryzhikov</a></strong> to introduce one of the main guys behind the project and to see where he sees the project going in future releases.</li>
+	<li><strong>Stephen Chin</strong> has announced that he will be <a href="http://nighthacking.com/events/nighthacking-with-gosling-on-the-big-island/">interviewing James Gosling again</a> on Wednesday, October 23rd at 8AM Hawaii Time, which is apparently 11AM PST. As Stephen notes, "during this broadcast we will show some of the footage of his aquatic robots, talk through the technologies he is hacking on daily, and do Q&amp;A with folks on the live chat. "</li>
+	<li><strong>Pedro Duque Vieira</strong> has revisited and improved his <a href="http://pixelduke.wordpress.com/2013/10/20/metro-style-combo-box-for-java-jmetro-revisited/">Metro styling for JavaFX</a>. It's great to see people working on 'native' styles for JavaFX. We now have both a Metro and an <a href="http://www.aquafx-project.com/">Aqua</a> style for JavaFX.</li>
+	<li><strong>Geertjan Wielenga</strong> has posted about <a href="https://blogs.oracle.com/geertjan/entry/improve_office_productivity_with_javafx">CaseLnk Case Management System</a>, which is built using JavaFX and the NetBeans Platform.</li>
+	<li><strong>Andy Till</strong> has published code for his <a href="https://github.com/andytill/floaty-field">floaty-field JavaFX component</a>. You can see an animation at the previous link to better understand what this is all about.</li>
+	<li>The <strong>IDR Solutions</strong> blog has two posts this week. Firstly, <strong>George Perry</strong> posts about his <a href="http://blog.idrsolutions.com/2013/10/my-three-big-takeaways-from-rewriting-java-swing-code-in-javafx/">three big takeaways</a> from rewriting some of their Swing code in JavaFX. Secondly, <strong>Kieran France</strong> has posted about <a href="http://blog.idrsolutions.com/2013/10/experimenting-with-javafx-and-java-8/">his experiments with JavaFX and Java 8</a>, particularly around printing in JavaFX 8.0.</li>
+</ul>
+]]></Content>
+	</post>

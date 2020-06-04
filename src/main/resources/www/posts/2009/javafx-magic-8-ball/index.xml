@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>398</ID>
+		<Slug>javafx-magic-8-ball</Slug>
+		<Title>JavaFX Magic 8 Ball</Title>
+		<Date>2009-06-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>I was working on a Magic 8 ball written in JavaFX just to try a few things out, and people asked for the code, so here it is. It is nothing special, although I did try to comment the relevant code to make it a bit easier to understand. At around 150 lines of code (including whitespace and comments), it is a very small program, and a good example of what is possible with JavaFX.</p>
+
+<p>To shake the magic 8 ball, you do that - you click on it and shake the ball around. Once you let go the message is updated.</p>
+
+<p>Part of the reason I've posted this is so that people can tell me how to improve my code. If I've done some stupid (likely derived from my life as a Java developer), please let me know.</p>
+
+<p>You can (hopefully) run the Java Web Start version of it here: <a href="/posts/2009/jnlp/Magic8.jnlp/"><img src="http://138.91.251.112/jnlp/jws-launch-button.jpg"></a></p>
+
+<p>A screenshot of the program is shown here:</p>
+<p><a href="/posts/2009/jnlp/Magic8.jnlp/"><img src="/content/2009/06/magic8.png" alt="magic8" title="magic8" width="393" height="429" class="alignnone size-full wp-image-401"></a></p>
+
+<p>When the ball is shaken, the text and the triangle fade out, and then the triangle fades in with a new message.</p>
+
+<p>A source code download (along with the background image), is available from <a href="http://JonathanGiles.net/wp-content/uploads/2009/06/Magic8.zip">here</a>. I know I could have coded the ball in JavaFX, but frankly using an image is far easier :-)</p>
+
+<p>Finally, here is the code. Apologies for the need for horizontal scrolling, but it is the best I can do without changing the theme of this site to be wider.</p>
+
+
+<pre class="code_block"><code class="java">package magic8;
+
+import javafx.stage.Stage;
+import javafx.scene.Scene;
+import javafx.scene.text.Text;
+import javafx.scene.text.Font;
+import javafx.scene.image.ImageView;
+import javafx.scene.image.Image;
+import javafx.scene.shape.Polygon;
+import javafx.scene.paint.Color;
+import javafx.scene.paint.Stop;
+import javafx.scene.paint.LinearGradient;
+import javafx.scene.Group;
+
+import javafx.animation.transition.FadeTransition;
+import javafx.scene.input.MouseEvent;
+import javafx.scene.text.TextAlignment;
+
+import javafx.util.Math;
+
+// the message consists of the triangle and the text
+var message: Group;
+
+// the messages to show to the user. We select one randomly each time.
+def messages = [
+    "Ask Again Later",
+    "Better Not Tell You Now",
+    "Concentrate and Ask Again",
+    "Don't Count on It",
+    "It Is Certain",
+    "Most Likely",
+    "My Reply is No",
+    "My Sources Say No",
+    "No",
+    "Outlook Good",
+    "Outlook Not So Good",
+    "Reply Hazy, Try Again",
+    "Signs Point to Yes",
+    "Yes",
+    "Yes, Definitely",
+    "You May Rely On It"
+];
+
+// the animation when the user shakes the ball. It handles randomly selecting
+// the next message
+def fadeMessage: FadeTransition = FadeTransition {
+    duration: 1s
+    node: bind message
+    fromValue: 1.0
+    toValue: 0.0
+    repeatCount: 2
+    autoReverse: true
+    action: function() {
+        // randomly choose one of the messages
+        var pos = (Math.random() * sizeof messages) as Integer;
+        labelText = messages[pos];
+    }
+}
+
+var label: Text;
+def wrappingWidth = 80;
+var labelText = "Shake the Magic 8 ball";
+
+var imageX: Number;
+var imageY: Number;
+
+var isDragged = false;
+
+Stage {
+    title: "Magic 8 Ball"
+    width: 410
+    height: 440
+    scene: Scene {
+        content: [
+            Group {
+                translateX: bind imageX;
+                translateY: bind imageY;
+
+                content: [
+                    // an image of a ball
+                    ImageView {
+                        image: Image {
+                            url: "{__DIR__}magic8ball2.jpg"
+                        }
+                    },
+
+                    message = Group {
+                        content: [
+                            // the triangle inside the magic 8 ball
+                            Polygon {
+                                points : [ 140,170, 260,170, 200,270 ]
+                                fill: LinearGradient {
+                                        startX : 0.0
+                                        startY : 0.0
+                                        endX : 0.0
+                                        endY : 1.0
+                                        stops: [
+                                            Stop {
+                                                color : Color.NAVY
+                                                offset: 0.0
+                                            },
+                                            Stop {
+                                                color : Color.BLACK
+                                                offset: 1.0
+                                            },
+
+                                        ]
+                                    }
+                                stroke: Color.DARKBLUE
+                                strokeWidth: 3
+                            },
+
+                            // the magic 8 ball text
+                            label = Text {
+                                font : Font { size: 10 }
+                                x: 123, y: 190
+                                wrappingWidth: wrappingWidth
+                                fill:Color.LIGHTBLUE
+                                textAlignment: TextAlignment.CENTER;
+
+                                // a bit hacky, but the best way to centre text
+                                // when it is short (i.e. 'yes' or 'no')
+                                translateX: bind wrappingWidth - (label.boundsInLocal.width)/2
+                                content: bind labelText
+                            }
+                        ]
+                    }
+                ]
+
+                onMouseDragged: function(me: MouseEvent) {
+                    imageX = me.dragX;
+                    imageY = me.dragY;
+
+                    isDragged = true;
+                }
+
+                onMouseReleased: function(me: MouseEvent) {
+                    if (isDragged) {
+                        // run the animation, which handles choosing a new msg
+                        fadeMessage.play();
+                        isDragged = false;
+                    }
+                }
+            }
+        ]
+    }
+}
+</code></pre>
+
+]]></Content>
+	</post>

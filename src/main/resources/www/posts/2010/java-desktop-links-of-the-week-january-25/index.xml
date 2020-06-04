@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>723</ID>
+		<Slug>java-desktop-links-of-the-week-january-25</Slug>
+		<Title>Java desktop links of the week, January 25</Title>
+		<Date>2010-01-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Well, I best start this week by mentioning that the Oracle takeover of Sun is edging very near. The EU appears to now be happy with things, and the word is that China's and Russia's competition bodies are now looking it all over. Of most interest for those of us in the Java world will be the 5 hour (!) webcast being given this week by Oracle. Presumably during that time they will cover in more detail their intentions for Java, and hopefully discuss Swing and JavaFX. The presentation is on Wednesday 27th January, 9:00am - 2:00pm Pacific time. You can register for it, and find out more, <a href="http://www.oracle.com/webapps/events/EventsDetail.jsp?p_eventId=108481&amp;src=6806472&amp;src=6806472&amp;Act=22">here</a>.</p>
+
+<p>Now, on with this weeks most relevant news.</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has blogged about <a href="http://www.pushing-pixels.org/?p=1602">custom component states in Substance 6.0</a>, the next release of <a href="https://substance.dev.java.net/">Substance</a> due out in a few months time.</li>
+	<li><strong>Alex Ruiz</strong> has announced that <a href="http://alexruiz.developerblogs.com/?p=824">FEST-Swing 1.2 alpha 4 has been released</a>. This new release includes a good number of bug fixes, new features and  improvements.</li>
+	<li><strong>Dirk Lemmermann</strong> emailed me to make sure to show off his <a href="http://dlemmermann.wordpress.com/2010/01/20/collapp-collaborative-project-planning/">very nicely polished Swing application named Collapp</a>.</li>
+	<li><strong>Damien Ielsch</strong> has posted an alternative approach to showing <a href="http://free-the-pixel.blogspot.com/2010/01/validation-overlays.html">validation overlays in Swing</a>.</li>
+	<li><strong>Chris Dailey</strong> has blogged about a <a href="http://www.jroller.com/mouseman/entry/swing_hidingcontainer">HidingContainer component</a> he created in Swing, such that the container should maintain the same height, even if the contents contained within it reduce. This removes the 'jumping around' that can often be seen in poorly designed user interfaces.</li>
+	<li><strong>Rob Camick</strong> has blogged about <a href="http://tips4java.wordpress.com/2010/01/24/table-row-rendering/">table row rendering</a>, and given code examples of how to achieve this.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>There is an opening in the JavaFX team for a rich-text expert. <a href="/posts/2010want-a-job-at-sun-working-on-javafx/">Check it out if you're interested</a>.</li>
+	<li><strong>Amy Fowler's</strong> talk to the Silicon Valley JavaFX users group is now <a href="http://fxexperience.com/2010/01/amy-fowler-at-silicon-valley-javafx-users-group/">available for you to view online</a>. The audio is a little poor at the start, but it gets better after about 10 minutes.</li>
+	<li><strong>Drew</strong> has continued his research into <a href="http://piliq.com/javafx/?p=1414&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+TheJavaFxJourney+%28The+Java+FX+Journey%29">integrating physics engines into JavaFX</a>.</li>
+	<li>Java Champion <strong>Adam Bien</strong> <a href="http://java.sun.com/developer/technicalArticles/Interviews/community/bien_javafx.html">was interviewed</a> by Sun to discuss his thoughts on JavaFX. Overall it is an interesting discussion.</li>
+	<li>A small section of <strong>Simon Morris'</strong> book 'JavaFX in Action' has been edited and published online. It covers <a href="http://www.developertutorials.com/tutorials/java/javafx-in-action-developing-classes-10-01-19/page1.html">how to develop classes in JavaFX</a>, which I'm sure a number of people will find useful.</li>
+	<li>Another contribution by <strong>Simon Morris</strong> is a 'wipe library', which he has provided an <a href="http://jfxstudio.wordpress.com/2010/01/23/wipe-library-demo/">example application</a> for. I had to include it for the keyboard cat reference. I think programming demos would be better with <a href="http://www.youtube.com/watch?v=J---aiyznGQ">more keyboard cats</a>.</li>
+	<li><strong>Johan Vos</strong> has blogged about a <a href="http://blogs.lodgon.com/johan/JavaFX_chat_application_for_focus_groups">JavaFX chat application</a> designed for use by focus groups.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has blogged about how <a href="http://www.jroller.com/aalmiray/entry/griffon_toolkit_diversity_exmaples">Griffon can be used to create user interfaces using a number of UI Toolkits</a>. In his blog, he uses Griffon to create user interfaces in Swing, Gtk, Pivot and SWT. Griffon also does JavaFX, but this isn't shown in the blog.</li>
+</ul>
+<p>Well, that's all folks. Keep up the hard work and will see you in a weeks time, when things in the Java world (post an Oracle acquisation) might be a little bit clearer!</p>
+]]></Content>
+	</post>

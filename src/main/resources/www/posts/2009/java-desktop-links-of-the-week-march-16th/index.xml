@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>293</ID>
+		<Slug>java-desktop-links-of-the-week-march-16th</Slug>
+		<Title>Java Desktop links of the week, March 16th</Title>
+		<Date>2009-03-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|Programming|Swing Links</Tags>
+		<Content><![CDATA[<p>Given the lack of news related to Swing recently, I think it's getting to the point where I think another rename of this series is in order, this time to JavaFX links of the week ;-) Regardless, on with the news:</p>
+<h3>General GUI News:</h3>
+<ul>
+	<li>The JavaOne 2009 sessions have been allocated and announced. You can <a href="http://java.sun.com/javaone/2009/sessions.jsp">search the sessions here</a> . More information about JavaOne is available on <a href="http://java.sun.com/javaone/index.jsp">Suns JavaOne website</a> . Whoever is sending me my plane and conference tickets is leaving it very late :-)</li>
+	<li><strong>Kirill Grouchnikov</strong> (@<a href="http://twitter.com/kirillcool">kirillcool</a> ) <a href="http://www.pushing-pixels.org/?p=1129">continues with his Trident animation library</a> . This library does not necessarily animate Swing components, hence it being included in general GUI news. In general, Trident is a high-performance timeline framework, allowing for large numbers of interrelated timelines to be created.</li>
+</ul>
+<h3>Swing</h3>
+<ul>
+	<li><strong>Dave Briccetti</strong> (@<a href="http://twitter.com/dcbriccetti">dcbriccetti</a> ) let me know that <a href="http://davebsoft.com/applications/simple-twitter-client">he is working on a simple twitter client</a> . This client is written in Scala, but uses Swing as the GUI library. You can <a href="http://server.davebsoft.com/jws/simple-twitter-client.jnlp">run it using webstart</a> , or <a href="http://davebsoft.com/applications/SimpleTwitterClient.mov/view">watch a video of its use</a> . <span style="text-decoration: line-through;">Beware that the video shows an older version of the version available from the webstart link.</span> <strong>Update:</strong> The video has been updated, and has some interesting stats: 1500 lines of code in 26 Scala files, all available from gitHub.com.</li>
+	<li>Not content with only one Swing news item, <strong>Jean-Francois Poilpret</strong> let me know that the <a href="https://appframework.dev.java.net/servlets/SummarizeList?listName=users">mailing list for the Swing Application Framework has come to life in the last month</a> . If you think you have something to offer, please, join the discussion and contribute, or at least observe the discussion to get a better understanding. I must admit I have not kept up at all with the framework, and so I'm going to follow my own advice and subsribe to the list now.</li>
+	<li><strong>Jacek Furmankiewicz</strong> let me know that <a href="http://java.dzone.com/announcements/swing-javabuilder-03rc1">Swing JavaBuilder 0.3 RC1 has been released</a> . Swing JavaBuilder is an engine to maximize Swing productivity via declarative UIs in YAML.</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li><strong>Surgey Surikov</strong> started a discussion about '<a href="http://java.dzone.com/articles/what-javafx-examples">what JavaFX examples do developers want</a> ', based on feedback given to this question, which was originally asked by Josh Marinacci (@<a href="http://twitter.com/joshmarinacci">joshmarinacci</a> ). Make sure to read the comments for further discussion and analysis of the results.</li>
+	<li>In a post titled '<a href="http://java.dzone.com/articles/what-does-javafx-mean-you">what does JavaFX mean for you</a> ', <strong>James Sugrue</strong> attempts to clarify JavaFX's place in the Java ecosystem. Once again, read the discussion comments at the end.</li>
+	<li>Continuing on with the series, <strong>Michael Heinrichs</strong> has posted <a href="http://blogs.sun.com/michaelheinrichs/entry/best_practices_for_javafx_mobile4">part 5 of his best practices for JavaFX mobile applications</a> . There are three tips included in this post, which are:'define variables with def instead of var. Make them script-private', 'use Integer instead of Number' and 'use functions of class Sequences'.</li>
+	<li><strong>Markus Kohler </strong> (@<a href="http://twitter.com/kohlerm">kohlerm</a> )<strong> </strong> has a <a href="http://kohlerm.blogspot.com/2009/03/javafx-memory-overhead-some-high.html">post about some high numbers related to JavaFX memory usage</a> .</li>
+	<li>
+<p class="has-subhead"><strong>Octavian Tanase</strong> has a <a href="http://blogs.sun.com/octav/entry/javafx_and_ajax">post about JavaFX and JavaScript communication</a> . In a nutshell, JavaFX web applications can now call JavaScript functions &amp; objects in a webpage that embeds a JavaFX app, and vice versa.</p>
+</li>
+	<li>As always, <strong>JFXStudio</strong> (<a href="http://jfxstudio.wordpress.com/">here</a> ) has a number of interesting examples, but the most interesting one for me is <strong>tareitasfx's</strong> post about a <a href="http://jfxstudio.wordpress.com/2009/03/12/a-taskpane/">JavaFX collapsible pane</a> , with a <a href="http://tareitas.webs.com/fx/TaskPane/TaskPane.jnlp">webstart link</a> .</li>
+	<li><strong>Rakesh Menon</strong> <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_sudoku_css_support">posts about a Sudoku game he has developed in JavaFX</a> . Most interesting is his use of CSS to easily skin the game. <a href="http://blogs.sun.com/rakeshmenonp/resource/Sudoku/Sudoku.jnlp">Webstart the game here</a> .</li>
+	<li><strong>Rakesh Menon</strong> also has a <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_blendmode_effect">post about the BlendMode effect in JavaFX</a> . This effect merges two nodes (such as images) in various ways, depending on the effect chosen. <a href="http://blogs.sun.com/rakeshmenonp/resource/BlendMode/BlendMode.jnlp">There is a webstart link as well</a> .</li>
+</ul>
+<h3>Griffon</h3>
+<ul>
+	<li><strong>Andres Almiray</strong> (@<a href="http://twitter.com/aalmiray">aalmiray</a> ) announced that <a href="http://groovy.dzone.com/news/griffon-01-released">Griffon 0.1 has been released</a> . <a href="http://griffon.codehaus.org/">Griffon</a> is a Grails-like framework for developing Desktop and Rich Internet Applications for the Java platform. The 0.1.0 is the second major release of the project and contains many new features.</li>
+	<li>Remember also that the Griffon team is running a Logo contest, find out more at <a href="http://griffon.codehaus.org/Logo+Contest">http://griffon.codehaus.org/Logo+Contest</a> .</li>
+</ul>
+]]></Content>
+	</post>

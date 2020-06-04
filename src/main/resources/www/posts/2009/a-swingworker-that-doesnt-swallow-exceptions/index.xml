@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>341</ID>
+		<Slug>a-swingworker-that-doesnt-swallow-exceptions</Slug>
+		<Title><![CDATA[A SwingWorker that doesn't swallow exceptions]]></Title>
+		<Date>2009-05-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags>java|swing</Tags>
+		<Content><![CDATA[<p>Frustrated by <a href="http://java.sun.com/javase/6/docs/api/javax/swing/SwingWorker.html">SwingWorker</a> frequently swallowing very important exceptions in my code, I decided to finally try to resolve this. In summary, SwingWorker is a class that will run a task off the event dispatch thread, and then, upon completing the task, run a 'done' method on the event dispatch thread. SwingWorker also support intermediate publishing onto the EDT, etc.</p>
+
+<p>The problem is, unless you call get() in the done() method, you won't know that an exception has occurred. In all of my use cases for SwingWorker, I never call get() in done(). Therefore, I was often-times missing exceptions. That is where SimpleSwingWorker comes in. I come across this code somewhere online, and genericised it to be a bit nicer to work with. Other than that, it is a drop-in replacement for the simple SwingWorker use case I tend to have.</p>
+
+
+<pre class="code_block"><code class="java">import java.util.concurrent.ExecutionException;
+
+import javax.swing.SwingWorker;
+
+/**
+ * Wrap the default SwingWorker for simple cases where 
+ * we are NOT returned a result in such a way
+ * that exceptions are not swallowed.
+ */
+public abstract class SimpleSwingWorker {
+
+	private final SwingWorker<void,void> worker = 
+                new SwingWorker<void,void>() {
+		@Override
+		protected Void doInBackground() throws Exception {
+			SimpleSwingWorker.this.doInBackground();
+			return null;
+		}
+
+		@Override
+		protected void done() {
+			// call get to make sure any exceptions 
+			// thrown during doInBackground() are 
+			// thrown again
+			try {
+				get();
+			} catch (final InterruptedException ex) {
+				throw new RuntimeException(ex);
+			} catch (final ExecutionException ex) {
+				throw new RuntimeException(ex.getCause());
+			}
+			SimpleSwingWorker.this.done();
+		}
+	};
+
+	public SimpleSwingWorker() {}
+
+	protected abstract Void doInBackground() throws Exception;
+
+	protected abstract void done();
+
+	public void execute() {
+		worker.execute();
+	}
+}
+</void,void></void,void></code></pre>
+
+
+<p>I hope that this is helpful to other people - it certainly is very useful for me!</p>
+]]></Content>
+	</post>

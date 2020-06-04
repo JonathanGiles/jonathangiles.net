@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1568</ID>
+		<Slug>java-desktop-links-of-the-week-september-23</Slug>
+		<Title>Java desktop links of the week, September 23</Title>
+		<Date>2013-09-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx</Tags>
+		<Content><![CDATA[<p>JavaOne is underway! If you're at the conference, have a great week, attend a bunch of sessions, but more importantly enjoy the hallway track. For those of you not at JavaOne, batten down the hatches if you're on twitter and are trying to get work done this week! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jasper</strong> and <strong>Richard</strong> just presented in the JavaOne technical keynote, where they showed a <a href="http://fxexperience.com/2013/09/dukepad/">custom-made tablet device called the DukePad</a>. It is powered by a Raspberry Pi and featuring a touch screen, camera, HDMI output, GPIO pins, and more. It is powered with Java and has a custom-built JavaFX user interface.</li>
+	<li>The <strong>Java Tutorials blog</strong> <a href="https://blogs.oracle.com/thejavatutorials/entry/javafx_8_developer_preview_documents">notes</a> that JavaFX 8 Developer Preview Documents were published today on <a href="http://docs.oracle.com/javafx">http://docs.oracle.com/javafx</a>. They comprise <a href="http://docs.oracle.com/javafx/8/3d_graphics/jfxpub-3d_graphics.htm">Getting Started with JavaFX 3D Graphics</a>, <a href="http://docs.oracle.com/javafx/8/webview/jfxpub-webview.htm">Adding HTML Content to JavaFX Applications</a>, and <a href="http://docs.oracle.com/javafx/8/embed_swing/jfxpub-embed_swing.htm">Embedding Swing Content in JavaFX Applications</a>.</li>
+	<li><strong>August Lammersdorf</strong> from InteractiveMesh has announced the <a href="http://www.interactivemesh.org/models/jfx3dimporter.html">first release of a COLLADA importer for JavaFX</a> is now available. From the announcement, "the ModelBrowserJFX is correspondingly updated and enhanced with a tree and table based file system browser. It also provides an FXML export of the loaded scene graph."</li>
+	<li><strong>Jeffrey Guenther</strong> has blogged about e<a href="http://blog.jeffreyguenther.com/post/61616273121/exploring-the-possibility-of-graph-layouts-in-javafx">xploring the possibility of Graph Layouts in JavaFX</a>.</li>
+	<li><strong>Robert Ladstätter</strong> has blogged about his continued work with JavaFX and OpenCV on his <a href="http://ladstatt.blogspot.co.nz/2013/09/color-extractor.html">Color Extractor project</a>. It's also cool to see <a href="http://www.controlsfx.org">ControlsFX</a> being used! :-)</li>
+	<li><strong>Rob Terp</strong> has two blog posts this week. The first post is titled "<a href="http://rterp.wordpress.com/2013/09/13/creating-custom-javafx-components-with-scene-builder-and-fxml/">Creating Custom JavaFX Components with Scene Builder and&nbsp;FXML</a>", and the second post is titled "<a href="http://rterp.wordpress.com/2013/09/19/drag-and-drop-with-custom-components-in-javafx/">Drag and Drop With Custom Components in&nbsp;JavaFX</a>".</li>
+	<li><strong>Tom Schindl</strong> has blogged about a <a href="http://tomsondev.bestsolution.at/2013/09/19/memoryleaks-javafx-2-2-tableview-and-friends/">memory leak in JavaFX 2.2</a>, and has a link to the workaround used to avoid it.</li>
+	<li><strong>Chris Newland</strong> has posted about <a href="http://www.chrisnewland.com/jitwatch">JITWatch</a>, a Java HotSpot JIT Inspector written in JavaFX.</li>
+	<li><strong>Janice J. Heiss</strong> has published an <a href="http://www.oracle.com/technetwork/articles/java/vosj1-2015600.html">interview with <strong>Johan Vos</strong></a>, regarding his plans for JavaOne, and his thoughts on topics such as social media, JavaFX and Java EE.</li>
+	<li><strong>Sven Ruppert</strong> has a blog post titled "<a href="http://www.rapidpm.org/2013/09/cdi-callback-tablecell-cellfactory-from.html">CDI Callback&lt;TableColumn, TableCell&gt; cellFactory - from FXML</a>".</li>
+	<li><strong>Patrick Champion</strong> has written about <a href="http://paddyweblog.blogspot.fr/2013/09/lambda-and-javafx-80.html">JavaFX 8.0 and Lambda support</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li>I missed this last week, but <a href="http://jroller.com/aalmiray/entry/happy_birthday_griffon1">Griffon just turned 5 years old</a>, and to celebrate <a href="http://docs.codehaus.org/pages/viewpage.action?pageId=231739628">Griffon 1.4.0 was released</a>.</li>
+</ul>
+<p>Catch you all in a weeks time!</p>
+]]></Content>
+	</post>

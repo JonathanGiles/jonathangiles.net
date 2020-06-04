@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2166</ID>
+		<Slug>java-desktop-links-of-the-week-september-5-2</Slug>
+		<Title>Java desktop links of the week, September 5</Title>
+		<Date>2016-09-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Gerrit Grunwald</strong> has released another little <a href="http://harmoniccode.blogspot.co.nz/2016/09/friday-fun-xxxviii.html">fun Friday component</a>&nbsp;- a&nbsp;button that transforms into a progress indicator - very nice!</li>
+ 	<li><strong>Samir Hadzic</strong> has two posts this week. Firstly, he has a post about '<a href="https://blog.samirhadzic.com/2016/08/30/close-options-for-tabpane/">close options for TabPane</a>', and secondly, a post about the <a href="https://blog.samirhadzic.com/2016/08/31/about-caching-and-optimizing-your-application/">importance of image caching</a> when dealing with lots of images in JavaFX.</li>
+ 	<li>I <a href="http://fxexperience.com/scenic-view/">released Scenic View 9.0.0</a>, which should only be used by people actually running JDK 9 - because it won't work under JDK 8!</li>
+</ul>
+]]></Content>
+	</post>

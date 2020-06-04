@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1729</ID>
+		<Slug>java-desktop-links-of-the-week-may-19</Slug>
+		<Title>Java desktop links of the week, May 19</Title>
+		<Date>2014-05-18</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Another week, and a heap more links! Great work folks, you're up to all kinds of cool things! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The big news this week was the final release of Scene Builder 2.0 was made <a href="http://www.oracle.com/technetwork/java/javase/downloads/sb2download-2177776.html">available for download</a>. <strong>Jasper Potts</strong> posted an <a href="http://fxexperience.com/2014/05/announcing-scenebuilder-2-0/">overview of the new features</a> in Scene Builder 2.0, and <strong>Mo Chicharro</strong> posted a YouTube video showing <a href="https://www.youtube.com/watch?v=ij0HwRAlCmo&amp;feature=youtu.be">how to use it</a>.</li>
+	<li><strong>Jasper</strong> has also posted a small code sample of <a href="http://fxexperience.com/2014/05/resizable-grid-using-canvas/">how to easily create a grid (inside a Canvas) in JavaFX</a>.</li>
+	<li><strong>Eric Bruno</strong> has published an article showing how to make use of some of the new Java 8 features to build new controls in JavaFX. This is the first part in a series, with the first part focusing on creating a <a href="http://www.drdobbs.com/jvm/javafx-8-combining-new-language-features/240168210/">JavaFX-based file system browser</a>.</li>
+	<li>The <strong>DataFX team</strong> has announced the <a href="http://www.guigarage.com/2014/05/datafx-8-0b3-released/">release of DataFX 8.0b3</a>, which includes a huge number of new features and bug fixes.</li>
+	<li><strong>Tom Schindl</strong> continues to work on e4 on JavaFX. This week he has a video showing <a href="http://tomsondev.bestsolution.at/2014/05/12/e4-on-javafx-drag-and-drop-between-stacks-javafx-tabpanes/">draggable tabs within a TabPane</a>, something he is working on (with me) to make available to the OpenJFX project.</li>
+	<li><strong>Tomas Mikula</strong> has a post about <a href="http://tomasmikula.github.io/blog/2014/05/13/how-to-ensure-consistency-of-your-observable-state.html">how to ensure consistency of your observable state</a> using his InhiBeans library. I wish I could use this library in my UI controls work, it would be a huge help! :-)</li>
+	<li><strong>Jens Deters</strong> has announced the <a href="http://www.jensd.de/wordpress/?p=1140">release of MQTT.fx 0.0.2</a>, which includes a number of interface tweaks and new features.</li>
+	<li><strong>Jens</strong> also has a post on <a href="http://www.jensd.de/wordpress/?p=1170">how to create a noisy gradient in JavaFX</a>.</li>
+	<li><strong>Christoph Nahr</strong> has a post about how he has <a href="http://news.kynosarges.org/2014/05/16/star-chess-the-next-generation/">ported his 'Star Chess' game to JavaFX</a>. What is interesting is the extent to which the game is separate from the view technology, going so far as to have separate NetBeans modules for each, and having a console version that outputs the game as ascii text.</li>
+	<li><strong>Rob Terp</strong> has announced the <a href="http://rterp.wordpress.com/2014/05/09/gmapsfx-version-1-0-0/">release of GMapsFX 1.0.0</a>.</li>
+	<li><strong>Eugene Kiss</strong> has announced the <a href="https://github.com/eugenkiss/kotlinfx/releases/tag/v0.1">release of KotlinFX 0.1</a>, a "layer on top of JavaFX 8 in the same vein as ScalaFX and GroovyFX are. The main benefits of KotlinFX over pure Kotlin for JavaFX 8 are UI Builders, Extension Properties for getters and setters, more natural JavaFX Binding Expressions and alternative reactive expressions. Take a look at <a href="https://github.com/eugenkiss/kotlinfx/wiki">the KotlinFX Wiki</a>, especially the page <a href="https://github.com/eugenkiss/kotlinfx/wiki/Why-KotlinFX">“Why KotlinFX”</a>, for more details."</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

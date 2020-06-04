@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>365</ID>
+		<Slug>java-desktop-links-of-the-week-may-25</Slug>
+		<Title>Java desktop links of the week, May 25</Title>
+		<Date>2009-05-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A pretty quiet week this week, as everyone is building up to JavaOne I guess. Regardless, there has been some things worth noting. So, for another week, let's get started on the news that's going on in the Java desktop world.</p>
+<h3>General</h3>
+<ul>
+	<li>I haven't really covered it here at all, but over the last week Sun announced Project Vector, which is essentially an app store for Java / JavaFX applications. It has the potential to be a huge player in the app store market, given the wide availability of Java. <strong>Jonathan Schwartz</strong> has a <a href="http://blogs.sun.com/jonathan/entry/will_java_be_the_world">good overview of what it is that they are doing</a> , and <strong>Mikael Grev</strong> today <a href="http://java.dzone.com/articles/why-java-stor-has-gotten-luke">posted his thoughts on the hurdles ahead for Sun</a> . To be fair, I haven't given the app store concept much attention. I think it could be a hugely beneficial thing for the Java ecosystem, and could truely help to re-invigorate desktop Java. I hope for this reason that it is a huge success. So, my call to everyone who reads this - do your best to seriously consider the Sun app store. Make it clear to Sun that desktop Java is huge, and needs their attention and support.</li>
+</ul>
+<h3>Swing</h3>
+<ul style="text-align: left;">
+	<li>I was emailed this morning about <a href="http://www.feedjii.com/">Feedjii</a> , a very nice RSS reader written in Swing. It was developed by <strong>Pär Sikö</strong> and <strong>Martin Gunnarsson</strong> , with <a href="http://java.dzone.com/articles/what-you-can-do-swing-your">more information available in this post</a> . There is also a <a href="http://www.feedjii.com/beta/launch.jnlp">webstart link</a> . Finally, these two are giving a talk at JavaOne about this application, the talk being "Swing Rocks - A Tribute to Filthy Rich Clients" (TS-5072).</li>
+	<li>As per usual, <strong>Kirill Grouchnikov</strong> has been busy. This week he has <a href="http://www.pushing-pixels.org/?p=1233">published</a> <a href="http://www.pushing-pixels.org/?p=1237">four</a> <a href="http://www.pushing-pixels.org/?p=1240">blog</a> <a href="http://www.pushing-pixels.org/?p=1245">posts</a> on animation, and has just put out new releases of laf-widget, flamingo, and substance, including its many plugins. The announcement for these new releases is due out on his <a href="http://www.pushing-pixels.org/">website</a> in the next day or two, but you can already download the final release from the CVS repositories.</li>
+	<li>Meanwhile, <strong>Kirill</strong> has been <a href="http://kenai.com/projects/trident/pages/Home">updating the documentation surrounding his Trident timing framework</a> .</li>
+	<li>Speaking of the Trident timing framework, <strong>Rémy Rakic</strong> posts an article that details how <a href="http://lqd.hybird.org/journal/?p=129">he added Swing event triggers, making it possible to link run Trident when a UI event occurs</a> .</li>
+	<li><strong>Ken Orr</strong> posts about <a href="http://explodingpixels.wordpress.com/2009/05/18/creating-a-better-jtable/">making a better JTable</a> , particularly when on the Mac, but also on most other platforms. If you ever use JTables in your applications, heed his advice!</li>
+	<li>The <strong>Limewire blog</strong> continues to post interesting articles. This time they post an <a href="http://blog.limewire.org/?p=340">article detailing how they developed a range slider in Swing which supports setting both a lower and upper bound</a> . Similar components exist in Jide etc, but this looks to be an excellent component for people without access to Jide libraries.</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li>Continuing on from last weeks article,                    <span class="byline"> <strong>Haining Henry Zhang</strong> posts the <a href="http://www.insideria.com/2009/05/writing-the-pac-man-game-in-ja-1.html">second part in his series that aims to build Pac-Man in JavaFX</a> .</span></li>
+	<li><strong>Alexandr Scherbatiy</strong> posts about <a href="http://blogs.sun.com/alexsch/entry/matrix_vector_multiplication">performing matrix-vector multiplication using JavaFX</a> .</li>
+	<li><strong>Muhammad Hakim</strong> posts an <a href="http://jfxstudio.wordpress.com/2009/05/18/javafx-pie-menu-with-fish-eye-effect/">article detailing how he made a simple 'pie menu' with fisheye animation effects</a> in JavaFX.</li>
+</ul>
+<h3>Griffon</h3>
+<ul>
+	<li><strong>Andres Almiray</strong> posts that <a href="http://groovy.dzone.com/announcements/griffon-011-has-been-released">Griffon 0.1.1 has been released</a> . Griffon is a Grails like application framework for developing desktop applications in Groovy. In another post, Andres announces that <a href="http://www.jroller.com/aalmiray/entry/assorted_griffon_builder_news">some of the builder projects have been updated to use newer libraries from Jide and the Flamingo project</a> .</li>
+</ul>
+<p>That's it. Have a great week, and for those of you coming to JavaOne, I look forward to catching up. Thanks for all the emails about wanting to catch up - it's going to be a great week!</p>
+]]></Content>
+	</post>

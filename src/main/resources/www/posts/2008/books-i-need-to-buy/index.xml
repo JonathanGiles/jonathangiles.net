@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>149</ID>
+		<Slug>books-i-need-to-buy</Slug>
+		<Title>Books I need to buy</Title>
+		<Date>2008-04-25</Date>
+		<Status>publish</Status>
+		<Categories>Programming|Technology</Categories>
+		<Tags>java|Programming|Technology</Tags>
+		<Content><![CDATA[<p>This post is to (geekily) proclaim my excitement at the <a href="http://smallwig.blogspot.com/2008/04/i-get-to-break-awesome-news.html">news of a second edition</a> of <a href="http://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683/ref=pd_bbs_sr_1?ie=UTF8&amp;s=books&amp;qid=1209113137&amp;sr=8-1">Effective Java</a> being released to publishing. This book is an excellent book for advanced Java developers wanting to learn the little nuances of the language. I would recommend anyone keen to learn more about Java to buy it, I certainly will be buying the 2nd edition. Apparently it is completely rewritten to focus on the features in the latest Java 5 and 6 releases.</p>
+
+<p>The other book on my programming to buy list includes <a href="http://www.amazon.com/Java-TM-Puzzlers-Pitfalls-Corner/dp/032133678X/ref=pd_bbs_3?ie=UTF8&amp;s=books&amp;qid=1209113137&amp;sr=8-3">Java Puzzlers</a>, which is a question and answer style book that really tests your understanding of Java nuances.</p>
+
+<p>The other book, that <a href="http:///?p=132">I've already discussed in this blog</a>, and highly recommend is <a href="http://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/ref=pd_bbs_2?ie=UTF8&amp;s=books&amp;qid=1209113137&amp;sr=8-2">Java Concurrency in Practice</a>. I really found this book a great book to discuss the new concurrency features in Java 5.</p>
+
+<p>The common feature between all these books? <a href="http://en.wikipedia.org/wiki/Joshua_Bloch"><span class="ptBrand">Joshua Bloch</span></a><span class="ptBrand">. I swear I don't buy books because of his name being on them, but I think it can be accepted that any book that does grace his name is worthy of reading if you are a Java developer.</span></p>
+
+<p>Finally, don't worry, those Amazon links aren't there for me to get advertiser revenue (or any commission), so click away without any feeling of being duped. If you know any good Java books, please let me know!</p>
+]]></Content>
+	</post>

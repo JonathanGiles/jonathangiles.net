@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1354</ID>
+		<Slug>java-desktop-links-of-the-week-november-12</Slug>
+		<Title>Java desktop links of the week, November 12</Title>
+		<Date>2012-11-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Since Jonathan is traveling for Devoxx he allowed me to act as a guest editor this week for Java desktop links of the week post. My short introduction is at the bottom of this post. Lately I have been working on one of my personal projects in JavaFX so I am a regular follower of this blog. Everyday I have to head towards <a href="https://forums.oracle.com/forums/forum.jspa?forumID=1385">JavaFx forum</a> or <a href="http://stackoverflow.com/questions/tagged/javafx+javafx-2">stackoverflow</a>for my queries.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Pedro Duque Vieira</strong> has <a href="http://pixelduke.wordpress.com/2012/11/04/metro-style-check-box-for-java-jmetro/">blogged</a> about how to create checkboxes with a metro theme using JMetro.</li>
+	<li><strong>Randahl Fink Isaksen </strong> described the problems he faced due to <a href="http://blog.randahl.dk/2012/11/javafx-and-missing-interfaces.html">unavailibility of interface classes</a> for JavaFx control classes and suggested a potential workaround.</li>
+	<li><strong>NotZed</strong> blogged about <a href="http://a-hackers-craic.blogspot.co.nz/2012/11/quick-and-dirty-image-viewer-eye-of-fx.html">Quick and Dirty image viewer</a> using JavaFx with basics features like pan and zoom and flicking through a set of images.</li>
+	<li>Find out how you can test JavaFX user interface in your application using JemmyFX in <a href="http://jemmy.java.net/JemmyFXGuide/jemmy-guide.html">JemmyFX Getting Started Guide</a></li>
+	<li><strong>Andres Almiray</strong> blogged about <a href="http://www.jroller.com/aalmiray/entry/griffon_i18n_fxml_content_on">how to change language (i18n content) in JavaFx</a> applications on the fly without re-launching it.</li>
+	<li><strong>Leon Atherton</strong> gave a quick overview of the <a href="http://blog.idrsolutions.com/2012/11/javafx-vs-java3d-first-impressions/">differences between Java3D and JavaFX</a>. He mentioned how JavaFx can be used to emulate some of the Java3D features till full 3D support comes in the next versions.</li>
+	<li><strong>rjahn</strong> got inspiration from the JavaOne Technical Keynote and blogged about <a href="http://blog.sibvisions.com/2012/11/07/javafx-and-my-beagleboard-xm/">Beagleboard xm</a>.</li>
+	<li><a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">JavaFX Scene Builder 1.1 Developer Preview</a> is now available for download.</li>
+	<li><strong>Mark Heckler</strong> created <a href="https://blogs.oracle.com/javajungle/entry/monologfx_floss_javafx_dialogs_for">MonologFX</a> which is a flexible JavaFx dialoge component.</li>
+	<li><strong>Tom Schindl</strong> posted about how to <a href="http://tomsondev.bestsolution.at/2012/11/08/javafx-shader-language-jsl-or-writing-an-editor-for-a-language-you-dont-know/">implement an editor using Xtext</a> and JavaFX shader language.</li>
+	<li><strong>Thomas Bolz</strong> posted about his mortgage calculator called <a href="http://www.thomasbolz.de/finanzierungsrechner/en/">Finanzierungsrechner</a> which is created using JavFx.This is exactly what I was looking for last month to analyze my own loan statement :)</li>
+	<li><strong>Pedro Duque Vieira </strong> <a href="http://www.modellus.co/index.php/news/12-modellus-x-0-2-release-candidate-released">announced</a> Modellus X 0.2 Release Candidate released.Modellus is a freely available software package that enables students and teachers (high school and college) to use mathematics to create or explore models interactively.</li>
+	<li>November/December issue of <a href="http://www.oraclejavamagazine-digital.com/javamagazine/20121112">Java Magazine</a> is published and can be downloaded for free.</li>
+	<li><strong>Gerrit Grunwald</strong> showed JavaFx on BeagleBoard-xM during the night hacking tour streaming interview.</li>
+	<li><a href="http://netbeans.org/community/releases/73/index.html">NetBeans IDE 7.3 Beta 2</a> got released.</li>
+</ul>
+<p><a href="http://www.neilghosh.com/">Neil Ghosh</a> works for Oracle Corporation as a project leader in the Technology Initiative team. Neil graduated from University College of Engineering, Burla with Computer Science and Engnieering as major and has over 6 years of experience in ERP, Web services and Web application development. He has contributed to various financial software and mobile projects with his expertise in Oracle, Java, J2EE, jQuery, PHP and MySQL. Neil is also chair of IEEE GOLD affinity group of Hyderabad section. He is also a co-organizer of Java User groups Hyderabad. Apart from programming his interest involves astronomy and cricket and other outdoor activities.</p>
+]]></Content>
+	</post>

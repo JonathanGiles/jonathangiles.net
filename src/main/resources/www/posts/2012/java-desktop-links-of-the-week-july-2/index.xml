@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1267</ID>
+		<Slug>java-desktop-links-of-the-week-july-2</Slug>
+		<Title>Java desktop links of the week, July 2</Title>
+		<Date>2012-07-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx</Tags>
+		<Content><![CDATA[<p>Hi all! Welcome to another weeks worth of links - I hope you find something useful :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Daniel Fuchs</strong> has blogged about <a href="https://blogs.oracle.com/jmxetc/entry/connecting_scenebuilder_edited_fxml_to">connecting SceneBuilder edited FXML to Java code</a>. This is a really good overview for those of you new to FXML and JavaFX.</li>
+	<li><strong>Jim Clarke</strong> and <strong>Gerrit Grunwald</strong> have improved the <a href="http://www.codetown.us/profiles/blogs/javafx-and-steelseries-gauges-using-fxml">SteelSeries gauges in JFXtras Labs to better support FXML</a>. This is a very cool improvement - whenever custom controls are developed, supporting FXML is critical, so it is nice to see 3rd parties doing that now too.</li>
+	<li>Speaking of <strong>Gerrit</strong>, he was <a href="https://blogs.oracle.com/javaspotlight/entry/java_spotlight_episode_88_html">recently interviewed by the Java Spotlight Podcast</a>, where he talks about HTML 5 and JavaFX 2.</li>
+	<li><strong>Sebastian Damm</strong> has blogged about the <a href="http://dammsebastian.blogspot.co.nz/2012/06/javafx-20-layout-panes-gridpane.html">JavaFX 2 GridLayout layout container</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has written&nbsp; an HTML application that he embeds inside a JavaFX WebView, which itself it embedded with NetBeans. Despite this, he discusses how easy it is for these <a href="https://blogs.oracle.com/geertjan/entry/mixing_javafx_html_5_with">different technologies to communicate</a>.</li>
+	<li>Java2S now has a <a href="http://java2s.com/Code/Java/JavaFX/CatalogJavaFX.htm">catalogue of JavaFX hints and tips</a>. Well worth checking out if you're stuck! :-)</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has posted a tutorial covering <a href="http://jaxenter.com/tutorial-griffon-building-desktop-applications-with-groovy-43352.html">how to use Groovy and Griffon to build desktop applications</a>.</li>
+</ul>
+<p>That's that for another week! Catch you in a weeks time :-)</p>
+]]></Content>
+	</post>

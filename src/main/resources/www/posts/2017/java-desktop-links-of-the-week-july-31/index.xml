@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2534</ID>
+		<Slug>java-desktop-links-of-the-week-july-31</Slug>
+		<Title>Java desktop links of the week, July 31</Title>
+		<Date>2017-07-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A relatively quiet week this week:</p>
+<ul>
+ 	<li>I released <a href="http://controlsfx.org">ControlsFX 8.40.13</a>, a major update to ControlsFX with a bunch of improvements and bug fixes. Also, I put out a few interesting stats, most notably that the last release of ControlsFX, 8.40.12, was downloaded over 153,000 times since it was released. That's pretty amazing!</li>
+ 	<li>The <a href="https://github.com/FXDocs/docs">JavaFX Documentation Project</a> continued to receive more submissions and grow in volume. If you have some insightful JavaFX knowledge or a blog post you think should be included, please create a pull request!</li>
+ 	<li><strong>Carl Walker</strong> has posted about <a href="https://courses.bekwam.net/public_tutorials/bkcourse_backgroundapp_kotlin.html">scrolling game backgrounds</a> in Kotlin and JavaFX.</li>
+ 	<li><strong>Peter Rogge</strong> has continued development on his <a href="https://github.com/Naoghuman/lib-database-objectdb">lib-database-objectdb</a> and <a href="https://github.com/Naoghuman/lib-action">lib-action</a> projects this week.</li>
+</ul>
+]]></Content>
+	</post>

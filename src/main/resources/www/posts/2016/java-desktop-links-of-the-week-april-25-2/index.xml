@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2090</ID>
+		<Slug>java-desktop-links-of-the-week-april-25-2</Slug>
+		<Title>Java desktop links of the week, April 25</Title>
+		<Date>2016-04-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>It's a public holiday here in New Zealand today, so I'll be keeping this brief. Nonetheless - enjoy! :-)</p>
+<ul>
+ 	<li>This week <strong>Adam Bien</strong> is presenting at the Silicon Valley JavaFX Users Group about 'MVC, DI with JavaFX with 3 Classes'. If you are local, you can attend in person, but if you aren't, it is also live streamed.</li>
+ 	<li><strong>Dirk Lemmermann</strong> has posted another in his series of JavaFX missing features, <a href="https://dlemmermann.wordpress.com/2016/04/19/javafx-missing-features-survey-css/">this time discussing CSS</a>.</li>
+ 	<li><strong>Jens Deters</strong> has a blog post about '<a href="http://www.jensd.de/wordpress/?p=2381">Button of Choice</a>: Use ToggleButtons as RadioButtons'.</li>
+ 	<li><strong>Edvin Syse</strong> has posted a video titled '<a href="https://www.youtube.com/watch?v=rjc8_HGHy3c&amp;feature=youtu.be">Type safe JavaFX CSS with TornadoFX</a>'.</li>
+</ul>
+]]></Content>
+	</post>

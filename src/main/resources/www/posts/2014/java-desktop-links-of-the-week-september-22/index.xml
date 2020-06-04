@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1809</ID>
+		<Slug>java-desktop-links-of-the-week-september-22</Slug>
+		<Title>Java desktop links of the week, September 22</Title>
+		<Date>2014-09-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>It's one week until JavaOne kicks off - I can't wait to get over there and to catch up with a bunch of you. This week there are a bunch of good links too, so enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>I continue to interview people about their JavaOne plan. In the past week this consisted of <strong><a href="http://fxexperience.com/2014/09/javaone-interviews-hendrik-ebbers/">Hendrik Ebbers</a></strong> and <strong><a href="http://fxexperience.com/2014/09/javaone-interviews-sean-phillips/">Sean Phillips</a></strong>.</li>
+	<li><strong>Hendrik</strong> followed his interview up with a blog post giving <a href="http://www.guigarage.com/2014/09/interview-fx-experience/">more sneak peaks</a> into what he will be presenting next week.</li>
+	<li><strong>Tom Schindl</strong> has posted about 'visualising your DSL': '<a href="http://tomsondev.bestsolution.at/2014/09/17/javaone-2014-visualize-your-dsl-building-3d-lego-models-with-xtext-and-javafx/">building 3d Lego models with Xtext and JavaFX</a>'. He follows this up with another post titled '<a href="http://tomsondev.bestsolution.at/2014/09/20/javaone-2014-having-fun-with-lego-javafx-3d/">Having fun with Lego &amp; JavaFX 3d</a>' - I have to agree, the squeaky door in the last video is pretty cool :-)</li>
+	<li><strong>Jens Deters</strong> has announced the <a href="http://www.jensd.de/wordpress/?p=1556">release of FontAwesomeFX 8.0.10</a>, which includes stacked icons support, as well as FXML support. Very nice! :-)</li>
+	<li>I realised earlier this week that I've never mentioned that I have created (and maintain) a fork of the JavaFX dialogs API that is coming up in JavaFX 8u40. This project is called <a href="https://bitbucket.org/controlsfx/openjfx-dialogs">openjfx-dialogs</a> and is as close to being a 1:1 fork from OpenJFX as possible (the only exceptions are minor). It works in 8u20 and so is available for people wanting to use the official API before it releases in 8u40 to test and give feedback - I occasionally update the fork to bring in the latest code and bug fixes. Also, it is used by <a href="http://www.controlsfx.org">ControlsFX</a> as the underlying implementation of its new dialogs (the old dialogs API was <a href="https://groups.google.com/d/msg/controlsfx-dev/APokeoMFnHE/g8VXJryH3RwJ">recently deprecated</a>).</li>
+	<li><strong>Sébastien Bordes</strong> has announced that <a href="http://blog.jrebirth.org/releases/jrebirth-application-framework-7-7-3-is-released/">JRebirth Application Framework 7.7.3 has been released</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has posted an overview of the newly published book titled '<a href="https://blogs.oracle.com/geertjan/entry/published_javafx_rich_client_programming">JavaFX Rich Client Programming on the NetBeans Platform</a>'. In addition, he has an <a href="http://netbeans.dzone.com/interviews/javafx-rich-client-programming">interview with its two authors</a>, <strong>Paul</strong> and <strong>Gail Anderson</strong>.</li>
+</ul>
+<p>That's all folks. If everything goes to plan, the next post will be done from San Francisco sometime around the start of JavaOne. For those that are attending - safe travels and I look forward to seeing you there. For those that are not, follow along on twitter :-)</p>
+]]></Content>
+	</post>

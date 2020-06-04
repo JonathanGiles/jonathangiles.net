@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2149</ID>
+		<Slug>java-desktop-links-of-the-week-august-8-2</Slug>
+		<Title>Java desktop links of the week, August 8</Title>
+		<Date>2016-08-07</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Otto Garcia</strong> has been working on&nbsp;<a href="http://octaviospain.github.io/Musicott/">Musicott</a>, an application that manages and plays music files, and is written in JavaFX.</li>
+ 	<li><strong>Rob Terpilowski</strong> has a post about&nbsp;<a href="https://rterp.wordpress.com/2016/08/01/mapping-an-address-with-javafx-using-the-gmapsfx-geocoding-api/">mapping an address with JavaFX using the GMapsFX geocoding API</a>.</li>
+ 	<li><strong>Edvin Syse</strong> has been working on <a href="https://github.com/edvin/tornadofx/wiki/OSGi">OSGi support</a> in TornadoFX, his lightweight JavaFX Framework for Kotlin. He has <a href="https://www.youtube.com/watch?v=liOFCH5MMKk&amp;feature=youtu.be">posted a video</a> as well.</li>
+ 	<li><strong>Andreas Billmann</strong> has posted a <a href="http://javafx.ninja/talks/introduction/">presentation on SmartCSV.fx</a>&nbsp;(use your space bar to progress through the 'slides').</li>
+ 	<li><strong>Kamil Baczkowicz</strong> has <a href="https://github.com/kamilfb/mqtt-spy/releases/tag/mqtt-spy_v0.5.3">released mqtt-spy 0.5.3</a>. This release looks to resolve a few UI bugs, it seems.</li>
+</ul>
+]]></Content>
+	</post>

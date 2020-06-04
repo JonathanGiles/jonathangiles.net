@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>123</ID>
+		<Slug>calendaring-and-i</Slug>
+		<Title>Calendaring and I</Title>
+		<Date>2007-10-27</Date>
+		<Status>publish</Status>
+		<Categories>Technology</Categories>
+		<Tags>plugins-research</Tags>
+		<Content><![CDATA[<p>I have recently made a big move into using an online/digital calendar as opposed to the trusty 'calendar on the wall' approach of yore. I am now quite happy with what I have set up, so I thought I would quickly type out my approach in case anyone else was wanting to have a good calendar setup that can follow them anywhere.</p>
+
+<p>I am a bit odd, I like software consolidation. I use Mozilla Thunderbird as my email client and RSS feed reader, and thusly have it open all the time. It proves to be a useful distraction when working. I do not however particularly like running lots of programs, so I did not even look any further than Mozilla Thunderbird for my calendar client.</p>
+
+<p>I also like to share my calendar with those who are interested in what I am doing - but I still hide behind a private calendar so it's an 'ask and ye shall be possibly told' kinda situation, not a free-for-all.</p>
+
+<p>With my hosted accounts with Google Apps (I have two main ones), one of the features they offer is access to google calendar. I signed up for this, and proceeded to add in the calendars of people relevant to me, so that I can keep an eye on their plans. I then proceeded to input my plans, and set google to email me an outline each day.</p>
+
+<p>Like I said, I am a bit odd, and I don't much like web clients for my email/calendar/etc. I much prefer my software to be local and full speed, even if the data is stored in the cloud. This is why <a href="http://www.centruflow.com" target="_blank" rel="noopener noreferrer">Centruflow</a> is designed like this. Therefore, I am not going to keep a web browser open to my email or calendar - that's just stupid in my opinion (which has no logical founding, by the way).</p>
+
+<p>Fortunately, Thunderbird has the power of plugins (which I've long been associated with). Two plugins later (named <a href="http://www.mozilla.org/projects/calendar/lightning/">Thunderbird Lightning</a> and <a href="https://addons.mozilla.org/en-US/thunderbird/addon/4631" target="_blank" rel="noopener noreferrer">Provider</a>) and Thunderbird has access to my google calendars, and I can also input other peoples calendars as I want (provided I have access of course).</p>
+
+<p>Now I have my calendar details prominently displayed in my email app. Another cool feature is that Google mail will intercept my calendar invitation emails and put them straight into my calendar for me.</p>
+
+<p>On another note, I was about to complain that I still do not have IMAP access in the hosted GMail account, but as is always the case, Google decided the bad news and derision that the masses of readers following this blog would create, just enabled it this morning. So, too my masses of readers, call off your assault, for the good people of Google have obliged - let this be a warning to them however! :-P</p>
+]]></Content>
+	</post>

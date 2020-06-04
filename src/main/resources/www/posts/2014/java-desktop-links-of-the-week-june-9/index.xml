@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1741</ID>
+		<Slug>java-desktop-links-of-the-week-june-9</Slug>
+		<Title>Java desktop links of the week, June 9</Title>
+		<Date>2014-06-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx</Tags>
+		<Content><![CDATA[<p>Another week, another round of interesting links. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Eugelink</strong> has a post about <a href="http://tbeernot.wordpress.com/2014/06/07/corner-menu/">CornerMenu</a>, the latest addition to JFXtras (and which looks very polished).</li>
+	<li><strong>Hendrik Ebbers</strong> has posted tutorial four in his series of posts on DataFX. This time <a href="http://www.guigarage.com/2014/06/datafx-tutorial-4/">he is covering the flow API</a>.</li>
+	<li><strong>Carl Dea</strong>, one of the authors on <a href="http://www.amazon.com/JavaFX-Introduction-Example-Carl-Dea-ebook/dp/B00IV79JLU/?&amp;tag=nrki-20">JavaFX 8: Introduction by Example</a>, has an offer for a free ebook copy of the book, in return for a review of the book published on Amazon. If you're interested in getting a copy, and are willing to write a review, then please get in touch with <a href="http://www.twitter.com/carldea">Carl on Twitter</a>.</li>
+	<li><strong>David Grieve</strong> has published an excellent resource for people interested in customising the visuals of the JavaFX TableView control - a <a href="http://dgrieve.blogspot.co.nz/2014/06/javafx-css-selectors-for-tableview.html">list of the CSS selectors that you can use</a>. A very useful resource!</li>
+	<li><strong>Dean Iverson</strong> has announced the <a href="http://pleasingsoftware.blogspot.co.nz/2014/06/groovyfx-040-released.html">release of GroovyFX 0.4.0</a>. This new version includes support for Groovy 2.3.x as well as Java 8 and JavaFX 8.</li>
+	<li><strong>Tomas Mikula</strong> continues to write excellent posts on JavaFX API and his ReactFX project. This week he has a post on <a href="http://tomasmikula.github.io/blog/2014/06/04/timers-in-javafx-and-reactfx.html">timers in JavaFX and ReactFX</a>.</li>
+	<li><strong>Johan Vos</strong> has a post about <a href="http://www.lodgon.com/dali/blog/entry/Using_the_LeapMotion_Controller_in_locationbased_software">using the LeapMotion controller device in location-based software</a>. In particular, how LeapMotion support has been integrated into <a href="https://bitbucket.org/lodgon/openmapfx">OpenMapFX</a>.</li>
+	<li>Mapping is quite a popular topic in JavaFX at the moment - <strong>Rob Terpilowski</strong> has also been working on <a href="http://rterp.github.io/GMapsFX/">GMapFX</a>, and this week has a post on <a href="http://rterp.wordpress.com/2014/06/05/add-google-maps-to-your-netbeans-rcp-application/">how to use JavaFX to add Google Maps to your NetBeans RCP application</a>.</li>
+	<li><strong>Eric Bruno</strong> has posted <a href="http://www.drdobbs.com/jvm/javafx-8-combining-language-features-par/240168354?_mc=sm_drd">part two of his series on JavaFX 8</a>. As he says in the introduction, "in this installment, we'll add the ability to move files around via drag-and-drop (something JavaFX easily implements), and open files for viewing and editing using JavaFX controls."</li>
+	<li><strong>Mark Stephens</strong> from IDR Solutions has posted an announcement that they now ship (commerically) <a href="http://blog.idrsolutions.com/2014/06/announcing-choice-java-pdf-swing-viewer-javafx-pdf-viewer/">both JavaFX- and Swing-based PDF Viewers</a>.</li>
+	<li>The <strong>ReportMill</strong> blog has a post on <a href="http://reportmill.wordpress.com/2014/06/03/make-scrollpane-content-fill-viewport-bounds/">how to make ScrollPane content fill the viewport bounds</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li>Griffon 2.0.0.BETA has been released. As <a href="http://docs.codehaus.org/display/GRIFFON/2014/06/08/Griffon+2.0.0.BETA+Released">noted in the announcement</a>, this release "marks an important milestone in the framework's history as it lets go of the last remaining legacy bits inherit from the Grails codebase (the build system) while embracing the latest tools available in the Groovy Ecosystem."</li>
+</ul>
+<p>That's all for this week - catch you all in a weeks time.</p>
+]]></Content>
+	</post>

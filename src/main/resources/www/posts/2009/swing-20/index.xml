@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>207</ID>
+		<Slug>swing-20</Slug>
+		<Title>Java Swing 2.0</Title>
+		<Date>2009-01-26</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>java|software|swing</Tags>
+		<Content><![CDATA[<p>I believe that there is a need for a proper Swing 2.0 which is not JavaFX-based, but a true, desktop focused, Java (the language)-based framework. My vision is one shared by numerous others, and in a brief discussion (via twitter no-less), a number of us enumerated what we believe a Swing 2.0 needs. The following list is a brief overview of what Swing 2.0 should be:</p>
+<ul>
+	<li><strong>Generics-based</strong>. No more should we put our objects into various Swing data models and components only to receive Object back. It should be possible to create swing data models and components with the data type specified. There is work in this direction already with the <a href="https://swing-generics.dev.java.net/">Swing-generics project</a>, although progress is slow. Swing 2.0 should include this project instead of duplicating work.</li>
+	<li><strong>Support for enumerations </strong>where obvious. There are numerous places where public static final ints could be replaced by enumerations. This leads to a cleaner API.</li>
+	<li><strong>Support for varargs</strong>. Once again, there are places where varargs could be used to clean the API.</li>
+	<li><strong>Improved support for collection frameworks.</strong> That is, we should not still be requiring Vector lists, unless syncrhronization is absolutely necessary.</li>
+	<li><strong>Stricter enforcement of event dispatch thread (EDT) rules</strong>. Swing is slow (or so the saying goes). This is untrue, but is unfortunately the perception. This perception exists because developers don't understand how to deal with the EDT. There exists code out there now that can enforce the rules surrounding the EDT by essentially throwing exceptions when components are handled off of the EDT, and when tasks take too long that should not be run on the EDT. By default, Swing 2.0 would enforce EDT checking, throwing all exceptions discovered. This may make developers unhappy, but the end result is better programs and happier users. It is worth it.</li>
+	<li><strong>Improved support for bean binding and validation</strong>. I won't go so far as to say we need properties, largely because I don't know enough to have an informed opinion, and I know that by saying we need properties Swing 2.0 instantly becomes far less possible without major Java language updates. But, I know that projects such as the <a href="http://jgoodies.com/">JGoodies</a> <a href="http://jgoodies.com/downloads/libraries.html">beans binding and validation</a> tools are very useful, and make creating data-driven user interfaces far easier and rapid. It may make sense to incorporate these kinds of frameworks into Swing 2.0 to enable users to focus on the business logic, and not getting data to and from the user.</li>
+</ul>
+<p>What you may note is missing is any mention of new components, new Look and Feels, etc. That is not my interest - in my opinion Swing 2.0 is a cleanup of the code beneath the existing Swing components. It would be ideal if Swing 2.0 could be API compatible with Swing 1.0, but I would not be adverse to Swing 2.0 becoming a separate Swing library in its own package (i.e. javax.swing2). This would allow for API cleanups, and repurposing of existing API method names.</p>
+
+<p>What&nbsp; do you think? Do we need a Swing 2.0 that has the roughly the above features (make any suggestions you have). Is it too little too late for desktop Java (personally I think not, obviously)? Please, leave any comments or thoughts that you may have - let's get the discussion started.</p>
+]]></Content>
+	</post>

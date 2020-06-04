@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1182</ID>
+		<Slug>java-desktop-links-of-the-week-january-30</Slug>
+		<Title>Java desktop links of the week, January 30</Title>
+		<Date>2012-01-30</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>These intros become harder as the weeks go by. The core message is always the same: Enoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>It's another week, so another <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">developer preview release of JavaFX 2.1 is out</a> for Linux, Mac OS and Windows. This week we are up to build 10.</li>
+	<li>With the availability of JavaFX 2.1 developer preview builds for Linux, a number of people and news websites covered this. For example: <a href="http://www.weiqigao.com/blog/2012/01/26/javafx_2_1_sdk_developer_preview_comes_to_linux.html">Weigi Gao</a>, <a href="http://jaxenter.com/javafx-2-gets-linux-support-40466.html">Jaxenter</a>, and <a href="http://www.h-online.com/open/news/item/JavaFX-makes-it-across-platform-to-Linux-1420944.html">H online</a>.</li>
+	<li><strong>Jasper Potts</strong> has put up two blogs posts over at FX Experience. The first post discusses his work on <a href="http://fxexperience.com/2012/01/extending-pathbuilder/">extending the PathBuilder</a> class to include more convenience methods, and secondly he has a post about <a href="http://fxexperience.com/2012/01/curve-fitting-and-styling-areachart/">extending the charts code shipped with JavaFX to apply curve fitting</a>.</li>
+	<li>Speaking of the builder classes shipped with JavaFX, <strong>Michael Heinrichs</strong>, a member of the JavaFX team, has put up a post about <a href="http://blog.netopyr.com/2012/01/24/advantages-of-javafx-builders/">the advantages of the JavaFX builder APIs</a>.</li>
+	<li><strong>Kevin Farnham</strong> put up a blog post over at Java.net about <a href="http://weblogs.java.net/blog/editor/archive/2012/01/24/getting-started-very-preliminarily-javafx-21-developer-preview-linux">getting started with the JavaFX 2.1 developer preview on Linux</a>.</li>
+	<li><strong>Dustin Marx</strong> talks about the <a href="http://marxsoftware.blogspot.com/2012/01/javafx-21-javafx-2s-defaultproperty.html">@DefaultProperty annotation</a> used in the JavaFX APIs, and what this means for you when building user interfaces with FXML.</li>
+	<li>The GroovyFX library now has <a href="http://groovyfx-project.github.com/">a new website</a>.</li>
+	<li><strong>Thierry Janaudy</strong> has a blog post showing <a href="http://oogifu.blogspot.com/2012/01/memory-pie-chart-in-tableview-with.html">how to put a pie chart inside a TableView</a> using a custom cell factory, whilst programming in Scala.</li>
+	<li><strong>Sébastien Bordes</strong> has a post detailing how to <a href="http://blog.webeo.fr/post/2012/01/29/How-to-build-and-package-JavaFX-2-Application-with-Maven">build and package JavaFX application with Maven</a>.</li>
+	<li><strong>Narayan</strong> has blogged about <a href="http://blog.ngopal.com.np/2012/01/26/fxml-stuffs-include-and-define/">the 'include' and 'define' tags in FXML</a>.</li>
+	<li>Yet another <a href="http://javafxwidgets.blogspot.com/2012/01/simple-calendar-for-javafx-20.html">DatePicker control has appeared</a>, pushing my count to at least five such controls. This week it belongs to <strong>Altu? Uzunali</strong> (apologies for the ? in the name - it seems the webhost doesn't like the proper character).</li>
+	<li><strong>Andrew Krizhanovsky</strong> let me know about his <a href="http://wikokit.blogspot.com/">wikokit project</a>, which he describes as a "Machine-readable Wiktionary with GUI now ported to JavaFX 2.0. This version contains huge drop-down list of available languages."</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>JIDE Software</strong> has put out <a href="http://www.jidesoft.com/history/">version 3.3.4</a> of their libraries.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Marco Vermeulen</strong> has blogged about <a href="http://wiredforcode.com/2012/01/29/using-a-griffon-combobox-with-an-eventlist/">using a Griffon ComboBox with a GlazedLists EventList</a>.</li>
+</ul>
+<p>These conclusions are equally difficult. The core message is always the same: I hope you enjoy what I just linked to, and I hope it was good enough to see you again in a weeks time (where hopefully my introductions and conclusions are slightly more considered!) :-)</p>
+]]></Content>
+	</post>

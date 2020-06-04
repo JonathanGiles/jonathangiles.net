@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2032</ID>
+		<Slug>java-desktop-links-of-the-week-january-25-2</Slug>
+		<Title>Java desktop links of the week, January 25</Title>
+		<Date>2016-01-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Half a&nbsp;day late, but it was a public holiday today, so I was out enjoying the sun! :-) On with the links...</p>
+<ul>
+	<li><strong>Gluon</strong> released <a href="http://gluonhq.com/gluon-scene-builder-8-1-0-now/">Scene Builder 8.1.0</a>, and also published a blog post about the '<a href="http://gluonhq.com/never-ending-popularity-scene-builder/">never-ending popularity</a>' of Scene Builder.</li>
+	<li>Speaking of <strong>Gluon</strong>, <strong>Bennet Shulz</strong> has posted about <a href="http://www.bennet-schulz.com/2016/01/dependency-injection-in-javafx-with-gluon-ignite-and-dagger.html">dependency injection in JavaFX with Gluon Ignite and Dagger</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> continues to iterate rapidly with his <a href="https://github.com/HanSolo/Medusa">Medusa gauge library</a> - he is already up to version 1.8 this week! He has also written a blog post about creating a <a href="http://harmoniccode.blogspot.de/2016/01/building-simple-dashboard-using-medusa.html">dashboard consisting of gauges</a>.</li>
+	<li><strong>David Gilbert</strong> has released a <a href="https://github.com/jfree/fxgraphics2d">new version of FXGraphics2D</a>, a 'A JavaFX library that allows Java2D code (Graphics2D) to be used to draw to a Canvas node.'</li>
+	<li><strong>Edvin Syse</strong> has posted about creating a <a href="https://dzone.com/articles/listmenu-javafx-control">ListMenu control in JavaFX</a>, and has a <a href="https://github.com/edvin/tornadofx">github repo</a> with the code in it.</li>
+	<li><strong>Brian Cole</strong> let me know about his brand new Java Swing video training course&nbsp;being published through O'Reilly titled '<a href="http://shop.oreilly.com/product/0636920043058.do">Learning Swing GUI Programming</a>'.</li>
+</ul>
+]]></Content>
+	</post>

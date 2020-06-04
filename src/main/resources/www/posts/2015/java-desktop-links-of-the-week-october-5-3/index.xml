@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1981</ID>
+		<Slug>java-desktop-links-of-the-week-october-5-3</Slug>
+		<Title>Java desktop links of the week, October 5</Title>
+		<Date>2015-10-04</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>It's only three weeks until JavaOne is in full swing (pun intended) - I hope those of you presenting are getting prepared. Myself? I'm getting there slowly... I can't wait until JavaOne arrives - being a month later this year has set my excitement up a level it seems.</p>
+<ul>
+	<li><strong>Hendrik Ebbers</strong> has blogged a <a href="http://www.guigarage.com/2015/10/dolphin-platform-a-sneak-peek/">sneak peak at the Dolphin Platform</a> - an open source project he is working on which will be shown in more detail at JavaOne.</li>
+	<li><strong>Gluon</strong> did two interesting posts this week. Firstly, they have developed an <a href="http://gluonhq.com/introducing-the-gluon-javaone-conference-app/">alternative JavaOne client for mobile devices</a>. It is very nice looking! Secondly, they have released <a href="http://gluonhq.com/javafx-live-templates-for-intellij-idea/">live templates for JavaFX properties for use in IntelliJ IDEA</a>. Disclaimer: I'm an <a href="http://gluonhq.com/jonathan-giles-joins-the-gluon-advisory-board/">advisor at Gluon</a>.</li>
+	<li><strong>Rob Terp</strong> did essentially exactly the same thing as the IntelliJ live templates for NetBeans - it can now <a href="https://github.com/rterp/JavaFxPropertyHelperNBPlugin">autogenerate methods for JavaFX properties</a>. Very nice!</li>
+	<li><strong>Aron Sreder</strong> has blogged about how to easily <a href="https://blog.codecentric.de/en/2015/09/javafx-how-to-easily-implement-application-preloader-2/">implement a JavaFX application preloader</a>.</li>
+	<li><strong>Kamil Baczkowicz</strong> has <a href="https://github.com/kamilfb/mqtt-spy/releases/tag/mqtt-spy_v0.3.0">released mqtt-spy 0.3.0</a>.</li>
+</ul>
+]]></Content>
+	</post>

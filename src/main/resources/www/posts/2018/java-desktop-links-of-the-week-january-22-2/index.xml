@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2693</ID>
+		<Slug>java-desktop-links-of-the-week-january-22-2</Slug>
+		<Title>Java Desktop links of the week, January 22</Title>
+		<Date>2018-01-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hello everyone! Apologies for the radio silence for so long - I've received many emails from people worried I had disappeared into a black hole :-) It's just been super hectic around here - Christmas, new years, a lot of travel - but now things are settling down and I can get back into the groove of posting these links again.</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> continues to do amazing things with JavaFX charts. He has posts on a "<a href="https://harmoniccode.blogspot.co.nz/2017/12/friday-fun-lv-florence-nightingale.html">Florence Nightingale inspired Coxcomb Chart</a>",&nbsp;<a href="https://harmoniccode.blogspot.co.nz/2018/01/friday-fun-lvi-nested-bar-charts.html">Nested Bar Charts</a>, and <a href="https://harmoniccode.blogspot.co.nz/2018/01/friday-fun-lvii-stream-charts.html">Stream Charts</a>.</li>
+ 	<li>Glazed Lists 1.11.0 has been <a href="http://www.glazedlists.com/releases/glazed-lists-1-11-0">released</a>.</li>
+ 	<li>ScraM has been updated: "Kids and adults alike can make games of all kinds in ScraM.&nbsp;&nbsp;With a drag-and-drop designer (built with JavaFX), ScraM makes coding fun and
+<div>easy.&nbsp;&nbsp;Get it all <a href="http://scram.frequal.com">here</a>, and watch videos <a href="https://www.youtube.com/channel/UCOonteTB8NQmyz5rG2Slxpw">here</a>."</div></li>
+ 	<li><strong>Dmitry Kan</strong> has announced a <a href="http://dmitrykan.blogspot.co.nz/2018/01/new-luke-on-javafx.html?spref=tw">new release of Luke</a>, a "toolbox for analyzing and maintaining your Lucene / Solr / Elasticsearch index on low level."</li>
+</ul>
+]]></Content>
+	</post>

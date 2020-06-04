@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>765</ID>
+		<Slug>java-desktop-links-of-the-week-april-12</Slug>
+		<Title>Java desktop links of the week, April 12</Title>
+		<Date>2010-04-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A huge number of really good links this week in both the Swing and JavaFX worlds. Keep up the good work folks - it's great to see what you're all churning out :-)</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> continues to improve the Flamingo components, this week adding <a href="http://www.pushing-pixels.org/?p=1737">support for vertical scrolling of long popup menus</a>.</li>
+	<li>A seemingly popular effect being used these days is the page-turn effect. I've seen a tonne of tutorials on it, but this week found one that <a href="http://dexels.com/index.php/dexels-blog/81-java-page-peel-effect">uses Java2D, Trident and JXLayer to achieve this effect</a>. There is <a href="http://www.cynergysystems.com/blogs/page/rickbarraza?entry=the_secret_behind_the_page">another excellent tutorial on this effect</a>, but just ignore the RIA technology being used ;-).</li>
+	<li><strong>David Gilbert</strong> let me know about a <a href="http://spin.atomicobject.com/2010/04/07/easy-data-visualization-with-jfreechart">JRuby project making use of his JFreeChat library</a>. I've never used JRuby, but in general it's nice to see that the JVM facilitates the usage of libraries written in different languages to the actual applications language.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>Just a reminder: <strong>Stuart Marks</strong> is <a href="http://www.svjugfx.org/calendar/12863551/?eventId=12863551&amp;action=detail">presenting at the Silicon Valley JavaFX Users Group</a> on April 14 at the Oracle headquarters in Redwood Shores. Remember, you can also <a href="http://steveonjava.com/svjugfx/">watch the presentation live online</a>, time zones permitting :-) For those that don't know Stuart, he is a member of the JavaFX Controls team with me, and he's been at Sun <em>nearly</em> as long as I've been alive (give or take one year) :-)</li>
+	<li><strong>Rakesh Menon</strong> has created a <a href="http://rakeshmenonp.wordpress.com/2010/04/04/javafx-modal-dialog/">modal dialog in JavaFX</a>, and it actually works very nicely (with the constraints present in JavaFX 1.2). Check it out if you need a modal dialog for your application.</li>
+	<li><strong>Stephen Chin</strong> has announced the <a href="http://steveonjava.com/2010/04/05/jfxtras-0-6-final-released/">release of JFXtras 0.6</a>, which is a long time in the making and as such has a heap of new stuff. Check out Stephen's post to find out more details. Somewhat embarrassingly <a href="/posts/2010javafx-menubar-control/">my menu control</a> turns up in there. Apologies in advance to anyone using that set of controls :-) As noted elsewhere, improved menu controls turn up as <span style="text-decoration: underline;">previews</span> in JavaFX 1.3.</li>
+	<li>Speaking of new JavaFX controls, I stumbled upon the <a href="http://www.mindfusion.eu/javafx-pack.html">MindFusion UI Pack for JavaFX</a> this week which is a commercial controls pack for JavaFX. My only comment: be weary as to whether this'll work in JavaFX 1.3 before splashing out some cold hard cash for it.</li>
+	<li><strong>Eric J Bruno</strong> has published an article on Dr Dobbs titled '<a href="http://www.drdobbs.com/java/224202518">JavaFX Database Programming with Java DB</a>'.</li>
+	<li>A new release of the <a href="http://exadel.org/javafxplugin">JavaFX Plugin for Eclipse</a> has been released, taking it up to <a href="http://jira.exadel.org/secure/ReleaseNote.jspa?projectId=10010&amp;version=10011">version 1.2.4</a>.</li>
+</ul>
+<p>As always, <a href="mailto:jonathan@jonathangiles.net">email</a> or <a href="http://twitter.com/jonathangiles">tweet</a> me if you want to suggest a link or chat. That's us for another week - catch you all again next week!</p>
+]]></Content>
+	</post>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>521</ID>
+		<Slug>javafx-particle-o-rama-thoughts</Slug>
+		<Title>JavaFX Particle-o-Rama Thoughts</Title>
+		<Date>2009-07-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p><strong>Update: </strong>I have put up a <a href="/posts/2009/jnlp/particleORama-effect.jnlp/">new version of Particle-o-rama</a> (still using my refactored code), but instead of applying effects to each individual partical, I apply the same effect to the group responsponsible for all particles. This, on my computer, is far more performant than Josh's version, but looks the same (or very similar).<strong> &lt;/Update&gt;</strong></p>
+
+<p>If you're reading this blog, you're probably well aware of <a href="http://jfxstudio.wordpress.com/2009/07/10/particle-o-rama/">Josh Marinacci's Particle-o-rama project</a> that he put out recently. It's a simple particle simulator designed to put JavaFX through it's paces (by throwing lots of independent nodes into the scenegraph). When it came out I was not very impressed by the speed of the animation, so I decided to look into it today. I should note that the video on the page linked to above shows it to be very performant on Josh's Mac, so I'm not entirely sure why the same application doesn't work well on my (equally powerful) Vista machine.</p>
+
+<p>I ended up doing a decent refactoring of the code (which is what I tend to do to understand what is going on), but it turns out that the key issue is the use of JavaFX effects to blur the particles. By simply disabling three lines of code, the performance jumps considerably (on my machine a rough guide is by about 400%). This improvement also includes my other refactorings that would have improved the performance a little, but not anywhere near as much as the result of turning off effects.</p>
+
+<p>You can compare <a href="/posts/2009/jnlp/particleORama.jnlp/">my version</a> to <a href="http://projects.joshy.org/jfxstudio/Particles/PrismParticles.jnlp">Josh's version</a>.</p>
+
+<p>So, in summary, effects in JavaFX are still in some circumstances slow. If you are experiencing slow-downs in your code, try disabling any effects you have enabled and see if that helps.</p>
+
+<p>Even with the improved speed of my version, it maxes out and starts to become laggy after about 400 nodes are visible. This is obviously not good enough, but it sounds like Sun are putting a lot of effort into improving performance in the next few releases of JavaFX. It will be good to keep testing performance in relation to both my version and Josh's version of this particle simulator.</p>
+
+<p>For those of you interested in how I cleaned up / refactored Josh's code, you can <a href="http://JonathanGiles.net/jnlp/particleORama.fx">see my version here</a>. I kept the same general gist of Josh's version, but binned a lot of unnecessary code, merged loops where possible, and extracted comparisons to be performed outside of loops where possible. Josh's original code <a href="http://code.google.com/p/jfxtras/source/browse/jfxtras.samples/trunk/JavaFXTeam/Particles/src/prismparticles/Main.fx">can be seen here</a>.</p>
+]]></Content>
+	</post>

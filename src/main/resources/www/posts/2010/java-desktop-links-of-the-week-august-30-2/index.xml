@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>892</ID>
+		<Slug>java-desktop-links-of-the-week-august-30-2</Slug>
+		<Title>Java Desktop links of the week, August 30</Title>
+		<Date>2010-08-29</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A very quiet week in the land of the Java Desktop, although thanks to the people who emailed me their links. I put this partly down to the JavaOne effect - everyone is off working on their talks and not blogging as much - the same thing happened last year. As always, feel free to email me with any comments or suggestions you may have.</p>
+
+<p>On with the news!</p>
+<h4>Swing</h4>
+<ul>
+ 	<li><strong>Wolfgang Zitzelsberger</strong> has part 3 of the series of posts on TableCellRenderers. This post focuses on <a href="http://www.jyloo.com/news/?pubId=1282737395000">delegate renderer examples</a>.</li>
+ 	<li><strong>Rhiannon Liebowitz</strong> let me know that a new Swing component has been released for sale. It is a <a href="http://www.javaswingcomponents.com/product/calendar">skinnable Calendar/Date Picker control</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+ 	<li>With the release of his new book, <strong>Vladimir Vivien</strong> has also posted a <a href="http://www.javafxcookbook.com/">JavaFX Cookbook website with a number of useful tutorials</a>.</li>
+ 	<li><strong>Mayboroda Dmitiry</strong> has two posts this week. His first post discusses <a href="http://mayboroda.blogspot.com/2010/08/listview-multiple-selection-2.html">improvements</a> to <a href="http://fxexperience.com/2010/07/listview-multiple-selection">my multiple selection hack</a> for ListView. His second post discusses <a href="http://mayboroda.blogspot.com/2010/08/creating-pseudo-class-in-javafx.html">creating pseudo classes in JavaFX</a>, and builds a TabPanel control to demo it (with source code). I'm not sure what it is with TabPanel / TabView controls - we all seem to be building them :-)</li>
+ 	<li><strong>William Antônio</strong> showed off his <a href="http://fxapps.blogspot.com/2010/08/httprequester.html">HttpRequester application</a> which is essentially a GUI frontend for the JavaFX HttpRequest class.</li>
+</ul>
+<p>That's it for another week. Thanks for coming along and I hope something in the links list was helpful to you. Catch you all in a weeks time :-)</p>
+]]></Content>
+	</post>

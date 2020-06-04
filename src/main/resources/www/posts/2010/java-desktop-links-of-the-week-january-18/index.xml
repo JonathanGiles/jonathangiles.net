@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>716</ID>
+		<Slug>java-desktop-links-of-the-week-january-18</Slug>
+		<Title>Java Desktop links of the week, January 18</Title>
+		<Date>2010-01-17</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Well, like I said last week, the gears are very quickly getting moving again after the new years break - there is a tonne of news out this week, and a lot of good indepth posts for you guys to sink your teeth into. Also, it finally seems like my pleas to be notified of interesting Java desktop posts has been heard, as I received a number of emails this week which I've included below. Thanks everyone!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Damien Ielsch</strong>, who only last week started his blog, has posted two new posts this week. Firstly, he talks about <a href="http://free-the-pixel.blogspot.com/2010/01/dynamic-size-cell-list-renderer.html">dynamically sizing list cells by modifying the renderer</a>. Also, partially in response to my comment last week questioning the usefulness of his <a href="http://free-the-pixel.blogspot.com/2010/01/customs-jdialogjframe.html">custom JFrame/JDialog</a>, Damien has <a href="http://free-the-pixel.blogspot.com/2010/01/dialogwithdropshadow-jxlayer-use-case.html">shown how he uses them</a>.</li>
+	<li><strong>Thomas Künneth</strong> has also just started a Swing-related blog. His first post discusses <a href="http://tommis-swing-musings.blogspot.com/2010/01/on-multi-page-views.html">multi-page views</a> and a component he has developed called CommandMenu, and in his second post he shows <a href="http://tommis-swing-musings.blogspot.com/2010/01/how-to-use-commandmenu.html">how to use the CommandMenu API</a>.</li>
+	<li><strong>Werner Randelshofer</strong> has blogged that <a href="http://blog.hslu.ch/rawcoder/2010/01/17/jhotdraw-7-4-released/">JHotDraw 7.4 has just been released</a>. <a href="http://www.randelshofer.ch/oop/jhotdraw/">JHotDraw</a> is a framework for structured drawing editors.</li>
+	<li>Not to be outdone, I posted a very small Swing application that does <a href="/posts/2010inverting-the-colour-of-images/">batch colour inversion of images</a>, which I quickly developed for a family member who had scanned in all their photo negatives, and who had no easy way to fix the colours.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> posted a very simple <a href="http://fxexperience.com/2010/01/splitviews/">SplitView 'control' for JavaFX</a> that you can easily reuse in your JavaFX applications. It's not fully-fledged like it would be once it's developed properly by Sun (so it isn't skinable, etc), but it can be easily modified to meet your specific needs in the short term.</li>
+	<li><strong>JavaFX.com</strong> has let me know that they've put up a number of <a href="http://javafx.com/learn/howto.jsp">new and updated how-to's</a>. This is a great resource for people new to JavaFX.</li>
+	<li>With the second Silicon Valley JavaFX <a href="http://weblogs.java.net/blog/sunahouston/archive/2010/01/17/svjavafxjug-javafx-layout-secrets-amy-fowler-13-jan2010">presentation by Amy Fowler now behind us</a>, we have the third one coming up in only a few weeks: it's <strong>Hinkmond Wong</strong> who will be giving detailed talk on <a href="http://www.svjugfx.org/calendar/12334837/?eventId=12334837&amp;a=cv1c_grp&amp;action=detail&amp;rv=cv1c&amp;rv=cv1c">the state of the art in the mobile landscape</a>. If you are interested in mobile development, this event will give you the answers.</li>
+	<li><strong>Simon Morris</strong> has updated his <a href="http://www.jfxia.com/JFXDemos/Wipe/index.html">JavaFX Wipe Library</a>, which is a collection of transition effects (think Powerpoint slide changing effects - fades, slides, reveals, flip, etc, etc).</li>
+	<li><strong>Drew</strong> has posted a tutorial on how he created a '<a href="http://piliq.com/javafx/?page_id=1384">photo drop</a>' application in JavaFX which makes use of Phys2D. It's not the first time I've seen Phys2D used in JavaFX, with <strong>Richard Bair</strong> and <strong>Jasper Potts</strong> having <a href="http://fxexperience.com/2009/11/dueling-dudes-physics-demos-source-devoxx/">used it</a> in their <a href="http://fxexperience.com/2009/11/gaming-javafx/">Devoxx game</a>, and <strong>Simon Morris</strong> <a href="http://www.jfxia.com/JFXDemos/Physics/index.html">using it for some demos as well</a>.</li>
+	<li><strong>Eric Warriner</strong> has created a mashup using the National Public Radio and Google Maps APIs (and 125 lines of JavaFX code) to <a href="http://www.ericonjava.com/?p=148">translate a given zip code to show all available NPR stations</a>.</li>
+	<li><strong>Mitchell Pronschinske</strong> has a <a href="http://java.dzone.com/articles/will-javafx-composer?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+javalobby%2Ffrontpage+%28Javalobby+%2F+Java+Zone%29&amp;utm_content=Twitter">short interview</a> with <strong>Lukas Hasik</strong> regarding the Netbeans Composer plugin for designing JavaFX user interfaces visually.</li>
+	<li><strong>Max Katz</strong>, on the Exadel blog, has announced that <a href="http://mkblog.exadel.com/tools/exadel-javafx-plug-in-for-eclipse-version-1-2/">version 1.2 of the Exadel JavaFX plugin for Eclipse has been released</a>.</li>
+	<li><strong>Tom Eugelink</strong> has posted a comprehensive post discussing <a href="http://jfxtras.org/portal/blog/-/blogs/using-eclipse-to-develop-jfxtras?_33_redirect=/portal/blog">developing JavaFX code using Eclipse</a>.</li>
+	<li><strong>Rakesh Menon</strong> has posted about <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_printing">printing in JavaFX</a> (through using what is available in AWT).</li>
+	<li><strong>Alexandr Scherbatiy</strong> has posted some code he wrote in JavaFX that <a href="http://blogs.sun.com/alexsch/entry/fractals">generates fractals</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has rounded our his series on animation by posting the <a href="http://www.pushing-pixels.org/?p=1596">big picture</a>, and some <a href="http://www.pushing-pixels.org/?p=1599">footnotes</a>.</li>
+</ul>
+<p>That's the links for the past week. I hope the were edutaining. Catch you all next week, and keep up the great work!</p>
+]]></Content>
+	</post>

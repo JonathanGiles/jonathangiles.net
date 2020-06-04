@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1582</ID>
+		<Slug>java-desktop-links-of-the-week-october-14</Slug>
+		<Title>Java desktop links of the week, October 14</Title>
+		<Date>2013-10-13</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>There is a bunch of great links this week. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Claudine Zillmann</strong> blogged about <a href="http://www.guigarage.com/2013/10/aquafx-dressed-in-elements/">restyling AquaFX in different colours</a>. This really shows the power of CSS in JavaFX.</li>
+	<li><a href="http://fxexperience.com/2013/10/announcing-controlsfx-8-0-2/">ControlsFX 8.0.2 was released this week</a>. This is a major release, including a bunch of new features (including SpreadsheetView, native dialog titlebars, HyperlinkLabel, and more), as well as a heap of bug fixes.</li>
+	<li><strong>Tom Schindl</strong> has a post titled "<a href="http://tomsondev.bestsolution.at/2013/10/09/wheres-efxclipse-0-9-0/">Where’s e(fx)clipse&nbsp;0.9.0?</a>". Read on to understand what is causing a slow-down for the next release of e(fx)clipse.</li>
+	<li><strong>Adam Bien</strong> has posted on <a href="http://www.adam-bien.com/roller/abien/entry/javafx_8_with_convention_over">JavaFX 8 with Convention over Configuration, Dependency Injection, Maven and SceneBuilder</a>.</li>
+	<li><strong>Renato Athaydes</strong> has blogged about <a href="https://sites.google.com/a/athaydes.com/renato-athaydes//posts/twosimpletoolstoletyoutestyourswingjavafxapplicationseasily">two testing tools</a> he is involved in developing that can be used to test JavaFX and Swing applications.</li>
+	<li><strong>Tomas Mikula</strong> has posted code for his <a href="https://github.com/TomasMikula/CodeAreaFX">CodeAreaFX project</a>, which is a "text area for JavaFX that supports assigning style classes for ranges of text. It is intended as a base for code editors with syntax highlighting."</li>
+	<li><strong>Bruno Borges</strong> has posted a video on YouTube <a href="http://www.youtube.com/watch?v=uG4YjRDL8Dg&amp;feature=youtube_gdata">introducing JavaFX on the Raspberry Pi</a>.</li>
+	<li><strong>Christoph Nahr</strong> has blogged his thoughts on the <a href="http://news.kynosarges.org/2013/10/10/javafx-on-ios-android/">feasibility of JavaFX on iOS and Android</a>. There is also an interesting discussion that continues into the comments section.</li>
+	<li><strong>Chris Newland</strong> has posted his <a href="http://www.chrisnewland.com/jitwatch">JITWatch tool</a>, a JavaFX-based tool for understanding the behaviour of the Java HotSpot Just-In-Time (JIT) compiler during the execution of your program.</li>
+	<li style="text-align: left;"><strong>Sven Ruppert</strong> has two posts this week. Firstly, he has a post on <a href="http://www.rapidpm.org/2013/10/today-i-had-to-deal-with-different.html">complex PropertyBindings</a>. Secondly, he has a post on <a href="http://www.rapidpm.org/2013/10/use-kotlin-inside-javafx-with-cdi.html">using Kotlin inside JavaFX with CDI</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li>I came across <a href="https://code.google.com/p/jo-widgets/">jo-widgets</a> this week, which is a project to provide a 'single sourcing GUI API for Java'. In other words, it provides a single API for you to write Java desktop applications, regardless of what the implementation actually is (e.g. SWT, Swing, JavaFX, etc).</li>
+</ul>
+<p>Keep up the really excellent work everyone, and I'll catch you all in a weeks time :-)</p>
+]]></Content>
+	</post>

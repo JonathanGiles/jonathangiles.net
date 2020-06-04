@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1535</ID>
+		<Slug>java-desktop-links-of-the-week-august-26</Slug>
+		<Title>Java desktop links of the week, August 26</Title>
+		<Date>2013-08-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A heap of great links this week, totally ruining my pre-JavaOne quietness theory, but I'm not complaining! :-) Let's get right into it.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Eugelink</strong> has two interesting blog posts this week. Firstly, he has blogged about <a href="http://tbeernot.wordpress.com/2013/08/22/using-css-in-javafx-to-keep-the-api-clean/">how to use CSS as part of the JavaFX API</a> to make styling custom controls easier and more consistent with the built-in JavaFX controls. Secondly, he has a post about <a href="http://tbeernot.wordpress.com/2013/08/25/fxml-builders-detection/">providing custom builders to the JavaFX FXML loader</a>, so that it can handle setting properties on classes where it would otherwise fail (e.g. converting a String to a DateFormat instance).</li>
+	<li><strong>Pedro Duque Vieira</strong> has a post about <a href="http://pixelduke.wordpress.com/2013/08/22/whats-new-in-java-8-part-i-javafx/">what is new in JavaFX 8.0</a>, listing off a lot of the nice features coming up in the next major release of JavaFX.</li>
+	<li>Speaking of new features in JavaFX 8.0, <strong>Jim Weaver</strong> has posted a video of <a href="http://www.dzone.com/links/r/quick_and_dirty_javafx_8_datepicker_example.html">the new DatePicker control</a> coming in JavaFX 8.0. For those of you sticking with JavaFX 2.x for the foreseeable future, it also shows the JFXtras CalendarPicker control.</li>
+	<li><strong>Michael</strong> has a post about <a href="http://mihosoft.eu/?p=884">adding custom icons to the JFXtras Window control</a> (also known as VFXWindows).</li>
+	<li><strong>Robert Ladstätter</strong> has a post about an application he is calling HSV Ranger, which allows for determining HSV values for objects you show to the application via your webcam. It's also nice to see that <a href="http://www.controlsfx.org">ControlsFX</a> is being used in this project.</li>
+	<li>Speaking of ControlsFX, <strong>Eugene Ryzhikov</strong>, one of my partners in crime on that project is now using it in another of his side projects: a JavaFX-based markdown editor called <a href="https://github.com/eugener/markdown-pad-fx">Markdown Pad FX</a>.</li>
+	<li><strong>Christian Schudt</strong> has written about beefing up the animations in JavaFX with <a href="http://myjavafx.blogspot.co.nz/2013/08/beef-up-your-animations-with-easing.html">custom easing functions</a>.</li>
+	<li>Granite Data Services 3.0.0.M3 is out and available for download <a href="http://www.graniteds.org/confluence/display/DOWNLOAD" target="_blank">here</a>. You can <a href="http://granitedataservices.com/blog/2013/08/20/graniteds-3-0-0-m3-is-out/">learn more about GraniteDS 3.0.0.M3</a>, or you can go and <a href="http://granitedataservices.com/blog/2013/08/23/javafx-tutorial-updated/">check out the updated sample app</a>.</li>
+	<li><strong>Daniel Ziltener</strong> has posted about <a href="https://coderwall.com/p/4yjy1a">getting started with JavaFX in Clojure</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> has posted about a BoF at JavaOne called <a href="http://harmoniccode.blogspot.ch/2013/08/raspberry-pi-showdown-at-java-one-2013.html">Raspberry Pi Showdown</a>. This BoF is a little different in that attendees are invited to present on how they are using their Raspberry Pi's, as long as it is JavaFX related.</li>
+	<li><strong>Uwe</strong> has been working on extending the 3D Viewer app to <a href="http://ustesis.wordpress.com/2013/08/23/zombieland/">support FBX files</a>.</li>
+	<li><strong>Felipe Pedroso</strong>, community manager at <strong>Intel</strong> was <a href="http://www.youtube.com/watch?v=jIbVKy0Unv8&amp;feature=youtube_gdata">interviewed at TDC 2013</a> (warning: direct YouTube link) about his work on a pretty neat multitouch image viewer application.</li>
+	<li><strong>Ben Ashby</strong> has posted a tip on making sure you <a href="http://benashby.com/javafx/not-an-application-thread">interact with JavaFX on the correct thread</a>.</li>
+	<li><strong>Jeff Martin</strong> has published a video demo of <strong>ReportMill's</strong> new JavaFX RAD tool, Java Inventor, <a href="http://www.reportmill.com/javi/gallery/AddressBook/">creating an AddressBook app from scratch in minutes</a>.</li>
+	<li><strong>QuantCell Research</strong> have announced their JavaFX-based product is now available for purchase. <a href="http://www.quantcell.com/web/intro.html">As they put it</a>, "QuantCell is a big data spreadsheet and an end-user programming tool. It improves turnaround time and enables SMEs to benefit from big data. It enables non-developers to build complex analysis, models and applications, and it brings the capabilities of major programming languages to the spreadsheet user."</li>
+</ul>
+<p>That's it folks. Catch you next week!</p>
+]]></Content>
+	</post>

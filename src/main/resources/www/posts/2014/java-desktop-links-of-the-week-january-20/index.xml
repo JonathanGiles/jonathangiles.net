@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1641</ID>
+		<Slug>java-desktop-links-of-the-week-january-20</Slug>
+		<Title>Java desktop links of the week, January 20</Title>
+		<Date>2014-01-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all. It's a public holiday where I am in New Zealand today, so I'm going to keep this post brief as my todo list is long. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>This week a <a href="http://www.oracle.com/technetwork/java/javase/7u51-relnotes-2085002.html">new release of Java 7</a> was made available, taking the versions to JDK 7u51 and JavaFX 2.2.51. In conjunction with this there is now <a href="https://blogs.oracle.com/thejavatutorials/entry/jdk_7u51_and_javafx_2">updated documentation</a>.</li>
+	<li>Speaking of new releases, Scene Builder 2.0 b10 is <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">now available for download</a> for your testing.</li>
+	<li><strong>James Denvir</strong> has two blog posts up on his site. The first post covers '<a href="https://www.marshall.edu/genomicjava/2013/12/30/javafx-tableviews-with-contextmenus/">JavaFX TableViews with ContextMenus</a>', and the second post covers '<a href="https://www.marshall.edu/genomicjava/2013/12/30/reusable-row-and-cell-factories-for-tableviews-that-generate-contextmenus/">Reusable Row and Cell Factories for TableViews that generate ContextMenus</a>'. James is a hard working contributor to the <a href="https://community.oracle.com/community/developer/english/java/javafx/javafx_2.0_and_later">JavaFX forum</a>, offering plenty of support to users of JavaFX.</li>
+	<li><strong>Tom Schindl</strong> has posted a screenshot of early progress on <a href="http://tomsondev.bestsolution.at/2014/01/14/this-somehow-looks-familiar-kepler-sr1-on-swtonfx/">getting SWT to render with JavaFX</a>. The screenshot shows Eclipse Kepler SR1 rendering (somewhat) with JavaFX, which is a major milestone!</li>
+	<li><strong>Robert Ladstätter</strong> has posted his '<a href="http://ladstatt.blogspot.co.nz/2014/01/home-made-javafx-scenebuilder.html">home-made JavaFX SceneBuilder</a>', using the Scene Builder source code that was recently open sourced.</li>
+	<li><strong>Björn</strong> has posted about <a href="http://captaincasa.blogspot.co.nz/2014/01/javafx-and-osm-openstreetmap.html">integrating OpenStreetmap with JavaFX</a>.</li>
+	<li><strong>Laurent Nicolas</strong> has a blog post about how he built a custom JavaFX control <a href="http://www.mrlonee.com/?p=514">replicating the Nest thermostat look</a>.</li>
+	<li><strong>Sven Ruppert</strong> has blogged about <a href="http://www.rapidpm.org/2014/01/iot-with-java8-and-tinkerforge-part-1.html">IoT with Java8 and TinkerForge</a> (he also makes use of JavaFX).</li>
+</ul>
+<h4>Swing / Java2D</h4>
+<ul>
+	<li><strong>Dave Gilbert</strong> has two posts about his JFreeChart / Orson Charts libraries. Firstly, he has a post about <a href="http://www.jroller.com/dgilbert/entry/baking_little_features">baking in new little features</a> for the libraries, and secondly a post on the <a href="http://www.jroller.com/dgilbert/entry/on_chart_colors">choosing of default chart colours</a>.</li>
+</ul>
+<p>That's all folks. Catch you next week!</p>
+]]></Content>
+	</post>

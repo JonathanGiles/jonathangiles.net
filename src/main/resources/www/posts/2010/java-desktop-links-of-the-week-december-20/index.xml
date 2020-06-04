@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>975</ID>
+		<Slug>java-desktop-links-of-the-week-december-20</Slug>
+		<Title>Java desktop links of the week, December 20</Title>
+		<Date>2010-12-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|javafx</Tags>
+		<Content><![CDATA[<p>Wow, December 20 already! Time is flying by at the moment! As with the past few weeks, the number of links has fallen a lot, given the holiday season and (from my own experience) everyone is very busy. This week I have four miscellaneous links that I think may be interesting to some folks. Rather than bullet point the links, I'm going to have a few paragraphs to save on needless indentation. Let me know what you think.</p>
+
+<p>So, let's get into it (you don't know how hard it is to write an intro every week that says roughly the same thing!) :-)<strong></strong></p>
+
+<p>Firstly, <strong>Chas Emerick</strong> <a href="http://cemerick.com/2010/12/12/oracle-vp-we-have-a-strategy-to-run-java-inside-a-javascript-environment/">took note of a comment</a> made by <strong>Adam Messinger</strong> (the Vice President of Java Development at Oracle, and through a few layers of management one of my indirect bosses). In a recent <a href="http://blogs.sun.com/javaspotlight/entry/java_spotlight_podcast_7_adam">Java Spotlight podcast</a>, Adam mentioned that there is "this strategy we have around running Java inside of a JavaScript environment. So there the programming language is Java, but the platform is not a JVM platform." Following this blog post there was some speculation in the comments about what exactly this meant. I don't know how much I'm allowed to say (and I have been trying to convince Richard Bair to post something over at <a href="http://www.fxexperience.com">FX Experience</a> about this topic), but this was all demonstrated at Devoxx in mid-November I believe. In the most general terms, I'm fairly certain they demonstrated a web browser 'node' for JavaFX 2.0, as well as the ability to compile JavaFX 2.0 applications down into HTML and Javascript (although I may be mistaken - I don't have a Parleys.com account and haven't actually watched their presentations).</p>
+
+<p><strong>James Sugrue</strong> has <a href="http://java.dzone.com/articles/making-good-thing-even-better">covered the news</a> that Google has announced their <a href="http://googlecode.blogspot.com/2010/12/windowbuilder-becomes-new-open-source.html">latest plan</a> to open source both WindowBuilder and CodePro Profiler</p>
+
+<p><strong>Josh Marinacci</strong> has blogged about <a href="http://leonardosketch.org/2010/12/145/">Amino having support for 3D effects</a>, which are behind the scenes run using OpenGL. Amino is a new UI toolkit he has been working on for the last few months, and is being used to build the <a href="http://leonardosketch.org/">Leonardo Sketch</a> application.</p>
+
+<p>In the same blog post, <strong>Josh</strong> also covers a new application he has built called <a href="http://leonardosketch.org/2010/12/145/">AppBundler</a>. AppBundler "processes a small XML descriptor file into a variety of  executable formats. Give it the name of your app and a list of support  jars, then AppBundler can produce a native Windows app and a native Mac  app, as well as JNLPs and executable jars.  There are plenty of tools  which do parts of this already. What makes AppBundler different is  reliability and ease of use."</p>
+
+<p>Finally, I'm going to very slightly stretch the rules for this next set of links, as it actually relates to Android, but it is a worthwhile read for many folks. It is a four-part series of posts by <strong>Kirill Grouchnikov</strong>, talking about how he, and his colleagues at Google, improved the Android Market client. It is a good read as it shows the level of detail that people need to go to to ensure that their software meets the highest possible quality. You can <a href="http://www.pushing-pixels.org/2010/12/13/meet-the-green-goblin-part-1.html">read</a> the <a href="http://www.pushing-pixels.org/2010/12/14/meet-the-green-goblin-part-2.html">four</a> <a href="http://www.pushing-pixels.org/2010/12/15/meet-the-green-goblin-part-3.html">parts</a> <a href="http://www.pushing-pixels.org/2010/12/16/meet-the-green-goblin-part-4.html">here</a>.</p>
+
+<p>That's us for another week. With Christmas and new years around the corner, I wish you all a very happy and safe festive season. I hope you all get the presents you are hoping for :-) As for this blog, I'll see what news comes up in the next few weeks, but between Christmas, new years, and moving countries in early January, don't be surprised if things are a little quiet around here! As always, I appreciate any links or general emails you want to send my way. You can find my details over to the right.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1963</ID>
+		<Slug>java-desktop-links-of-the-week-september-7-2</Slug>
+		<Title>Java desktop links of the week, September 7</Title>
+		<Date>2015-09-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;">I'm posting this weeks links very quickly as I have a lot to get done this week! Enjoy! :-)</span></p>
+<ul>
+	<li>This week I released updates to <a href="http://fxexperience.com/2015/08/controlsfx-and-javafx-8u60/">ControlsFX</a> and <a href="http://fxexperience.com/2015/09/scenic-view-8-6-0-released/">Scenic View</a> to include support for JavaFX 8u60.</li>
+	<li><strong>Sébastien Bordes</strong> released <a href="http://blog.jrebirth.org/javafx/releases/jrebirth-application-framework-8-0-3-is-released/">JRebirth 8.0.3</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> posted about 'Cool JavaFX UIs in less time? <a href="http://www.guigarage.com/2015/09/cool-javafx-uis-in-less-time-use-projection/">Use projection!</a>'.</li>
+	<li><strong>Rob Terp</strong> has posted about '<a href="https://rterp.wordpress.com/2015/09/01/creating-custom-animated-transitions-with-javafx/">Creating Custom Animated Transitions with JavaFX</a>'.</li>
+	<li><strong>Andres Almiray</strong> has posted about '<a href="http://www.jroller.com/aalmiray/entry/bootstrapfx_the_early_days">BootstrapFX, the early days</a>'.</li>
+	<li><strong>Tom Schindl</strong> has <a href="http://tomsondev.bestsolution.at/2015/09/04/efxclipse-2-1-0-released/">released&nbsp;e(fx)clipse 2.1.0</a>, which includes a number of nice new features.</li>
+	<li><strong>Otto</strong> is working on <a href="http://octaviospain.github.io/Musicott/">Musicott</a>, a "JavaFX application that manages and plays music files."</li>
+	<li><strong>Alberto Gil</strong> has posted about&nbsp;<a href="http://www.agix.pt/#!MaterialFX-Material-Design-CSS-for-JavaFX/c21kt/55e71d8b0cf23d0feff96e16">MaterialFX</a>, another material design CSS project for JavaFX. Looks good!</li>
+	<li><strong>José Robson Mariano Alves</strong> has created&nbsp;<a href="https://github.com/badernageral/bgfinancas">bgfinancas</a>, an "open source software to control your financial life."</li>
+</ul>
+<p>Catch you again next week.</p>
+]]></Content>
+	</post>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2217</ID>
+		<Slug>java-desktop-links-of-the-week-december-19-2</Slug>
+		<Title>Java desktop links of the week, December 19</Title>
+		<Date>2016-12-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>I've spent the last two weeks crammed inside a steel tube doing a full trip around the world bringing JavaFX joy to developers everywhere :-) Because of this, I missed out on posting the links for the last few weeks, and equally bad, I became so busy during that time I couldn't keep track of things that happened. Therefore, I apologise in advance if I missed your news from the last few weeks. Please <a href="mailto:jonathan@jonathangiles.net">email me</a> to let me know, and I will include it next week.</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> continues to refine his world map control with <a href="http://harmoniccode.blogspot.co.nz/2016/11/worldmap-cosmetics.html">more functionality.</a>&nbsp;He has also made a nice looking <a href="http://harmoniccode.blogspot.co.nz/2016/12/friday-fun-xlii.html">progress indicator</a>, and a <a href="http://harmoniccode.blogspot.co.nz/2016/12/medusa-sparkline-skin.html">Medusa Sparkline skin</a>.</li>
+ 	<li><strong>Christoph Nahr</strong> has released <a href="http://news.kynosarges.org/2016/12/02/class-diagrammer-2-1-0-released/">class diagrammer 2.1.0</a>.</li>
+ 	<li><strong>Gluon</strong> released <a href="http://gluonhq.com/scene-builder-8-3-0-now/">Scene Builder 8.3.0</a>, with a number of nice enhancements related to mobile support.</li>
+ 	<li><strong>Jyloo Software</strong> released&nbsp;<a href="http://www.jyloo.com/news/?pubId=1481543707000">SyntheticaFX version 0.8.2</a>. This release includes an extended TableView control, as well as an&nbsp;OptionControlBox control. Looks very nice.</li>
+ 	<li><strong>Tom Eugelink</strong> has blogged about his <a href="https://tbeernot.wordpress.com/2016/12/11/responsivepane/">ResponsivePane work for JavaFX</a>.</li>
+ 	<li><strong>Adam Carroll</strong> has <a href="https://vocabhunter.github.io/2016/12/11/VocabHunter-v1.0.19-Released.html">released&nbsp;VocabHunter v1.0.19</a>.</li>
+ 	<li><strong>Markus Falkhausen</strong> has released <a href="http://www.falkhausen.de/JavaFX/index.html">more JavaFX class diagrams.</a></li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2520</ID>
+		<Slug>java-desktop-links-of-the-week-july-3</Slug>
+		<Title>Java desktop links of the week, July 3</Title>
+		<Date>2017-07-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>I know I say this every few weeks - but &lt;insert month here&gt; already?! Time flies when you're busy coding!</p>
+<ul>
+ 	<li><strong>Peter-Josef Meisch</strong> has released&nbsp;<a href="https://www.sothawo.com/2017/06/mapjfx-1-13-1-using-openlayers-4-2-0/">mapjfx 1.13.1</a>. mapjfx provides a JavaFX8 region containing a map, allowing to zoom, pan, and use markers. It uses&nbsp;<a href="http://openlayers.org/">OpenLayers</a>&nbsp;as the map technology.</li>
+ 	<li><strong>Gerrit Grunwald</strong> continues to improve his <a href="https://github.com/HanSolo/tilesfx">TilesFX dashboard widgets</a> library.</li>
+ 	<li><strong>Thomas Nield</strong> has released <a href="https://github.com/ReactiveX/RxJavaFX/releases/tag/2.1.1">RxJavaFX 2.1.1</a>, which is a minor release with one new feature.</li>
+ 	<li><strong>Jens Deters</strong> has <a href="http://www.jensd.de/wordpress/?p=2635">released MQTT.fx 1.5.0</a>, which includes new features and bug fixes. MQTT.fx is now 'donation ware' too - so if you make use of this app, be sure to buy Jens a coffee (or more!) :-)</li>
+ 	<li><strong>Dirk Lemmermann</strong> has posted about <a href="http://dlsc.com/2017/06/30/invalid-javafx-scroll-event-deltas/">invalid JavaFX scroll event deltas</a>.</li>
+ 	<li><strong>Roger Lacroix</strong> has announced the release of <a href="http://www.capitalware.com/rl_blog/?p=4343">MQTT Message Viewer 1.1.0</a>, as well as a <a href="http://www.capitalware.com/rl_blog/?p=4348">free license</a> for the first 150 people that email him.</li>
+</ul>
+]]></Content>
+	</post>

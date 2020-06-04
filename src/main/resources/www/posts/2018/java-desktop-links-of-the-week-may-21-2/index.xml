@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3042</ID>
+		<Slug>java-desktop-links-of-the-week-may-21-2</Slug>
+		<Title>Java desktop links of the week, May 21</Title>
+		<Date>2018-05-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Hi all. Sorry for the radio silence - I've been travelling for the last two weeks and it is hard to find the time to put into blogging. Here's a recap of the links I found over the past few weeks - and apologies in advance to those of you whose posts I have missed. Please <a href="mailto:jonathan@jonathangiles.net">email me</a> and I will be sure to include it next week.</p>
+<ul>
+ 	<li><strong>Gluon</strong> released <a href="http://gluonhq.com/gluon-mobile-5-0-0/">Gluon Mobile 5.0.0</a>, the framework for building JavaFX-based applications that can be deployed across iOS and Android devices.</li>
+ 	<li><strong>Gluon</strong> also announced <a href="http://gluonhq.com/commercial-support-for-javafx/">first-class commercial support for JavaFX</a>.</li>
+ 	<li>Relatedly,&nbsp;<strong>Johan Vos</strong> posted an article on the <strong>Oracle Developers</strong> site about <a href="https://developer.oracle.com/java/deep-learning-on-clients">deep learning on (mobile) clients</a>, where he discusses using mobile devices, along with Gluon technology, to enable artificial intelligence without excessive network overheads (by running the intelligence on the device).</li>
+ 	<li><strong>Sebastian Suchanowski</strong> has posted about building a <a href="http://synappse.co/blog/vertical-stateful-jfxtabpane-with-icons-in-javafx/">custom vertical tab bar using JFXTabPane</a>.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has been playing around with <a href="https://harmoniccode.blogspot.co.nz/2018/05/monday-fun-component.html">recreating the iOS look in JavaFX</a> - and it looks nice :-)</li>
+ 	<li><strong>Markus Falkhausen</strong> has posted <a href="http://www.falkhausen.de/JavaFX-10/index.html">class diagrams for JavaFX 10</a>.</li>
+</ul>
+]]></Content>
+	</post>

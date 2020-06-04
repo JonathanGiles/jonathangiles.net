@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>796</ID>
+		<Slug>java-desktop-links-of-the-week-may-2</Slug>
+		<Title>Java Desktop links of the week, May 2</Title>
+		<Date>2010-05-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>It's nearly the end of my time in California - I head back to New Zealand tomorrow evening - but before that I need to post a new Java desktop links of the week. This week there were a tonne of posts, and so this post is very long. I had to keep my comments to a minimum as otherwise the post would have been even longer. Let's get into it!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has created a new<em> </em>JScrollablePanel as part of the Flamingo project which is a <a href="http://www.pushing-pixels.org/?p=1793">reusable component for scrolling panels whose content extends past the visible area</a>. This might be useful to you in your application.</li>
+	<li><strong>Gerrit Grunwald</strong> has created an <a href="http://www.jug-muenster.de/fxg-to-java2d-converter-555/">FXG to Java2D converter</a>. Check it out if you want an easy way to get your vector graphics into a Java application.</li>
+	<li><strong>Alex Ruiz</strong> has announced the <a href="http://alexruiz.developerblogs.com/?p=1149">release of FEST-Swing 1.2rc</a>. This is the last release before 1.2 final. If no regressions are found,  1.2rc will be promoted to 1.2 final within a month.</li>
+	<li><strong>Mikael Grev</strong> has released <a href="http://www.miglayout.com/mavensite/changes-report.html">two updates to MiGLayout in the past few days</a>.</li>
+	<li><strong>Nick</strong> has blogged about using <a href="http://devandwhateverelse.blogspot.com/2010/04/scala-swing-combobox.html">Scala Swing to build user interfaces</a>.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li>Following on from his first <a href="http://pleasingsoftware.blogspot.com/2010/04/brief-introduction-to-styling-controls.html">JavaFX 1.3 CSS post last week</a>, <strong>Dean Iverson</strong> has continued with two further posts discussing what's new in JavaFX 1.3 CSS support. They are highly recommended reading. The first post covers the <a href="http://pleasingsoftware.blogspot.com/2010/04/advanced-javafx-control-styling.html">topic in detail</a>, and the second asks <a href="http://pleasingsoftware.blogspot.com/2010/04/so-whats-it-all-good-for.html">what this is all good for</a>?</li>
+	<li>Futher to these posts by Dean, the JavaFX documentation team has also posted about <a href="http://javafx.com/docs/articles/UIControls/theming.jsp">how to style with CSS</a>.</li>
+	<li>The <strong>FX Experience</strong> blog has two new posts detailing the improvements to ListView in 1.3, in particular the introduction of cells. The first post discusses the <a href="http://fxexperience.com/2010/04/dynamic-cell-sizes/">support for dynamically variable row sizes</a>, and the second post dives into <a href="http://fxexperience.com/2010/04/new-to-javafx-1-3-cells/">how to create cellFactories</a>.</li>
+	<li><strong>Alex Ruiz</strong> has announced that he has <a href="http://alexruiz.developerblogs.com/?p=1163">made progress in testing JavaFX application user interfaces</a>. This allows for work to continue with the FEST-JavaFX project designed to make testing JavaFX applications easier.</li>
+	<li>TimeShot is a very interesting JavaFX application I came across this week. It can create some <a href="http://timeshot.inevo.pt/">interesting effects with photos</a>, which you can see, and try for yourself, at the TimeShot website.</li>
+	<li><strong>Johannes Schneider</strong> has done a tonne of posts recently, so I can only cover the blog titles here. '<a href="http://blog.cedarsoft.com/2010/04/javafx-custom-controls-in-1-3/">JavaFX: Custom controls in 1.3</a>', '<a href="http://blog.cedarsoft.com/2010/04/javafx-1-3-template-for-custom-controls">JavaFX 1.3: Template for custom controls</a>', '<a href="http://blog.cedarsoft.com/2010/04/javafx-light-bulb-with-improved-ui-performance-slider/">JavaFX Light Bulb with improved UI performance</a>', '<a href="http://blog.cedarsoft.com/2010/04/javafx-bug-in-timeline/">JavaFX: Bug in Timeline(?!)</a>', '<a href="http://blog.cedarsoft.com/2010/04/javafx-transparency-and-linux/">JavaFX: Transparency and Linux</a>', '<a href="http://blog.cedarsoft.com/2010/04/new-javafx-default-font-amble-condensed/">New JavaFX default font (Amble Condensed) looks ugly!</a>', '<a href="http://blog.cedarsoft.com/2010/05/javafx-making-a-customnode-resizable/">JavaFX: Making a CustomNode resizable</a>', '<a href="http://blog.cedarsoft.com/2010/05/javafx-template-for-resizable-customnode">JavaFX: Template for resizable CustomNode</a>', '<a href="http://blog.cedarsoft.com/2010/05/javafx-how-to-extend-customnode-properly">JavaFX: How to extend CustomNode properly</a>', and '<a href="http://blog.cedarsoft.com/2010/05/javafx-bug-or-feature-panel-doesnt-layout-if-placed-in-class/">JavaFX Bug or Feature? Panel doesn’t layout if placed in class</a>'</li>
+	<li><strong>Daniel Ziltener</strong> has blogged about the <a href="http://my.opera.com/zilti/blog/javafx-binding-on-invalidate-and-on-replace">'on invalidate' statement</a> that has largely slipped by in the JavaFX 1.3 release.</li>
+	<li><strong>Rakesh Menon</strong> has updated his code to <a href="http://rakeshmenonp.wordpress.com/2010/04/26/javafx-1-3-save-as-image/">save a scenegraph to an image to work with 1.3</a>.</li>
+	<li><strong>Peter Pilgrim</strong> has blogged about the <a href="http://www.jroller.com/peter_pilgrim/entry/3d_capabilities_in_javafx_1">3D capabilities introduced in JavaFX 1.3</a>.</li>
+	<li><strong>Joeri Sykora</strong> has blogged about <a href="http://tiainen.sertik.net/2010/04/isometric-tile-rendering-in-javafx.html">isometric tile rendering in JavaFX 1.3</a> for a game he is working on.</li>
+	<li><strong>Patrick Champion</strong> has <a href="http://paddyweblog.blogspot.com/2010/04/duke-anim-in-javafx-13.html">updated his Duke animation in JavaFX 1.3</a> to make use of what is new in 1.3.</li>
+</ul>
+<p>Wow, that's a heap&nbsp; of posts. Hope there was something there for everyone. As always, feel free to <a href="mailto:jonathan@jonathangiles.net">email me</a>, or <a href="http://www.twitter.com/JonathanGiles">chat with me on twitter</a>, if you have anything you want included or to just generally discuss. Have a great week everyone :-)</p>
+]]></Content>
+	</post>

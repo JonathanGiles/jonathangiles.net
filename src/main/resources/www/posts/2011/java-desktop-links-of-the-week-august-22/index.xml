@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1098</ID>
+		<Slug>java-desktop-links-of-the-week-august-22</Slug>
+		<Title>Java desktop links of the week, August 22</Title>
+		<Date>2011-08-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>A heap of interesting links this week, so I hope there is something of interest in the links below for you! As always, feel free to email me your links if you think they are worth sharing to everyone else. Let's get into things!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The JavaFX 2.0 beta builds keep on rolling off the production line. This week we have <a href="http://www.oracle.com/technetwork/java/javafx/downloads/index.html">build 40 ready to be tested</a>. From my point of view, the most exciting thing about this release is the performance improvements we're starting to get into releases. Our specialised performance team are finding memory leaks and CPU hogs, and the engineers are doing their best to get things as performant as possible. In particular, b40 includes a heap of performance improvements to CSS and controls performance. Of course, there are plenty of bug fixes, and the general polishing that is expected of a relatively late-stage beta release. As always, my plea remains: please get it onto your machine and give it a good thrashing. <a href="http://javafx-jira.kenai.com">Bug reports and complaints are highly appreciated</a>!</li>
+	<li><strong>Dean Iverson</strong> has been busy posting two screencasts about building GroovyFX applications on to his blog. The first screencast is about <a href="http://pleasingsoftware.blogspot.com/2011/08/writing-javafx-applications-with.html">how to get started with Griffon, GroovyFX, and JavaFX</a>. The <a href="http://pleasingsoftware.blogspot.com/2011/08/javafx-on-griffon-events-and-binding.html">second screencast</a> is concluding the basic introduction, introducing features such as binding, automatically generating properties, and keeping your JavaFX user interfaces as succinct as possible using the power of Groovy.</li>
+	<li>Over at <strong>FX Experience</strong> we posted an updated '<a href="http://fxexperience.com/2011/07/introducing-fxml/">Introducing FXML</a>' document. This should hopefully answer some of the questions you have.</li>
+	<li>If the technical documentation over at <strong>FX Experience</strong> isn't enough, there is also a '<a href="http://download.oracle.com/javafx/2.0/fxml_get_started/jfxpub-fxml_get_started.htm">Getting started with FXML</a>' article on the Oracle JavaFX website. This article works through the process of building a simple, example application and gives a good overview of how to work with FXML.</li>
+	<li>And if that documentation isn't enough, the <strong>JavaFX documentation team</strong> at Oracle have just posted a blog about <a href="http://blogs.oracle.com/thejavatutorials/entry/what_s_new_in_the">all the new and updated documentation that recently got pushed online</a>. They're doing an excellent job making sure there is a lot of high-quality documentation about JavaFX 2.0, and my hats are off to them, knowing how much the engineers have increased their workload by changing APIs over the last few months.</li>
+	<li><strong>Tom Schindl</strong> has <a href="http://tomsondev.bestsolution.at/2011/08/15/exclipse-0-0-3-released/">released e(fx)clipse 0.0.3</a>, which includes CSS validation improvements for customising the look of your applications.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jean-Francois Poilpret</strong> has <a href="http://designgridlayout.java.net/">released DesignGridLayout 1.8</a>, a Swing layout manager.</li>
+	<li><strong>Ivan Porty</strong> has started a <a href="http://www.ipsoftware.ru/blog/?cat=1">new blog to post about Swing topics</a>. Currently there are three posts, two about Swing tables, and one about SwingWorker.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> announced the <a href="http://www.dzone.com/links/r/griffon_093_released.html">release of Griffon 0.9.3</a>, and has also produced a post detailing the <a href="http://www.jroller.com/aalmiray/entry/griffon_0_9_3_new">new and noteworthy changes in this release</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has <a href="http://leonardosketch.org/2011/08/189/">released a new build</a> of his Leonardo and Amino projects. As he notes, "This is mainly to improve fidelity when exporting graphics to Amino JS. Every shape and fill type is supported now, as are shadows if you cache the node."</li>
+</ul>
+<p>Have a great week everyone :-)</p>
+]]></Content>
+	</post>

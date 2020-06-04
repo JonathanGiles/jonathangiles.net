@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1465</ID>
+		<Slug>java-desktop-links-of-the-week-may-20</Slug>
+		<Title>Java desktop links of the week, May 20</Title>
+		<Date>2013-05-19</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Welcome to another weeks worth of links. I should note that I'm back in New Zealand after a week in the US, and I was a little distracted last week, so some links may have slipped through the cracks. Sorry if I miss anybodies hard work! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>Probably the biggest news of the past week was that <strong>Niklas Therning</strong> has managed to get <a href="http://blog.robovm.org/2013/05/javafx-openjfx-on-ios-using-robovm.html">JavaFX running on iOS devices</a> by combining OpenJFX with Apache Harmony and RoboVM.</li>
+	<li><strong>Tom Schindl</strong> has made available <a href="http://tomsondev.bestsolution.at/2013/05/15/using-eclipse-for-development-on-openjfx8-and-java8-in-general/">builds of Eclipse that work with Java 8</a>, which is really useful for anyone developing JavaFX now that it has switched to depending on some Java 8 features and API. I intend to switch back to Eclipse ASAP.</li>
+	<li><strong>Gerrit Grunwald</strong> has once again updated his <a href="http://harmoniccode.blogspot.co.nz/2013/04/validate-it.html">validation UI feedback API</a>, improving it to not draw validation feedback for invisible fields.</li>
+	<li>Speaking of <strong>Gerrit</strong>, he has also posted a new (JavaFX 2.x) <a href="http://harmoniccode.blogspot.ch/2013/05/monday-fun-component.html">toggle button control</a>.</li>
+	<li><strong>Danno Ferrin</strong> has released <a href="http://speling.shemnon.com/blog/2013/05/18/javafx-gradle-plugin-0-dot-3-0-released/">version 0.3.0 of the JavaFX Gradle Plugin</a>. As he says in the post, "new in this release is the ability to specify a particular JVM to package with your native bundles and the ability to customize platform-specific build options. Some configuration options and conventions also moved around to support these two features, most notably the plugin no longer automatically self-signs the code."</li>
+	<li><strong>Hendrik Ebbers</strong> has posted part two of his series on '<a href="http://www.guigarage.com/2013/05/designing-javafx-business-applications-part-2/">designing JavaFX business applications</a>'. This post discusses the limitations of FXML, and makes a proposal on how to improve this.</li>
+	<li><strong>Sean Phillips</strong> has been working on a '<a href="http://netbeans.dzone.com/articles/javafx-accordion-slide-out">JavaFX Accordion slide-out menu for the NetBeans Platform</a>'.</li>
+	<li>The <strong>Canoo blog</strong> has a post on <a href="http://www.canoo.com/blog/2013/05/17/afterburnerdolphin-effective-enterprise-javafx-development/">AfterburnerDolphin</a>, which is (rather obviously) a combination of the <a href="http://afterburner.adam-bien.com/">AfterBurner.fx</a> project by <strong>Adam Bien</strong> and the <a href="http://open-dolphin.org">OpenDolphin</a> project by <strong>Canoo</strong>.</li>
+	<li>Granite Data Services 3.0.0.M2 is out and available for download <a href="http://www.graniteds.org/confluence/display/DOWNLOAD">here</a>, and you can <a href="http://granitedataservices.com/blog/2013/05/17/graniteds-3-0-0-m2-is-out">read the announcement</a> on their website.</li>
+	<li><strong>Robert Ladstätter</strong> has posted on <a href="http://ladstatt.blogspot.co.nz/2013/05/2d-image-filters-with-opencv.html">2D Image Filters with OpenCV and JavaFX</a>.</li>
+	<li><strong>Asko K</strong> has put up a small code snippet to <a href="http://openduck.blogspot.fi/2013/05/testing-3d-capabilities-of-javafx-8.html">test out JavaFX 3D features</a> (in his case specifically on Mac OS X).</li>
+</ul>
+<p>That's all this week. Catch you again next week!</p>
+]]></Content>
+	</post>

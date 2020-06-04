@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2011</ID>
+		<Slug>java-desktop-links-of-the-week-december-7-2</Slug>
+		<Title>Java desktop links of the week, December 7</Title>
+		<Date>2015-12-06</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p><span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;">A bunch of great links this week. Enjoy :-)</span></p>
+<ul>
+	<li><strong>Dirk Lemmermann</strong> has two posts this week. Firstly, a post titled '<a href="https://dlemmermann.wordpress.com/2015/11/30/javafx-is-here-to-stay/">JavaFX is Here to Stay!</a>', and secondly a post titled '<a href="https://dlemmermann.wordpress.com/2015/12/01/cool-javafx-in-the-browser/">Cool: JavaFX in the Browser!</a>'. I think both titles are relatively self-explanatory :-)</li>
+	<li><strong>Jens Deters</strong> has announced the <a href="http://www.jensd.de/wordpress/?p=2215">release of FontAwesomeFX 8.7</a>.</li>
+	<li>Speaking of <strong>Jens</strong>, he has also announced the <a href="http://www.jensd.de/wordpress/?p=2221">release of MQTT.fx 1.0.0</a>.</li>
+	<li><strong>Alexander Casall</strong> has posted an interview with <strong>Benjamin Gudehus</strong>&nbsp;about the&nbsp;<a href="http://blog.so-geht-software.de/2015/12/textfx-current-state-and-future/">current state and future of TestFX</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> has posted a <a href="http://www.guigarage.com/2015/12/dolphin-platform-jumpstart/">Dolphin Platform jump start</a> blog post, to help get people up to speed on using Dolphin Platform in their own projects.</li>
+	<li>Speaking of <strong>Hendrik</strong>, he has two smaller posts. Firstly, on <a href="http://www.guigarage.com/2015/11/round-images-with-javafx/">creating round images with JavaFX</a>, and secondly, <a href="http://www.guigarage.com/2015/11/styling-a-javafx-scrollbar/">styling a JavaFX Scrollbar</a>.</li>
+	<li><strong>Rob Terp</strong> continues to improve his NetBeans Plugin to improve support for <a href="https://rterp.wordpress.com/2015/12/03/new-netbeans-plugin-to-generate-getter-setter-methods-for-javafx-properties/">automatic generation of getter / setter / property methods for JavaFX properties</a>.</li>
+	<li><a href="https://github.com/asciidocfx/AsciidocFX">AsciidocFX 1.4.3 has just been released</a> - this is a very nice app if you are writing AsciiDoc documentation.</li>
+	<li>If you are interested in learning JavaFX, I just stumbled upon this <a href="https://www.udemy.com/from-0-to-1-javafx-and-swing/?couponCode=SALAH_DEC">training course</a> that is (apparently) free right now (down from $49). I have not taken it so I can't speak to its quality.</li>
+</ul>
+]]></Content>
+	</post>

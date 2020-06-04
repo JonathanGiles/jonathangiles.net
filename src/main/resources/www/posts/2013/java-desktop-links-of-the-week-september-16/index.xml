@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1550</ID>
+		<Slug>java-desktop-links-of-the-week-september-16</Slug>
+		<Title>Java desktop links of the week, September 16</Title>
+		<Date>2013-09-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A heap of links this week, with a lot of talk about JavaOne that starts next week. It sounds like it is going to be a great conference, and I wish I could be there (but as noted previously there is a pretty <a href="/posts/2013on-why-im-not-going-to-javaone/">valid reason why I won't be</a>). Anywho, enjoy the links, and for those going to JavaOne enjoy it - I'll be following via Twitter and the blogosphere :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>Java 7u40 was released this week, and along with that came a new release of JavaFX and Scene Builder. The JavaFX version was updated to 2.2.40, and Scene Builder was updated to 1.1. You can download Java / JavaFX and Scene Builder from the <a href="http://www.oracle.com/technetwork/java/javafx/downloads/index.html">Oracle download site</a>. The release notes for <a href="http://www.oracle.com/technetwork/java/javase/7u40-relnotes-2004172.html">Java 7u40</a> and <a href="http://docs.oracle.com/javafx/scenebuilder/1/release_notes_1-1/jsbpub-release_notes_1-1.htm">Scene Builder 1.1</a> are also available for your perusal.</li>
+	<li>The <strong>Java Tutorials blog</strong> has a post titled "<a href="https://blogs.oracle.com/thejavatutorials/entry/javafx_2_2_40_documentation">JavaFX 2.2.40 Documentation Introduces the New Deployment Features</a>".</li>
+	<li>There is a video available on the GR8Conf Europe 2013 website of <strong>Dierk König</strong> presenting about <a href="http://gr8conf.eu/Presentations/Enterprise-Desktop-apps-with-G">enterprise desktop apps with GroovyFX and OpenDolphin</a>.</li>
+	<li><strong>Adam Bien</strong> has been interviewed regarding his <a href="https://blogs.oracle.com/java/entry/java_champion_rock_star_adam">plans for JavaOne and his thoughts on JavaFX</a>, etc.</li>
+	<li><strong>Christian Schudt</strong> has blogged about his <a href="http://myjavafx.blogspot.co.nz/2013/09/javafx-charts-display-date-values-on.html">DateAxis axis for the JavaFX charting library</a>.</li>
+	<li><a href="http://fxexperience.com/2013/09/announcing-controlsfx-8-0-2-developer-preview-2/">ControlsFX 8.0.2 developer preview 2 was released this week</a>, with a large list of improvements and bug fixes, including improved SpreadsheetView, improved Actions API, and icon font support.</li>
+	<li><strong>Hendrik Ebbers</strong> has blogged about the <a href="http://www.guigarage.com/2013/09/datafx-controller-api/">new DataFX Controller API</a> (which will be talked about more at JavaOne next week).</li>
+	<li><strong>Carl Dea</strong> has blogged about a BOF he is involved in at JavaOne next week called "<a href="http://carlfx.wordpress.com/2013/09/09/javaone-2013-bof2605-javafx-widgets-and-apps-oh-my-launching-frameworks-for-platforms-large-and-small/">JavaFX, Widgets, and Apps, Oh My! Launching Frameworks for Platforms Large and&nbsp;Small</a>". If you are interested in this topic, this BOF is BOF2605 at JavaOne.</li>
+	<li><strong>Michael</strong> has blogged about his tutorial at JavaOne called "<a href="http://mihosoft.eu/?p=915">Creating Amazing Scientific Visualization Tools with JavaFX 8</a>". This is TUT6705 at JavaOne.</li>
+	<li><strong>Felix Bembrick</strong> has posted a <a href="http://justmy2bits.com/2013/09/12/javafx-image-pixelator-using-lambdas/">JavaFX-based image pixelator</a> (using lambdas).</li>
+	<li><strong>Andreas Billmann</strong> has two blog posts this week, where he details his GeoFroggerFX project (a geocaching application written in JavaFX). Firstly, he blogs about a video he has created showing GeoFroggerFX <a href="http://www.billmann.de/2013/09/09/video-of-geofroggerfx-handling-11-334-caches/">loading 11,334 caches with ease</a>, and secondly he announces the <a href="http://www.billmann.de/2013/09/11/second-preview-of-geofroggerfx-the-javafx-application/">second preview release of GeoFroggerFX</a>.</li>
+	<li><strong>Andres Almiray</strong> has posted a Griffon plugin called <a href="http://artifacts.griffon-framework.org/plugin/dialogs-javafx/description">dialogs-javafx</a>, which has the goal to provide a set of reusable dialogs for JavaFX based applications.</li>
+	<li><strong>Pedro Duque Vieira</strong> has posted part two of his series on <a href="http://pixelduke.wordpress.com/2013/09/14/whats-new-in-java-8-part-ii-what-might-come/">what's new in Java 8</a>. This post covers what might come in future releases, based on upcoming JavaOne talks.</li>
+	<li><strong>Sven Ruppert</strong> has three posts this week, titled '<a href="http://www.rapidpm.org/2013/09/fulltext-searchbox-for-tableview-part-i.html">FullText - SearchBox for TableView Part I</a>', '<a href="http://www.rapidpm.org/2013/09/where-to-find-cdi-commons-and-javafx.html">Where to find the cdi-commons and javafx modules?</a>', and '<a href="http://www.rapidpm.org/2013/09/11-lines-of-code-for-optimal-col-size.html">11 lines of code for optimal col size (TableView)</a>'.</li>
+</ul>
+<h4>Swing / Java2D</h4>
+<ul>
+	<li><strong>Dave Gilbert</strong> has <a href="http://www.jroller.com/dgilbert/entry/coming_in_jfreechart_1_0">released JFreeChart 1.0.16</a>, which includes bug fixes and new features, and also can make use of new projects (<a href="http://www.jfree.org/jfreesvg/">JFreeSVG</a> and <a href="http://www.object-refinery.com/pdf/">OrsonPDF</a>). You can read more about how JFreeChart uses these libraries in a <a href="http://www.jroller.com/dgilbert/entry/jfreechart_1_0_16_jfreesvg">separate blog post</a>.</li>
+	<li><strong>Gamal Mateo</strong> let me know about <a href="http://www.ataskbucket.com/">ATaskBucket</a>, which is a "Java Swing application that include JavaFX charts and other libraries such as: solr, tika to full text search; rome for rss reader and so on."</li>
+</ul>
+<p>That's a heap of links! :-) Keep up the great work, and again, to everyone attending JavaOne: enjoy, and be sure to tweet every detail :-)</p>
+]]></Content>
+	</post>

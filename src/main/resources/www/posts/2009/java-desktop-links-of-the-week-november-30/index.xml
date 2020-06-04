@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>649</ID>
+		<Slug>java-desktop-links-of-the-week-november-30</Slug>
+		<Title>Java desktop links of the week, November 30</Title>
+		<Date>2009-11-29</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome to another week of Java desktop links of the week. This week we get to see <span style="text-decoration: line-through;">a bunch of</span> two enterprise Swing applications built atop NetBeans RCP (which <span style="text-decoration: line-through;">all</span> both, in my humble opinion, need a bit of a GUI spit, polish and shine). We also (finally!) see generics being integrated into Swing in the OpenJDK. JavaFX is also gaining momentum, with the GUI Builder tool being shown off, and preview releases of JFXtras and Xenon Data Grid being the highlights.</p>
+<h3>Swing</h3>
+<ul>
+	<li>Finally, <strong>Florian Brunner</strong> has seen his <a href="http://puces-blog.blogspot.com/2009/11/news-swing-generics-openjdk-jlist-patch.html">first patch accepted into the OpenJDK</a>. For those unaware, Florian is working on swing-generics, trying to add generics to Swing. This is essentially the start of what I once considered Swing 2.0. His first patch is to add generics to JList. Here's hoping he continues to see more patches integrated, and hopefully without too many hurdles in the Swing-dev mailing list.</li>
+	<li><strong>Ken Orr</strong> posted an <a href="http://explodingpixels.wordpress.com/2009/11/23/sea-glass-artwork-update/">update on the Sea Glass look and feel</a> that he and <strong>Kathryn Huxtable</strong> are working on.</li>
+	<li><strong>Jeremy</strong> has posted a very interesting Java applet that demonstrates some code he has made available for <a href="http://javagraphics.blogspot.com/2009/11/gradients-halftone-gradient.html">creating halftone gradients</a>. The effect is a nice change from normal gradients, but as with all visual effects, use with care :-)</li>
+	<li><strong>Geertjan Wielenga</strong> has an interview with <strong>Craig Marshall</strong>, who is involved in a <a href="http://netbeans.dzone.com/news/experian-netbeans-platform">NetBeans RCP project based around Enterprise Financial Management</a>.</li>
+	<li>If Enterprise Financial Management isn't your scene, perhaps Satellite Environment Software is. If so, <strong>Frane Milos</strong> has posted about <a href="http://netbeans.dzone.com/news/satellite-environment-software">software written in Swing and built atop the NetBeans RCP</a>.</li>
+	<li><a href="http://karussell.wordpress.com/2009/11/24/timefinder-v4-released-automatic-educational-scheduling/">TimeFinder v4</a> has been released. The TimeFinder software is written in Swing and allows universities and schools to reduce and even avoid conflicts in the timetable.</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li>This week on FXExperience.com <strong>Richard Bair</strong> blogged about '<a href="http://fxexperience.com/2009/11/language-lesson-no-1-object-creation/">language lessons 1: object creation</a>', and '<a href="http://fxexperience.com/2009/11/writing-a-java-based-task/">writing a Java-based game</a>', and <strong>Jasper Potts</strong> posted a number of <a href="http://fxexperience.com/2009/11/text-effects/">sample text effects that he created in JavaFX</a>.</li>
+	<li>Coming up in a future release of NetBeans is a JavaFX GUI builder (it'll be available as a preview release in 6.8). This differs from the authoring tool also being developed by Sun, as the JavaFX GUI builder is intended more for developers, rather than the designers who would find more use in the authoring tool. Unfortunately, right now it doesn't have a name - <a href="http://blogs.sun.com/lukas/entry/how_to_name_the_new">can you help</a>? For some inspiration, screenshots can be seen <a href="http://blogs.sun.com/lukas/entry/creating_ui_in_javafx_with">here</a> and <a href="http://blogs.sun.com/lukas/entry/scaled_components_are_uneditable">here</a>.</li>
+	<li><strong>Stephen Chin</strong> has announced a <a href="http://steveonjava.com/2009/11/25/jfxtras-0-6-preview-available/">JFXtras 0.6 preview release has been made available</a>, with a full release coming up as soon as any kinks are worked out. JFXtras 0.6 sees a number of new features, controls, and of course bug fixes. It is a great filler library should the functionality not exist in the core JavaFX release.</li>
+	<li><strong>Chris Wright</strong> and <strong>Jim Weaver</strong> put up a new article in their "What's new in JavaFX 1.2 technology" series, this time covering <a href="http://java.sun.com/developer/technicalArticles/javafx/v1_2_rsscharts/">RSS, storage and charts</a>.</li>
+	<li><strong>Stephen Chin</strong> put up his<a href="http://steveonjava.com/2009/11/24/devoxx-conference-session-slides/"> Devoxx conference session slides</a> for you to enjoy.</li>
+	<li><strong>Rakesh Menon</strong> expanded on his Combo Box control that he developed a few months ago by <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_combobox_mobile">making it work on mobile devices as well</a>.</li>
+	<li><strong>Johan Vos</strong> has posted part two in his series of '<a href="http://blogs.lodgon.com/johan/JavaFX_and_OSGi_part_2">JavaFX and OSGi</a>', where he introduces the <a href="http://code.google.com/p/osgifx">OSGiFX framework</a>.</li>
+	<li><strong>Lawrence Premkumar</strong> has written a sample application showing <a href="http://blogs.sun.com/lawpremkumar/entry/rotating_letter_in_javafx">spinning text</a>.</li>
+	<li><strong>Peter Pilgrim</strong> has posted <a href="http://www.jroller.com/peter_pilgrim/entry/xenondatagrid_m4_0_nelson_framework">milestone 4 of his Nelson Core JavaFX Framework and Xenon Data Grid control for JavaFX</a>. As far as I can tell, that mouthful equates to a table control for JavaFX. Please, someone correct me if I'm wrong. You can play with the control yourself by loading the <a href="http://www.xenonsoft.com/jws/DevoxxMaster-2009-1.0-M4.jnlp">webstart link</a>, and clicking on the images to start the demo.</li>
+</ul>
+<h3>Griffon</h3>
+<ul>
+	<li><strong>Todd Costella</strong> last week mentioned about <a href="http://www.griffoncast.com/">Griffon Cast</a>, a website with Griffon-related screencasts. It has just recently started, but more screencasts will be coming shortly.</li>
+	<li><strong>Andres Almiray</strong> has posted an article he wrote for Groovymag a year ago, titled '<a href="http://www.jroller.com/aalmiray/entry/building_rich_swing_applications_with">Building Rich Swing Applications with Groovy - Part I</a>'.</li>
+</ul>
+<p>That's us for another week. Enjoy the coming week, and I'll catch you all again next week.</p>
+]]></Content>
+	</post>

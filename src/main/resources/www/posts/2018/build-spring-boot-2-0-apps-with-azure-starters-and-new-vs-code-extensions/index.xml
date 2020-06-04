@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2956</ID>
+		<Slug>build-spring-boot-2-0-apps-with-azure-starters-and-new-vs-code-extensions</Slug>
+		<Title>Build Spring Boot 2.0 apps with Azure Starters and new VS Code extensions</Title>
+		<Date>2018-03-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java|Programming>Microsoft]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p><div><img class="aligncenter wp-image-2957 size-full" src="/content/2018/03/006c6560-ea96-49e2-8376-32a6a934d75a.png" alt="" width="640" height="351"></div></p>
+<p><div></div></p>
+<p><div class="copy-paste-block">I've said it elsewhere but <a href="/posts/2018/hello-microsoft/">my new role at Microsoft</a> often places me at the end of a very powerful firehose, and I see a lot of cool stuff going by! Today is no exception - Microsoft has announced full support for Spring Boot 2.0 in the <a tabindex="-1" title="https://github.com/Microsoft/azure-spring-boot" href="https://github.com/Microsoft/azure-spring-boot" target="_blank" rel="noreferrer noopener">Spring Boot Starters for Azure</a>. In addition to this, there is an updated&nbsp;<a tabindex="-1" title="https://code.visualstudio.com/docs/java/java-spring-boot" href="https://code.visualstudio.com/docs/java/java-spring-boot" target="_blank" rel="noreferrer noopener">Spring extension for Visual Studio Code</a>, which allows you to build production-ready apps and easily deploy them to the cloud.</div></p>
+<p><div></div></p>
+<p><div>For more details, you should <a href="https://azure.microsoft.com/en-us/blog/build-spring-boot-2-0-apps-with-azure-starters-and-new-vscode-extensions/">check out the blog post by Yitao Dong</a>.</div></p>
+]]></Content>
+	</post>

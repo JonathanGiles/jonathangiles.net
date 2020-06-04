@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>805</ID>
+		<Slug>java-desktop-links-of-the-week-may-17</Slug>
+		<Title>Java desktop links of the week, May 17</Title>
+		<Date>2010-05-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java desktop|javafx|swing</Tags>
+		<Content><![CDATA[<p>A slightly quieter week this week, but in fact there is a heap of very useful, well-considered posts this week. Be sure to check out the links below as there is plenty of useful information!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Kirill Grouchnikov</strong> has improved menus in his Flamingo project by <a href="http://www.pushing-pixels.org/?p=1815">adding support for toggle menu buttons</a> and also detailing<a href="http://www.pushing-pixels.org/?p=1824"> how to create multi-level menus</a>. In a separate post <strong>Kirill</strong> discusses <a href="http://www.pushing-pixels.org/?p=1847">improvements to toggle menu buttons</a> related to showing checkmarks, and preventing a menu from auto-hiding when the user selects an item within it.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Amy Fowler</strong> has blogged about the <a href="http://amyfowlersblog.wordpress.com/2010/05/13/javafx-1-3-managed-gets-promoted/">promotion of the 'managed' property from LayoutInfo to Node</a>, and at the same time covers the implication of this move. Well worth reading if you don't understand what managed / unmanaged nodes are.</li>
+	<li><strong>Tor Norbye</strong> has done a very useful blog post discussing <a href="http://blogs.sun.com/tor/entry/pixel_considerations">pixel considerations in Java / JavaFX</a>. Basically, if you're wondering why your lines look blurred, this post explains why - and how to fix it. If you're doing anything in JavaFX, you really should read this post.</li>
+	<li><strong>Rakesh Menon</strong> has shown <a href="http://rakeshmenonp.wordpress.com/2010/05/10/javafx-1-3-treeview/">how to use the preview TreeView control</a> we released in 1.3. You should read this as it shows the alternative way of building a tree on-demand. It's a very nice feature of the TreeView API.</li>
+	<li><strong>Peter Karich</strong> has posted a '<a href="http://jfxstudio.wordpress.com/2010/05/10/matchstick-graph-editor/">matchstick graph editor</a>' on <a href="http://www.jfxstudio.org">JFXStudio</a>. For others creating fun little apps, in any stage of implementation, please consider posting details about it to JFXStudio - contact me for details.</li>
+	<li><strong>Jim Clarke</strong> has ported <strong>Jim Weaver's</strong> 3D demo I mentioned last week to work on a TV. You can read all about the porting (basically mapping keys to the remote control), and watch a video, on <a href="http://http://learnjavafx.typepad.com/weblog/2010/05/earthcubefx-on-javafxtv.html">Jim Weaver's blog</a>.</li>
+	<li><strong>Johannes Schneider</strong> has posted about '<a href="http://blog.cedarsoft.com/2010/05/closing-the-gap-between-java-and-javafx">Closing the gap between Java and JavaFX</a>' by making it easier to bind between JavaFX and Java code. He says that this will eventually end up in the <a href="http://jfxtras.org">JFXtras project</a>.</li>
+	<li><strong>Sten Anderson</strong> has released <a href="http://blogs.citytechinc.com/sanderson/?p=411">Music Explorer FX  2.0</a>, which has significant improvements over earlier releases.</li>
+	<li>I came across the '<a href="http://netbeans.org/kb/docs/javafx/quickstart-javafxcomp.html">getting started with the JavaFX Composer</a>' tutorial this week, and whilst I don't know it's age, I thought it might be useful for people wanting to play with this JavaFX RAD plugin for NetBeans.</li>
+</ul>
+<p>That's us for another week. Thanks to everyone for writing these  useful  posts, and as always please <a href="http://www.twitter.com/JonathanGiles">contact me</a> if you think I  missed  something or should include a link next week. Keep up the hard  work  folks! :-)</p>
+<p><div id="_mcePaste" style="position: absolute; left: -10000px; top: 20px; width: 1px; height: 1px; overflow: hidden;"></p>
+<h1>Johannes Schneider</h1>
+<p></div></p>
+]]></Content>
+	</post>

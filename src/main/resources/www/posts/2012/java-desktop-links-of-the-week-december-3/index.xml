@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1366</ID>
+		<Slug>java-desktop-links-of-the-week-december-3</Slug>
+		<Title>Java desktop links of the week, December 3</Title>
+		<Date>2012-12-02</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>December already?! I know I say it a lot, but time flies! Let's get on with the links...</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Marco Jakob</strong> has posted all five parts of his JavaFX 2 tutorials online. You can find all five parts at these links: <a href="http://edu.makery.ch/blog/2012/11/16/javafx-tutorial-addressapp-1/">part 1 (Scene Builder)</a>, <a href="http://edu.makery.ch/blog/2012/11/17/javafx-tutorial-addressapp-2/">part 2 (model and TableView)</a>, <a href="http://edu.makery.ch/blog/2012/11/20/javafx-tutorial-addressapp-3/">part 3 (interacting with the user)</a>, <a href="http://edu.makery.ch/blog/2012/11/26/javafx-tutorial-addressapp-4/">part 4 (CSS styling - making use of JMetro)</a> and <a href="http://edu.makery.ch/blog/2012/11/27/javafx-tutorial-addressapp-5/">part 5 (storing data as XML)</a>.</li>
+	<li><strong>Johan Vos</strong> has announced the <a href="http://blogs.lodgon.com/johan/blog/entry/DataFX_10_released">release of DataFX 1.0</a>. DataFX is a library for retrieving data from remote data sources and easily populating (and rendering) JavaFX UI controls.</li>
+	<li><strong>Sébastien Bordes</strong> has announced the <a href="http://blog.webeo.fr/post/2012/12/02/JRebirth-071-is-out">release of JRebirth 0.7.1</a>. JRebirth is a JavaFX 2 Application Framework.</li>
+	<li><strong>Eric Bruno</strong> has published <a href="http://www.drdobbs.com/jvm/a-javafx-file-editor-part-2/240142542">part two of his 'JavaFX file editor'</a>article. In this entry, he talks about the JavaFX WebView component, the simple file editor itself, and keyboard processing.</li>
+	<li><strong>Danno Ferrin</strong> has two posts this week. Firstly he has posted about his <a href="http://speling.shemnon.com/blog/2012/11/07/javafx-gradle-plugin-0.0.0-released/">new Gradle JavaFX plugin</a>, and secondly he has a post about <a href="http://speling.shemnon.com/blog/2012/11/25/scenic-view-in-the-gradle-plugin/">using Scenic View in the Gradle JavaFX plugin</a>.</li>
+	<li><strong>Randahl Fink Isaksen</strong> has blogged about <a href="http://blog.randahl.dk/2012/11/javafx-leveraging-multi-core-performance.html">JavaFX performance tips to leverage multi-core CPUs</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> continues his JavaFX-related posts this week, including <a href="http://www.guigarage.com/2012/11/custom-ui-controls-with-javafx-part-2/">part two of his series of posts on custom UI controls in JavaFX</a>. He also has announced that <a href="http://www.guigarage.com/2012/11/gridfx-is-moving-forward/">GridFX is now part of JFXtras</a> (which is great news), and that GridFX is now <a href="http://www.guigarage.com/2012/12/gridfx-supports-css/">styleable via CSS with custom CSS properties</a>.</li>
+	<li><strong>Thierry Wasyl</strong> has blogged about <a href="http://thierrywasyl.wordpress.com/2012/11/30/tableview-display-tables-in-javafx/">how to use the JavaFX TableView control</a>.</li>
+	<li><strong>Jim Laskey</strong> has demonstrated how <a href="https://blogs.oracle.com/nashorn/entry/nashorn_in_the_twitterverse_continued">Nashorn (the Javascript-on-the-JVM project) can use JavaFX</a>.</li>
+	<li>A new (and open source) library was announced this week for JavaFX data services called <a href="http://www.graniteds.org/confluence/pages/viewpage.action?pageId=229378">Granite Data Services</a>. Check out their blog for a very comprehensive blog post on the <a href="http://granitedataservices.com/blog/2012/11/26/data-management-tutorial-with-javafx-2-2/">functionality offered by this library</a>, as well as <a href="http://granitedataservices.com/blog/2012/11/29/thoughts-about-javafx-and-bean-validation/">their thoughts on input validation in JavaFX</a> (I should note that this is on our radar but not something we've started to work on yet) and <a href="http://granitedataservices.com/blog/2012/11/26/real-time-messaging-tutorial-with-javafx-2-2/">real-time messaging with JavaFX 2</a>.</li>
+	<li><strong>René Jahn</strong> continues to explore embedded JavaFX. This week he has posts on <a title="Permanent Link to NFC/RFID for Beagleboard xm with Java" href="http://blog.sibvisions.com/2012/11/26/nfcrfid-for-beagleboard-xm-with-java/" rel="bookmark">NFC/RFID for Beagleboard xm with Java</a>, and <a title="Permanent Link to JavaFX TimeTracking with Beagleboard-xm" href="http://blog.sibvisions.com/2012/12/02/javafx-timetracking-with-beagleboard-xm/" rel="bookmark">JavaFX TimeTracking with Beagleboard-xm</a>.</li>
+	<li><strong>Leon Atherton</strong> has a post titled "<a href="http://blog.idrsolutions.com/2012/11/reflections-on-reflections-in-javafx/">Reflecting on Reflections: The JavaFX Reflection Effect</a>".</li>
+	<li><strong>José Pereda</strong> has posted part one of his series of posts on <a href="http://jperedadnr.blogspot.com.es/2012/11/nxtlegofx-javafx-based-application-to.html">NXTLegoFX</a>, a JavaFX-based application to play with a Lego Mindstorms NXT.</li>
+	<li><strong>Gerrit Grunwald</strong> has posted a useful utility class to <a href="http://harmoniccode.blogspot.ch/2012/11/shapes-shapes-shapes.html">convert JavaFX shapes into SVG paths.</a></li>
+	<li><strong>Geertjan Wielenga</strong> has linked to a YouTube video by <strong>Paul and Gail Anderson</strong> presenting their <a href="https://blogs.oracle.com/geertjan/entry/youtube_javafx_and_netbeans_platform">JavaFX / Swing / NetBeans sample application</a>.</li>
+	<li><strong>Carl Dea</strong> has had an article about <a href="http://jaxenter.com/jax-magazine/">the JavaFX Canvas API</a> published in the November issue of JAX Magazine.</li>
+	<li><strong>JFrog Artifactory</strong> now supports <a href="http://www.jfrog.com/home/v_screencast/aa4YBDUDWy0#watch">deploying JavaFX applications</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Danno Ferrin</strong> has announced the <a href="http://insubstantial.posterous.com/170126655">release of Insubstantial 7.2.1</a>, which fixes a few regressions.</li>
+	<li><strong>Aurelien Ribon</strong> has posted a new library he calls the '<a href="http://www.aurelienribon.com/blog/2012/09/new-library-sliding-layout/">sliding layout</a>' - see the video on his blog for an explanation :-) I'd love to see this done in JavaFX.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has three posts of note this week. Firstly he has posted about "<a title="Permanent Link: Griffon: i18n FXML content on the fly" href="http://www.jroller.com/aalmiray/entry/griffon_i18n_fxml_content_on" rel="bookmark">Griffon: i18n FXML content on the fly</a>", secondly "<a title="Permanent Link: Griffon: Bringing back the fun to desktop development" href="http://www.jroller.com/aalmiray/entry/griffon_bringing_back_the_fun" rel="bookmark">Griffon: Bringing back the fun to desktop development</a>", and finally "<a title="Permanent Link: Griffon vs Eclipse4: First Round" href="http://www.jroller.com/aalmiray/entry/griffon_vs_eclipse4_first_round" rel="bookmark">Griffon vs Eclipse4: First Round</a>".</li>
+</ul>
+<p>Catch you in a weeks time!</p>
+]]></Content>
+	</post>

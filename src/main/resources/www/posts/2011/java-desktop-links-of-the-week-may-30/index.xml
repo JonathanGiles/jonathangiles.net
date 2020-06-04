@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1052</ID>
+		<Slug>java-desktop-links-of-the-week-may-30</Slug>
+		<Title>Java desktop links of the week, May 30</Title>
+		<Date>2011-05-29</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>It's been a busy week this week, with the release of the first JavaFX 2.0 beta. I look forward to seeing your blog posts over the coming weeks and months as you get better versed with the API and technologies, and as we keep rolling out beta refreshes to fix bugs, add features and improve performance.</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>As I mentioned, the <a href="http://fxexperience.com/2011/05/javafx-2-0-beta-is-available/">JavaFX 2.0 beta is now out</a>. You can <a href="http://www.javafx.com/downloads/all.jsp">download it</a>, read the <a href="http://download.oracle.com/javafx/index.html">documentation</a>, check out the <a href="http://download.oracle.com/javafx/2.0/api/index.html">API docs</a>, and file issues in our <a href="http://javafx-jira.kenai.com/">bug tracker</a>.</li>
+	<li><strong>Osvaldo Pinali Doederlein</strong> has blogged about <a href="http://weblogs.java.net/blog/opinali/archive/2011/05/28/javafx-20-beta-first-impressions">JavaFX 2.0 beta first impressions</a>, in his usual in-depth and considered way. This is well worth a read for anyone wanting to get a good appreciation for what has changed in JavaFX 2.0 beta.</li>
+	<li>After the JavaFX 2.0 beta came out, the single loudest complaint was whether JavaFX will be cross platform. <strong>Richard Bair</strong>, Java Client Architect at Oracle, responded and makes it very clear that <a href="http://fxexperience.com/2011/05/is-javafx-2-0-cross-platform/">JavaFX will be cross platform</a>.</li>
+	<li><strong>Jasper Potts</strong> put up two blog posts: '<a href="http://fxexperience.com/2011/05/simple-3d-cubes-in-javafx-2-0/">Simple 3D Cubes in JavaFX 2.0</a>' and '<a href="http://fxexperience.com/2011/05/javafx-2-0-charts/">JavaFX 2.0 Charts</a>'.</li>
+	<li><strong>James Sugrue</strong> has blogged about the <a href="http://java.dzone.com/articles/rebooted-javafx-20-beta">JavaFX 2.0 'Reboot'</a>.</li>
+	<li>In light of the JavaFX 2.0 release, <strong>Stephen Colebourne</strong> has blogged his thoughts about <a href="http://www.jroller.com/scolebourne/entry/beans_and_properties">beans and properties</a>.</li>
+	<li><strong>Dustin Marx</strong> has blogged about "<a href="http://marxsoftware.blogspot.com/2011/05/javafx-2-beta-time-to-reevaluate-javafx.html">JavaFX 2 Beta: Time to Reevaluate JavaFX?</a>"</li>
+	<li>I blogged about how you should go about <a href="http://fxexperience.com/2011/05/building-custom-javafx-2-0-controls/">building custom JavaFX 2.0 user interface controls</a>. It should hopefully give enough to get people over the initial hurdle of how to start writing a control.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Geertjan Wielenga</strong> has blogged about '<a href="http://blogs.oracle.com/geertjan/entry/working_with_matisse_in_griffon">working with Matisse in Griffon</a>'.</li>
+	<li><strong>René Jahn</strong> let me know about the latest SIB Visions product: <a href="http://blog.sibvisions.com/2011/05/09/visionx-a-very-short-preview-but-revolutionary-new/">VisionX</a>. This is supposed to be a tool that is used in building business applications, and is based upon their JVx product that has been discussed in previous posts. There is also a <a href="http://www.youtube.com/watch?v=uVwiXt-W3X0">video of their software being used</a>, if you're interested.</li>
+	<li><strong>JIDE Software</strong> released <a href="http://www.jidesoft.com/">version 2.11.4</a> of their libraries, which is a maintenance release for the 2.x series (the <a href="http://www.jidesoft.com/history/">changelog</a> for all releases is also available).</li>
+	<li><strong>Sammy Guergachi</strong> let me know that he is working on an '<a href="http://sourceforge.net/projects/auroragm/">Aurora Game Manager</a>' project that uses Swing and Java2D.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has announced the <a href="http://www.joshondesign.com/2011/05/28/amino-1-0-is-released/">release of Amino 1.0</a>. It's a fairly impressive library - have a play with the samples to get a feel for what you can do.</li>
+</ul>
+<p>That's all folks! Keep up the good work, whether that be exploring JavaFX 2.0 (if that's your thing), or just writing cool Java desktop-related software and blog posts. Catch you next week! :-)</p>
+]]></Content>
+	</post>

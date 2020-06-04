@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1610</ID>
+		<Slug>java-desktop-links-of-the-week-december-2</Slug>
+		<Title>Java desktop links of the week, December 2</Title>
+		<Date>2013-12-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>A very quick post today as I'm running out the door, but needless to say there are a bunch of good links and I hope you enjoy them as much as I did! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The <strong>JavaFX Prague team</strong> has posted a video of JavaFX <a href="https://blogs.oracle.com/jfxprg/entry/javafx_on_android_multitouch_and">running on an Android device and making use of multi-touch</a>.</li>
+	<li><strong>Gerrit Grunwald</strong> has been busy this week! He has <a href="http://harmoniccode.blogspot.co.nz/2013/11/enzo-part-i.html">two posts</a> on his new <a href="http://harmoniccode.blogspot.co.nz/2013/11/enzo-part-ii.html">Enzo library</a>, which is the new home for his UI controls targeting JavaFX 8.0. He has also posted about his progress on getting <a href="http://harmoniccode.blogspot.co.nz/2013/11/javafx-on-android.html">custom controls loading on an android device</a>.</li>
+	<li><strong>Antoine Mischler</strong> has posted about <a href="http://blog.dooapp.com/2013/11/fxform-two-releases-and-lot-of-new.html">two new releases of FXForm</a> (one for JavaFX 2.x and the other for JavaFX 8.x). There looks to be a lot of improvements in this release including support for new JavaFX 8.0 controls, improved data validation, and support for editing multiple beans in a single form.</li>
+	<li><strong>Thierry Wasylczenko</strong> has a post titled "<a title="Why I’m so excited about migrating from Swing to JavaFX 2" href="http://zeroturnaround.com/rebellabs/why-im-so-excited-about-migrating-from-swing-to-javafx-2/">Why I’m so excited about migrating from Swing to JavaFX 2</a>".</li>
+	<li><strong>Adam Bien</strong> has a posted on the OTN website titled <a href="http://www.oracle.com/technetwork/articles/java/javafxinteg-2062777.html">JavaFX integration strategies</a>, where he starts by saying "With lambdas and support for asynchronous communication, JavaFX introduces new integration possibilities for back-end services.<strong>"</strong></li>
+	<li><strong>Pedro Duque Vieira</strong> has <a href="http://pixelduke.wordpress.com/2013/12/01/metro-style-rating-control-for-java-jmetro/">restyled</a> the <a href="http://www.controlsfx.org">ControlsFX</a> Rating control as part of his JMetro project. It is great to see third party styles such as JMetro and AquaFX popping up, and it is very pleasing to see them styling not just the official JavaFX UI controls but also some of the controls being developed in third party projects such as <a href="http://www.jfxtras.org">JFXtras</a>, <a href="http://www.jidesoft.com/blog/2013/07/05/jidefx-beta-open-source/">JideFX</a> and <a href="http://www.controlsfx.org">ControlsFX</a>.</li>
+	<li><strong>Mirko Sertic</strong> has posted about a <a href="http://www.mirkosertic.de/doku.php/javastuff/javafxgameauthoring">JavaFX based game authoring system he has developed</a>. What is particularly interesting is that he has created multiple renderers - a JavaFX canvas-based renderer, and another HTML5 canvas-based renderer using GWT.</li>
+	<li><strong>Dirk Lemmermann</strong> has another post up about the <a href="http://dlemmermann.wordpress.com/2013/11/27/a-popup-editor-for-javafx-8-part-2/">PopOver control he is developing</a> (and contributing to ControlsFX). The code is now in the ControlsFX repo and is just undergoing its final API changes before it will be included in the ControlsFX 8.0.3 release.</li>
+	<li><strong>Johannes Rupprecht</strong> has a post on <a href="http://johnthecodingarchitect.blogspot.co.nz/2013/11/implementing-custom-javafx-bindings.html">how to implement custom bindings in JavaFX</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Dave Gilbert</strong> has posted on how simple it is to <a href="http://www.jroller.com/dgilbert/entry/creating_3d_charts_in_java">create 3D Charts in Java</a> using his (commercial) Orson charts library.</li>
+</ul>
+<p>Catch you next week!</p>
+]]></Content>
+	</post>

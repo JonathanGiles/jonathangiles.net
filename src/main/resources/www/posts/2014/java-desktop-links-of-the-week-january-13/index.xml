@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1635</ID>
+		<Slug>java-desktop-links-of-the-week-january-13</Slug>
+		<Title>Java desktop links of the week, January 13</Title>
+		<Date>2014-01-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Today is a special milestone for the Java desktop links of the week posts - quite by accident I just realised that my <a href="/posts/2014swing-links-of-the-week-january-13th/">first post</a> (then titled 'Swing links of the week') was published on this day <strong>five years ago!</strong> It feels like an age ago - and given that I do one post a week that means I've done roughly 260 posts. Each post takes at least an hour to write up (and often much more), which suggests I've spent around 6.5 weeks of full-time equivalent work providing these weekly posts. That's just plain scary! :-) Who knows where these posts will go in the future, but for now I hope you continue to enjoy and appreciate both what the community is doing, and my effort in highlighting everyone's wonderful contributions!</p>
+
+<p>Ok, that's enough - let's get on with the news :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Angela Caicedo</strong> has presented at the <strong>Silicon Valley JavaFX Users Group</strong> on "<a href="http://www.youtube.com/watch?v=rYt45rs2Bjk">Beyond Beauty: JavaFX, Parallax, Touch, Raspberry Pi, Gyroscopes and much more</a>".</li>
+	<li>Speaking of the <strong>Silicon Valley JavaFX Users Group</strong>, the next meetup is being held on January 23rd with <strong>Ryan Cuprak</strong> on <a href="http://www.meetup.com/svjugfx/events/154255442/?a=ea2_grp&amp;rv=ea2">HTML5 and JavaFX</a>. The summary says the presentation will talk about how "The HTML5 juggernaut is radically changing client-side development on mobile devices as well as the desktop. Given the pervasiveness of HTML5, where does JavaFX fit in the picture? This presentation examines both HTML5 and JavaFX, covering the technical strengths and weaknesses of each." As always the session will be live broadcast - check the link for the details.</li>
+	<li><strong>Dirk Lemmermann</strong> has been working on a (commercial) <a href="http://dlemmermann.wordpress.com/2014/01/08/flexgantt-for-javafx-8-flexganttfx/">JavaFX-based gantt chart control</a>. It looks very polished, and he is planning to start up an early adopter program around March. It would be great to see it in an open source library, but I guess at the end of the day it is better that a gantt chart option exist than not!</li>
+	<li><strong>Kunas Ramazan</strong> has a post on <a href="http://www.kunas.eu:8090/display/BLOG/2013/11/14/Enterprise+with+JavaFX+and+pm4j">enterprise app development with JavaFX and pm4j</a>.</li>
+	<li><strong>William</strong> has announced the <a href="http://www.granitedataservices.com/2014/01/09/happy-new-year-2014-and-graniteds-3-0-1-ga/">release of GraniteDS 3.0.1.GA</a>.&nbsp;It comes with a few important bug fixes and some improvements in the documentation.</li>
+	<li><strong>Christoph Nahr</strong> has blogged about <a href="http://news.kynosarges.org/2014/01/07/javafx-text-icons-as-images-files/">JavaFX text icons as images and files</a>. In other words, he is converting scalable glyph fonts to pixel images.</li>
+	<li><strong>Andi</strong> has created a <a href="http://sahits.ch/blog/?p=2372">TextFlow-like container for JavaFX 2.x</a>.&nbsp; TextFlow is new API in JavaFX 8.0 that (unsurprisingly) deals with layout of text in an intelligent way. It is a very nice feature of JavaFX 8.0.</li>
+	<li><strong>William Antônio Siqueira</strong> has two posts this week, as he is developing a JavaFX-based client to control the RedHat Business Rule Management System. The first post explores the <a href="http://fxapps.blogspot.co.nz/2014/01/using-brmsdrools-5-rest-api-part-1.html">code to connect to the rest endpoint</a>, whilst the second post covers <a href="http://fxapps.blogspot.co.nz/2014/01/javafx-crud-client-side.html">the construction of the client side code</a>.</li>
+	<li><strong>Sven Ruppert</strong> has posted part one of a series of posts on <a href="http://www.rapidpm.org/2014/01/fxcontroller-with-cdi-managed.html">creating an FXController with CDI managed DynamicObjectAdapter</a>.</li>
+	<li><strong>Steven Van Impe</strong> has posted part one of a two-part series on game loops and applying them to JavaFX. The first post covers the <a href="http://asipofjava.blogspot.be/2014/01/game-loops-and-applying-them-to-javafx.html">general theory around game loops</a>, whilst the next post will cover applying this to JavaFX specifically.</li>
+</ul>
+<p>That's all for this week. Catch you all again next week! :-)</p>
+]]></Content>
+	</post>

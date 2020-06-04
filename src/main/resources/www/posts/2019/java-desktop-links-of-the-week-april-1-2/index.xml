@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3222</ID>
+		<Slug>java-desktop-links-of-the-week-april-1-2</Slug>
+		<Title>Java desktop links of the week, April 1</Title>
+		<Date>2019-03-31</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Happy April Fools! :-)</p>
+<ul>
+ 	<li><strong>Gluon</strong> announced the <a href="https://gluonhq.com/announcing-javafx-12-2/">release of JavaFX 12</a> was available. <strong>InfoWorld</strong> posted an article about <a href="https://www.infoworld.com/article/3368642/gluon-ships-javafx-12.html">some of the new features in this release</a>.</li>
+ 	<li><strong>Pedro DV</strong> announced the <a href="https://pixelduke.com/2019/03/25/jmetro-version-5-3-released/">release of JMetro 5.3</a>, which includes styles for a number of UI controls.</li>
+ 	<li><strong>Loïc Sculier</strong> has open-sourced <a href="https://github.com/Typhon0/AnimateFX">AnimateFX</a>, a library of JavaFX animations.</li>
+ 	<li><strong>Markus Lemcke</strong> has developed a free text editor with JavaFX that can be <a href="https://www.marlem-software.de/downloads.html">used by the blind and visually impaired</a>.</li>
+</ul>
+]]></Content>
+	</post>

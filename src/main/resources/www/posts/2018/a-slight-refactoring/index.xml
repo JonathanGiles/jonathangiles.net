@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3183</ID>
+		<Slug>a-slight-refactoring</Slug>
+		<Title>A slight refactoring</Title>
+		<Date>2018-11-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Life|Programming>Microsoft]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>For almost precisely one year I've been working in the <a href="https://developer.microsoft.com/advocates/index.html">Microsoft Cloud Developer Advocacy team</a>, focused on <a href="http://docs.microsoft.com/java/azure">all things Java</a>. I've enjoyed my time in this team, and I've learned a lot. I've been staggered by the degree to which the team is a magnet for <a href="https://developer.microsoft.com/advocates/">highly skilled, highly motivated, and highly renowned people</a> (I was the only glitch in the hiring matrix). Personally, my big rewards from the past year were two things:</p>
+<p><ol></p>
+ 	<li>I managed to improve my public speaking skills and confidence - I started the year a little rusty, but by the middle of the year I was presenting to rooms of 800 and more people quite regularly, and by the end of the year I gave my first keynote at QCon Shanghai. The large number of presentations I gave came about because not enough conferences said 'no' to me when I submitted, so I found myself travelling and presenting far more than anticipated! I really enjoyed the ability to share my love of developer experience and good API design far and wide. I <a href="/java-api-design-best-practices.html">put up a page on my site</a> that includes a few of the videos, as well as a <a href="https://dzone.com/refcardz/java-api-best-practices?chapter=1">DZone Refcard</a> that I wrote.</li>
+ 	<li>When I wasn't travelling, my biggest reward was being able to work across all engineering teams at Microsoft, to ensure their SDKs and APIs were as good as they could be. I really enjoyed the opportunity to bring my Java expertise to a new audience inside Microsoft. I also enjoyed the ability to expose the work of these teams through the <a href="https://docs.microsoft.com/java/azure">Java portal on docs.microsoft.com</a>.</li>
+<p></ol></p>
+<p>The team I've worked with has been exceptional, and the managers I had above me - Bruno Borges, Tim Heuer, Chad Fowler, Jeff Sandquist - even Scott Guthrie - have been extremely open, available, and supportive of me. Microsoft is a great organisation to be a part of, and&nbsp;the Cloud Developer Advocacy team is an awesome team. I highly encourage everyone suitably qualified to consider joining the team. <a href="/contact.html">Ping me</a> if you ever want to learn more.</p>
+
+<p>So, today, I'm excited to say that I'm refactoring things a little :-) As of next week,&nbsp;<strong>I am moving out of the Cloud Developer Advocacy team</strong>, and <strong>I'm taking on a Senior Software Engineer role in the Azure SDK team</strong>. <strong>My new role is to serve as the Java representative on the architecture board for Azure SDKs, and to help drive excellence in our Java developer experience</strong>. I will be heavily involved in driving the API design for our next generation of Java Azure SDKs, working alongside a team of excellent engineers to make this a reality.</p>
+
+<p>I will continue to work remotely from New Zealand, as I have always done, and I look forward to the challenge ahead.</p>
+]]></Content>
+	</post>

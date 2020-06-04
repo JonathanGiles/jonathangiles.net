@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2622</ID>
+		<Slug>java-desktop-links-of-the-week-november-6</Slug>
+		<Title>Java desktop links of the week, November 6</Title>
+		<Date>2017-11-05</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>A little bit of an interesting week this week!</p>
+<ul>
+ 	<li>I announced that I was <a href="/posts/2017/farewell-oracle/">leaving Oracle</a>. As I mentioned in that announcement, for now I plan to keep things going as always - weekly links, open source projects for JavaFX, etc.</li>
+ 	<li><strong>Edvin Syse</strong> is <a href="https://soundcloud.com/user-38099918/tornadofx-with-edvin-syse?utm_source=soundcloud&amp;utm_campaign=share&amp;utm_medium=twitter">interviewed about TornadoFX</a>, a Kotlin library for JavaFX, of which there was a <a href="https://github.com/edvin/tornadofx/releases/tag/v1.7.12">new release just recently</a>.</li>
+ 	<li><strong>Gerrit Grunwald</strong> has put out another of his Friday Fun components - this time a <a href="https://harmoniccode.blogspot.co.nz/2017/11/friday-fun-xlix-sunburstchart.html">'sun burst' control.</a></li>
+ 	<li>Speaking of&nbsp;<strong>Gerrit</strong>, he has also put on github a '<a href="https://github.com/HanSolo/smoothcharts">smoothcharts</a>' library that makes the JavaFX chart lines be smoothed lines.</li>
+ 	<li><strong>Amos Chepchieng</strong> has written about making a <a href="https://medium.com/@keeptoo/making-a-borderless-javafx-window-movable-f7855eb33a51">borderless JavaFX window movable</a>.</li>
+ 	<li><strong>Jyloo Software</strong> has put out <a href="http://www.jyloo.com/news/?pubId=1509385738000">Synthetica V3 RC1 for review.</a></li>
+</ul>
+]]></Content>
+	</post>

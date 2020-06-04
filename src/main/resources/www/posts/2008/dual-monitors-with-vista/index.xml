@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>134</ID>
+		<Slug>dual-monitors-with-vista</Slug>
+		<Title>Dual Monitors with Vista</Title>
+		<Date>2008-01-30</Date>
+		<Status>publish</Status>
+		<Categories>Technology</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A week ago I got myself a brand new 22" LCD monitor to replace my tired 19" CRT. Both were used as a second monitor plugged in to my laptop. Given the bulk of the 19" CRT, I had it to the right of my laptop. This worked nicely for a number of years.</p>
+
+<p>With the 22" LCD, and given it's widescreen aspect, I decided to try to position it above my laptop monitor. This worked nicely until I rebooted my computer.</p>
+
+<p>The problem is with Vista - every time I start it up, it resets the location of my monitor in the screen properties dialog to instead be to the right of my laptop. I have to manually change this on every boot, which quickly becomes annoying.</p>
+
+<p>There is much discussion online regarding this issue, and to be frank, I can't believe that Microsoft let this slip through. I seriously hope it is fixed in Vista SP1, or else I will certainly be considering my future relationship with Vista.</p>
+
+<p>This is a warning to dual monitor users who are considering not using the 'Microsoft Preferred' screen layout.</p>
+]]></Content>
+	</post>

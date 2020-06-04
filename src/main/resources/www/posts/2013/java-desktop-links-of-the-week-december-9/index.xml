@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1614</ID>
+		<Slug>java-desktop-links-of-the-week-december-9</Slug>
+		<Title>Java desktop links of the week, December 9</Title>
+		<Date>2013-12-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Hi all - welcome to another weeks worth of Java desktop links! Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>This week Scene Builder 2.0 was <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2013-December/011803.html">open sourced</a> as part of the OpenJFX project. This means that it is now possible for people to learn from the Scene Builder code base, and who knows, maybe propose improvements.</li>
+	<li>Speaking of Scene Builder, <strong>Sven Reimers</strong> has two posts (so far) about embedding JavaFX Scene Builder 2.0 ea in NetBeans. The first post covers <a href="https://weblogs.java.net/blog/sven/archive/2013/12/01/embedding-javafx-scene-builder-20-ea-netbeans-part-1">embedding the FXML visual renderer</a>, and the second post covers <a href="https://weblogs.java.net/blog/sven/archive/2013/12/07/embedding-javafx-scene-builder-20-ea-netbeans-part-2">embedding the hierarchy viewer</a>.</li>
+	<li><strong>Tom Schindl</strong> has a blog post introducing his new project: <a href="http://tomsondev.bestsolution.at/2013/12/03/introducing-swt-on-fx/">SWT running on top of&nbsp; JavaFX</a>. As he says in the post, "SWT on FX is an SWT implementation which instead of using the native widget it use JavaFX controls under the covers (similar to what SWT on Swing did some years ago)." At present it is more of a research project and is not yet available, although Tom is looking for expressions of interest in the technology so that he can develop a business plan around it.</li>
+	<li><a href="http://fxexperience.com/2013/12/announcing-controlsfx-8-0-3/">ControlsFX 8.0.3 was released this week</a>, including a new PopOver control, new CheckComboBox/CheckListView/CheckTreeView controls, a new Borders API and a number of updates to SpreadsheetView. Also, the sample application was made more generic to allow for third party projects (such as JFXtras) to make use of it rather than have to develop their own sample application. Other users are more than welcome to use it as the base for their own application.</li>
+	<li><strong>Jens Deters</strong> has set up a <a href="http://jfx4ee.org/">website for his JavaFX projects</a> (including adm4ee, a "management tool to ease the daily business of&nbsp;Java EE Application Server admins", and FontAwesomeFX).</li>
+	<li><strong>Gerrit Grunwald</strong> has announced that his <a href="http://harmoniccode.blogspot.de/2013/12/enzo-moved-to-bitbucket.html">Enzo project has moved from Github to Bitbucket</a>, and that the build structure has been cleaned up.</li>
+	<li><strong>Bertrand Goetzmann</strong> has announced <a href="https://bitbucket.org/bgoetzmann/plantumlfx/wiki/Home">PlantUMLFX</a>, which is "a JavaFX 2 application implemented with a single <a href="http://groovyfx.org/">GroovyFX</a> script, <code>PlantUMLFX.groovy</code>, that allows you to generate UML diagrams with the help of <a href="http://plantuml.sourceforge.net/index.html">PlantUML</a>."</li>
+	<li>The <strong>tomoTaka</strong> blog has a post about how to <a href="http://d.hatena.ne.jp/tomoTaka/20131205">add drag and drop support for files</a> being dropped on to a JavaFX TreeView control.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Jyloo Software</strong> has announced the <a href="http://www.jyloo.com/news/?pubId=1385646046000">release of Synthetica V2.18</a>.</li>
+	<li><strong>Sean Phillips</strong> has a post rebutting an earlier blog post by <strong>Yakov Fain</strong> arguing about whether <a href="https://weblogs.java.net/blog/seanmiphillips/archive/2013/12/02/should-swing-be-killed-force-javafx-usage">Swing should be killed to force JavaFX usage</a>?</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

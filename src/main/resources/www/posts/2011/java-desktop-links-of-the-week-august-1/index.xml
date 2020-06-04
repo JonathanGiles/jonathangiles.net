@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1090</ID>
+		<Slug>java-desktop-links-of-the-week-august-1</Slug>
+		<Title>Java desktop links of the week, August 1</Title>
+		<Date>2011-07-31</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Another month down, leaving only two months until <a href="http://www.oracle.com/javaone/index.html">JavaOne 2011</a>. Of course, the big news last week was the <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">release of Java 7</a>, which comes with a few enhancements for Swing, as well as many years of further development on the compiler and hotspot, etc. Besides that, there are some good links this week (as always!), so let's get into the rest of this weeks links :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><a href="http://fxexperience.com/2011/07/javafx-2-0-beta-build-37-available-now/">JavaFX 2.0 beta b37 was released</a>, to enable developers another weeks worth of access to FXML, the XML-based markup language for (optionally) creating JavaFX user interfaces. It's optional because you are by no means forced to build UIs in FXML - you can continue to freely use Java, or indeed, any JVM-based language. It's just another option for those of you that like using XML for UI layout, and certainly it is a great format for tooling support and UI interchange.</li>
+	<li><a href="http://groovy.codehaus.org/GroovyFX">GroovyFX continues to flourish</a> with improved support for JavaFX 2.0 and improved GroovyFX documentation. I have to wonder, are any other JVM-based languages doing similar? Get in touch with me if&nbsp; you are working on something!</li>
+	<li>There is a brief video on YouTube with <strong>Jim Weaver</strong> presenting about '<a href="http://www.youtube.com/watch?v=yNkB76gHHRc&amp;feature=player_embedded">JavaFX in the real world</a>'. Of note is that Jim makes use of <a href="https://bitbucket.org/bgoetzmann/grezi/wiki/Home">Grezi</a> in his presentation, which I have linked to in previous weeks.</li>
+	<li>At OSCON/Java, <strong>Jim Weaver</strong> promised to make available the <a href="http://learnjavafx.typepad.com/weblog/2011/07/earthcubefx-on-javafx-20-download-from-osconjava-2011-keynote.html">source code for his EarthCubeFX application</a>, which is a port of his original EarthCube application from JavaFX 1.3 to use the latest 2.0 beta builds. You'll also note that he has a YouTube video which <a href="http://www.youtube.com/watch?v=fscsoyzT5QA">demonstrates EarthCubeFX running on Mac OS X</a>.</li>
+	<li><strong>Jonathan</strong> (not me) has blogged over at <strong>The Java Tutorials' Weblog</strong> about the <a href="http://blogs.oracle.com/thejavatutorials/entry/top_5_docs_to_introduce">top five docs to introduce yourself to JavaFX 2.0</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Geertjan Wielenga</strong> has blogged about <a href="http://blogs.oracle.com/geertjan/entry/debugging_miglayout">MigLayout debug support</a> that helped him solve a layout issue in his Swing-based application.</li>
+</ul>
+<p>That's all folks! I hope you found something useful in the links above, and as always: keep up the great work, blog about what your discovering, and feel free to contact me with any links of interest! Catch you all in a weeks time :-)</p>
+
+<p>&nbsp;</p>
+]]></Content>
+	</post>

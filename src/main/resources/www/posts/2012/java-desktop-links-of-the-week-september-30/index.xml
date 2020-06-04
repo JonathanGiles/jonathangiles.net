@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1332</ID>
+		<Slug>java-desktop-links-of-the-week-september-30</Slug>
+		<Title>Java desktop links of the week, September 30</Title>
+		<Date>2012-10-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all, and welcome to another JavaFX links post. This week we have a special guest editor (because I'm at JavaOne this week). I'll leave him to introduce himself - enjoy the links folks! :-)</p>
+
+<p>Hi. I'm <strong>Josh Marinacci</strong>, former member of the JavaFX team. <strong>Jonathan Giles</strong> and the rest of the JavaFX crew are insanely busy preparing for JavaOne, so I'll be your editor for this week's links. If you are attending JavaOne this year be sure to see some of the stellar JavaFX talks.</p>
+<ul>
+	<li>JavaFX Scenic View 1.2.0 <a href="http://fxexperience.com/2012/09/javafx-scenic-view-1-2-0-now-available-for-download">is released</a>! It's got a ton of new features including event monitoring, javadoc browsing, and my personal favorite 'context menus'. I have to say, Scenic View is really starting to look quite nice.</li>
+	<li><strong>Pixel Duke</strong> blogs <a href="http://pixelduke.wordpress.com/2012/09/16/zooming-inside-a-scrollpane/">how to zoom the contents of a scrollpane</a>.</li>
+	<li><strong>Geertjan</strong> has photos of him <a href="https://blogs.oracle.com/geertjan/entry/steelseries_javafx_external_control_via">rotating a JavaFX chart and a Steel Series component </a> using a Tinkerforge device. Very cool!</li>
+	<li><strong>Jose Pereda</strong> shows <a href="http://jperedadnr.blogspot.co.nz/2012/09/a-multi-touching-experience-with-wetab.html">how to get JavaFX running on the WeTab tablet</a>.</li>
+	<li>From 10/29 to 11/11 <strong>Stephen Chin</strong> will be <a href="http://steveonjava.com/nighthacking/">cycling across Europe on The NightHacking Tour, The Road to Devoxx</a>. Along the way he will be stopping at many user groups and hacking spots. To be a part of the events you can join him in person or watch the live streams.</li>
+	<li><strong>Daniel Marell</strong> shows how to <a href="http://blog.cag.se/?p=752">build JavaFX projects with Maven</a></li>
+	<li>Nice screenshots of <strong>MINT Software Systems </strong><a href="http://www.oracle.com/technetwork/java/javafx/mint-1851499.html">newest release of their Training Management System</a>, written in JavaFX. Very nice use of the JavaFX charting library.</li>
+	<li><strong>Oscar Lantz</strong> shows <a href="http://blog.crisp.se/2012/09/24/oscarlantz/analog-clock-revisited">how to code a very nice analog clock</a> in JavaFX</li>
+	<li><strong>JavaFX GUI </strong><a href="http://www.cutt.co.jp/book/978-4-87783-300-8.html">released in Japanese</a></li>
+	<li><a href="http://jayskills.com/blog/2012/09/26/angry-nerds-in-javafx/">Angry Nerds in JavaFX</a></li>
+	<li><strong>William</strong> blogs how to <a href="http://fxapps.blogspot.com.br/2012/09/showing-object-properties-in-tableview.html">show object properties in a table view</a> with JavaFX</li>
+	<li>The video version of <a href="http://jaxenter.com/javafx-scala-in-the-cloud-stephen-chin-and-andrew-phillips-44659.html">JavaFX and Scala in the Cloud</a> presented by <strong>Stephen Chin</strong> and <strong>Andrew Phillips</strong> at JAXConf.</li>
+	<li><a href="http://tomsondev.bestsolution.at/2012/09/27/efxclipse-0-1-1-released/">E(fx)clipse 0.1.1 is released</a></li>
+	<li><strong>Patrick Champion </strong><a href="http://paddyweblog.blogspot.fr/2012/09/put-it-all-together-javafx-2x-custom.html">pulls together</a> his previous blogs on custom components with FXML and a JAX-RS 2.0 client into a single JavaFX app to consume REST services.</li>
+	<li><a href="https://blogs.oracle.com/talkingjavadeployment/entry/packaging_improvements_in_jdk_7">An explanation of the</a> JavaFX packaging tools changes in JDK 7 update 10.</li>
+</ul>
+<p>Thanks to Josh for the help this week, it was much appreciated.</p>
+]]></Content>
+	</post>

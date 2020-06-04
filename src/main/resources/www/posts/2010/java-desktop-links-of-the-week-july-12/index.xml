@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>852</ID>
+		<Slug>java-desktop-links-of-the-week-july-12</Slug>
+		<Title>Java desktop links of the week, July 12</Title>
+		<Date>2010-07-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A good week of Java desktop links this week - some exciting releases, and interesting blog posts exploring / announcing interesting work. Let's get right into it!</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Karl Schaefer</strong> has announced the <a href="http://weblogs.java.net/blog/kschaefe/archive/2010/06/14/quick-overview-recent-swingx-changes">release of SwingX 1.6.1</a>, which looks to have a number of nice new features and bug fixes.</li>
+	<li><strong>Gerrit Grunwald</strong> has posted a nice <a href="http://www.jug-muenster.de/java-autoconversion-textfield-component-638/">JTextField-based component that will automatically convert</a> the users input based on the typed-in unit to a preferred base unit.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> posted a <a href="http://fxexperience.com/2010/07/text-alignment-trick/">text alignment trick</a> that is useful when trying to lay out Label text.</li>
+	<li>I posted a tip over at fxexperience.com regarding <a href="http://fxexperience.com/2010/07/sequences-performance-tip/">sequence performance</a>, and how you can cut down on needless churn.</li>
+	<li><strong>Stephen Chin</strong> has announced the <a href="http://groups.google.com/group/jfxtras-users/browse_thread/thread/8c4762b7037a8861">release of JFXtras 0.7 release candidate 2</a>.</li>
+	<li><strong>Max Katz</strong> is presenting at the next <a href="http://mkblog.exadel.com/events/presenting-at-silicon-valley-javafx-user-group-enterprise-javafx/">Silicon Valley JavaFX Users Group meetup</a>, which is this coming week on Wednesday, July 14, 2010 at 7PM PST.</li>
+	<li>Speaking of <strong>Max</strong>, he has posted two blog posts titled '<a href="http://mkblog.exadel.com/ria/javafx-ria/calling-seam-component-from-javafx-2/">Calling Seam component from JavaFX</a>' and '<a href="http://mkblog.exadel.com/ria/javafx-ria/invoking-hibernate-validator-from-javafx/">Invoking Hibernate Validator from JavaFX</a>'.</li>
+	<li>It looks like IntelliJ IDEA is starting to support JavaFX even more, with the <a href="http://plugins.jetbrains.net/plugin/?idea&amp;id=5004">0.2 release of their JavaFX plugin for IntelliJ</a>. <a href="http://www.youtube.com/watch?v=Pcx_l-xhK4A&amp;hd=1">Watch the Getting Started video</a> if you're interested.</li>
+	<li><strong>Nicholas</strong> has blogged about <a href="http://smithnicholas.wordpress.com/2010/07/07/displaying-a-javafx-applet-in-a-grails-application/">displaying a JavaFX applet in a Grails application</a>.</li>
+	<li><strong>Srikanth Shenoy</strong> has posted the second part of his multi-part series on 'Effective JavaFX Architecture', this time covering <a href="http://weblogs.java.net/blog/srikanth/archive/2010/07/07/effective-javafx-architecture-part-2-test-driven-development-tdd-ja">Test Driven Development with JavaFX</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has been <a href="http://www.jroller.com/aalmiray/entry/griffon_0_9_sneak_peek2">teasing</a> the <a href="http://www.jroller.com/aalmiray/entry/griffon_0_9_sneak_peek3">Griffon 0.9</a> <a href="http://www.jroller.com/aalmiray/entry/griffon_0_9_sneak_peek4">release</a>, and then <a href="http://www.jroller.com/aalmiray/entry/griffon_0_9_snapshot_available">released a Griffon 0.9 snapshot</a>. <a href="http://docs.codehaus.org/display/GRIFFON/Griffon+0.9">More details here</a>.</li>
+</ul>
+<p>That's us for another week. Thanks to everyone for your hard work in the community, and for sharing your knowledge with the rest of us :-) Catch you all again in a weeks time!</p>
+]]></Content>
+	</post>

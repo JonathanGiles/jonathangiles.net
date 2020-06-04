@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1239</ID>
+		<Slug>java-desktop-links-of-the-week-april-23</Slug>
+		<Title>Java desktop links of the week, April 23</Title>
+		<Date>2012-04-22</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Welcome to this weeks links roundup. I hope you all find something useful or interesting :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>There is a heap of discussion and review requests going on over at the <a href="http://mail.openjdk.java.net/mailman/listinfo/openjfx-dev">openjfx-dev mailing list</a> - if you are interested you should consider joining. Some topics of interest to readers include talk of <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2012-April/001210.html">adding a canvas node to JavaFX</a>, to allow for immediate mode painting (e.g. Java2D), <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2012-April/001205.html">deployment ideas</a>, and requests for a <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2012-April/001161.html">CSS object model</a>. Also, if you subscribe to this list, you get notification of all changesets to the public code, so you'll get a heads-up on what is coming in JavaFX 2.1 and JavaFX 2.2.</li>
+	<li><strong>Jeff Friesen</strong> has got up on his soapbox and posted an article over at JavaWorld asking people to <a href="http://www.javaworld.com/javaworld/jw-04-2012/120416-jwsoapbox-stop-the-fud-about-javafx.html">please stop the Java desktop FUD</a>.</li>
+	<li><strong>Jim Weaver</strong> has posted about <a href="http://www.oracle.com/technetwork/articles/java/fxbest-1583679.html">best practices for JavaFX 2 enterprise applications</a>.</li>
+	<li><strong>Terrence Barr</strong> notes something odd: <a href="http://terrencebarr.wordpress.com/2012/04/19/javafx-2-making-client-apps-sexy-again/">client apps are becoming sexy again</a>! He has a heap of links for you to peruse.</li>
+	<li><strong>Stephen Chin</strong> and <strong>Luc Duponcheel</strong> recently presented about using JavaFX with Scala. You can <a href="http://www.slideshare.net/steveonjava/javafx-and-scala-like-milk-and-cookies">check out their slides</a> if you're interested.</li>
+	<li><strong>Carl Dea</strong> has updated his <a href="http://carlfx.wordpress.com/2012/04/09/javafx-2-gametutorial-part-2/">JavaFX game tutorial</a> to include a link to his <a href="https://github.com/carldea/JFXGen">source code at Github</a>.</li>
+	<li><strong>Adam Bien</strong> has a code snippet to show how to <a href="http://www.adam-bien.com/roller/abien/entry/completely_transparent_windows_stage_in">set the main Stage of a JavaFX application to be transparent</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has two posts this week. Firstly, he asks whether <a href="https://blogs.oracle.com/geertjan/entry/javafx_for_corporate_desktop_apps?utm_source=twitterfeed&amp;utm_medium=twitter">JavaFX can be used for corporate desktop applications</a>. Secondly, he asks for someone to step up and <a href="https://blogs.oracle.com/geertjan/entry/wanted_a_music_sheet_component">provide a JavaFX-based music sheet component</a>.</li>
+</ul>
+<p>That's all for this week. Feel free to send me a link if you think you've done something that your peers may be interested in. You can always find my contact details to the right. Catch you all next week :-)</p>
+]]></Content>
+	</post>

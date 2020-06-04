@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>998</ID>
+		<Slug>a-simple-javafx-2-0-tableview-example</Slug>
+		<Title>A simple JavaFX 2.0 TableView example</Title>
+		<Date>2011-03-01</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>I wanted to quickly show the current state of how a TableView may be built in JavaFX 2.0. I just copied the <a href="http://www.adam-bien.com/roller/abien/entry/hello_javafx_2_a_tableview">demo created by Adam Bien</a>, and pasted it into my blog software, so apologies for typos. The approach shown here depends on the data that is backing the TableView being a Bean - if this is the case you can simply provide the relevant PropertyReference for that column and it'll be populated as expected.</p>
+
+<p>There are alternative approaches to this style that are also supported - Adam shows one such approach in his blog post. I am keen to hear what people out there think about the API that Adam and I have shown in our posts, and what else you would like to see.</p>
+
+<p>The code below creates a TableView that is populated from an ObservableList. This means that should this collection ever be modified, the TableView will immediately be updated to reflect these changes. It even watches the provided properties of the Person objects, such that if the Person.FIRST_NAME or Person.LAST_NAME values change for any visible row, that cell will automatically be refreshed also.</p>
+
+<p>Before I get to the code, I just want to add the normal, but very important disclaimer: this code is written using an API that isn't public yet. By the time it is public, it may have changed drastically. Do not assume anything you see here will be in the final API. Also, this code sample is my own creation (and derived from Adam's linked above) - it is not provided by Oracle and does not represent them.</p>
+
+<p> </p>
+
+<pre class="code_block"><code class="java">import javafx.application.Application;
+import javafx.application.Launcher;
+import javafx.collections.FXCollections;
+import javafx.collections.Sequence;
+import javafx.scene.Group;
+import javafx.scene.Node;
+import javafx.scene.Scene;
+import javafx.scene.control.table.TableColumn;
+import javafx.scene.control.table.TableView;
+import javafx.scene.control.table.model.SequenceTableModel;
+import javafx.stage.Stage;
+
+public class Main extends Application {
+
+    @Override
+    public void start() {
+        Stage stage = new Stage();
+        stage.setTitle("Hello Table");
+
+        final Group root = new Group();
+        Scene scene = new Scene(root);
+        stage.setScene(scene);
+
+        Sequence children = root.getChildren();
+        children.add(getTableView());
+
+        stage.setVisible(true);
+    }
+
+    public TableView getTableView() {
+        ObservableList&lt;Person&gt; data = FXCollections.&lt;Person&gt;sequence(
+                new Person("Duke", "Java"),
+                new Person("DukeFX", "JavaFX"));
+
+        TableView&lt;Person&gt; tableView = new TableView&lt;Person&gt;();
+        tableView.setItems(data);
+
+        TableColumn firstNameCol = new TableColumn("First");
+        firstNameCol.setProperty(Person.FIRST_NAME);
+
+        TableColumn lastNameCol = new TableColumn("Last");
+        lastNameCol.setProperty(Person.LAST_NAME);
+
+        tableView.getColumns().addAll(firstNameCol, lastNameCol);
+
+        return tableView;
+    }
+
+    public static void main(String[] args) {
+        Launcher.launch(Main.class, args);
+    }
+}
+
+
+public class Person implements Bean {
+
+    private String firstName;
+    private String lastName;
+
+    public Person(String firstName, String lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+    //with getters and other Bean functionality
+}</code></pre> 
+
+]]></Content>
+	</post>

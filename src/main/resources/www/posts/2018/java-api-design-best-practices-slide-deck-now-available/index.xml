@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3051</ID>
+		<Slug>java-api-design-best-practices-slide-deck-now-available</Slug>
+		<Title>Java API Design Best Practices Slide Deck Now Available</Title>
+		<Date>2018-06-12</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p><img class="aligncenter size-large wp-image-3052" src="/content/2018/06/API_Best_Practices-2-1024x573.png" alt="" width="688" height="385"></p>
+
+<p><strong>Important Note:</strong>&nbsp;Because I give this presentation every now and then, and therefore revise my advice, I've created a <a href="/java-api-design-best-practices.html">separate page with the download links</a>. I suggest you download the latest slide deck on that page!</p>
+
+<p>I spent a lot of time building a new slide deck for a few conferences I had coming up (JDK.io, Devoxx Poland, and JavaZone). The purpose of the presentation was to try to teach all attendees some new information about the process required to build API. Unfortunately, it's impossible to dive too deeply in 50-60 minutes, and everyone has different levels of skills. My hope therefore is simply that all attendees leave the presentation with at least one new piece of insight. I hope that I've managed to achieve at least that :-)</p>
+
+<p>Since I've now presented this session at JDK.io, I've been asked to share this content more widely, and I'm happy to do so. It is now available on the&nbsp;<a href="/java-api-design-best-practices.html">presentation overview page</a>.</p>
+]]></Content>
+	</post>

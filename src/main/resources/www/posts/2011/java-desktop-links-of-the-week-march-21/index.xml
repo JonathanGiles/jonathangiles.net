@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1017</ID>
+		<Slug>java-desktop-links-of-the-week-march-21</Slug>
+		<Title>Java desktop links of the week, March 21</Title>
+		<Date>2011-03-21</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx|swing</Tags>
+		<Content><![CDATA[<p>Howdy all. Here's your links of the week:</p>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Rhiannon Liebowitz</strong> blogged about '<a href="http://www.javaswingcomponents.com/blog/swing-based-twitter-client-will-never-be">the Swing-based Twitter client, that will never be</a>'. This is a blog post about a project his company was working on to create a compelling Twitter client using Swing. Unfortunately, with the recent announcement from Twitter regarding their change in policy, this has now been abandoned by Rhiannon. There is an executable JAR file at the end of the blog post if you want to give it a whirl.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> was recently <a href="http://www.infoq.com/news/2011/03/jfx2ea">interviewed by InfoQ regarding JavaFX 2.0</a>.<strong></strong></li>
+	<li><strong>Geertjan Wielenga</strong> blogged about the <a href="http://blogs.sun.com/geertjan/entry/air_traffic_control_html_display">potential usefulness of the JavaFX WebView component</a>. This is a part of JavaFX 2.0 - a fully fledged web browser component that can be embedded in your JavaFX applications. Also, because JavaFX 2.0 supports being embedded inside Swing applications, you can also use the WebView in Swing.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> let me know that within the next 24 hours Griffon 0.9.2 will be released. You can <a href="http://groovy.dzone.com/announcements/griffon-092-released">read the announcement here</a>, and also read more about <a href="http://docs.codehaus.org/display/GRIFFON/Griffon+0.9.2">what's new and different in Griffon 0.9.2 here</a>.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has bloged about the <a href="http://www.joshondesign.com/2011/03/14/amino-2-overall-design/">overall design goals of Amino 2</a>, his UI toolkit project. He also put up a <a href="http://demo.joshy.org/Amino/Visualizer/VisualizerTest.html">visualizer test</a> that uses the JavaScript-based Amino implementation.</li>
+</ul>
+<p>Catch you all in a weeks time :-)</p>
+]]></Content>
+	</post>

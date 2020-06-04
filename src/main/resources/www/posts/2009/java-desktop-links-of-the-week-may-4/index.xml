@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>335</ID>
+		<Slug>java-desktop-links-of-the-week-may-4</Slug>
+		<Title>Java desktop links of the week, May 4</Title>
+		<Date>2009-05-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>java|java desktop|javafx|Swing Links</Tags>
+		<Content><![CDATA[<p>Weeks seem to be speeding by at the moment, but the volume of news is still massive. Here is the most important news from the last week:</p>
+<h3>General</h3>
+<ul>
+	<li><strong>David Salter</strong> posts with <a href="http://davidsalter.co.uk/blog/?p=332">hints on how to optimise Eclipse</a> .</li>
+</ul>
+<h3>Swing</h3>
+<ul>
+	<li><strong>Eric Burke </strong> messaged me to let me know that the company he works for, Object Computing, Inc, has put up an article titled '<a href="http://jnb.ociweb.com/jnb/jnbMay2009.html">MiGLayout: The one Java layout manager that does it all</a> '. It looks to be a very good article, and one that I'll definitely read given some free time. At present, I have never used MiGLayout - I'm still using JGoodies FormLayout, which I understand to be the foundation for the concepts in MiGLayout. I'd love to move to MiGLayout someday, as I know how much more productive I am using these kinds of layout managers.</li>
+	<li>Java 7 just got <a href="http://hg.openjdk.java.net/jdk7/jdk7/jdk/rev/9cb0aecf54bd">public API support for shaped and translucent windows</a> , and <strong>Kirill Grouchnikov</strong> is kind enough to provide <a href="http://www.pushing-pixels.org/?p=1209">an overview of the changes.</a></li>
+	<li><strong>Jean-Francois Poilpret</strong> posts an<a href="http://jfpoilpret.blogspot.com/2009/05/designgridlayout-where-do-we-stand.html"> update detailing the current state of play for the DesignGridLayout project</a> , a layout manager for Swing. He is working towards a new release, due for release in the next <span style="text-decoration: line-through;">four or five months</span> two to three months.</li>
+	<li><strong>Fabrizio Giudici</strong> asks '<a href="http://netbeans.dzone.com/news/which-logging-facility-swing">which logging facility [should be used] for Swing applications?</a> '. An interesting discussion into the murky world of logging :-)</li>
+	<li>I come across a post which might be of interest, even though it's a little dated. It is about <a href="http://nadeausoftware.com/articles/2008/08/java_tip_use_gradient_backgrounds_add_interest_and_polish_user_interface">using gradients to improve the look and feel of your application</a> .</li>
+	<li><strong>Michael Schnell</strong> emailed me about <a href="http://www.fuin.org/jmsmvc4swing/background.html">an article he has written about the MVC pattern in Java</a> . Due to it's length I can't say I've had a chance to read it, but it's there if anyone is interested.</li>
+	<li>I was emailed by <strong>Nicolas de Pomereu</strong> , who wanted to introduce everyone to <a href="http://www.cgeep.com/index-en.html">cGeep, a commercial encryption application written using Swing</a> .</li>
+	<li><strong>Lilian Chamontin</strong> emailed me to let me know that VLSolutions has released their <a href="http://www.vlsolutions.com/en/products/docking/release3.php">VLDocking docking framework as a dual-licensed LGPL / Commercial library</a> , with a focus on LGPL. This replaces the previous CeCILL (GPL) license that was used.</li>
+</ul>
+<h3>JavaFX</h3>
+<ul>
+	<li><strong>James Sugrue</strong> started a <a href="http://java.dzone.com/articles/javafx-im-starting-believe">pretty big discussion regarding JavaFX and it's feasibility</a> .</li>
+	<li><strong>Michael Heinrichs</strong> continues his detailed articles, this time he is focusing on <a href="http://java.sun.com/developer/technicalArticles/javafx/mobile/index.html">best practices for improving performance in JavaFX mobile applications</a> .</li>
+	<li><strong>Jeff Frieson</strong> posts an <a href="http://www.javaworld.com/community/node/2854">example of the emboss effect available in the JavaFX language</a> .</li>
+	<li><strong>Rakesh Menon</strong> posts a <a href="http://jfxstudio.wordpress.com/2009/04/30/simple-fish-eye-menu/">simple fish eye menu example, with source code included</a> .</li>
+	<li>Rakesh Menon also has a post detailing <a href="http://blogs.sun.com/rakeshmenonp/entry/javafx_always_on_top">how to achieve 'always on top' for JavaFX applications</a> .</li>
+	<li>JavaFX.com has a few new or updated articles, including <a href="http://javafx.com/docs/articles/animation_basics/">animation basics</a> , <a href="http://www.javafx.com/docs/techtips/reload/">how to create a quick and dirty reload button</a> , <a href="http://www.javafx.com/docs/techtips/deployment_toolkit/">how to develop and run offline applications</a> and <a href="http://blogs.sun.com/javafx/entry/go_from_beginner_to_intermediate">how to go from beginner to intermediate in JavaFX</a> .</li>
+	<li><strong>Raghu Nair</strong> posts <a href="http://blogs.sun.com/raghunair/entry/creating_a_media_player">how to show a media progress bar for a media player in JavaFX</a> .</li>
+</ul>
+<h3>Pivot</h3>
+<ul>
+	<li><strong>Todd Volkert</strong> posts about an <a href="http://java.dzone.com/articles/table-row-editing-apache-pivot">approach for table row editing in Apache Pivot</a> .</li>
+</ul>
+<p>Have a great week everyone, and as always, make sure you spend time away from the computer with friends and family!</p>
+]]></Content>
+	</post>

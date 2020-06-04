@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>161</ID>
+		<Slug>advanced-java</Slug>
+		<Title>Advanced Java </Title>
+		<Date>2008-06-15</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>java|software</Tags>
+		<Content><![CDATA[<p>As I think I noted recently, I've been doing study towards a Sun Certified Java Programmer (SCJP) certification. It is progressing well, and I'm learning a lot. I really should publish the study notes that I'm hand writing as I learn new things some time...</p>
+
+<p>Anyway, I thought I'd link to a few documents that I have read recently that are quite interesting.</p>
+
+<p>The <a href="http://java.sun.com/j2se/1.5/pdf/generics-tutorial.pdf">first document</a> discusses Java generics, introduced in Java 5. Most people get the basics, but there are some interesting issues with generics such as erasure, wildcards, and generics inheritance. This is a very good article to read if you are programming in Java 5 or later (which you should be if at all possible!).</p>
+
+<p>The <a href="http://java.sun.com/developer/JDCTechTips/2004/tt1201.html#2">second article</a> is shorter, but discusses convariant return types, and how Java 5 changes the rules compared with earlier releases. Once again, very interesting if you wonder what the rules are when it comes to overriding methods in Java 5 and later.</p>
+
+<p>Unfortunately I haven't been keeping track of earlier documents, so I have no more links - but I'll try to keep posting any interesting documents here in the future.</p>
+]]></Content>
+	</post>

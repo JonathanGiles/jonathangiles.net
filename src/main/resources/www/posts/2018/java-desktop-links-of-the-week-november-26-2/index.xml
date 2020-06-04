@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>3199</ID>
+		<Slug>java-desktop-links-of-the-week-november-26-2</Slug>
+		<Title>Java desktop links of the week, November 26</Title>
+		<Date>2018-11-25</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Peter Rogge</strong> has <a href="https://github.com/Naoghuman/lib-i18n">updated Lib-I18N to version 0.6.0</a>, which includes more unit tests and improved documentation.</li>
+ 	<li><strong>Peter</strong> has also <a href="https://github.com/Naoghuman/app-yin-yang">released Yin-Yang 0.8.0</a>. This application is a sample app that uses JavaFX features like borderless windows, multilingualism, animations, etc.</li>
+ 	<li><a href="https://github.com/FXMisc/RichTextFX" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://github.com/FXMisc/RichTextFX&amp;source=gmail&amp;ust=1543258492808000&amp;usg=AFQjCNGtHMrYBhyR2vDeD6SttdRhnsa0Fg">RichTextFX 0.9.2</a>&nbsp;has been released. A few bug fixes and a memory leak issue have been addressed with this release.</li>
+ 	<li><strong>Adam Carroll</strong> has&nbsp;released an update for Santulator, which adds ability to <a href="https://vocabhunter.github.io/2018/11/25/santulator-v1.1.0-released.html">import a spreadsheet containing the names of participants</a>.</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1573</ID>
+		<Slug>java-desktop-links-of-the-week-september-30-2</Slug>
+		<Title>Java desktop links of the week, September 30</Title>
+		<Date>2013-09-29</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Well, JavaOne is over and people are returning back to their home countries, hopefully energised and excited about where Java is heading. For that reason the amount of news this week is understandably light, but nonetheless, let's get into the news.</p>
+<h4>JavaOne</h4>
+<ul>
+	<li>You can watch the JavaOne <a href="http://medianetwork.oracle.com/video/player/2685497644001">Strategy Keynote</a>, JavaOne <a href="http://medianetwork.oracle.com/video/player/2685720528001">Technical Keynote</a> and JavaOne <a href="http://medianetwork.oracle.com/video/player/2698223954001">Community Keynote</a> videos online now.</li>
+	<li><strong>Jasper Potts</strong> has posted a video of the <a href="http://vimeo.com/75368008">chess robot</a> demonstrated at JavaOne last week. The interesting thing about this chess robot is that it is running with a Raspberry Pi and the software is coded in Java.</li>
+</ul>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Hendrik Ebbers</strong> has posted slides and details from his talks at JavaOne (along with <strong>Claudine Zillmann</strong> and <strong>Johan Vos</strong>). Firstly, <strong>Claudine</strong> and <strong>Hendrik</strong> have a post about <a href="http://www.guigarage.com/2013/09/make-your-app-smile-d/">getting emoji's into JavaFX applications</a>. Secondly, <strong>Hendrik</strong> has posted the slides from his "<a href="http://www.guigarage.com/2013/09/lets-get-wet/">Let's get wet</a>" talk that he and <strong>Claudine</strong> presented regarding their AquaFX skin and CSS research. Thirdly, <strong>Claudine</strong> and <strong>Hendrik</strong> announced <a href="http://www.guigarage.com/2013/09/flatter/">Flatter</a>, which is a new CSS style for JavaFX designed for touch screens and embedded devices. Finally, <strong>Johan Vos</strong> and <strong>Hendrik</strong> presented on <a href="http://www.guigarage.com/2013/09/datafx-the-best-way-to-get-real-world-data-into-your-javafx-application/">DataFX</a>, which is "the best way to get real-world data into your JavaFX application".</li>
+	<li><strong>Michael Hoffer</strong> has published a YouTube video summarising his JavaOne tutorial on '<a href="http://mihosoft.eu/?p=934">Creating Amazing Scientific Visualization Tools with JavaFX 8</a>'. It's a good (and long) video, and well worth watching.</li>
+	<li><strong>Jim Laskey</strong> has blogged about <a href="https://blogs.oracle.com/nashorn/entry/setinterval_and_settimeout_javascript_functions">how to implement setInterval and setTimeout JavaFX functions in JavaScript</a> so that they may be used from Nashorn.</li>
+	<li><strong>yWorks</strong> have announced <a href="http://www.yworks.com/en/products_yfilesjavafx_about.html">yFiles for JavaFX</a>, which is a (commercial) library that allows you to create JavaFX diagramming applications that use the full range of possibilities provided by the JavaFX framework.</li>
+</ul>
+<p>Catch you all next week! :-)</p>
+]]></Content>
+	</post>

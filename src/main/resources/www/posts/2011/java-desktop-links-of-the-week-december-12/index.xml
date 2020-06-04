@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1156</ID>
+		<Slug>java-desktop-links-of-the-week-december-12</Slug>
+		<Title>Java desktop links of the week, December 12</Title>
+		<Date>2011-12-11</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Welcome to yet another Java desktop links of the week. There is, as seems to be the case these days, a heap of links. Hopefully you all find something of interest. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>More JavaOne presentations are <a href="http://www.parleys.com/#st=4&amp;id=102979">available online</a> at Parleys.com. One of the presentations I gave is now available online also (<a href="http://www.parleys.com/#st=5&amp;id=2789&amp;sl=1">Custom UI Controls and Charts in JavaFX 2.0</a>).</li>
+	<li><strong>Richard Bair</strong> posted to the openjfx-dev mailing list instructions on <a href="http://mail.openjdk.java.net/pipermail/openjfx-dev/2011-December/000058.html">how to build the open source JavaFX UI controls code</a>. It is likely that we'll publish a slightly more proper version of these instructions that I will link to next week.</li>
+	<li>The <strong>Silicon Valley JavaFX Users Group</strong> has another meetup <span style="text-decoration: underline;">this week</span>. This time it is <strong>Per Bothner</strong> <a href="http://www.svjugfx.org/events/39713642/?a=me2p_grp&amp;eventId=39713642&amp;action=detail&amp;rv=me2p&amp;rv=me2p">presenting the JavaFX WebView component</a>. As always, if you can't be there in person they will be live-streaming the event, which often works well and is well-worth attending if you have the time.</li>
+	<li><strong>Dan Zwolenski</strong> has put up a blog titled "<a href="http://www.zenjava.com/2011/12/11/javafx-and-mvp-a-smorgasbord-of-design-patterns/">JavaFX and MVP – a smörgåsbord of design patterns</a>".</li>
+	<li>For those who use gradle, there is now a <a href="http://code.google.com/p/gradle-plugin-javafx/">JavaFX plugin available for it</a>.</li>
+	<li><strong>Carl Dea</strong> has published his booked titled '<a href="http://www.amazon.com/JavaFX-2-0-Introduction-Carl-Dea/dp/1430242574/ref=sr_1_1?ie=UTF8&amp;qid=1323290921&amp;sr=8-1&amp;tag=rnwff-20">JavaFX 2.0: Introduction by Example</a>'. I haven't read the book, so I can't offer any feedback on it yet.</li>
+	<li><strong>Eric Bruno</strong> has blogged about <a href="http://drdobbs.com/blogs/java/232200699">creating a custom JavaFX container</a>.</li>
+	<li><strong>Jim Kay</strong> has blogged about '<a href="http://designjk.wordpress.com/2011/12/09/experiments-in-3d-in-javafx-2-0/">experiments in 3D in JavaFX 2.0</a>'.</li>
+	<li><strong>John Smith</strong> has created a <a href="http://jewelsea.wordpress.com/2011/12/05/jqueryui-based-datepicker-for-javafx/">jQuery-based DatePicker</a> 'control' that you can use in your own JavaFX applications.</li>
+	<li><strong>Sam Howard</strong> has blogged about <a href="http://www.jpedal.org/PDFblog/2011/12/writing-a-pdf-viewer-in-javafx-2-0/">writing a PDF viewer in JavaFX 2.0</a>. In a separate post, he announces the <a href="http://www.jpedal.org/PDFblog/2011/12/netbeans-pdf-to-javafx-plugin-released/">release of a NetBeans plugin</a> that allows for viewing PDFs inside NetBeans, as well as the ability to convert PDF files into JavaFX scenegraphs. In a third link, Sam provides the download details for a JavaFX library that allows for <a href="http://www.jpedal.org/jpedalfx.php">viewing PDF files inside JavaFX</a>.</li>
+	<li><strong>Geertjan Wielenga</strong> has put up a few JavaFX-related posts this week around integrating JavaFX with NetBeans. Firstly he talks about a <a href="http://blogs.oracle.com/geertjan/entry/a_docking_framework_module_system">docking framework and module system for JavaFX 2.0</a>. In his second post he talks about enabling <a href="http://blogs.oracle.com/geertjan/entry/deeper_integration_of_javafx_in">deeper integration of JavaFX 2.0 into NetBeans</a>. Thirdly, <strong>Geertjan</strong> notes that JavaFX 2.0 (and most notably the 'Henley Sales' end-to-end sample) <a href="http://blogs.oracle.com/geertjan/entry/javafx_wows_javaone_latin_america">wowed JavaOne Latin America</a>. Finally, <strong>Geertjan</strong> thanks JavaFX for providing an <a href="http://blogs.oracle.com/geertjan/entry/thanks_javafx_embedded_browser_for">embedded browser for NetBeans</a>.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Dave Gilbert</strong> has put up another blog post discussing <a href="http://www.jroller.com/dgilbert/entry/jfreechart_1_0_14_new1">more new features in JFreeChart 1.0.14</a>.</li>
+	<li><strong>Jide Software</strong> have released <a href="http://www.jidesoft.com/history/">update 3.3.1 of their libraries</a>.</li>
+</ul>
+<p>Catch you all next week...</p>
+]]></Content>
+	</post>

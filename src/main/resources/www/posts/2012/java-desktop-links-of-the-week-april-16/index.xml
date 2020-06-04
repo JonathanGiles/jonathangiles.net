@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1231</ID>
+		<Slug>java-desktop-links-of-the-week-april-16</Slug>
+		<Title>Java desktop links of the week, April 16</Title>
+		<Date>2012-04-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>Hey everyone - I'm back in the chair this week having just returned from Japan where I presented at JavaOne and then took a vacation. Thanks to <strong>Carl Dea</strong> for stepping in for me the last two weeks to keep the links flowing, and for also finding a bunch of links for this weeks post. I apologise if your link has been missed (please let me know), and I also apologise if I repeat a link that has already been posted. With that, let's get into the links! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Jasper Potts</strong> was interviewed by the Java Spotlight podcast whilst we were in Japan. He talks extensively about the <a href="https://blogs.oracle.com/javaspotlight/entry/java_spotlight_episode_78_jasper">recent developer preview release of Scene Builder</a>.</li>
+	<li><strong>Adam Bien</strong> has blogged about <a href="http://www.adam-bien.com/roller/abien/entry/daily_building_java_fx_2">building JavaFX 2 using Maven 3</a>.</li>
+	<li><strong>Tom Schindl</strong> has two blog posts up regarding JavaFX and Eclipse xtend being a <a href="http://tomsondev.bestsolution.at/2012/04/11/javafx-xtend-a-perfect-match/">perfect match</a>, and a <a href="http://tomsondev.bestsolution.at/2012/04/11/javafx-xtend-a-sensational-perfect-match/">sensationally perfect match</a> :-)</li>
+	<li><strong>Software4Java.com</strong> has got <a href="http://blog.software4java.com/?p=5">three</a> <a href="http://blog.software4java.com/?p=15">interesting</a> <a href="http://blog.software4java.com/?p=24">blog</a> posts about creating custom CSS styling for Mac OS and iOS. This is very cool and I would love to see more people working together in a project to create 'native' looks for JavaFX.</li>
+	<li><strong>Jason Lee</strong> will show you how to get Java 7, NetBeans, and JavaFX 2 running on Mac OS X. Well written <a href="http://blogs.steeplesoft.com/2012/04/java-7-netbeans-mac-os-x-and-a-little-bit-of-javafx-2/">instructions</a> to get you on your way.</li>
+	<li><strong>Carl Dea</strong> has posted <a href="http://carlfx.wordpress.com/2012/04/09/javafx-2-gametutorial-part-2/">part two</a> of his JavaFX 2 game tutorial.</li>
+	<li><strong>Sai Dandem</strong> of e-Zest blogs about creating a <a href="http://www.e-zest.net/blog/calendar-control-in-javafx-2-0/">custom calendar control</a> and how to use JavaFX animations to transition regions. (<a href="http://www.e-zest.net/blog/sliding-in-javafx-its-all-about-clipping/">It’s all about clipping</a>). Another blog entry about creating a <a href="http://www.e-zest.net/blog/percent-width-for-tablecolumn-in-javafx-2-x-tableview/">custom JavaFX TableColumn</a> allowing you to adjust column widths using a percentage similar to a Html table tag element.</li>
+	<li><strong>Anton Epple </strong>has created an A <a href="http://88.198.17.44/blog/2012/04/09/hello-world-example-in-javafx-and-jbox2d/">Hello World example in JavaFX and JBox2D</a>. He then has a follow-up blog entry that goes on to demonstrate a way to apply a <a href="http://88.198.17.44/blog/2012/04/09/custom-renderer-in-javafx-and-jbox2d/">custom renderer</a> onto nodes called a NodeProvider interface.&nbsp; Another post talks about adding <a href="http://88.198.17.44/blog/2012/04/12/add-custom-components-to-fxml-using-builderfactory/">custom components to FXML using BuilderFactory</a>. He then begins experimenting with <a href="http://88.198.17.44/blog/2012/04/11/make-fxexperience-tools-extensible/">adding extensibility to the FX Experience tools application</a>, which he then <a href="http://88.198.17.44/blog/2012/04/12/update-to-my-fxexperience-tools-plugin/">updated in a separate post</a>. Finally, he talks about <a href="http://88.198.17.44/blog/2012/04/14/using-scenebuilder-for-designing-javafx-pinball-bumpers/">using Scene Builder to create the desired node designs</a> that he can then use in his pinball application.</li>
+	<li><strong><a title="Posts by introjava" href="http://introjava.wordpress.com/author/introjava/">introjava</a></strong> posts a very nice example of how to create a <a href="http://introjava.wordpress.com/2012/04/08/java-fx-2-ribbon-menu/">ribbon component</a> similar to Microsoft Office applications using JavaFX.</li>
+</ul>
+<p>Catch you all next week! :-)</p>
+]]></Content>
+	</post>

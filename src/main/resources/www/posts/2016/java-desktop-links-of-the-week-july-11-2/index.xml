@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2133</ID>
+		<Slug>java-desktop-links-of-the-week-july-11-2</Slug>
+		<Title>Java desktop links of the week, July 11</Title>
+		<Date>2016-07-10</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+ 	<li><strong>Gerrit Grunwald</strong> has been mentioned a number of times this week. Firstly, he was interviewed about his <a href="https://blogs.oracle.com/javaone/entry/javafx_with_gerrit_grunwald">experiences and thoughts on JavaFX</a>. Secondly, he published another of his Friday Fun Components, this time a simple '<a href="http://harmoniccode.blogspot.co.nz/2016/07/friday-fun-xxxiii.html">ChargeControl</a>'. Finally, he is <a href="http://www.meetup.com/svjugfx/events/229969534/">presenting a 'custom controls' talk</a> to the Silicon Valley JavaFX Users Group on July 20. As usual this will be live-streamed, so you can attend from anywhere in the world.</li>
+ 	<li><strong>Almas Baimagambetov</strong> let me know he has released an update to his <a href="http://almasb.github.io/FXGL/">FXGL project</a>. FXGL is a&nbsp;JavaFX 8 Game Library written in Java and Kotlin.</li>
+ 	<li><strong>Edvin Syse</strong> has posted <a href="https://github.com/edvin/tornadofx/wiki/ViewModel">updated documentation for the view model</a> in TornadoFX. TornadoFX is a lightweight JavaFX Framework for Kotlin.</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1227</ID>
+		<Slug>java-desktop-links-of-the-week-april-9</Slug>
+		<Title>Java desktop links of the week, April 9</Title>
+		<Date>2012-04-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>How’s it going everyone? This is <a href="http://fxexperience.com/2012/03/interview-with-carl-dea/">Carl Dea</a> (<a href="http://twitter.com/carldea">@carldea</a>) filling in for <strong>Jonathan Giles</strong> who is/was presenting at <a href="http://www.oracle.com/javaone/jp-ja/english-1481916-ja.html">JavaOne</a> in Tokyo, Japan. Below are this week’s links of the week. The links aren’t in any particular order except for the first one which is about the amazingly cool Scene Builder tool.</p>
+<ul>
+	<li><strong>Richard Bair</strong> (chief architect for the Client Java Platform at Oracle) happily shares the good news about the very cool <a href="http://fxexperience.com/2012/04/announcing-javafx-scene-builder-public-beta/">Scene Builder tool</a> announced during the keynote at JavaOne Tokyo Japan<em>. </em>Here is Oracle’s official site to <a href="http://www.oracle.com/technetwork/java/javafx/tools/index.html">download</a> the preview release.</li>
+	<li><strong>William Antonio</strong> discusses his <a href="http://fxapps.blogspot.com.br/2012/04/first-look-at-javafx-scene-builder-tool.html">first impressions</a> of the latest preview release of the Scene Builder Tool.</li>
+	<li>Halfway around the globe <a href="../">Jonathan Giles</a> managed to present at JavaOne and <a href="http://fxexperience.com/2012/04/interview-with-jim-weaver-and-stephen-chin/">interview</a> Java Champions <strong>Jim Weaver</strong> and <strong>Stephen Chin</strong>. (<strong>Jonathan’s</strong> from the future) :)</li>
+	<li><strong>Manoj Debnath</strong> blogs about <a href="http://www.developer.com/java/web/animation-in-javafx-vs.-flash.html?utm_source=twitterfeed&amp;utm_medium=twitter">Animation in JavaFX vs. Flash</a>. <strong>Manoj</strong> only details JavaFX 2.x and mentions little of Adobe Flash to contrast the two technologies.</li>
+	<li>Java Champion <a href="https://twitter.com/#%21/joshmarinacci">Joshua Marinacci</a> asks kindly if you are a GUI designer or Developer to please take <a href="http://leonardosketch.org/">Leonardo Sketch</a> out for a spin (test). Leo Sketch is a <a href="http://leonardosketch.org/features/">full featured</a> vector drawing tool very much like a scene builder tool. I believe the new JavaFX 2 FXML export feature may be available (ask him). It is a great tool for mocking screens, presentations, and more.</li>
+	<li>A nice <a href="http://blogs.steeplesoft.com/2012/04/book-review-pro-javafx-2-a-definitive-guide-to-rich-clients-with-java-technology/">book review</a> by <strong>Jason Lee</strong> on the recently released book “<a href="http://www.apress.com/9781430268727">Pro JavaFX 2: A Definitive Guide to Rich Clients with Java Technology</a>”</li>
+	<li><strong>Java-Buddy</strong> (mystery person) creates easy to follow tutorials. <strong>Java-Buddy</strong> begins to create an app to <a href="http://java-buddy.blogspot.com/2012/04/free-draw-by-mouseevent.html">free draw</a> using the mouse, and a set of tutorials to transform shapes using <a href="http://java-buddy.blogspot.com/2012/04/javafx-2-apply-transform-of-rotate.html">rotation</a>, <a href="http://java-buddy.blogspot.com/2012/04/javafx-2-transform-of-translate.html">translation</a>, <a href="http://java-buddy.blogspot.com/2012/04/javafx-2-transform-of-scale.html">scale</a>, and <a href="http://java-buddy.blogspot.com/2012/04/javafx-2-transform-of-shear.html">shear</a>.</li>
+	<li>The JavaFX teams released a recent developer preview build of <a href="http://www.oracle.com/technetwork/java/javafx/downloads/devpreview-1429449.html">JavaFX 2.2 build b03</a>. It’s nice to see it available for all the major platforms (Windows, MacOS, and Linux). Be on the lookout for the release notes for all the hard work that has been done.</li>
+	<li><strong>Narayan</strong> has blogged about form<a href="http://blog.ngopal.com.np/2012/04/09/form-field-validation-styles-from-css/"> field validation using CSS styling</a>.</li>
+	<li><strong>introjava</strong> (aka <strong>Gregg Setzer</strong>) has posted a <a href="http://introjava.wordpress.com/2012/04/08/java-fx-2-ribbon-menu/">Ribbon control</a> to his blog. It would be nice to see this in JFXtras at some point soon!</li>
+</ul>
+<p>Well, that’s it for this week I hope you enjoyed the links (I sure did). Keep up the great work! I want to thank <strong>Jonathan</strong> for allowing me to share with you all about the possibilities on the Java platform especially on the desktop.</p>
+
+<p>-Carl</p>
+]]></Content>
+	</post>

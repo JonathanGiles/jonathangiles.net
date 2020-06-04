@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>113</ID>
+		<Slug>obfuscating-java-code-and-continuous-integration</Slug>
+		<Title>Obfuscating Java Code and Continuous Integration</Title>
+		<Date>2007-09-23</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags>plugins-research</Tags>
+		<Content><![CDATA[<p>Java is a funny language - the ease in which code can be decompiled is astonishing. Eclipse plugins exist to make it a simple double-click on a compiled class file.</p>
+
+<p>I spent a fair proportion of time this weekend adding code obfuscation to one of my projects, and it was relatively easy, despite the complexity of the software. Code obfuscation is normally a matter of working out what files to obfuscate, specifying the library code these files depend on, and setting up an ANT task to run it.</p>
+
+<p>In the case of my project, it is somewhat more complex due to its software architecture: it is entirely composed of plugins, which have weak interdependencies. To handle this I developed a few custom ANT tasks to discover each of the plugins, work out their relationships, and then obfuscate appropriately. This is a relatively nice solution, as with the rest of my ANT script, as it means that plugins can be developed with no interaction necessary to reconfigure the build script.</p>
+
+<p>This is particularly nice when it comes to my continuous build server - I get hourly builds (where data has changed in our code repository), and nightly builds regardless that are now fully obfuscated. In addition, my nightly build runs a whole barrage of tests and report generation tools to always keep us informed.</p>
+
+<p>It takes a fair while to set up such a system, but the value is immense - other people involved with this application can download a build that is no more than a day out of date. This allows for frequent testing, as well as the certainty that we can always build our software.</p>
+
+<p>If anyone has suggestions for other things that a continuous integration server should run, then please let me know.</p>
+]]></Content>
+	</post>

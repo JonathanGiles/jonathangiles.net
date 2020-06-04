@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2645</ID>
+		<Slug>java-desktop-links-of-the-week-december-3-2</Slug>
+		<Title>Java desktop links of the week, December 3</Title>
+		<Date>2017-12-03</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>It is crazy that we are already in December. Soon it'll be the festive season, and I hope everyone takes the time to relax and unwind. This week there are only a few links to note, so enjoy :-)</p>
+<ul>
+ 	<li><strong>Gerrit Grunwald</strong> has worked on <a href="https://harmoniccode.blogspot.co.nz/2017/12/friday-fun-liii-sankey-plots.html">Sankey charts</a> for his Friday Fun Component. They look very nice :-)</li>
+ 	<li><strong>Chris Seikatsu</strong> has announced <a href="https://www.angrycomputernerd.com/dyn2d.html">Dyn2d</a>, "a 2d rendering package for JavaFX. It's more than just a game engine. With Dyn2d you can turn your JavaFX application into an interactive experience."</li>
+ 	<li><strong>Thomas Nield</strong> has announced <a href="https://github.com/ReactiveX/RxJavaFX/releases/tag/2.2.1">nullable binding feature</a> for RxJavaFX.</li>
+ 	<li>To indulge me, I announced this week that following my <a href="/posts/2017/farewell-oracle/">leaving of Oracle</a>, I am now happy to announce that my <a href="/posts/2017/hello-microsoft/">new role is at Microsoft</a>, as a senior cloud developer advocate working to grow Java on the Azure cloud.</li>
+</ul>
+]]></Content>
+	</post>

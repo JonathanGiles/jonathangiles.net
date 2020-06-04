@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1883</ID>
+		<Slug>java-desktop-links-of-the-week-march-9</Slug>
+		<Title>Java desktop links of the week, March 9</Title>
+		<Date>2015-03-08</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<ul>
+	<li>The big news this week is that <a href="http://www.oracle.com/us/corporate/press/2436684?rssid=rss_ocom_pr">JDK&nbsp;8u40 was released</a>, including the very latest JavaFX bits. 8u40 is a big release, including a few new UI controls (Spinner, Formatted TextField, and Dialogs), as well as accessibility support on Windows and OS X.</li>
+	<li>For those looking for Scene Builder - it was announced by Oracle that it will <a href="http://www.oracle.com/technetwork/java/javase/downloads/sb2download-2177776.html">only be shipped in source code form</a> from here on out.</li>
+	<li>However, this week saw the <a href="http://gluonhq.com/gluon-has-arrived-2/">arrival of a new JavaFX-related company</a> called <a href="http://www.gluonhq.com">Gluon</a>. Gluon has announced that it will <a href="http://gluonhq.com/gluon-supports-scene-builder/">ship builds of Scene Builder</a>, and even plans to improve support for third party controls, etc. Since that announcement, <a href="http://gluonhq.com/scene-builder-installers-now-available/">Scene Builder installers</a> have also been built and made available.</li>
+	<li><strong>Jens Deters</strong> has announced the <a href="http://www.jensd.de/wordpress/?p=1971">release of&nbsp;FontAwesomeFX 8.2</a>.</li>
+	<li><strong>Sebastiaan Hogenbirk</strong> has blogged about <a href="http://thorwin.blogspot.nl/2015/03/trend-curveline-in-javafx-chart.html">creating a trend curve/line in JavaFX charts</a>.</li>
+	<li><strong>Manuel Mauky</strong> has blogged about <a href="http://www.lestard.eu/2015/treetable_datamodel/">data models for the TreeTableView control</a>, including posting code for recursively built tree hierarchies.</li>
+	<li><strong>René Jahn</strong> has a post about a <a href="http://blog.sibvisions.com/2015/03/06/a-desktoppane-for-javafx/">desktop pane for JavaFX</a>, part of their (open source) JVx framework.</li>
+</ul>
+]]></Content>
+	</post>

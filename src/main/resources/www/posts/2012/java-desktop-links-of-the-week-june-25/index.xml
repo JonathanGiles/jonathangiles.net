@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1264</ID>
+		<Slug>java-desktop-links-of-the-week-june-25</Slug>
+		<Title>Java desktop links of the week, June 25</Title>
+		<Date>2012-06-24</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>griffon|javafx</Tags>
+		<Content><![CDATA[<p>Welcome to another week of links. Enjoy! :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>JavaFX 2.1.1 was released a few weeks back. This was a security release only. However, alongside this release was a few <a href="https://blogs.oracle.com/thejavatutorials/entry/javafx_2_1_1_documentation">updates to the JavaFX documentation</a>.</li>
+	<li>You can watch a presentation given by <strong>Martin Gunnarsson</strong> and <strong>Pär Sikö</strong> on the topic "<a href="http://oredev.org/2011/sessions/get-dressed-for-success--from-swing-to-javafx">Get Dressed for Success - From Swing to JavaFX</a>" that they presented at Oredev. These guys are great presenters, so the presentation is well worth watching.</li>
+	<li><strong>Filipe Portes</strong> has published a project on Github called <a href="https://github.com/filipeportes/ModuleFX">ModuleFX</a>, which "embeds the JavaFX Runtime inside an OSGI bundle, allowing you to create modular JavaFX apps with all the power of OSGI framework, getting the best of Java Rich Client and Modularization worlds together."</li>
+	<li><strong>Jim Weaver</strong> has another article up, this week titled "<a href="http://www.oracle.com/technetwork/articles/java/expressfx-1665720.html">Expressing the UI for Enterprise Applications with JavaFX 2.0 FXML</a>".</li>
+	<li><strong>Gerrit Grunwald</strong> has blogged about the <a href="http://harmoniccode.blogspot.co.nz/2012/06/jfxtras-series-segmented-controls.html">segmented controls in JFXtras</a>.</li>
+	<li><strong>Adam Bien</strong> has put up a video of his LightFish project, which is a <a href="http://lightfish.adam-bien.com/">real-time JavaEE telemetry tool, with a client written in JavaFX</a>.</li>
+</ul>
+<h4>Griffon</h4>
+<ul>
+	<li><strong>Andres Almiray</strong> has blogged about Griffon support for <a href="http://www.jroller.com/aalmiray/entry/the_griffon_trove_checking_edt">determining if your Swing calls are on or off the event dispatch thread</a>.</li>
+</ul>
+]]></Content>
+	</post>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1317</ID>
+		<Slug>java-desktop-links-of-the-week-september-17</Slug>
+		<Title>Java desktop links of the week, September 17</Title>
+		<Date>2012-09-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Hi all and welcome to another weeks worth of Java desktop links! :-) It isn't long until <a href="http://www.oracle.com/javaone/index.html">JavaOne</a> comes around again, so everyone is in the traditional quiet phase whilst they work on their JavaOne talks. I'm sure it'll be another great conference this year (and I can't wait to see a bunch of you there!). Anyway, on with the news!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li>The <strong>Java Spotlight Podcast </strong><a href="https://blogs.oracle.com/javaspotlight/entry/java_spotlight_episode_96_daniel">interviewed a fellow member of the JavaFX team</a>, <strong>Daniel Blaukopf</strong>. He is the Embedded Java Client Architect at Oracle, working on JavaFX embedded functionality.</li>
+	<li>Speaking of JavaOne, there is a <a href="http://netbeans.org/community/articles/javaone/2012/netbeans-day-2012.html">NetBeans community day</a> happening on the Sunday. There will be plenty of talk about JavaFX, so I'll be there. <strong>Geertjan Wielenga</strong> has <a href="http://netbeans.dzone.com/news/meet-experts-java-ee-javafx">written more about it at DZone</a>.</li>
+	<li>Also related to JavaOne, if you're going and you're a fan of Java desktop related topics, you might want to join <strong>Stephen Chin</strong> and I, along with a number of people from Oracle and the community, as well as one very special guest, at the fourth annual Java desktop lunch. If you're interested, <a href="https://docs.google.com/a/jonathangiles.net/spreadsheet/viewform?formkey=dElHSERYY18yemVHdU84d2tnTU9QUnc6MQ#gid=0">please register</a> and we'll be in touch.</li>
+	<li><strong>Gerrit Grunwald</strong> continues to develop his Steel Series gauges as part of the <a href="http://www.jfxtras.org">JFXtras project</a>. This week he has blogged about a new <a href="http://harmoniccode.blogspot.de/2012/09/jfxtras-simplegauge.html">simple gauge</a> he has written, how easy it is to <a href="http://harmoniccode.blogspot.de/2012/09/touch-me.html">add touch support to his gauges</a>, and finally a <a href="http://harmoniccode.blogspot.de/2012/09/da-clock.html">D/A clock</a> based on a real-world clock.</li>
+	<li><strong>Danno Ferrin</strong> has blogged about how to <a href="http://shemnon.posterous.com/fashion-forward-styling-your-custom-controls">style your custom UI controls</a>.</li>
+	<li>Part two of <strong>Jim Weaver's </strong>'<a href="http://www.oracle.com/technetwork/articles/java/expressfxpt2-1837909.html">Expressing the UI for Enterprise Applications with JavaFX 2.0 FXML</a>' series is now available on OTN.</li>
+	<li><strong>Jim Gough</strong> also has three posts this week, firstly he blogs about <a href="http://javajimlondon.blogspot.co.nz/2012/09/javafx-help-too-much-animation-at-same.html">improving animation performance</a> if there are a number of nodes animating independently, secondly he has a <a href="http://javajimlondon.blogspot.co.nz/2012/09/book-review-pro-javafx-2.html">review of the Pro JavaFX 2 book</a>, and thirdly about <a href="http://javajimlondon.blogspot.co.nz/2012/09/javafx-cleanly-closing-fxml-based.html">cleanly closing FXML-based applications</a>.</li>
+	<li><strong>José Pereda</strong> has blogged about developing a <a href="http://jperedadnr.blogspot.com.es/2012/09/a-javafx-weekly-scheduler.html">JavaFX-based weekly scheduler</a>. This is actually a control I'd like to see developed - a proper calendar control with support for filling in your appointments, etc (so like what&nbsp; you have in Google Calendar or <a href="http://migcalendar.com/">MigCalendar</a> basically).</li>
+	<li>A new blog I discovered recently has a bunch of posts on JavaFX, all written by someone going by the name <strong>NotZed</strong>. Posts include topics on <a href="http://a-hackers-craic.blogspot.com.br/2012/09/javafx-slideshow.html">writing a JavaFX slideshow app</a>, creating a <a href="http://a-hackers-craic.blogspot.com.br/2012/09/javafx-media-or-not-and-video-cube.html">video cube</a>, creating an '<a href="http://a-hackers-craic.blogspot.com.br/2012/09/simple-infinite-canvas.html">infinite drawing canvas</a>', and finally he creates a <a href="http://a-hackers-craic.blogspot.com.br/2012/09/smooth-video-list.html">smooth video list</a>.</li>
+</ul>
+<p>That's all for this week - catch you all next week! :-)</p>
+]]></Content>
+	</post>

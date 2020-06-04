@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>2499</ID>
+		<Slug>java-desktop-links-of-the-week-april-24</Slug>
+		<Title>Java desktop links of the week, April 24</Title>
+		<Date>2017-04-23</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Sorry for missing last week - it was Easter weekend and my chore list was overloaded :-)</p>
+<ul>
+ 	<li>There have been a few releases of various JavaFX-related projects on GitHub (without, as far as I know, any blog announcement). These releases are for&nbsp;<a href="https://github.com/AlmasB/FXGL">FXGL</a> (A JavaFX / Kotlin game engine),&nbsp;<a href="https://github.com/Nurtak/ObjectGraphVisualization">ObjectGraphVisualization</a> (a JavaFX app for visualising object graphs in 3D), <a href="https://github.com/netopyr/reduxfx">ReduxFX</a> (a functional reactive programming library for JavaFX), <a href="https://github.com/edvin/tornadofx/releases/tag/v1.7.3">TornadoFX</a> (a JavaFX library for better Kotlin integration), and <a href="https://github.com/dooApp/FXForm2/milestone/21?closed=1">FXForm 2</a> (a form generator for JavaFX).</li>
+ 	<li><strong>Edvin Syse</strong> has posted a video of <a href="https://www.youtube.com/watch?v=qWJUgVvoLEo&amp;feature=youtu.be">how to use TornadoFX wizard from 'plain' JavaFX</a>.</li>
+ 	<li><strong>Jeff Miller</strong> has posted a <a href="http://www.mymiller.name/wordpress/app/devops/javafx-maven-docker-image-openjfx/">JavaFX Maven Docker image</a>.</li>
+ 	<li><strong>Patrick Martin</strong> has released an <a href="http://dexvis.net/">updated version of Dex</a>, his open source JavaFX data visualisation app.</li>
+</ul>
+]]></Content>
+	</post>

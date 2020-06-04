@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1063</ID>
+		<Slug>java-desktop-links-of-the-week-june-20</Slug>
+		<Title>Java desktop links of the week, June 20</Title>
+		<Date>2011-06-20</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx|swing</Tags>
+		<Content><![CDATA[<p>Another week of Java desktop links - hopefully you all find something of interest. Also, thanks to everyone emailing me links!</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Richard Bair</strong> did a quick post talking about the <a href="http://fxexperience.com/2011/06/javafx-code-names/">code names for JavaFX releases</a>.
+<strong></strong></li>
+	<li><strong>Osvaldo Pinali Doederlein</strong> has <a href="http://weblogs.java.net/blog/opinali/archive/2011/06/18/interested-about-javafx-jira-your-friend">trawled through the JavaFX Jira issue database</a> and offered his thoughts on where the JavaFX project is heading (and what issues it has ahead of it).
+<strong></strong></li>
+	<li><strong>jojorabbit4</strong> has blogged about a <a href="http://jojorabbitjavafxblog.wordpress.com/2011/06/17/deck-pane-control/">DeckPane control he has built</a> (and released the source code for). He tells me it is still a work in progress.</li>
+	<li><strong>Narayan Maharjan</strong> has a blog post about <a href="http://blog.ngopal.com.np/?p=821">using the PieChart component</a> to visualise data coming from a database.</li>
+	<li>In another post, <strong>Narayan</strong> has blogged about <a href="http://blog.ngopal.com.np/?p=804">shape intersection, subtraction and union in JavaFX 2.0</a>.</li>
+	<li><strong>Mohamed Sanaulla</strong> has a blog post about <a href="http://blog.sanaulla.info/2011/06/12/sample-application-using-javafx-2-0-beta-and-the-after-thoughts/">using Groovy and JavaFX 2.0 to build a JSON-parsing geo-coding application</a>. I should note that a good chunk of the JavaFX code I see seems redundant - rather than using the listeners (and anonymous inner classes), Mohamed should instead consider using binding (e.g. <code>longitudeValTextBox.textProperty().bind(longitudeProperty)</code>)</li>
+	<li>I put up a very beta release of the <a href="http://jfxcf.jonathangiles.net">JavaFX cell factories</a> project I've been working on.</li>
+</ul>
+<h4>Swing</h4>
+<ul>
+	<li><strong>Gerrit Grunwald</strong> has <a href="http://harmoniccode.blogspot.com/2011/06/steelseries-393.html">released SteelSeries 3.9.3</a>, which, despite the small version number increment, is a huge update over the last release. The number of new features is impressive - certainly more than I can even start to cover in a sentence or two: you'll have to go to Gerrit's blog post to see everything.</li>
+	<li><strong>Alexander Potochkin</strong> carries on with his 'Swing in a better world' series, this time covering <a href="http://weblogs.java.net/blog/alexfromsun/archive/2011/06/15/swing-better-world-listeners">listeners</a>.</li>
+	<li><strong>Hendrik Ebbers</strong> has started a new project called <a href="https://code.google.com/p/jgrid/">jgrid</a>, which is a grid component for Swing.</li>
+	<li><strong>Oracle Learning</strong> put up a video recently on '<a href="http://www.youtube.com/watch?v=6mQYsWCkx4g">using JLayer in Swing applications</a>'.</li>
+</ul>
+<h4>Miscellaneous</h4>
+<ul>
+	<li><strong>Josh Marinacci</strong> has put up a new <a href="http://leonardosketch.org/2011/06/187/">build of his Leonardo drawing tool</a> (which is built using the <a href="http://goamino.org/">Amino UI toolkit</a>).</li>
+</ul>
+<p>That's all I have for you this week. I'll see you in a weeks time :-)</p>
+]]></Content>
+	</post>

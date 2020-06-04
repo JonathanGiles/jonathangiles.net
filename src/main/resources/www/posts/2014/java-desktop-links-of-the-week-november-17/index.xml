@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1833</ID>
+		<Slug>java-desktop-links-of-the-week-november-17</Slug>
+		<Title>Java desktop links of the week, November 17</Title>
+		<Date>2014-11-16</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags/>
+		<Content><![CDATA[<p>A few good links this week - enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has posted about <a href="http://tomsondev.bestsolution.at/2014/11/12/animated-path-morphing-in-javafx/">animated path morphing in JavaFX</a>, which looks quite cool :-)</li>
+	<li><strong>Hendrik Ebbers</strong> has a post on creating <a href="http://www.guigarage.com/2014/11/hand-drawing-effect-javafx/">'hand-drawing' effects with JavaFX</a> which, again, looks cool :-)</li>
+	<li><strong>Jens Deters</strong> has <a href="http://www.jensd.de/wordpress/?p=1688">released 0.0.11 of MQTT.fx</a>, which includes a bunch of new features.</li>
+	<li><strong>Carlos Martins</strong> has created a new open source called <a href="http://juffrou.github.io/fx-serials/">FX-serials</a>, which "transforms traditional Java Beans into JavaFX2 Beans by adding property methods which return the appropriate JavaFX property type." He also has a small <a href="http://makeitmartins.blogspot.pt/2014/11/automagical-javafx2-beans.html">blog post with further details</a>.</li>
+	<li><strong>Dirk Lemmermann</strong> has created a page summarising a number of <a href="http://dlsc.com/index.php/training/javafx-resources">JavaFX resources that exist around the web</a>, which is well worth checking out.</li>
+	<li><strong>Carl</strong> has two posts - firstly, one on <a href="http://bekwam.blogspot.co.nz/2014/11/javafx-dependency-injection-with-google.html">JavaFX dependency injection with Google Guice</a>, and secondly one on JavaFX <a href="http://bekwam.blogspot.co.nz/2014/11/javafx-text-manipulation-fuctions.html">text manipulation functions</a>.</li>
+</ul>
+<p>Catch you all next week!</p>
+]]></Content>
+	</post>

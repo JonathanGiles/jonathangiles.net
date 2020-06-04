@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>1872</ID>
+		<Slug>java-desktop-links-of-the-week-february-16</Slug>
+		<Title>Java desktop links of the week, February 16</Title>
+		<Date>2015-02-15</Date>
+		<Status>publish</Status>
+		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
+		<Tags>javafx</Tags>
+		<Content><![CDATA[<p>Who would've thought it - more links! Enjoy :-)</p>
+<h4>JavaFX</h4>
+<ul>
+	<li><strong>Tom Schindl</strong> has blogged about&nbsp;<a href="http://tomsondev.bestsolution.at/2015/02/13/how-to-create-an-editor-with-syntax-highlighting-for-java/">how to create an editor with syntax highlighting for Java</a>.</li>
+	<li><strong>Adam Bien</strong> has announced the <a href="http://www.adam-bien.com/roller/abien/entry/afterburner_fx_1_6_2">release of Afterburner.fx 1.6.2</a>, which includes a few community-contributed bug fixes and improvements.</li>
+	<li><strong>Tomas Mikula</strong> has three posts this week, titled '<a href="http://tomasmikula.github.io/blog/2015/02/10/val-a-better-observablevalue.html">Val&lt;T&gt;: a better ObservableValue</a>', '<a href="http://tomasmikula.github.io/blog/2015/02/10/the-trouble-with-weak-listeners.html">The Trouble with Weak Listeners</a>', and '<a href="http://tomasmikula.github.io/blog/2015/02/13/animated-transitions-made-easy.html">Animated Transitions Made Easy</a>'.</li>
+	<li><strong>Hendrik Ebbers</strong> has a post titled '<a href="http://www.guigarage.com/2015/02/quick-overview-datafx-mvc-flow-api/">a&nbsp;quick overview to the DataFX MVC and Flow API</a>'.</li>
+	<li><strong>José Pereda</strong> has posted a <a href="https://github.com/jperedadnr/15FX/releases">new release of 15FX</a>, a "JavaFX version of the classic game 'Fifteen', for Android devices".</li>
+	<li><strong>Christian Schudt</strong> has posted about '<a href="http://babbler-xmpp.blogspot.de/2015/02/bringing-xmpp-chat-states-to-javafx.html">Bringing XMPP Chat States to JavaFX</a>'.</li>
+	<li><strong>Dirk Lemmermann</strong> has posted a video of his 'extended' Spinner control that <a href="https://www.youtube.com/watch?v=QJOv8oBVJ0Y&amp;feature=youtu.be&amp;a">allows for spinning individual units of time</a> (i.e. hours, minutes, or seconds).</li>
+	<li><strong>Carl</strong> has posted part two of his series on&nbsp;<a href="http://bekwam.blogspot.co.nz/2015/02/dynamic-fx-application-modules-part-2.html">dynamic FX application modules</a>, this time focusing on Google Guice.</li>
+</ul>
+<p>That's all for this week - catch you again next week.</p>
+]]></Content>
+	</post>

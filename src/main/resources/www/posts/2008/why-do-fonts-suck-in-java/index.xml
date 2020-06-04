@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<post>
+		<ID>136</ID>
+		<Slug>why-do-fonts-suck-in-java</Slug>
+		<Title>Why do Fonts suck in Java?</Title>
+		<Date>2008-02-06</Date>
+		<Status>publish</Status>
+		<Categories>Programming</Categories>
+		<Tags/>
+		<Content><![CDATA[<p>When it comes to fonts in Java, there seems to be a few holes. Two major ones that I just come across today:</p>
+<ul>
+	<li>No 'font chooser' dialog to let users graphically select a font.</li>
+	<li>No easy way to serialise a font to a properties/preferences text stream, despite the fact there is an easy way to read them in using <a href="http://java.sun.com/j2se/1.5.0/docs/api/java/awt/Font.html#decode(java.lang.String)">Font.decode()</a>.</li>
+</ul>
+<p>For the first issue, I simply made use of a component library we have (<a href="http://www.jidesoft.com/">Jide</a>), but it would be ideal if this component become a normal component in Swing. It isn't that difficult - I remember writing a font chooser back at university in an HCI paper using Java which was trivial (and actually focused more on the creation of custom UI components by overriding paint methods).</p>
+
+<p>For the second issue, I seem to have some luck with the following method I just flicked together:</p>
+
+<pre class="code_block"><code class="java">	public static String encodeFont(final Font f) {
+		String style;
+		if (f.isBold() &amp;&amp; f.isItalic()) {
+			style = "BOLDITALIC";
+		} else if (f.isBold()) {
+			style = "BOLD";
+		} else if (f.isItalic()) {
+			style = "ITALIC";
+		} else {
+			style = "PLAIN";
+		}
+
+		return f.getFontName() + "-" + style + "-" + f.getSize();
+	}
+}</code></pre>
+
+]]></Content>
+	</post>
