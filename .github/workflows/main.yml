@@ -30,5 +30,12 @@ jobs:
         key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
         restore-keys: ${{ runner.os }}-m2
       
-    - name: Build with Maven
+    - name: Build with Maven and generate static site
       run: mvn package exec:java
+      
+    - name: Upload to Azure Blob Storage
+      uses: bacongobbler/azure-blob-storage-upload@v1.1.1
+      with:
+        source_dir: 'output'
+        container_name: '$web'
+        connection_string: ${{ secrets.ConnectionString }}
