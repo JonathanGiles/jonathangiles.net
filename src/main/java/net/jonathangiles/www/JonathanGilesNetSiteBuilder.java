@@ -1,6 +1,5 @@
 package net.jonathangiles.www;
 
-import net.jonathangiles.tools.teenyhttpd.TeenyHttpd;
 import net.jonathangiles.tools.sitebuilder.SiteBuilder;
 import net.jonathangiles.tools.sitebuilder.models.Page;
 import net.jonathangiles.www.pages.PostsPage;
