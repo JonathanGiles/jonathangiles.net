@@ -31,7 +31,7 @@ jobs:
         restore-keys: ${{ runner.os }}-m2
       
     - name: Build with Maven and generate static site
-      run: mvn package exec:java
+      run: mvn --batch-mode package exec:java
       
     - name: Upload to Azure Blob Storage
       uses: bacongobbler/azure-blob-storage-upload@v1.1.1
