@@ -13,10 +13,10 @@ public class JonathanGilesNetSiteBuilder extends SiteBuilder {
     public static void main(String[] args)  {
         new JonathanGilesNetSiteBuilder().run();
 
-        // start up a TeenyHttpd server to browse the generated site
-        TeenyHttpd httpd = new TeenyHttpd(80);
-        httpd.setWebroot(new File(("./output")));
-        httpd.start();
+//        // start up a TeenyHttpd server to browse the generated site
+//        TeenyHttpd httpd = new TeenyHttpd(80);
+//        httpd.setWebroot(new File(("./output")));
+//        httpd.start();
     }
 
     @Override
