@@ -27,7 +27,7 @@
 
 <p>Debugging services in the cloud is hard, we’re experimenting with cloud debugging support for Java, and will add other language support in the future. Here's a diagram outlining how things go together (click to see a bigger version):</p>
 
-<p><a href="/content/2018/03/azure-java-debug.png/"><img class="aligncenter wp-image-2947 size-large" src="/content/2018/03/azure-java-debug-1024x537.png" alt="" width="688" height="361"></a></p>
+<p><a href="/content/2018/03/azure-java-debug.png"><img class="aligncenter wp-image-2947 size-large" src="/content/2018/03/azure-java-debug-1024x537.png" alt="" width="688" height="361"></a></p>
 
 <p><strong>As I understand it, remote debugging is still a proof of concept and you’re still seeking community feedback. How should developers test this functionality, and how should they provide feedback?</p>
 <p></strong>We have <a href="https://code.visualstudio.com/docs/java/java-serverless">documented the steps</a>,&nbsp;which explains the steps to debug <a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-maven">Java-based Azure Functions</a> in the cloud, and we use <a href="https://github.com/Microsoft/vscode-java-debug/issues">GitHub to track issues and collect suggestions</a>.</p>

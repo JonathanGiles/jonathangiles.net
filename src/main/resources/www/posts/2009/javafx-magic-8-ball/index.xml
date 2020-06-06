@@ -13,10 +13,8 @@
 
 <p>Part of the reason I've posted this is so that people can tell me how to improve my code. If I've done some stupid (likely derived from my life as a Java developer), please let me know.</p>
 
-<p>You can (hopefully) run the Java Web Start version of it here: <a href="/posts/2009/jnlp/Magic8.jnlp/"><img src="http://138.91.251.112/jnlp/jws-launch-button.jpg"></a></p>
-
 <p>A screenshot of the program is shown here:</p>
-<p><a href="/posts/2009/jnlp/Magic8.jnlp/"><img src="/content/2009/06/magic8.png" alt="magic8" title="magic8" width="393" height="429" class="alignnone size-full wp-image-401"></a></p>
+<img src="/content/2009/06/magic8.png" alt="magic8" title="magic8" width="393" height="429" class="alignnone size-full wp-image-401">
 
 <p>When the ball is shaken, the text and the triangle fade out, and then the triangle fades in with a new message.</p>
 
