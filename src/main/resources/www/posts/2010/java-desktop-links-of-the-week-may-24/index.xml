@@ -26,7 +26,7 @@
 	<li><strong>Nii Osei-Agyemang</strong> has started a new blog covering how he plans to use JavaFX for GIS. Some recent posts cover his <a href="http://www.javafxintro.com/?p=7">planned GIS architecture</a>, how he <a href="http://www.javafxintro.com/?p=12">ported to JavaFX 1.3</a>, and how he is <a href="http://www.javafxintro.com/?p=25">making use of JavaFX web service APIs</a>.</li>
 	<li>Speaking of GIS, I came across the <a href="http://www.dailymotion.com/video/xddi9u_pirimap-javafx-ria-demo_tech">PiriMap JavaFX application</a> which does a similar thing. Unfortunately, I only have a video to show.</li>
 	<li><strong>Daniel Ziltener</strong> has posted an example of how <a href="http://my.opera.com/zilti/blog/2010/05/21/howto-doing-some-storage-in-javafx">he used the JavaFX Storage API</a>, and is seeking your thoughts on how to improve it.</li>
-	<li>I put up the slide deck I used for the two-hour <a href="/posts/2010javafx-presentation-slides/">JavaFX introduction talk</a> I gave recently.</li>
+	<li>I put up the slide deck I used for the two-hour <a href="/posts/2010/javafx-presentation-slides/">JavaFX introduction talk</a> I gave recently.</li>
 </ul>
 <h4>Griffon</h4>
 <ul>

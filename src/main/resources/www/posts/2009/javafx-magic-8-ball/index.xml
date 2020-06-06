@@ -20,7 +20,7 @@
 
 <p>When the ball is shaken, the text and the triangle fade out, and then the triangle fades in with a new message.</p>
 
-<p>A source code download (along with the background image), is available from <a href="http://JonathanGiles.net/wp-content/uploads/2009/06/Magic8.zip">here</a>. I know I could have coded the ball in JavaFX, but frankly using an image is far easier :-)</p>
+<p>A source code download (along with the background image), is available from <a href="https://download.jonathangiles.net/downloads/Magic8.zip">here</a>. I know I could have coded the ball in JavaFX, but frankly using an image is far easier :-)</p>
 
 <p>Finally, here is the code. Apologies for the need for horizontal scrolling, but it is the best I can do without changing the theme of this site to be wider.</p>
 

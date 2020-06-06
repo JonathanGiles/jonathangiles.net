@@ -39,7 +39,7 @@
 	<li><strong>Piliq.com</strong> has an article on <a href="http://piliq.com/javafx/?p=1031">JavaFX from a games programming perspective</a>. Frankly I think the title is a little unrelated to the content, which appears to be not much more than a summary of the current state of play of JavaFX, mixed with a little wishful thinking.</li>
 	<li><strong>Subrata Nath</strong> writes about <a href="http://blogs.sun.com/subrata/entry/fullscreen_support_on_javafx">fullscreen support in JavaFX</a>.</li>
 	<li><strong>Mohammed Sanaulla</strong> shows <a href="http://blogs.sun.com/sanaulla/entry/opening_browser_from_javafx_desktop">how to open a website in the users default web browser from JavaFX</a>, simply by making use of the Desktop class introduced in Java 6.</li>
-	<li>Not to blow my own trumpet, but I posted a thing or two this week also. Firstly, I posted a <a href="/posts/2009mini-pro-javafx-platform-book-review/">mini review of the Pro JavaFX Platform book</a>, and secondly I posted a <a href="/posts/2009javafx-magic-8-ball/">small code snippet that shows a Magic 8 ball</a>.</li>
+	<li>Not to blow my own trumpet, but I posted a thing or two this week also. Firstly, I posted a <a href="/posts/2009/mini-pro-javafx-platform-book-review/">mini review of the Pro JavaFX Platform book</a>, and secondly I posted a <a href="/posts/2009/javafx-magic-8-ball/">small code snippet that shows a Magic 8 ball</a>.</li>
 </ul>
 <h4>Groovy/Griffon</h4>
 <ul>

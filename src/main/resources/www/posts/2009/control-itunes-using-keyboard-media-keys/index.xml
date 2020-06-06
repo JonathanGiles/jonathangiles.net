@@ -19,7 +19,7 @@
 </ul>
 <p>As you should note, the amount of code written is actually minimal: this project is mostly just tying together two other libraries, and of course the iTunes COM interface.</p>
 
-<p><a href="/posts/2009/wp-content/uploads/2009/02/itunes-media-key-listener.zip/">There is a zip file here that contains everything</a> - libs, source code, and a batch file that you can use to start the program. Normal lazy programmers license applies: if your computer crashes and burns, send me photos, but please no complaints. If you use it and (dis)like it, let me know!</p>
+<p><a href="https://download.jonathangiles.net/downloads/itunes-media-key-listener.zip">There is a zip file here that contains everything</a> - libs, source code, and a batch file that you can use to start the program. Normal lazy programmers license applies: if your computer crashes and burns, send me photos, but please no complaints. If you use it and (dis)like it, let me know!</p>
 
 <p>Cheers,</p>
 <p>Jonathan Giles</p>

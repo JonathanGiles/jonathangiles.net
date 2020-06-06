@@ -7,7 +7,7 @@
 		<Status>publish</Status>
 		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
 		<Tags>javafx</Tags>
-		<Content><![CDATA[<p>Binding in JavaFX is of course very cool, and in most circumstances it makes sense. I thought I would make a quick post to explain what a <code>bound function</code> is, and how you should go about interpreting code that uses this language feature. I want to make this post as simple as possible, so as to not overcomplicate things. Before I begin I must thank the <a href="/posts/2009mini-pro-javafx-platform-book-review/">Pro JavaFX Platform</a> book guys - I base this explanation on code from their (highly recommended) book.</p>
+		<Content><![CDATA[<p>Binding in JavaFX is of course very cool, and in most circumstances it makes sense. I thought I would make a quick post to explain what a <code>bound function</code> is, and how you should go about interpreting code that uses this language feature. I want to make this post as simple as possible, so as to not overcomplicate things. Before I begin I must thank the <a href="/posts/2009/mini-pro-javafx-platform-book-review/">Pro JavaFX Platform</a> book guys - I base this explanation on code from their (highly recommended) book.</p>
 
 <p>A bound function looks like this:</p>
 

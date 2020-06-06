@@ -7,7 +7,7 @@
 		<Status>publish</Status>
 		<Categories><![CDATA[Programming>Java>Java Client]]></Categories>
 		<Tags>javafx|swing</Tags>
-		<Content><![CDATA[<p>A heap of links this week, with a lot of talk about JavaOne that starts next week. It sounds like it is going to be a great conference, and I wish I could be there (but as noted previously there is a pretty <a href="/posts/2013on-why-im-not-going-to-javaone/">valid reason why I won't be</a>). Anywho, enjoy the links, and for those going to JavaOne enjoy it - I'll be following via Twitter and the blogosphere :-)</p>
+		<Content><![CDATA[<p>A heap of links this week, with a lot of talk about JavaOne that starts next week. It sounds like it is going to be a great conference, and I wish I could be there (but as noted previously there is a pretty <a href="/posts/2013/on-why-im-not-going-to-javaone/">valid reason why I won't be</a>). Anywho, enjoy the links, and for those going to JavaOne enjoy it - I'll be following via Twitter and the blogosphere :-)</p>
 <h4>JavaFX</h4>
 <ul>
 	<li>Java 7u40 was released this week, and along with that came a new release of JavaFX and Scene Builder. The JavaFX version was updated to 2.2.40, and Scene Builder was updated to 1.1. You can download Java / JavaFX and Scene Builder from the <a href="http://www.oracle.com/technetwork/java/javafx/downloads/index.html">Oracle download site</a>. The release notes for <a href="http://www.oracle.com/technetwork/java/javase/7u40-relnotes-2004172.html">Java 7u40</a> and <a href="http://docs.oracle.com/javafx/scenebuilder/1/release_notes_1-1/jsbpub-release_notes_1-1.htm">Scene Builder 1.1</a> are also available for your perusal.</li>

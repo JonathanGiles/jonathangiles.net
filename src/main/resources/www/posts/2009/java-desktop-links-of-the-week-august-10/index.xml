@@ -16,7 +16,7 @@
 <ul>
 	<li><strong>Sten Anderson</strong> has two blog posts this week: the first is a <a href="http://blogs.citytechinc.com/sanderson/?p=131">review of the Pro JavaFX Platform book</a>, and the second is his announcement that <a href="http://blogs.citytechinc.com/sanderson/?p=132">he has contributed his Music Explorer FX code</a> to the JFXtras project.</li>
 	<li>Speaking of the JFXtras project, <strong>Stephen Chin</strong> has blogged that the <a href="http://steveonjava.com/2009/08/09/jfxtras-team-grows-up/">number of people contributing to the project is continuing to grow</a>, and he has some details of the new contributions available to JFXtras users.</li>
-	<li>I had a small part to play in this also, having just <a href="/posts/2009javafx-menubar-released/">released my menubar code as part of the JFXtras project</a>.</li>
+	<li>I had a small part to play in this also, having just <a href="/posts/2009/javafx-menubar-released/">released my menubar code as part of the JFXtras project</a>.</li>
 	<li><strong>Stephen Chin</strong> also has a post containing the <a href="http://steveonjava.com/2009/08/05/watch-widgetfx-and-jfxtras-at-the-sdforum/">slides and audio recording of a talk he gave at SDForum recently</a>. In this talk he discusses JFXtras and WidgetFX. It's well worth listening to if you have the time.</li>
 	<li>At this talk, Stephen mentioned the MigLayout support in JFXtras for JavaFX. <strong>Dean Iverson</strong> is the guy behind it, and <a href="http://pleasingsoftware.blogspot.com/2009/08/my-good-friend-and-co-author-stephen.html">posted about it to detail how to build the form</a> that Stephen showed.</li>
 </ul>

@@ -29,7 +29,7 @@
 	<li><strong>Stephen Chin</strong> officially <a href="http://steveonjava.com/2009/07/21/jfxtras-community-site-launched/">announced a new community site</a> for people wanting to learn JavaFX (which I pre-announced last week). I apologise in advance for not yet starting to maintain the links section. Hopefully I may be getting help from <a href="http://carlfx.wordpress.com/">Carl Dea</a>.</li>
 	<li><strong>Stephen Chin</strong> also posts a summary of <a href="http://steveonjava.com/2009/07/26/2009-javaone-rock-stars-announced/">this years Java client JavaOne Rockstars</a>. Congratulations to all of them!</li>
 	<li><strong>Piliq.com</strong> has posted about <a href="http://piliq.com/javafx/?p=1144">how to give feedback/issues/bugs back to JavaFX developers</a> at Sun. It's well worth a read if you find anything bugging you. I have used it quite a bit recently, and they are really responsive (and JavaFX gets better because of it).</li>
-	<li>Speaking of me, I posted a quick <a href="/posts/2009javafx-menubar-control/">'menubar' demo</a> that I have been working on. It's far from complete, but it is at least a good proof of concept that can be refined and improved as time permits.</li>
+	<li>Speaking of me, I posted a quick <a href="/posts/2009/javafx-menubar-control/">'menubar' demo</a> that I have been working on. It's far from complete, but it is at least a good proof of concept that can be refined and improved as time permits.</li>
 </ul>
 <h4>Griffon</h4>
 <ul>

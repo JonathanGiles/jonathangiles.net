@@ -25,7 +25,7 @@
 
 <p>With your code now depending on these environment variables, you can log in to the Azure Portal to set the same key / value pairs in your function app settings, so that your code functions equivalently when testing locally and when deployed to Azure. Here's a screenshot for reference:</p>
 
-<p><a href="/posts/2018/wp-content/uploads/2018/03/jogiles-short-url_-_Microsoft_Azure-2.png/"><img class="aligncenter size-full wp-image-3006" src="/content/2018/03/jogiles-short-url_-_Microsoft_Azure-2.png" alt="" width="3582" height="2152"></a></p>
+<p><a href="/content/2018/03/jogiles-short-url_-_Microsoft_Azure-2.png/"><img class="aligncenter size-full wp-image-3006" src="/content/2018/03/jogiles-short-url_-_Microsoft_Azure-2.png" alt="" width="3582" height="2152"></a></p>
 
 <p>Serverless programming makes development of web services and triggers really easy, even for people who are not skilled server-side developers! If you are a Java developer, you&nbsp;should definitely take a look at <a href="https://azure.microsoft.com/services/functions/">Azure Functions</a> today - get started with the <a href="http://java.ms/free">free tier</a> and go from there! As I noted in my first post - the <a href="/posts/2018/building-a-serverless-url-shortener-with-azure-functions-and-java-part-one/">cost of operating these services</a> is extremely minimal (cents per month).</p>
 ]]></Content>
