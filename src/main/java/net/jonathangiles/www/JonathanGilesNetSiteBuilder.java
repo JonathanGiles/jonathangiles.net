@@ -2,6 +2,7 @@ package net.jonathangiles.www;
 
 import net.jonathangiles.tools.sitebuilder.SiteBuilder;
 import net.jonathangiles.tools.sitebuilder.models.Page;
+import net.jonathangiles.tools.teenyhttpd.TeenyHttpd;
 import net.jonathangiles.www.pages.PostsPage;
 
 import java.io.File;
@@ -12,10 +13,12 @@ public class JonathanGilesNetSiteBuilder extends SiteBuilder {
     public static void main(String[] args)  {
         new JonathanGilesNetSiteBuilder().run();
 
-//        // start up a TeenyHttpd server to browse the generated site
-//        TeenyHttpd httpd = new TeenyHttpd(80);
-//        httpd.setWebroot(new File(("./output")));
-//        httpd.start();
+        if (args.length == 1 && "runserver".equals(args[0])) {
+            // start up a TeenyHttpd server to browse the generated site
+            TeenyHttpd httpd = new TeenyHttpd(80);
+            httpd.setWebroot(new File(("./output")));
+            httpd.start();
+        }
     }
 
     @Override
@@ -35,6 +38,8 @@ public class JonathanGilesNetSiteBuilder extends SiteBuilder {
                              .addProperty("title", "Java API Design Best Practices"));
         registerPage(new Page("projects")
                              .addProperty("title", "Projects | Jonathan Giles"));
+        registerPage(new Page("bio")
+                             .addProperty("title", "Bio | Jonathan Giles"));
 
         // and now register the posts page, which includes links to all posts ever written
         registerPage(new PostsPage("posts", getAllPosts(), false));

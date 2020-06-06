@@ -9,45 +9,59 @@ ${include header}
                     <div class="page-content">
                         <h2>Projects</h2>
                         <p>Over time I&#8217;ve worked on a number of open source projects and websites. The list below is an incomplete list based on my recollection, but you can also check out my <a href="https://github.com/JonathanGiles/">GitHub</a> and <a href="https://bitbucket.org/jonathangiles">BitBucket</a> projects for a number of smaller projects I created.</p>
-                        <hr />
+
+                        <br/>
                         <div class="project">
-                            <h3 class="title">ControlsFX<span class="subtitle">Rich UI controls library for JavaFX</span></h3>
+                            <h4 class="title">Site Builder<span class="subtitle">Simple static website generator / templating engine</span></h4>
+                            <div class="description">
+                                <p>Site Builder is a simplistic templating engine that is currently used to build <a href="http://www.jonathangiles.net">JonathanGiles.net</a>.</p>
+                                <p><a href="https://github.com/JonathanGiles/sitebuilder">View on GitHub</a></p>
+                            </div>
+                        </div>
+                        <hr />
+
+                        <div class="project">
+                            <h4 class="title">TeenyHttpd<span class="subtitle">Simple HTTP Server written in Java</span></h4>
+                            <div class="description">
+                                <p>TeenyHttpd is an extremely basic HTTP server. It is implemented in plain Java 8 with no external dependencies, making it lightweight and applicable in situations where a basic, small HTTP server is all that is required.</p>
+                                <p><a href="https://github.com/JonathanGiles/TeenyHttpd">View on GitHub</a></p>
+                            </div>
+                        </div>
+                        <hr />
+
+                        <div class="project">
+                            <h4 class="title">ControlsFX<span class="subtitle">Rich UI controls library for JavaFX</span></h4>
                             <div class="image"><img src="/images/ControlsFX.png" /></div>
                             <div class="description">
                                 <p>I started the ControlsFX project to fill the gap between what Oracle offers in JavaFX and what the community needed. ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution. It has been developed for JavaFX 8.0 and beyond, and has a guiding principle of only accepting new controls / features when all existing code is at an acceptably high level, including thankless jobs like having high quality javadoc documentation.</p>
-                                <p><a href="https://bitbucket.org/controlsfx/controlsfx">View on BitBucket</a>  |  <a href="http://www.controlsfx.org">Project Website</a></p>
+                                <p><a href="https://github.com/controlsfx/controlsfx">View on GitHub</a>  |  <a href="http://www.controlsfx.org">Project Website</a></p>
                             </div>
                         </div>
-                        <hr />
+
+                        <br/><br/>
+                        <h3>Abandoned Projects</h3>
+                        <hr/>
+
                         <div class="project">
-                            <h3 class="title">Azure JavaDocs<span class="subtitle">Combined JavaDocs for Azure Java SDKs</span></h3>
-                            <div class="image"><img src="/images/BIT_AND_MSFT_DOCS-300x300.png" width="300" height="300" /></div>
-                            <div class="description">
-                                <p>This project explores the possibility of building a single, automated JavaDoc for all Azure Java APIs. This project aims to reach JDK 9 build compliance for both building (using mvn clean package) and generating Javadoc (using mvn javadoc:javadoc). This does not mean that the SDKs are using best practices or the latest JDK 8 and 9 features, simply that they are buildable and able to generate documentation.</p>
-                                <p><a href="https://github.com/JonathanGiles/azure-javadocs">Visit Website</a></p>
-                            </div>
-                        </div>
-                        <hr />
-                        <div class="project">
-                            <h3 class="title">FX Experience<span class="subtitle">The premiere JavaFX website</span></h3>
+                            <h4 class="title">FX Experience<span class="subtitle">The premiere JavaFX website</span></h4>
                             <div class="image"><img src="/images/fxexperience-logo.jpg" /></div>
                             <div class="description">
-                                <p>FXExperience.com is a hugely popular JavaFX website with the latest news, interviews, code tips, etc. I am the sole maintainer on this website, which receives over 2000 hits a day. It is also home to my ControlsFX and Scenic View projects mentioned below.</p>
+                                <p>FXExperience.com is a hugely popular JavaFX website with the latest news, interviews, code tips, etc. I was the sole maintainer on this website, which received over 2000 hits a day.</p>
                                 <p><a href="http://www.fxexperience.com">Visit Website</a></p>
                             </div>
                         </div>
                         <hr />
                         <div class="project">
-                            <h3 class="title">Scenic View<span class="subtitle">A runtime scenegraph analyser for JavaFX</span></h3>
+                            <h4 class="title">Scenic View<span class="subtitle">A runtime scenegraph analyser for JavaFX</span></h4>
                             <div class="image"><img src="/images/scenicView1.png" /></div>
                             <div class="description">
                                 <p>Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph, and to also easily manipulate properties of the scenegraph without having to keep editing your code. This lets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.</p>
-                                <p><a href="https://bitbucket.org/scenicview/scenic-view">View on BitBucket</a>  |  <a href="http://www.scenic-view.org">Project Website</a></p>
+                                <p><a href="https://github.com/JonathanGiles/scenic-view">View on GitHub</a>  |  <a href="http://www.scenic-view.org">Project Website</a></p>
                             </div>
                         </div>
                         <hr />
                         <div class="project">
-                            <h3 class="title">FXDocs<span class="subtitle">The JavaFX Documentation Project</span></h3>
+                            <h4 class="title">FXDocs<span class="subtitle">The JavaFX Documentation Project</span></h4>
                             <div class="image"></div>
                             <div class="description">
                                 <p>The JavaFX Documentation Project is designed to collect important JavaFX information from around the web and, with the permission of the authors, to collate it into a single source to form a cohesive book.</p>
@@ -56,7 +70,7 @@ ${include header}
                         </div>
                         <hr />
                         <div class="project">
-                            <h3 class="title">OpenSprinkler<span class="subtitle">A Java API for OpenSprinkler devices</span></h3>
+                            <h4 class="title">OpenSprinkler<span class="subtitle">A Java API for OpenSprinkler devices</span></h4>
                             <div class="image"><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' width='688' height='387' src='https://www.youtube.com/embed/lT0uxFlwu9s?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></div>
                             <div class="description">
                                 <p>A Java-based library for communicating with <a href="https://opensprinkler.com/">OpenSprinkler</a> irrigation controller devices over a local area network. This is used in projects such as <a href="http://www.openhab.org">OpenHAB</a> for home automation (in particular, I created an <a href="https://github.com/openhab/openhab1-addons/tree/master/bundles/binding/org.openhab.binding.opensprinkler">OpenHAB addon</a> for controlling home watering automatically).</p>
@@ -65,7 +79,7 @@ ${include header}
                         </div>
                         <hr />
                         <div class="project">
-                            <h3 class="title">JTivo<span class="subtitle">A Java API for Tivo devices</span></h3>
+                            <h4 class="title">JTivo<span class="subtitle">A Java API for Tivo devices</span></h4>
                             <div class="description">
                                 <p>A Java-based library for communicating with Tivo devices over a local area network. This is used in projects such as <a href="http://www.openhab.org">OpenHAB</a> for home automation (in particular, I created an <a href="https://github.com/openhab/openhab1-addons/tree/master/bundles/binding/org.openhab.binding.tivo">OpenHAB addon</a> for controlling Tivo devices automatically (e.g. to pause playback when the phone rings, etc)).</p>
                                 <p><a href="https://bitbucket.org/JonathanGiles/jtivo">View on BitBucket</a></p>

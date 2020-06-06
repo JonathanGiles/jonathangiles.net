@@ -52,11 +52,11 @@
     </dependency>
 
     <!-- Used to host the local output of the sitebuilder, for testing purposes only -->
-<!--    <dependency>-->
-<!--      <groupId>net.jonathangiles.tools</groupId>-->
-<!--      <artifactId>teenyhttpd</artifactId>-->
-<!--      <version>1.0.1-SNAPSHOT</version>-->
-<!--    </dependency>-->
+    <dependency>
+      <groupId>net.jonathangiles.tools</groupId>
+      <artifactId>teenyhttpd</artifactId>
+      <version>1.0.1</version>
+    </dependency>
   </dependencies>
 
   <build>
