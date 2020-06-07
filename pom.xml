@@ -46,7 +46,7 @@
     <dependency>
       <groupId>net.jonathangiles.tools</groupId>
       <artifactId>sitebuilder</artifactId>
-      <version>0.0.1</version>
+      <version>0.0.2</version>
     </dependency>
 
     <!-- Used to host the local output of the sitebuilder, for testing purposes only -->
