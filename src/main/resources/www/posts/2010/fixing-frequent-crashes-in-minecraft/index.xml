@@ -14,8 +14,8 @@
 <p>Being that Minecraft is written in Java, and I work for Oracle in the Java organisation, I thought I'd see if I could improve it. After observing the memory usage (which you can see in game by holding F3), it seemed like there just wasn't enough memory being allocated to minecraft. To fix this you need to create a batch file (i.e. create a text document, and rename it to end in .bat), and put the following text inside it.</p>
 
 <pre class="code_block"><code class="sh">@echo off
-cd %AppData%\.minecraft
-start javaw -Xms1024m -Xmx1024m -Djava.library.path=".\bin\natives" -classpath "bin\minecraft.jar;bin\jinput.jar;bin\lwjgl.jar;bin\lwjgl_util.jar" net.minecraft.client.Minecraft</code></pre>
+cd %AppData%\\.minecraft
+start javaw -Xms1024m -Xmx1024m -Djava.library.path=".\\bin\\natives" -classpath "bin\\minecraft.jar;bin\\jinput.jar;bin\\lwjgl.jar;bin\\lwjgl_util.jar" net.minecraft.client.Minecraft</code></pre>
 
 <p>This batch file basically tells Minecraft to use more memory than what it is given by default. On my machine, this really helps to prevent the crashing, and also has the nice side-effect of improving performance due to minimising the need for frequent garbage collection. I have only tested this on my Windows 7 machine, so your mileage may vary - let me know how it works for you. This is definitely a Windows-only fix, although it's trivial for someone to create a shell script for Mac OS and Linux based on the above.</p>
 ]]></Content>
