@@ -26,8 +26,9 @@ jobs:
       run: mvn --batch-mode package exec:java
       
     - name: Upload to Azure Blob Storage
-      uses: bacongobbler/azure-blob-storage-upload@v1.1.1
+      uses: bacongobbler/azure-blob-storage-upload@v1.2.0
       with:
         source_dir: 'output'
         container_name: '$web'
         connection_string: ${{ secrets.ConnectionString }}
+        sync: true
