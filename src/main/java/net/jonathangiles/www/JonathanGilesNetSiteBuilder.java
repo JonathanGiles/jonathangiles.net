@@ -13,9 +13,14 @@ public class JonathanGilesNetSiteBuilder extends SiteBuilder {
     public static void main(String[] args)  {
         new JonathanGilesNetSiteBuilder().run();
 
-        if (args.length == 1 && "runserver".equals(args[0])) {
+        if (args == null || args.length == 0) {
+            return;
+        }
+
+        String command = args[0];
+        if ("runserver".equals(command)) {
             // start up a TeenyHttpd server to browse the generated site
-            TeenyHttpd httpd = new TeenyHttpd(80);
+            TeenyHttpd httpd = new TeenyHttpd(8080);
             httpd.setWebroot(new File(("./output")));
             httpd.start();
         }

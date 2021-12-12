@@ -39,17 +39,17 @@ public class PostsPage extends Page {
         for (Integer year : sortedYears) {
             allPostsHtml.append("<h3>").append(year).append("</h3>");
             postsPerYear.get(year).forEach(post -> {
-                String path = post.getRelativePath().getParent().toString();
+                String path = post.getRelativePath();//.getParent().toString();
 
                 // FIXME hacky
                 // strip out the 'output/' from the path
-                path = path.substring(path.indexOf("/") + 1);
+                //path = path.substring(path.indexOf("/") + 1);
 
                 allPostsHtml.append(post.getDate())
                     .append(": ")
                     .append("<a href=\"/")
                     .append(path)
-                    .append("/index.html\">")
+                    .append("/\">")
                     .append(post.getTitle())
                     .append("</a><br/>\n");
             });
