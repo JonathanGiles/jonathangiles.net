@@ -31,4 +31,4 @@ jobs:
         source_dir: 'output'
         container_name: '$web'
         connection_string: ${{ secrets.ConnectionString }}
-        sync: true
+        sync: false
