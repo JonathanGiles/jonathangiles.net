@@ -32,4 +32,4 @@ jobs:
         container_name: '$web'
         connection_string: ${{ secrets.ConnectionString }}
         sync: 'true'
-        overwrite: 'true'
+        cli_version: 2.33.0
