@@ -41,8 +41,8 @@ public class JonathanGilesNetSiteBuilder extends SiteBuilder {
                              .addProperty("title", "Presentations | Jonathan Giles"));
         registerPage(new Page("java-api-design-best-practices")
                              .addProperty("title", "Java API Design Best Practices"));
-        registerPage(new Page("projects")
-                             .addProperty("title", "Projects | Jonathan Giles"));
+        // registerPage(new Page("projects")
+        //                      .addProperty("title", "Projects | Jonathan Giles"));
         registerPage(new Page("bio")
                              .addProperty("title", "Bio | Jonathan Giles"));
 
