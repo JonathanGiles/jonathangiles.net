@@ -1,38 +1,53 @@
 ${include header}
-<body class="page">
+<body class="page page-index">
 <div>
     ${include hero}
-    <div id="content" class="site-content">
-        <div id="primary" class="content-area">
-            <main id="main" class="site-main" role="main">
-                <article class="hentry">
-                    <div class="page-content">
-                        <p>Hi there - I'm Jonathan. I live in semi-rural New Zealand with my family. My career has seen me
-                            travel the world and work with many large international software companies. This website lets you
-                            learn more about me, what I've done and what I'm currently working on, and how to get in touch!</p>
+    <div class="container-fluid px-4">
+        <div class="row" style="min-height: 25px;"></div>
 
-                        <p>My current role is as a Principal Java Architect at Microsoft, which I've been doing since 2017.
-                            Prior to that I was a technical lead in the Java team at Sun Microsystems and Oracle Corp for nine years.</p>
-
-                        <p>I contribute to open source, most notably <a href="http://openjdk.org">OpenJDK</a> and the
-                            <a href="https://github.com/azure/azure-sdk-for-java">Azure SDK for Java</a>. I take immense
-                            pride in having my code deployed on almost every computer on the planet. I am passionate about
-                            creating excellent developer experiences with
-                            <a href="/java-api-design-best-practices.html">considered API design</a>, documentation,
-                            testing, and tooling. I have toured the world extensively to
-                            <a href="/presentations.html">present</a> and write on these topics, and as a result I am a
-                            Java Champion, JavaOne Rockstar, and a Duke's Choice award-winner.</p>
-
-                        <p>My professional bio is on <a href="https://linkedin.com/in/jonathangiles">LinkedIn</a>. I
-                            tweet occasionally on <a href="https://www.twitter.com/jonathangiles">Twitter</a>. Nearly
-                            everything I do is on <a href="https://github.com/JonathanGiles">GitHub</a>. My email is
-                            always open at <a href="mailto:jonathan@jonathangiles.net">jonathan@jonathangiles.net</a>.</p>
-
-                        <p><img src="/images/awards.png" alt="Java Champion, Dukes Choice Award Winner, and JavaOne Rockstar" width="688" height="234" class="aligncenter" /></p>
+        <div class="row">
+            <div class="col-md-0 col-lg-3 d-flex profile-pic"></div>
+            <div class="col-md-12 col-lg-9">
+                <div id="content" class="site-content">
+                    <div id="primary" class="content-area">
+                        <main id="main" class="site-main" role="main">
+                            <article class="hentry">
+                                <div class="page-content">
+                                    <div class="d-block d-sm-block d-md-block d-lg-none">
+                                        <img src="/images/jonathan-cropped-low-res.png" alt="Jonathan Giles" width="200" class="aligncenter" />
+                                        <p>&nbsp;</p>
+                                    </div>
+                                    
+                                    <p>Hi there - I'm Jonathan. I live in semi-rural New Zealand with my family. My career has seen me
+                                        travel the world and work with many large international software companies. This website lets you
+                                        learn more about me, what I've done and what I'm currently working on, and how to get in touch!</p>
+            
+                                    <p>My current role is as a Principal Java Architect at Microsoft, which I've been doing since 2017.
+                                        Prior to that I was a technical lead in the Java team at Sun Microsystems and Oracle Corp for nine years.</p>
+            
+                                    <p>I contribute to open source, most notably <a href="http://openjdk.org">OpenJDK</a> and the
+                                        <a href="https://github.com/azure/azure-sdk-for-java">Azure SDK for Java</a>. I take immense
+                                        pride in having my code deployed on almost every computer on the planet. I am passionate about
+                                        creating excellent developer experiences with
+                                        <a href="/java-api-design-best-practices.html">considered API design</a>, documentation,
+                                        testing, and tooling. I have toured the world extensively to
+                                        <a href="/presentations.html">present</a> and write on these topics, and as a result I am a
+                                        Java Champion, JavaOne Rockstar, and a Duke's Choice award-winner.</p>
+            
+                                    <p>My professional bio is on <a href="https://linkedin.com/in/jonathangiles">LinkedIn</a>. I
+                                        tweet occasionally on <a href="https://www.twitter.com/jonathangiles">Twitter</a>. Nearly
+                                        everything I do is on <a href="https://github.com/JonathanGiles">GitHub</a>. My email is
+                                        always open at <a href="mailto:jonathan@jonathangiles.net">jonathan@jonathangiles.net</a>.</p>
+            
+                                    <p><img src="/images/awards.png" alt="Java Champion, Dukes Choice Award Winner, and JavaOne Rockstar" width="688" height="234" class="aligncenter" /></p>
+                                </div>
+                            </article>
+                        </main>
                     </div>
-                </article>
-            </main>
+                </div>
+            </div>
         </div>
-        ${include sidebar}
     </div>
+
+
     ${include footer}
