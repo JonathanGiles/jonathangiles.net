@@ -1,4 +1,4 @@
-<footer id="colophon" class="site-footer fixed-bottom">
+<footer id="colophon" class="site-footer">
     <div class="site-footer-inner">
         <div class="footer-widget-area columns-1">
             <div class="footer-widget">
@@ -28,5 +28,22 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js" integrity="sha512-X/YkDZyjTf4wyc2Vy16YGCPHwAY8rZJY+POgokZjQB2mhIRFJCckEGc6YyX9eNsPfn0PzThEuNs+uaomE5CO6A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
+<script>
+    // This script is used to ensure the footer is always at the bottom of the page.
+    $(function () {
+        updateFooterPosition();
+    });
+
+    $(window).resize(function () {
+        updateFooterPosition();
+    });
+
+    function updateFooterPosition() {
+        var bottomOfFooter = $('.site-footer').offset().top + $('.site-footer').outerHeight(true);
+        var heightShortage = $(document).height() - bottomOfFooter;
+        if (heightShortage < 0) heightShortage = 0;
+        $('.site-footer').css('margin-top', heightShortage);
+    }
+</script>
 </body>
 </html>
