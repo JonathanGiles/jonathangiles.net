@@ -8,24 +8,6 @@ Version:      1.0
 Text Domain:  jonathangiles-net
 */
 
-/* Make main content area wider on wide windows */
-/*@media only screen and (min-width: 1530px) {
-	.site-content {
-	  max-width: 1500px !important;
-	}
-	.content-area {
-	  width: 79% !important;
-	  margin-left: 0px !important;
-	  margin-right: 5px !important;
-	}
-	.widget-area {
-	  width: 20% !important;
-	  margin-left: 10px !important;
-	  margin-right: 0px !important;
-	}
-}*/
-/* End of making content area wider */
-
 /* Only show widget area on front-page, not subpages */
 body.page .content-area {
     width: 100% !important;

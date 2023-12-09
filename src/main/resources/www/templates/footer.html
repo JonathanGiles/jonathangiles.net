@@ -1,30 +1,25 @@
-<footer id="colophon" class="site-footer">
-    <div class="site-footer-inner">
-        <div class="footer-widget-area columns-1">
-            <div class="footer-widget">
-                <aside class="widget">
-                    <a href="https://www.twitter.com/JonathanGiles" target="_self"><i class="fa-brands fa-twitter fa-2xl"></i></a>
-                    &nbsp;
-                    <a rel="me" href="https://hachyderm.io/@JonathanGiles" target="_self"><i class="fa-brands fa-mastodon fa-2xl"></i></a>
-                    &nbsp;
-                    <a href="https://github.com/JonathanGiles" target="_self"><i class="fa-brands fa-github fa-2xl"></i></a>
-                    &nbsp;
-                    <a href="https://linkedin.com/in/JonathanGiles" target="_self"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
-                    &nbsp;
-                    <a href="mailto:jonathan@jonathangiles.net" target="_self"><i class="fa-solid fa-envelope fa-2xl"></i></a>
-                </aside>
-            </div>
-        </div>
+<footer class="footer py-4">
+    <div class="row position-relative">
+        <center>
+            <a href="https://www.twitter.com/JonathanGiles" target="_self">
+                <i class="fa-brands fa-twitter fa-2xl"></i>
+            </a>
+            &nbsp;
+            <a href="https://github.com/JonathanGiles" target="_self">
+                <i class="fa-brands fa-github fa-2xl"></i>
+            </a>
+            &nbsp;
+            <a href="https://linkedin.com/in/JonathanGiles" target="_self">
+                <i class="fa-brands fa-linkedin fa-2xl"></i>
+            </a>
+            &nbsp;
+            <a href="mailto:jonathan@jonathangiles.net" target="_self">
+                <i class="fa-solid fa-envelope fa-2xl"></i>
+            </a>
+        </center>
     </div>
 </footer>
-<div class="site-info-wrapper">
-    <div class="site-info">
-        <div class="site-info-inner">
-            <div class="site-info-text">
-            </div>
-        </div>
-    </div>
-</div>
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js" integrity="sha512-X/YkDZyjTf4wyc2Vy16YGCPHwAY8rZJY+POgokZjQB2mhIRFJCckEGc6YyX9eNsPfn0PzThEuNs+uaomE5CO6A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
@@ -39,10 +34,10 @@
     });
 
     function updateFooterPosition() {
-        var bottomOfFooter = $('.site-footer').offset().top + $('.site-footer').outerHeight(true);
+        var bottomOfFooter = $('.footer').offset().top + $('.footer').outerHeight(true);
         var heightShortage = $(document).height() - bottomOfFooter;
         if (heightShortage < 0) heightShortage = 0;
-        $('.site-footer').css('margin-top', heightShortage);
+        $('.footer').css('margin-top', heightShortage);
     }
 </script>
 </body>
