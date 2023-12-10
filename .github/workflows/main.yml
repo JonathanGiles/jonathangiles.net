@@ -39,10 +39,13 @@ jobs:
         connection_string: ${{ secrets.ConnectionString }}
         sync: 'true'
 
-    - name: Purge CDN
-      run:
-        az cdn endpoint purge -n ${{ secrets.AZURE_CDN_ENDPOINT }} --profile-name ${{ secrets.AZURE_CDN_PROFILE_NAME }} --content-paths "/*" --resource-group ${{ secrets.AZURE_RESOURCE_GROUP }} --no-wait
-        
+    - name: Purge Azure CDN
+      uses: svanboxel/azure-purge-cdn@main
+      with:
+        cdn_endpoint: Jonathangiles
+        cdn_profile_name: ${{ secrets.AZURE_CDN_PROFILE_NAME }}
+        resource_group: ${{ secrets.AZURE_RESOURCE_GROUP }}  
+    
     - name: Azure service principal logout
       run: |
         az logout
