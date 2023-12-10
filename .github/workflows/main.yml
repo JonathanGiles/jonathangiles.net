@@ -10,6 +10,12 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    # Based on https://medium.com/@shilyndon/purging-azure-cdn-with-github-actions-1c18e2adaf18
+    - name: Azure service principal login
+      uses: azure/login@v1
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
+
     - name: Set up JDK 11
       uses: actions/setup-java@v1
       with:
@@ -32,3 +38,11 @@ jobs:
         container_name: '$web'
         connection_string: ${{ secrets.ConnectionString }}
         sync: 'true'
+
+    - name: Purge CDN
+      run:
+        az cdn endpoint purge -n ${{ secrets.AZURE_CDN_ENDPOINT }} --profile-name ${{ secrets.AZURE_CDN_PROFILE_NAME }} --content-paths "/*" --resource-group ${{ secrets.AZURE_RESOURCE_GROUP }} --no-wait
+        
+    - name: Azure service principal logout
+      run: |
+        az logout
