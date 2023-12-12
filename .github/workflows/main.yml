@@ -40,7 +40,7 @@ jobs:
       with:
         source_dir: 'target/output'
         container_name: '$web'
-        connection_string: ${{ secrets.ConnectionString }}
+        sas_token: ${{ secrets.AZURE_STATIC_STORAGE_SAS_TOKEN }}
         sync: 'true'
 
     - name: Purge Azure CDN
