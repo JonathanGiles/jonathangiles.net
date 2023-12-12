@@ -1,16 +1,10 @@
 ${include header}
 <body class="page">
-<div id="page" class="hfeed site">
     ${include hero}
-    <div class="page-title-container">
-        <header class="page-header">
-            <h2 class="page-title">Blog</h2>
-        </header>
-    </div>
-    <div id="content" class="site-content">
-        <div id="primary" class="content-area">
+    <div id="content" class="site-content container-fluid px-2">
+        <div id="primary" class="">
             <main id="main" class="site-main" role="main">
-                <article id="post-3222" class="post-3222 post type-post status-publish format-standard hentry category-java-client tag-javafx">
+                <article class="hentry">
                     <header class="entry-header">
                         <div class="entry-header-row">
                             <div class="entry-header-column">
@@ -31,7 +25,7 @@ ${include header}
 
                     <script src="https://utteranc.es/client.js"
                             repo="jonathangiles/jonathangiles.net-comments"
-                            issue-term="${path}/index"
+                            issue-term="${relativePath}/index"
                             theme="github-light"
                             crossorigin="anonymous"
                             async>

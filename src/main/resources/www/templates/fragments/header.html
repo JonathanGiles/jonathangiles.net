@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>${title}</title>
+    <title>${title} | Jonathan Giles</title>
 
     <link rel="canonical" href="https://jonathangiles.net/${path}" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="${title}" />
+    <meta property="og:title" content="${title} | Jonathan Giles" />
     <meta property="og:description" content="Personal website of Jonathan Giles" />
     <meta property="og:url" content="https://jonathangiles.net/${path}" />
     <meta property="og:site_name" content="Jonathan Giles" />
@@ -15,7 +15,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@JonathanGiles" />
     <meta name="twitter:domain" content="jonathangiles.net" />
-    <meta name="twitter:title" content="${title}" />
+    <meta name="twitter:title" content="${title} | Jonathan Giles" />
     <meta name="twitter:image" content="https://jonathangiles.net/images/bio/jonathan-headshot-lowquality.jpg" />
 
     <link rel='stylesheet' id='parent-style-css' href='/css/primer.css' type='text/css' media='all' />
@@ -23,10 +23,10 @@
 
     <script src="https://kit.fontawesome.com/ee3c8dfcd8.js" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/darcula.min.css">
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-
+    <!-- syntax highlighting -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/androidstudio.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script>hljs.highlightAll();</script>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" integrity="sha512-b2QcS5SsA8tZodcDtGRELiGv5SaKSk1vDHDaQRda0htPYWZ6046lr3kJ5bAAQdpV2mmA/4v0wQF9MyU6/pDIAg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
@@ -58,6 +58,7 @@
         }
         h1,h2,h3,h4,h5,h6,label,legend,table th,dl dt,.entry-title,.entry-title a,.entry-title a:visited,.widget-title{
             color:#606060;
+            font-weight: 300;
         }
         .entry-title a:hover,.entry-title a:visited:hover,.entry-title a:focus,.entry-title a:visited:focus,.entry-title a:active,.entry-title a:visited:active{
             color:rgba(96, 96, 96, 0.8);
@@ -231,6 +232,26 @@
         .footer a:visited {
             color: white;
             text-decoration: none;
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        pre:has(code) {
+            padding: 0px;
+        }
+
+        /* override the hightlight.js background to be the standard colour */
+        .hljs {
+            background: #0b3954;
+        }
+
+        article,
+        div.comments-area {
+            border-width: 1px;
+            border-color: #e8e6e6;
+            border-style: solid;
         }
     </style>
 

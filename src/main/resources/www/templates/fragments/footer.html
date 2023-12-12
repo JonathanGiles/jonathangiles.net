@@ -1,0 +1,43 @@
+        <footer class="footer py-4">
+            <div class="position-relative">
+                <center>
+                    <a href="https://www.twitter.com/JonathanGiles" target="_self">
+                        <i class="fa-brands fa-twitter fa-2xl"></i>
+                    </a>
+                    &nbsp;
+                    <a href="https://github.com/JonathanGiles" target="_self">
+                        <i class="fa-brands fa-github fa-2xl"></i>
+                    </a>
+                    &nbsp;
+                    <a href="https://linkedin.com/in/JonathanGiles" target="_self">
+                        <i class="fa-brands fa-linkedin fa-2xl"></i>
+                    </a>
+                    &nbsp;
+                    <a href="mailto:jonathan@jonathangiles.net" target="_self">
+                        <i class="fa-solid fa-envelope fa-2xl"></i>
+                    </a>
+                </center>
+            </div>
+        </footer>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js" integrity="sha512-X/YkDZyjTf4wyc2Vy16YGCPHwAY8rZJY+POgokZjQB2mhIRFJCckEGc6YyX9eNsPfn0PzThEuNs+uaomE5CO6A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+        <script>
+            // This script is used to ensure the footer is always at the bottom of the page.
+            $(function () {
+                updateFooterPosition();
+            });
+
+            $(window).resize(function () {
+                updateFooterPosition();
+            });
+
+            function updateFooterPosition() {
+                var bottomOfFooter = $('.footer').offset().top + $('.footer').outerHeight(true);
+                var heightShortage = $(document).height() - bottomOfFooter;
+                if (heightShortage < 0) heightShortage = 0;
+                $('.footer').css('margin-top', heightShortage);
+            }
+        </script>
+    </body>
+</html>

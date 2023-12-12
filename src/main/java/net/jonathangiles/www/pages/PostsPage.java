@@ -13,9 +13,7 @@ import java.util.stream.Collectors;
 
 public class PostsPage extends Page {
 
-    public PostsPage(String title, Set<Post> allPosts, boolean includeDesktopLinks) {
-        super(title);
-
+    public PostsPage(String slug, Set<Post> allPosts, boolean includeDesktopLinks) {
         final StringBuilder allPostsHtml = new StringBuilder();
 
         allPostsHtml.append("<div class=\"alert alert-info\" role=\"alert\">");
@@ -56,7 +54,9 @@ public class PostsPage extends Page {
             allPostsHtml.append("<br/>\n\n");
         }
 
-        addProperty("title", "Posts");
-        addProperty("content", allPostsHtml.toString());
+        setSlug(slug);
+        setTitle("Posts");
+        setTemplate("page");
+        getProperties().put("content", allPostsHtml.toString());
     }
 }
