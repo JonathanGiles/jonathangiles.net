@@ -41,7 +41,7 @@ jobs:
         source_dir: 'output'
         container_name: '$web'
         connection_string: ${{ secrets.ConnectionString }}
-        sync: 'false'
+        sync: 'true'
 
     - name: Purge Azure CDN
       uses: svanboxel/azure-purge-cdn@main
