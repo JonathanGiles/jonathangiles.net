@@ -254,12 +254,18 @@
             border-style: solid;
         }
 
+        /* Improve image display, but on mobile, make images 100% width */
         img {
             display: block;
             float: none;
             margin-left: auto;
             margin-right: auto;
-            width: 50%;
+            width: 65%;
+        }
+        @media only screen and (max-width: 600px) {
+            img {
+                width: 100%;
+            }
         }
     </style>
 
