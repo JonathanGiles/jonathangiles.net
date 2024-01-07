@@ -13,9 +13,15 @@ I've been guilty over the years of buying interesting looking books on a whim, b
 
 I'm off to a decent start, as I'm already midway through a second book for the year. I went camping for the first five days of the year, and enjoyed reading [Androids: The Team That Built the Android Operating System](https://www.chethaase.com/androids) by Chet Haase. There was briefly an [alternate history for me](/posts/2022/five-years-at-microsoft/) that saw me join the Android team, so it was an interesting read on the early days of development of the Android operating system. It was amazing to see the amount of hard work that went into the project, and how it was a real team effort. I'm glad that I ended up at Microsoft, but it was interesting to see how the Android team worked, and how they were able to build a successful product. It was really quite motivating in the sense that it showed that a small team of people can build something great, and that it doesn't have to be a huge team of people if people are willing to put in the hard work and pick up the slack when needed.
 
+![Androids Book Cover](/content/2024/androids_cover_front.webp)
+
 The second book that I'm reading now is [Retro Tea Breaks Vol 1](https://www.kickstarter.com/projects/retroteabreaks/retro-tea-breaks-vol-1-a-book-by-retromancave), which is a collection of interviews with "pioneers of the computer, console, and video games industry". I backed the Kickstarter for this book, and it's a really interesting read so far. It's a collection of interviews with people who worked on some of the most iconic games and systems of the 80s and 90s. It's a really interesting read, and I'm looking forward to reading the rest of the book. I have to admit though that I missed out on all the early hardware systems, as I didn't get my first computer until 1990 (an Apple IIe), so it is always interesting to hear people with strong opinions of Amiga vs Atari ST vs Commodore 64 vs ZX Spectrum vs BBC Micro, etc. I'm still enjoying reading about the early days of the industry though, and it's interesting to see how things have changed over the years.
 
+![Retro Tea Breaks Book Cover](/content/2024/retro_tea_breaks_cover.png)
+
 Beyond those two books, I've got a pile of books still to read, so I'm hoping to keep up the momentum and get through them all this year. I prefer to read non-fiction, and I prefer to have physical books - although I do wonder if I'll end up buying a Kindle at some point. My next book that I'll probably read is [Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs](https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250203414), which I ordered over the Christmas break and expect it to arrive any day now.
+
+![Creative Selection Book Cover](/content/2024/creative_selection.jpg)
 
 ---
 
@@ -37,7 +43,7 @@ I know I felt better, and I looked better, when I was at 95kg. I also know it is
 
 ## Goal #4: Work on a non-trivial software project
 
-I would love to have a decent sized project that I could sink my teeth into programming, but of all my goals, this feels like the one that I just won't find the time for. In my day job, I tend to do a bunch of prototype work that then gets thrown over the fence to another engineer to finish off, and I miss the satisfaction of seeing a project through to completion. Right now I don't have any ideas for a project, but I'm hoping that I can find something that I can work on.
+I would love to have a decent sized personal (i.e. non-work) project that I could sink my teeth into programming, but of all my goals, this feels like the one that I just won't find the time for. In my day job, I tend to do a bunch of prototype work that then gets thrown over the fence to another engineer to finish off, and I miss the satisfaction of seeing a project through to completion. Right now I don't have any ideas for a project, but I'm hoping that I can find something that I can work on.
 
 ---
 
