@@ -135,7 +135,7 @@ img {
 svg:not(:root) {
     overflow: hidden; }
 
-code,
+/* code, */
 kbd,
 pre,
 samp {
@@ -324,7 +324,7 @@ pre {
     -webkit-border-radius: 2px;
     border-radius: 2px; }
 
-code, kbd, tt, var {
+/* code, kbd, tt, var {
     font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
     font-size: 15px;
     font-size: 0.9375rem; }
@@ -339,7 +339,7 @@ code {
 pre code {
     padding: 0;
     border: none;
-    background-color: transparent; }
+    background-color: transparent; } */
 
 abbr, acronym {
     border-bottom: 1px dotted rgba(37, 37, 37, 0.1);
