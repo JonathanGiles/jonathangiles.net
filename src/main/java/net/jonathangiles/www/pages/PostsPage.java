@@ -35,7 +35,7 @@ public class PostsPage extends Page {
         sortedYears.addAll(postsPerYear.keySet());
 
         for (Integer year : sortedYears) {
-            allPostsHtml.append("<h3>").append(year).append("</h3>");
+            allPostsHtml.append("<h2>").append(year).append("</h2>");
             postsPerYear.get(year).forEach(post -> {
                 String path = post.getRelativePath();//.getParent().toString();
 
