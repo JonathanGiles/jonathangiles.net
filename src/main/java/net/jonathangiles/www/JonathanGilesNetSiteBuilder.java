@@ -27,7 +27,7 @@ public class JonathanGilesNetSiteBuilder extends SiteBuilder {
         if ("runserver".equals(command)) {
             // start up a TeenyHttpd server to browse the generated site
             TeenyHttpd httpd = new TeenyHttpd(8080);
-            httpd.setWebroot(new File(("./target/output")));
+            httpd.addFileRoute("/", new File("target/output"));
             httpd.start();
         }
     }
