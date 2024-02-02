@@ -1,7 +1,7 @@
 ---
 slug: simple-http-server
 title: Building a simple HTTP server
-date: 2024-01-15
+date: 2024-02-02
 ---
 Often I talk to people who are new to the software industry, and they don't know how to get a leg in the door. One thing I say is that hacking on small toy projects can be a great way to build skills, interact with others, and to advertise yourself. I've been lucky in my career to work on a number of high profile projects, be they existing projects like [OpenJDK](http://openjdk.org) and [JavaFX](https://openjfx.io/), or projects I've been involved in since the beginning, like my work on [Azure SDK for Java](https://github.com/Azure/azure-sdk-for-java), or on projects I created that have grown and been adopted by many, such as [ControlsFX](https://github.com/controlsfx/controlsfx) and [Scenic View](https://github.com/jonathangiles/scenic-view). 
 
