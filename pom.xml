@@ -38,6 +38,13 @@
       <version>0.0.6</version>
     </dependency>
 
+    <!-- RSS feed support -->
+    <dependency>
+      <groupId>com.rometools</groupId>
+      <artifactId>rome</artifactId>
+      <version>2.1.0</version>
+    </dependency>
+
     <!-- Used to host the local output of the sitebuilder, for testing purposes only -->
     <dependency>
       <groupId>net.jonathangiles.tools</groupId>
