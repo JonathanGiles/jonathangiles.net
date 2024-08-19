@@ -1,6 +1,6 @@
 # This workflow is used to generate a new version of JonathanGiles.net and push it to Azure Blob Storage.
 
-name: CI
+name: azure-blob-deploy
 on: 
   workflow_dispatch:
   # push:
