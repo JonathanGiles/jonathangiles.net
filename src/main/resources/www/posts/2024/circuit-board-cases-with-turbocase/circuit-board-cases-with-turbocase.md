@@ -13,7 +13,7 @@ In the beginning, people wanted to relax in their spa pools :-) The problem is, 
 
 # Explorations
 
-Fortunately, as geeky people, a community sprung up to explore the possibilities of adding wifi to the spa pool. People realised that the wifi module you can buy plugs into a standard RJ-45 plug on the controller board. They were able to determine that only a few pins of the 8-pin RJ-45 connector were used, for Ground, +12v, and two data pins for communication.
+Fortunately, as geeky people, a community sprung up to explore the possibilities of adding wifi to the spa pool. People realised that the wifi module you can buy plugs into a standard RJ-45 plug on the controller board. They were [able to determine that three pairs RJ-45 connector were used](https://github.com/SpaControl/SpaControl/blob/main/hardware/docs/README.md): Pins 1/2 for Health Check, Pins 5/6 for serial communication with the controller, and pins 7/8 from Ground/+12v.
 
 At this time, a few different projects began to spring up. One project was to [reverse engineer the communication protocol used by the wifi module when talking to the cloud](https://github.com/SpaControl/SpaControl/blob/main/software/docs/spanet-api.md), and another project was to build a new controller board that could be used to control the spa pool. The new controller board would have wifi built in, and would be able to control the spa pool in a similar way to the original controller board. The new controller board would also have an API, so that it could be controlled remotely, and could be integrated with home automation systems over MQTT.
 
