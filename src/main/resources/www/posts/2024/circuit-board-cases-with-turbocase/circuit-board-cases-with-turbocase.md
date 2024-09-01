@@ -1,5 +1,5 @@
 ---
-slug: circuit-board-cases-turbocase
+slug: custom-pcbs-and-cases
 title: Custom PCBs and 3D Printed Cases, with Kicad, TurboCase, and OpenSCAD
 date: 2024-09-02
 ---
