@@ -1,14 +1,22 @@
-${include page_top}
-                <div class="entry-meta">
-                    <span class="posted-date">Posted on ${date}</span>
-                </div>
+${include header}
+<body>
+    ${include hero}
+    <div class="site-content post-layout">
+        <main id="main" role="main">
+            <article class="hentry">
+                <header class="entry-header">
+                    <h1 class="entry-title">${title}</h1>
+                    <div class="entry-meta">
+                        <time class="posted-date">${date}</time>
+                    </div>
+                </header>
                 <div class="entry-content">
                     ${content}
                 </div>
             </article>
 
             <div id="comments" class="comments-area">
-                <h2 class="comments-title">Thoughts on <span>&ldquo;${title}&rdquo;</span></h2>
+                <h2 class="comments-title">Thoughts on &ldquo;${title}&rdquo;</h2>
 
                 <script src="https://utteranc.es/client.js"
                         repo="jonathangiles/jonathangiles.net-comments"
