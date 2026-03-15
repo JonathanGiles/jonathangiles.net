@@ -1,25 +1,24 @@
 ${include page_top}
-                    <div class="entry-meta">
-                        <span class="posted-date">Posted on ${date}</span>
-                    </div>
-                    <div class="entry-content">
-                        ${content}
-                    </div>
-                </article>
-
-                <div id="comments" class="comments-area">
-                    <h2 class="comments-title">Thoughts on <span>&ldquo;${title}&rdquo;</span> </h2>
-
-                    <script src="https://utteranc.es/client.js"
-                            repo="jonathangiles/jonathangiles.net-comments"
-                            issue-term="${relativePath}/index"
-                            theme="github-light"
-                            crossorigin="anonymous"
-                            async>
-                    </script>
+                <div class="entry-meta">
+                    <span class="posted-date">Posted on ${date}</span>
                 </div>
+                <div class="entry-content">
+                    ${content}
+                </div>
+            </article>
 
-            </main>
-        </div>
+            <div id="comments" class="comments-area">
+                <h2 class="comments-title">Thoughts on <span>&ldquo;${title}&rdquo;</span></h2>
+
+                <script src="https://utteranc.es/client.js"
+                        repo="jonathangiles/jonathangiles.net-comments"
+                        issue-term="${relativePath}/index"
+                        theme="github-light"
+                        crossorigin="anonymous"
+                        async>
+                </script>
+            </div>
+
+        </main>
     </div>
 ${include footer}

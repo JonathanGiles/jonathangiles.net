@@ -1,125 +1,470 @@
 /*
-Theme Name:   JonathanGiles.net
-Description:  Tweaks on top of the Primer theme
-Author:       Jonathan Giles
-Author URL:   http://JonathanGiles.net
-Template:     primer
-Version:      1.0
-Text Domain:  jonathangiles-net
-*/
+ * JonathanGiles.net — v2
+ * Modern redesign with CSS custom properties, dark mode, and clean typography.
+ */
 
-/* Only show widget area on front-page, not subpages */
-body.page .content-area {
-    width: 100% !important;
-}
-body.page .widget-area {
-    display: none;
-    width: 0% !important;
-}
-/* End of hiding widget area on subpages */
+/* ───────────────────────────── Design Tokens ───────────────────────────── */
+:root {
+    --color-primary: #0b3954;
+    --color-accent: #007eb5;
+    --color-accent-hover: #0069a0;
+    --color-cta: #ff6663;
+    --color-cta-hover: #e84e4b;
 
-.page-title-container,
-.posted-author,
-.entry-footer {
-    display: none !important;
-}
+    --color-bg: #f8f9fa;
+    --color-surface: #ffffff;
+    --color-text: #1a1a2e;
+    --color-text-secondary: #555770;
+    --color-border: #e2e4e8;
 
-.site-header {
-    min-height: 36vw;
-}
-.jetpack_widget_social_icons svg {
-    color: white !important;
-}
+    --color-navbar-bg: #0b3954;
+    --color-navbar-text: #ffffff;
 
-.site-footer .widget {
-    background-color: inherit !important;
-    text-align: center;
-}
-.site-footer .jetpack-social-widget-list,
-.site-footer .footer-widget-area {
-    padding: 0px !important;
-    margin-bottom: 0px !important;
+    --color-code-bg: #0b3954;
+
+    --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    --font-mono: "JetBrains Mono", "Fira Code", "Cascadia Code", "SF Mono", Consolas, monospace;
+
+    --content-width: 720px;
+    --page-width: 1200px;
+
+    --radius: 8px;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+    --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+
+    color-scheme: light dark;
 }
 
-/* Hide copyright */
-.site-info-wrapper {
-    display: none;
-}
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-bg: #121220;
+        --color-surface: #1c1c30;
+        --color-text: #e4e4ef;
+        --color-text-secondary: #9d9db5;
+        --color-border: #2e2e45;
 
-.about-text {
-    font-size: 0.8em;
-    text-align: justify;
-}
+        --color-navbar-bg: #0d0d1a;
 
-.about-link {
-    font-size: 0.8em;
-    vertical-align: top;
-}
+        --color-code-bg: #0d1b2a;
 
-.project .title .subtitle {
-    font-size: 0.8em;
-    font-weight: 100;
-    padding-left: 10px;
-}
-
-.project .image {
-    text-align: center;
-}
-
-/* Make headers wrap around any images, rather than drop to beneath them */
-.page-content h1,
-.page-content h2,
-.page-content h3,
-.page-content h4,
-.page-content h5 {
-    clear: none;
-}
-
-@media only screen and (max-width: 978px) {
-    /* Hide the awards and twitter widgets on mobile */
-    #text-337752356,
-    #twitter_timeline-2 {
-        display: none;
+        --color-accent: #3da9d9;
+        --color-accent-hover: #5abde8;
     }
 }
 
-/* Make block quotes look a little nicer */
+/* ───────────────────────────── Base Reset & Layout ───────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+    font-family: var(--font-body);
+    color: var(--color-text);
+    background-color: var(--color-bg);
+    line-height: 1.7;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Push footer to bottom via flex */
+body > .site-content,
+body > #content,
+body > .container-fluid,
+body > main,
+.page-wrapper {
+    flex: 1;
+}
+
+/* ───────────────────────────── Typography ────────────────────────────────── */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--color-text);
+    font-weight: 600;
+    line-height: 1.3;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h1 { font-size: 2rem; font-weight: 700; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1.1rem; }
+
+p {
+    text-align: left;
+    margin-bottom: 1em;
+}
+
+a {
+    color: var(--color-accent);
+    text-decoration: none;
+    transition: color 0.15s ease;
+}
+a:hover, a:focus { color: var(--color-accent-hover); }
+a:visited { color: var(--color-accent); }
+
+/* ───────────────────────────── Skip to Content ──────────────────────────── */
+.skip-link {
+    position: absolute;
+    top: -100%;
+    left: 1rem;
+    background: var(--color-accent);
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius);
+    z-index: 9999;
+    font-weight: 600;
+}
+.skip-link:focus {
+    top: 0.5rem;
+}
+
+/* ───────────────────────────── Navbar ────────────────────────────────────── */
+.navbar {
+    background-color: var(--color-navbar-bg);
+}
+.navbar a, .navbar a:visited,
+.navbar .dropdown-menu a {
+    color: var(--color-navbar-text);
+    text-decoration: none;
+}
+.navbar .dropdown-menu,
+.navbar .dropdown-menu a {
+    background-color: var(--color-navbar-bg);
+}
+.navbar .dropdown-menu a:hover,
+.navbar .dropdown-menu a:focus {
+    background-color: var(--color-accent);
+}
+
+/* ───────────────────────────── Content Area ──────────────────────────────── */
+.site-content {
+    max-width: var(--page-width);
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+}
+
+.entry-content {
+    max-width: var(--content-width);
+    margin: 0 auto;
+}
+
+.entry-title {
+    color: var(--color-text);
+    font-weight: 700;
+    font-size: 1.75rem;
+    margin-bottom: 0.25em;
+}
+
+.entry-meta {
+    color: var(--color-text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+}
+
+.entry-meta a {
+    color: var(--color-text-secondary);
+}
+
+/* ───────────────────────────── Articles & Cards ──────────────────────────── */
+article.hentry {
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.comments-area {
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+/* ───────────────────────────── Project Cards ─────────────────────────────── */
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.project-card {
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+    display: flex;
+    flex-direction: column;
+}
+.project-card:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+}
+
+.project-card h4 {
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+    font-size: 1.15rem;
+    font-weight: 600;
+}
+.project-card .subtitle {
+    color: var(--color-text-secondary);
+    font-size: 0.85rem;
+    font-weight: 400;
+    margin-bottom: 0.75rem;
+    display: block;
+}
+
+.project-card .description {
+    flex: 1;
+    font-size: 0.95rem;
+}
+.project-card .description p:last-child { margin-bottom: 0; }
+
+.project-card .project-links {
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--color-border);
+    font-size: 0.9rem;
+}
+.project-card .project-links a + a { margin-left: 1rem; }
+
+.project-card .badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.15em 0.6em;
+    border-radius: 999px;
+    margin-left: 0.5rem;
+    vertical-align: middle;
+}
+.badge-active { background: #d4edda; color: #155724; }
+.badge-archived { background: #e2e3e5; color: #6c757d; }
+
+@media (prefers-color-scheme: dark) {
+    .badge-active { background: #1b4332; color: #95d5b2; }
+    .badge-archived { background: #2e2e45; color: #9d9db5; }
+}
+
+.project-card .image {
+    text-align: center;
+    margin-bottom: 0.75rem;
+}
+.project-card .image img {
+    max-width: 100%;
+    border-radius: calc(var(--radius) / 2);
+}
+
+/* ───────────────────────────── Homepage Hero ─────────────────────────────── */
+.hero-section {
+    padding: 3rem 0 2rem;
+}
+
+.hero-section .profile-photo {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid var(--color-border);
+    box-shadow: var(--shadow-md);
+}
+
+.hero-section h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+}
+
+.hero-section .tagline {
+    font-size: 1.15rem;
+    color: var(--color-text-secondary);
+    margin-bottom: 1.5rem;
+}
+
+.hero-section .hero-cta a {
+    display: inline-block;
+    padding: 0.5rem 1.25rem;
+    border-radius: var(--radius);
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    transition: background-color 0.15s ease, color 0.15s ease;
+}
+.hero-cta .btn-primary {
+    background-color: var(--color-accent);
+    color: #fff;
+}
+.hero-cta .btn-primary:hover { background-color: var(--color-accent-hover); }
+.hero-cta .btn-outline {
+    border: 1px solid var(--color-accent);
+    color: var(--color-accent);
+    background: transparent;
+}
+.hero-cta .btn-outline:hover {
+    background-color: var(--color-accent);
+    color: #fff;
+}
+
+.hero-section .awards-img {
+    margin-top: 1.5rem;
+    max-width: 500px;
+}
+
+/* ───────────────────────────── Code Blocks ───────────────────────────────── */
+pre:has(code) { padding: 0; }
+
+.hljs {
+    background: var(--color-code-bg);
+    border-radius: var(--radius);
+    padding: 1rem;
+}
+
+code {
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+}
+
+p code {
+    padding: 0.15em 0.4em;
+    border-radius: 4px;
+    background-color: var(--color-border);
+    border: none;
+    font-size: 0.85em;
+}
+
+pre.code_block {
+    padding: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+/* ───────────────────────────── Blockquotes ───────────────────────────────── */
 blockquote {
-    font-size: 100% !important;
-    font-style: italic !important;
-    border-left-color: rgb(1, 131, 170) !important;
-    color: inherit !important;
-    margin-left: 20px !important;
+    font-size: 1rem;
+    font-style: italic;
+    border-left: 4px solid var(--color-accent);
+    color: var(--color-text-secondary);
+    margin-left: 0;
+    padding: 0.5em 1.5em;
 }
 
-/* Make printer output look a lot nicer by removing a lot of clutter and just displaying the main content */
+/* ───────────────────────────── Tables ────────────────────────────────────── */
+table { border-color: var(--color-border); }
+table th, table td { border-color: var(--color-border); }
+table tr:hover td { background-color: rgba(0, 0, 0, 0.03); }
+
+@media (prefers-color-scheme: dark) {
+    table tr:hover td { background-color: rgba(255, 255, 255, 0.03); }
+}
+
+/* ───────────────────────────── Images ────────────────────────────────────── */
+img { max-width: 100%; height: auto; }
+
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ───────────────────────────── Buttons ───────────────────────────────────── */
+button, a.button, input[type="button"], input[type="submit"] {
+    background-color: var(--color-cta);
+    border: 1px solid var(--color-cta);
+    color: #fff;
+    border-radius: var(--radius);
+    padding: 0.5em 1.25em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+}
+button:hover, a.button:hover, input[type="button"]:hover, input[type="submit"]:hover {
+    background-color: var(--color-cta-hover);
+    border-color: var(--color-cta-hover);
+}
+
+/* ───────────────────────────── Footer ────────────────────────────────────── */
+.footer {
+    background-color: var(--color-navbar-bg);
+    color: var(--color-navbar-text);
+    padding: 2rem 1rem;
+    text-align: center;
+    margin-top: auto;
+}
+.footer a, .footer a:visited {
+    color: var(--color-navbar-text);
+    text-decoration: none;
+}
+.footer a:hover { opacity: 0.8; }
+
+.footer .social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.footer .social-icons a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer .social-icons svg {
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
+}
+
+.footer .footer-tagline {
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.6);
+    margin-top: 0.5rem;
+}
+
+/* ───────────────────────────── Presentations & Media ─────────────────────── */
+.featured-image {
+    margin: 1rem 0;
+}
+.featured-image img {
+    width: 100%;
+    border-radius: var(--radius);
+}
+
+.archive-notice {
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 1rem 1.5rem;
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
+}
+
+/* ───────────────────────────── YouTube Gallery ───────────────────────────── */
+.epyt-gallery-thumb { width: 33.333%; }
+
+/* ───────────────────────────── Responsive ────────────────────────────────── */
+@media only screen and (max-width: 768px) {
+    .hero-section h1 { font-size: 1.75rem; }
+    .hero-section .profile-photo { width: 140px; height: 140px; }
+    article.hentry { padding: 1.25rem; }
+    .project-grid { grid-template-columns: 1fr; }
+}
+
+/* ───────────────────────────── Print ─────────────────────────────────────── */
 @media print {
-    .site-header {
-        background-image: none !important;
-        background-color: inherit !important;
-        color: black !important;
-        min-height: inherit;
-    }
-    .main-navigation-container {
-        display: none;
-    }
-    .layout-two-column-default .content-area {
-        width: 100%;
-    }
-    .layout-two-column-default #secondary {
-        display: none;
-        width: 0%;
-    }
-    .site-main .post-navigation {
-        display: none;
-    }
-    .jp-relatedposts {
-        display: none !important;
-    }
-    .comments-area {
-        display: none;
-    }
-    .hentry {
-        padding: 0.5em 3.375em;
-    }
+    .navbar, .footer, .comments-area { display: none; }
+    body { background: white; color: black; }
+    article.hentry { border: none; box-shadow: none; padding: 0; }
+    a { color: inherit; text-decoration: underline; }
+    a[href]::after { content: " (" attr(href) ")"; font-size: 0.8em; }
 }
