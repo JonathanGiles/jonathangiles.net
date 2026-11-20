@@ -1,6 +1,6 @@
 /*
  * JonathanGiles.net — v2
- * Modern redesign with CSS custom properties, dark mode, and clean typography.
+ * Modern redesign with CSS custom properties and clean typography (light theme only).
  */
 
 /* ───────────────────────────── Design Tokens ───────────────────────────── */
@@ -32,24 +32,7 @@
     --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
     --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
 
-    color-scheme: light dark;
-}
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --color-bg: #121220;
-        --color-surface: #1c1c30;
-        --color-text: #e4e4ef;
-        --color-text-secondary: #9d9db5;
-        --color-border: #2e2e45;
-
-        --color-navbar-bg: #0d0d1a;
-
-        --color-code-bg: #0d1b2a;
-
-        --color-accent: #3da9d9;
-        --color-accent-hover: #5abde8;
-    }
+    color-scheme: light;
 }
 
 /* ───────────────────────────── Base Reset & Layout ───────────────────────── */
@@ -303,11 +286,6 @@ article.hentry {
 .badge-active { background: #d4edda; color: #155724; }
 .badge-archived { background: #e2e3e5; color: #6c757d; }
 
-@media (prefers-color-scheme: dark) {
-    .badge-active { background: #1b4332; color: #95d5b2; }
-    .badge-archived { background: #2e2e45; color: #9d9db5; }
-}
-
 .project-card .image {
     text-align: center;
     margin-bottom: 0.75rem;
@@ -521,10 +499,6 @@ blockquote {
 table { border-color: var(--color-border); }
 table th, table td { border-color: var(--color-border); }
 table tr:hover td { background-color: rgba(0, 0, 0, 0.03); }
-
-@media (prefers-color-scheme: dark) {
-    table tr:hover td { background-color: rgba(255, 255, 255, 0.03); }
-}
 
 /* ───────────────────────────── Images ────────────────────────────────────── */
 img { max-width: 100%; height: auto; }
