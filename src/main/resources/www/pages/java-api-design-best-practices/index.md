@@ -50,4 +50,9 @@ JLBP-18: [Make nullness explicit](/jbp/jlbp-18.html)\
 JLBP-19: [Prefer immutable value types](/jbp/jlbp-19.html)\
 JLBP-20: [Choose your Java baseline deliberately](/jbp/jlbp-20.html)\
 JLBP-21: [Avoid diamond dependency conflicts](/jbp/jlbp-21.html)\
-JLBP-22: [Design for AI coding agents](/jbp/jlbp-22.html)
+JLBP-22: [Design for AI coding agents](/jbp/jlbp-22.html)\
+JLBP-23: [Be virtual thread friendly](/jbp/jlbp-23.html)\
+JLBP-24: [Support GraalVM native image](/jbp/jlbp-24.html)\
+JLBP-25: [Instrument with OpenTelemetry](/jbp/jlbp-25.html)\
+JLBP-26: [Make your releases reproducible](/jbp/jlbp-26.html)\
+JLBP-27: [Automate migrations between major versions](/jbp/jlbp-27.html)
