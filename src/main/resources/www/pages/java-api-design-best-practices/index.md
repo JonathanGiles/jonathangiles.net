@@ -48,4 +48,6 @@ JLBP-16: [Beware of boxing](/jbp/jlbp-16.html)\
 JLBP-17: [Understand functional interfaces](/jbp/jlbp-17.html)\
 JLBP-18: [Make nullness explicit](/jbp/jlbp-18.html)\
 JLBP-19: [Prefer immutable value types](/jbp/jlbp-19.html)\
-JLBP-20: [Choose your Java baseline deliberately](/jbp/jlbp-20.html)
+JLBP-20: [Choose your Java baseline deliberately](/jbp/jlbp-20.html)\
+JLBP-21: [Avoid diamond dependency conflicts](/jbp/jlbp-21.html)\
+JLBP-22: [Design for AI coding agents](/jbp/jlbp-22.html)
